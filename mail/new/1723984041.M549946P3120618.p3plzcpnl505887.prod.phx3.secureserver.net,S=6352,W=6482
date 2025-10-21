@@ -1,0 +1,130 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id sX2NIKnowWbqnS8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 18 Aug 2024 05:27:21 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 18 Aug 2024 05:27:21 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sff0D-00D5oS-1W
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 18 Aug 2024 05:27:21 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sff03-00D5l2-1O@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1723984041-eximdsn-1389583041
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sff0D-00D5oS-1W@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 18 Aug 2024 05:27:21 -0700
+
+--1723984041-eximdsn-1389583041
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 ff0Ds3Gx0Wbi2 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=U75ZDvru c=1 sm=1 tr=0 ts=66c1e8a9 p=BN7zsqLgDeLq5JFIdoeC:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=CBX9V72gAAAA:8 a=smrCSdiaAAAA:8 a=LIYdLv9kgBkM9xwe128A:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=1-2kolRezbUNJhA1kn5e:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=G1vVJ-sicA255mX51GDc:22 ::
+    100.00
+
+--1723984041-eximdsn-1389583041
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 ff0Ds3Gx0Wbi2 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=U75ZDvru c=1 sm=1 tr=0 ts=66c1e8a9 p=BN7zsqLgDeLq5JFIdoeC:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=CBX9V72gAAAA:8 a=smrCSdiaAAAA:8 a=LIYdLv9kgBkM9xwe128A:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=1-2kolRezbUNJhA1kn5e:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=G1vVJ-sicA255mX51GDc:22 :: 100.00
+
+--1723984041-eximdsn-1389583041
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sff03-00D5l2-1O
+	for servicioalcliente@serkoi.com;
+	Sun, 18 Aug 2024 05:27:21 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.136.57
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.136.57
+From:
+Message-Id: <E1sff03-00D5l2-1O@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 18 Aug 2024 05:27:11 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Bruce Eggen. 
+Correo: . 
+Telefono: 416-758-5379. 
+Mensaje: Hello,
+
+YouTube is the biggest social network and the 2nd largest search engine.  People spend more time on YouTube than on the next 5 sites combined.
+
+So do you have YouTube traffic yet?  It’s a piece of cake now!
+
+The all new Tuberank Jeet 6 uses AI to create a successful algo that gives you the best optimization for your YouTube videos.  It’s been the world’s favorite YouTube ranking app for nearly a decade and if Tuberank Jeet was good earlier, with AI features it’s a BEAST.
+
+Now you don’t just get the data and the optimization tricks, you get it done for you: https://www.busihelp.xyz/tuberankjeet !
+
+That’s right.  You can find the perfect niches, videos, ideas, and keywords and create the perfect optimizations.
+
+Tuberank Jeet’s AI features
+
+?? Automatically rewrite any video's description to create an original description that you can use in your video.  No need to write anything!
+
+?? Put in a keyword or hashtag and find all the other top-quality hashtags and keywords from AI.
+
+?? Choose any video and find the keywords that it’s targeting, as well as the keywords it should target (AI intelligence).
+
+?? Put in a video title and get several alternative titles from AI.  No need to write anything.
+
+??One-click AI optimization.  Skip the queue, click a button and get the entire video optimized in seconds.  Great for agencies and SEO professionals.
+
+The best thing is, the algo is trained and ready.   You don’t need to be an experienced professional to rank with Tuberank Jeet.
+
+Yep, no knowledge of SEO is required and you will have a perfectly optimized YouTube video in less than 2 minutes.
+
+You can do the optimization yourself, or trust your assistants with it.  They can’t get it wrong.
+
+Tuberank Jeet: https://www.busihelp.xyz/tuberankjeet 
+
+Tuberank Jeet is the best YouTube SEO software in the market since 2013.  It is the secret of thousands of YouTubers.
+
+Make it yours.  Go here.
+
+: https://www.busihelp.xyz/tuberankjeet 
+
+Important: Don’t forget to use my coupons.  Use ‘ launchspcl’ for $5 off if you are buying the main product, or if you get the bundle (smart move) then use ‘tuberankai’ to get $50 on the listed price.
+
+This is a limited-time thing.  Don’t know till when it lasts, so act early.
+
+Get Tuberank Jeet before it goes away.
+
+Cheers!
+Bruce Eggen
+
+
+
+UNSUBSCRIBE: https://www.busihelp.xyz/unsubscribe/?d=proditelsas.com  
+Address: 3833 Cameron Road
+Buffalo, NY 14214. 
+
+
+--1723984041-eximdsn-1389583041--

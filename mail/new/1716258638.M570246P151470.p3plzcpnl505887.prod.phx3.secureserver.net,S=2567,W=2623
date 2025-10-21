@@ -1,0 +1,56 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id GHB6IE4HTGauTwIA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 20 May 2024 19:30:38 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 20 May 2024 19:30:38 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1s9FGw-000uny-1U
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 20 May 2024 19:30:38 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1s9FGr-000ujg-1I@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1s9FGw-000uny-1U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 20 May 2024 19:30:38 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1s9FGr-000ujg-1I
+	for servicioalcliente@serkoi.com;
+	Mon, 20 May 2024 19:30:33 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 206.232.13.133
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 206.232.13.133
+From:
+Message-Id: <E1s9FGr-000ujg-1I@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 20 May 2024 19:30:33 -0700
+
+De: Leif Springthorpe. 
+Correo: . 
+Telefono: 7048122972. 
+Mensaje: There is a glitch with your contact form! You didn't configure it correctly to block marketing messages like this one. I have a no-cost guide to help you resolve this in about a few minutes. If you don’t think you are tech-savvy, I'll even fix it for you at no cost.
+
+https://perp.us/ff
+
+I've been helping people earn more income with less work for over two decades!
+
+
+
+Unsubscribe here if you don't want to get these awesome deals: https://form.jotform.com/241362853020447
+65 Maidstone Road, Peekskill, NY, USA, Np5 9gx. 
+

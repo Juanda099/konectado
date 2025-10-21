@@ -1,0 +1,119 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id UJdgDQ0LuWahuxMA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 11 Aug 2024 12:03:41 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 11 Aug 2024 12:03:41 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sdDqv-005Qod-0X
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 11 Aug 2024 12:03:41 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sdDqk-005QYp-0x@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1723403021-eximdsn-1369511668
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sdDqv-005Qod-0X@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 11 Aug 2024 12:03:41 -0700
+
+--1723403021-eximdsn-1369511668
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 dDqvsmBgtEtaW :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=YfB25BRf c=1 sm=1 tr=0 ts=66b90b0d p=ke06a3d-5-lm3jcrMCyY:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=66cINtQAAAAA:8 a=smrCSdiaAAAA:8 a=-CnuHAAuzoBq2JBihH4A:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=QevyLm6GrPSnYVrkGscw:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1723403021-eximdsn-1369511668
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 dDqvsmBgtEtaW :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=YfB25BRf c=1 sm=1 tr=0 ts=66b90b0d p=ke06a3d-5-lm3jcrMCyY:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=66cINtQAAAAA:8 a=smrCSdiaAAAA:8 a=-CnuHAAuzoBq2JBihH4A:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=QevyLm6GrPSnYVrkGscw:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1723403021-eximdsn-1369511668
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sdDqk-005QYp-0x
+	for servicioalcliente@serkoi.com;
+	Sun, 11 Aug 2024 12:03:41 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.134.7
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.134.7
+From:
+Message-Id: <E1sdDqk-005QYp-0x@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 11 Aug 2024 12:03:30 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Evan Holbrook. 
+Correo: . 
+Telefono: 51 688 45 39. 
+Mensaje: Hey,
+
+Ever thought about creating digital products but worried about finding a niche?
+
+With this new AI platform, you can instantly generate products for ANY niche, so you don't have to worry about wasting time on product development.
+
+This tool can literally create products in minutes, so you can try as many niches as you want.
+
+Check this out:
+
+: https://www.actionnow.xyz/aiproductengine 
+
+Whether you're into fitness, cooking, or even alpaca grooming, AiProductEngine has you covered. It's versatile enough to handle anything you throw at it.
+
+Wait until you see the niche they used in the demo video. Interesting, to say the least!
+
+Now you can create ebooks, sales pages, and thank-you pages in a snap. Plus, their AI Engine ensures that each product is unique.
+
+Think your niche is too obscure? Not a chance. AiProductEngine is perfect for everything from underwater basket weaving to vintage typewriter repair.
+
+No design skills needed. Their built-in ecover graphics creator has got you covered. And they automatically host your sales pages online.
+
+So, whether you’re a yoga instructor or a hamster training expert, AiProductEngine makes it easy to create and sell.
+
+Watch the demo and then try it for yourself:
+
+: https://www.actionnow.xyz/aiproductengine 
+
+Don't miss out on the chance to tap into ANY niche, ANY time.
+
+Just be sure to check it out today during the launch special.
+
+To your success,
+
+Evan Holbrook
+
+
+UNSUBSCRIBE: https://www.actionnow.xyz/unsubscribe/?d=proditelsas.com   
+Address: 3959 Alfred Drive
+Jamaica, NY 11432
+. 
+
+
+--1723403021-eximdsn-1369511668--

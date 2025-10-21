@@ -1,0 +1,143 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id yACnK6edJ2W5jS4AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 12 Oct 2023 00:17:59 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 12 Oct 2023 00:17:59 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qqpxH-00CntO-Jq
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 12 Oct 2023 00:17:59 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qqpxD-00Cnpx-2W@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1697095079-eximdsn-263347434
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qqpxH-00CntO-Jq@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 12 Oct 2023 00:17:59 -0700
+
+--1697095079-eximdsn-263347434
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 qpxHqy0POnklG :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=HeTSDAI8 c=1 sm=1 tr=0 ts=65279da7 p=XVEFRpEmAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=eaNaZWCYAAAA:8 a=smrCSdiaAAAA:8 a=ImmI-cHHlI7Okii45YoA:9 a=7N9FtAF6WXGrmPLkowlL:22 a=dvWfkV9uG_d0iQfag1ol:22 a=y5sVf_D8qEkV7B6LZBhh:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1697095079-eximdsn-263347434
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 qpxHqy0POnklG :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=HeTSDAI8 c=1 sm=1 tr=0 ts=65279da7 p=XVEFRpEmAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=eaNaZWCYAAAA:8 a=smrCSdiaAAAA:8 a=ImmI-cHHlI7Okii45YoA:9 a=7N9FtAF6WXGrmPLkowlL:22 a=dvWfkV9uG_d0iQfag1ol:22 a=y5sVf_D8qEkV7B6LZBhh:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1697095079-eximdsn-263347434
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qqpxD-00Cnpx-2W
+	for servicioalcliente@serkoi.com;
+	Thu, 12 Oct 2023 00:17:59 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.245.255.162
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.245.255.162
+From:
+Message-Id: <E1qqpxD-00Cnpx-2W@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 12 Oct 2023 00:17:55 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Bill Cavana. 
+Correo: . 
+Telefono: 0739-9327558. 
+Mensaje: Hey there,
+
+Are you tired of spending endless hours on video creation that doesn't quite hit the mark? 
+
+It's a common frustration. 
+
+With Viddux AI, you can transform your content creation game and take it to the next level. 
+
+Say goodbye to mediocre videos and hello to excellence. 
+
+Click here to see how we can make your content shine!
+
+
+onestepvideo.com
+
+
+Regards,
+
+Bill
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+224 Westwood Cir., Dalton, GA  30721
+Unsubscribe:
+optoutforever.com/?site=proditelsas.com
+. 
+
+
+--1697095079-eximdsn-263347434--

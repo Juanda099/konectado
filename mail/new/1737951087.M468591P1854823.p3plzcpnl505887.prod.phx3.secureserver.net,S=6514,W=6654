@@ -1,0 +1,140 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id qENdG28Hl2dnTRwA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 26 Jan 2025 21:11:27 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 26 Jan 2025 21:11:27 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tcGT9-007ofB-1I
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 26 Jan 2025 21:11:27 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tcGSy-007odK-0q@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1737951087-eximdsn-304321787
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tcGT9-007ofB-1I@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 26 Jan 2025 21:11:27 -0700
+
+--1737951087-eximdsn-304321787
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 cGT9teS9qRBDc :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=KfIosRYD c=1 sm=1 tr=0 ts=6797076f p=Sx24UnSJAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=BJt2TLrSW9kGQqDQpaIA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=MDXBfLG4Xe6UQvwYhGo8:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1737951087-eximdsn-304321787
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 cGT9teS9qRBDc :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=KfIosRYD c=1 sm=1 tr=0 ts=6797076f p=Sx24UnSJAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=BJt2TLrSW9kGQqDQpaIA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=MDXBfLG4Xe6UQvwYhGo8:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1737951087-eximdsn-304321787
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tcGSy-007odK-0q
+	for servicioalcliente@serkoi.com;
+	Sun, 26 Jan 2025 21:11:27 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tcGSy-007odK-0q@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 26 Jan 2025 21:11:16 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Richard Martin. 
+Correo: . 
+Telefono: 034 311 43 44. 
+Mensaje: 
+What if you could run an AI agency that builds powerful, CUSTOMIZED AI tools for businesses that solve specific solutions they need RIGHT NOW?
+
+With AIWhitelabels, you can do exactly that with no coding, whitelabel branding, & Ai marketing.   Leverage tons of AI tool templates & use the AI no-code drag/drop builder to build any AI tool you want & let the app market it for you.
+
+Sounds impossible, I know.   But just watch this no-hype demo to see how its a real thing:
+
+> > https://www.bizopphand.info/aiwhitelabels  
+
+Whyâ€™s AIWhitelabel the Most Powerful AI Agency Product Yet?
+
+AIWhitelabels lets you create customized AI tools you can sell, rent, or even give away to businesses complete with your branding - the 1st true no-code Ai tool builder with whitelabel.
+
+Other whitelabel products are one-size-fits-all solutions while this builds tools NO ONE else has unique to specific business needs in ANY niche.
+
+Pick from tons of AI tool templates or build your own tools likeâ€¦
+
+âœ¨AI social media creator & scheduler
+âœ¨AI healthy meal planner
+âœ¨AI wedding planner & vows writer
+âœ¨AI horoscope maker
+âœ¨AI influencer marketer finder
+& 1000s more optionsâ€¦ build anything you need with no-coding.   Incredible features includeâ€¦
+
+í ½íº€ Easy AI Tool Builder - Create unique AI apps in minutes with a drag-and-drop interface: https://www.bizopphand.info/aiwhitelabels .
+
+í ½í³‹ Tons of Ready-Made Templates - Choose from customizable templates for marketing, sales, entertainment, and more.
+
+í ¾í´¯ Generate Unique AI Tools - Create apps like influencer finders, course makers, or meal planners.
+
+í ¾í´– Built-in Marketing Suite - let AIWhitelabels market your tool for you automatically
+
+í ½í³© Build Your Email List - Add opt-in forms to collect emails from app users instantly by giving access for free.
+
+í ½í²µ Stripe Integration - Monetize your tools with built-in Stripe payment options.
+
+í ½í¶Œï¸ Whitelabel Marketing - tap into page builders, video makers, article writers, & more for fast sales
+
+í ¼í¼Ÿ Full Whitelabel Ability - Add custom logos, colors, and domains to make apps your own.
+
+í ¼í¼ Host or Embed Apps - Share apps via free hosting links or embed them anywhere.
+
+í ¾í¶¾ DFY Whitelabel Businesses - tap into already set-up AI whitelabel businesses
+
+í ¾í´Commercial & Agency Rights - sell Ai tools for any price & let clients create their own AI tools & marketing
+
+And far more.
+
+
+Plus, Youâ€™re Getting An INSANE Customized AI Bonus Since I Feel This Product is Such a Huge Deal:
+
+í ½íº¨ Donâ€™t waitâ€” check out the â€˜no-hypeâ€™ demo here & get access here before the price increases & qualify for my best bonus kit:
+
+> >  https://www.bizopphand.info/aiwhitelabels  
+
+(1st price bump happens shortly Iâ€™m told)
+
+Richard Martin
+
+
+
+UNSUBSCRIBE: https://www.bizopphand.info/unsubscribe/?d=proditelsas.com 
+Address: 936 Horner Street
+Youngstown, OH 44506. 
+
+
+--1737951087-eximdsn-304321787--

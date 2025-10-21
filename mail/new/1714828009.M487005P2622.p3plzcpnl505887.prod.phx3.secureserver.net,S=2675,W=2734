@@ -1,0 +1,59 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 0O1/HOkyNmY+CgAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 04 May 2024 06:06:49 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 04 May 2024 06:06:49 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1s3F6H-0001Mo-1M
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 04 May 2024 06:06:49 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1s3F6C-0001Lh-1c@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1s3F6H-0001Mo-1M@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 04 May 2024 06:06:49 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1s3F6C-0001Lh-1c
+	for servicioalcliente@serkoi.com;
+	Sat, 04 May 2024 06:06:44 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 149.34.252.18
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 149.34.252.18
+From:
+Message-Id: <E1s3F6C-0001Lh-1c@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 04 May 2024 06:06:44 -0700
+
+De: Johnny Pettis. 
+Correo: . 
+Telefono: (03) 6272 5206. 
+Mensaje: "IT'S...A MILLION DOLLAR...GIVEAWAY"
+
+YOUR ATTENTION PLEASE!  ALL YOU HAVE TO DO IS SUBSCRIBE TO THE WEBSITE BELOW.  THAT'S IT!
+
+AND A FREE $25 DOLLAR GIFT CARD WILL BE EMAILED BACK TO YOU.  "NO SUBSCRIPTION NEEDED" WHICH MEANS NO CREDIT CARDS" JUST SUBSCRIBE USING YOUR EMAIL ADDRESS ONLY!
+
+TO TAKE ADVANTAGE OF THIS "PROMOTIONAL REWARD" FROM 3 KINGS...USE YOUR GIFT CARD TO PURCHASE ONE OF OUR "RECTANGLE KEY RINGS" FOR ONLY $29.99.
+
+THIS IS PART OF OUR "SPECIAL OFFER" FOR SUBSCRIBING TO OUR WEBSITE, AS WE LOOK TO EXPAND OUR BUSINESS.
+
+VISIT: HTTPS://WWW.MYMOVIEQUOTETSHIRTS.COM
+
+(GIFT CARD WILL EXPIRE IN TWO WEEKS IF NOT USED). 
+

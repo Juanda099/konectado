@@ -1,0 +1,80 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id sFozNdNkGmT57AcAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 21 Mar 2023 19:15:47 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 21 Mar 2023 19:15:47 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1peo0x-002E0p-Ov
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 21 Mar 2023 19:15:47 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1peo0s-002Dyi-U2@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1peo0x-002E0p-Ov@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 21 Mar 2023 19:15:47 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1peo0s-002Dyi-U2
+	for servicioalcliente@serkoi.com;
+	Tue, 21 Mar 2023 19:15:42 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 154.16.226.166
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 154.16.226.166
+From:
+Message-Id: <E1peo0s-002Dyi-U2@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 21 Mar 2023 19:15:42 -0700
+
+De: Neal Poltpalingada. 
+Correo: . 
+Telefono: (02) 6768 2294. 
+Mensaje: I noticed your website isn’t ranking well in the search results. We have the exclusive ability to have your company on Google’s autocomplete for any search term you want. 
+
+For example, if someone searches Personal injury lawyer Las Vegas then Google will autocomplete the search to Learner and Rowe (Our client). Or dentist San Antonio, Google will autocomplete the search to Stone Oak (Our Client)
+
+This means you’ll 
+-	You’ll be taking over the search before users ever hit the search result (huge traffic)
+-	Get insane branding > looks like Google recommends you.
+
+This service is called Search-Box-Optimization (SBO), which we provide exclusively. 
+
+*Important – the search terms are exclusive, meaning once you own them, they are yours. 
+
+*Important - You Only Pay When We Get You In The Auto- Complete. "Pay For Results ONLY!"
+
+You can see the magic of SBO in a video Here: https://reachkings.com
+
+
+
+Regards,
+Neal
+
+
+
+
+
+
+
+
+If you no longer want to receive our messages click here to opt-out: https://optout.seobosslocal.com/wp/?site=proditelsas.com
+
+
+
+
+. 
+

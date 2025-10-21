@@ -1,0 +1,103 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id CiDMNFsmJWUraRMAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 10 Oct 2023 03:24:27 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 10 Oct 2023 03:24:27 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qq9ud-005LNt-OY
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 10 Oct 2023 03:24:27 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qq9uX-005LLd-AR@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1696933467-eximdsn-43383488
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qq9ud-005LNt-OY@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 10 Oct 2023 03:24:27 -0700
+
+--1696933467-eximdsn-43383488
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 q9udqP5a9m4HI :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=a8z2t2eF c=1 sm=1 tr=0 ts=6525265b p=njupIJxOAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=Zp49UD_6kUJyp_3rlKQA:9 a=npa1gKT6_-gA:10 a=12DAfT11djsAGxBi1SW6:22 a=zjuhuk21HS5w8UQxld0U:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1696933467-eximdsn-43383488
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 q9udqP5a9m4HI :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=a8z2t2eF c=1 sm=1 tr=0 ts=6525265b p=njupIJxOAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=Zp49UD_6kUJyp_3rlKQA:9 a=npa1gKT6_-gA:10 a=12DAfT11djsAGxBi1SW6:22 a=zjuhuk21HS5w8UQxld0U:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1696933467-eximdsn-43383488
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qq9uX-005LLd-AR
+	for servicioalcliente@serkoi.com;
+	Tue, 10 Oct 2023 03:24:27 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 89.149.87.118
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 89.149.87.118
+From:
+Message-Id: <E1qq9uX-005LLd-AR@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 10 Oct 2023 03:24:21 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Buddyker. 
+Correo: . 
+Telefono: 85627842783. 
+Mensaje: большое число хозяинов авто в современном мире не переживают о своих колесах до тех пор, пока им не придется резко свернуть. 
+ 
+Временами протектор становится весьма тонким, то шины приходят в ненадежное состояние. Помните! Одной из существенных покупок, которые совершают автовладельцы, определенно являются колеса. 
+ 
+Согласно пожеланиям наших специалистов, регулярная смена шин вашего железного коня важна для безопасности на шоссе. 
+<a href=https://www.rabota.md/ro/joburi/operator-call-center/13016329>https://www.rabota.md/ro/joburi/operator-call-center/13016329</a> 
+ 
+ 
+смена новых покрышек может оказаться каверзной задачей. Вы сталкиваетесь с немалым выбором брендов, размеров и моделей покрышек , так что легко потеряться. 
+ 
+в надежде получить удовольствие от поездки, заказывайте покрышки, которые подходят вашему стилю управления. 
+ 
+Появились вопросы в замене нужных шин для вашего автомобиля? наша компания профессиональных экспертов поможет вам своей информацией. 
+ 
+Вам нравится плавная поездка? Или вы ставите на первое место чувствовать каждый поворот? Прекрасно! наши квалифицированные профи без проблем посоветуют вам идеальные колеса! 
+ 
+море факторов вредят вашей резине. Начиная от острых предметов и заканчивая озоном. 
+ 
+в том случае, когда вы приобритете неправильные покрышки, то вы можете понизить производительность вашего легкового автомобиля и его возможность справляться с любыми погодными условиями. Шины вашего авто тщательно трудятся всякий раз, когда вы выезжаете на дорогу. 
+ 
+лучшее средство понять, пришло ли время заказывать новые шины для вашей легковушки, — это доверить их обследование опытныму человеку. 
+ 
+в нашем автоцентре вы сможете приобрести резину любых марок и брендов! И все по низким ценам! Поможем купить идеальные для вас! 
+ 
+нашу сто ставит на первое место предпочтения клиента. таким образом немаленькое количество любителей машин верят нам! Мы гарантируем качество! приезжайте! И убедитесь сами!. 
+
+
+--1696933467-eximdsn-43383488--

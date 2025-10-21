@@ -1,0 +1,56 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id oDOkN/kT+2M/7TEAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sun, 26 Feb 2023 01:10:33 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sun, 26 Feb 2023 01:10:33 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pWC77-00DlSx-Q7
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sun, 26 Feb 2023 01:10:33 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pWC73-00DlF7-79@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1pWC77-00DlSx-Q7@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 26 Feb 2023 01:10:33 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pWC73-00DlF7-79
+	for servicioalcliente@serkoi.com;
+	Sun, 26 Feb 2023 01:10:29 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 78.138.1.7
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 78.138.1.7
+From:
+Message-Id: <E1pWC73-00DlF7-79@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 26 Feb 2023 01:10:29 -0700
+
+De: Zayne Krebs. 
+Correo: . 
+Telefono: 06-49483129. 
+Mensaje: Greetings! My name is Zayne, and I'm the CEO of AISocial. I recently came across your website and was thoroughly impressed with what I saw. That's why I'm reaching out to you today with an opportunity to join our team as an app reviewer.
+
+As we expand our reach, we're in need of a few more talented individuals to fill this important role. The best part? This position offers flexible hours, allowing you to work around your existing business commitments. You'll be paid a minimum of $200 per day, and your responsibilities will include writing a handful of app reviews each day.
+
+We're specifically looking for candidates in your area and are hiring three people right now. If you're interested, simply click the hiring link below to learn more about the job and its requirements. We're seeking the most qualified applicants, so don't hesitate to apply if you meet the qualifications.
+
+Visit https://www.theaisocial.com/writeappreviews to get started. Thank you for your time, and we hope to see you join our team soon!
+
+Best regards,
+Zayne from AISocial. 
+

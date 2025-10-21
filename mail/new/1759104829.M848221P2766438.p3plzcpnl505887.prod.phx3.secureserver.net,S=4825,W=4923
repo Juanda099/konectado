@@ -1,0 +1,98 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id eAh2MT3P2WhmNioA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 28 Sep 2025 17:13:49 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 28 Sep 2025 17:13:49 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1v31WX-0000000C9Pc-36z9
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 28 Sep 2025 17:13:49 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1v31WW-0000000C9Ox-2oiV@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1759104829-eximdsn-725915916
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1v31WX-0000000C9Pc-36z9@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 28 Sep 2025 17:13:49 -0700
+
+--1759104829-eximdsn-725915916
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 31WWvjRe2zlPR :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=D6se6vRj c=1 sm=1 tr=0 ts=68d9cf3c p=Oj2tJRzQxnmSdZ3qFrQA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=xYvQq5hmYUp9UrEdZ97h8g==:17 a=yJojWOMRYYMA:10 a=QmwsH3eLAAAA:8 a=l0ZHAvix_X7WeW-Gnzka:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=yo6FTSzOfzKqdyR7rV1A:22 a=HhbK4dLum[truncated]
+
+--1759104829-eximdsn-725915916
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 31WWvjRe2zlPR :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=D6se6vRj c=1 sm=1 tr=0 ts=68d9cf3c p=Oj2tJRzQxnmSdZ3qFrQA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=xYvQq5hmYUp9UrEdZ97h8g==:17 a=yJojWOMRYYMA:10 a=QmwsH3eLAAAA:8 a=l0ZHAvix_X7WeW-Gnzka:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=yo6FTSzOfzKqdyR7rV1A:22 a=HhbK4dLum7pmb74im6QT:22 :: 100.00
+
+--1759104829-eximdsn-725915916
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1v31WW-0000000C9Ox-2oiV
+	for servicioalcliente@serkoi.com;
+	Sun, 28 Sep 2025 17:13:49 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:agentofficial@shrooqconsultant.com
+Message-Id: <E1v31WW-0000000C9Ox-2oiV@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 28 Sep 2025 17:13:48 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+X-SITE-UID: z1h9uk8mq9i3
+X-SHOPPER-ID: 8fa67fc62ca84e7fff53d063d30fc77efc6179c583c5fd823c5cc6ae2719f6bb
+X-ENTITLEMENT-ID: ad501a63-d2c1-11ea-81e0-3417ebe73f0e
+X-ACCOUNT-CREATED-DATE: 1596153997
+
+De: Garth Daniels. 
+Correo: agentofficial@shrooqconsultant.com. 
+Telefono: 88744935864. 
+Mensaje: Greetings, 
+ 
+Unlock a new phase of growth with Shrooq Loan dept funding opportunities, as we ensure you have a reliable business partner to secure your funding. Do you have project that is in need of financial growth, such as Working Capital or Start ups. 
+ 
+Here is your opportunity to secure your Seed Capital, Early-Stage, Renewable Energy Project, Commercial Real Estate, Telecommunication, Infrastructure, Agriculture, Animal Breeding, Healthcare, and Oil/Gas/Refinery. Competitive interest rates, Easy and fast reliable application process. 
+ 
+Your quick response, will enable further communication to commence. 
+ 
+Regards 
+ 
+Garth Daniels 
+ 
+Investment Representative 
+Shrooq AlQamar Project Management Services Co LLC 
+WhatsApp - +97333872035 
+Email: agent@shrooqconsultant.com 
+Our Offices: UAE Facilitating Office: Ahmad Al Jaber St 
+Oman Branch Offices: CHXM+J3G, Sohar, Oman 
+UAE Dubai: Financial Consortium. 
+
+
+--1759104829-eximdsn-725915916--

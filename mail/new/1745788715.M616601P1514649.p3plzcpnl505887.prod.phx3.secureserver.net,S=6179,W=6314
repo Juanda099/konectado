@@ -1,0 +1,135 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id QMncIyufDmiZHBcA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 27 Apr 2025 14:18:35 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 27 Apr 2025 14:18:35 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1u99OV-006NDT-1g
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 27 Apr 2025 14:18:35 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1u99OK-006Mw0-1s@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1745788715-eximdsn-669609418
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1u99OV-006NDT-1g@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 27 Apr 2025 14:18:35 -0700
+
+--1745788715-eximdsn-669609418
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 99OVuqWbsS0VN :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=TufmhCXh c=1 sm=1 tr=0 ts=680e9f2b p=6QTeze8IvZqkbA-RwbIA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=xRIiZs02AAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=Vma-n8-gZlgtiTj8ucXI:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1745788715-eximdsn-669609418
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 99OVuqWbsS0VN :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=TufmhCXh c=1 sm=1 tr=0 ts=680e9f2b p=6QTeze8IvZqkbA-RwbIA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=xRIiZs02AAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=Vma-n8-gZlgtiTj8ucXI:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1745788715-eximdsn-669609418
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1u99OK-006Mw0-1s
+	for servicioalcliente@serkoi.com;
+	Sun, 27 Apr 2025 14:18:35 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1u99OK-006Mw0-1s@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 27 Apr 2025 14:18:24 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Stanley Rigdon. 
+Correo: . 
+Telefono: 0474 43 29 81. 
+Mensaje: Hey, 
+
+ ADABundle Agency just went live and it looks incredible!
+
+I don’t say that lightly.
+
+I loved & supported the first version of ADABundle, but honestly, this is completely DIFFERENT, BIGGER, BETTER & ticks all the requirements for ADA compliance!
+
+You should check it out: https://www.moredollar.info/ada ! 
+
+ADABundle Agency helps you and your clients become compliant with the international Web Accessibility Guidelines + the Americans With Disabilities Act (ADA).
+
+If your website is not compliant you’re wide open for a major lawsuit and it costs businesses on average $50,000 to settle them.
+
+Imagine that there are "hunters" specifically seeking out such websites and suing them. Many website owners choose to settle out of court, and then they need to pay cash to the "hunters". 
+For example: Website owners in the beauty industry often overlook the Americans With Disabilities Act, and they are also the best targets for "hunters".
+ 
+Ouch!
+
+There are now over 10,000 websites sued as of 2022 due to non-compliance… greedy lawyers are now going after small businesses so this number is expected to hit 100k by 2025
+
+ADA Bundle not only helps you to become and stay compliant, it also opens up a unique opportunity for you to tap into a brand new income stream: https://www.moredollar.info/ada .
+ 
+So, here’s what you get inside this new version;
+
+→ More Compliance & Accessibility Options
+→ Wikipedia Dictionary Option
+→ Multi-Language System - 126 Languages
+→ Widget Icon Customization(choose from thousands of SVG icons or upload your own)
+→ Paypal IPN integration for auto account creation & user management
+→ Unbranded Client Dashboard For Full Custom Consultancy Business
+→ Improved Agency & Consultancy Assets
+→ Redesigned Agency Website - with compliance widget angle(free Website review angle)
+→ Full-Blown Video Training Academy
+→ And Many More!
+
+ ADABundle Agency Makes it easy to find clients & get paid;
+
+1)Use the in-built client finder to find quality prospects in any niche & 
+Reach out to them. 
+2) Analyze the prospect’s website using the website analyzer widget inside 
+ADABundle, then send the prospect a report of the analysis. 
+3) Use ADA Bundle to optimize your client’s page in Minutes & get paid. 
+
+It’s that simple!
+
+Act now, early bird discount will expire soon. 
+: https://www.moredollar.info/ada 
+
+I think you’ll love what you see. 
+
+All the best,
+
+Stanley Rigdon
+
+
+UNSUBSCRIBE: https://www.moredollar.info/unsubscribe/?d=proditelsas.com 
+4825 McKinley Avenue
+Centennial, CO 80111. 
+
+
+--1745788715-eximdsn-669609418--

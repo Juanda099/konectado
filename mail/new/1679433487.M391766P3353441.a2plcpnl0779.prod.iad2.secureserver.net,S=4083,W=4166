@@ -1,0 +1,83 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id eBUNFQ8fGmRhKzMAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 21 Mar 2023 14:18:07 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 21 Mar 2023 14:18:07 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pejMt-00E6VC-97
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 21 Mar 2023 14:18:07 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pejMm-00E6Df-JF@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1679433487-eximdsn-1593573390
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pejMt-00E6VC-97@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 21 Mar 2023 14:18:07 -0700
+
+--1679433487-eximdsn-1593573390
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 ejMrp4RraFHyz :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=C/kviyD+ c=1 sm=1 tr=0 ts=641a1f0f p=v77iJvt5AAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=k__wU0fu6RkA:10 a=smrCSdiaAAAA:8 a=aplp7b4XC_wl9lwytKEA:9 a=sWJOnko86DUA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=8SOhdZwheaZeZCZz3GfO:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=2ns6qGaGrbYeQsoxUg47:22 ::
+    100.00
+
+--1679433487-eximdsn-1593573390
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 ejMrp4RraFHyz :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=C/kviyD+ c=1 sm=1 tr=0 ts=641a1f0f p=v77iJvt5AAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=k__wU0fu6RkA:10 a=smrCSdiaAAAA:8 a=aplp7b4XC_wl9lwytKEA:9 a=sWJOnko86DUA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=8SOhdZwheaZeZCZz3GfO:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=2ns6qGaGrbYeQsoxUg47:22 :: 100.00
+
+--1679433487-eximdsn-1593573390
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pejMm-00E6Df-JF
+	for servicioalcliente@serkoi.com;
+	Tue, 21 Mar 2023 14:18:05 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 34.102.59.1
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 34.102.59.1
+From:
+Message-Id: <E1pejMm-00E6Df-JF@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 21 Mar 2023 14:18:00 -0700
+
+De: Chadwick Hendricks. 
+Correo: . 
+Telefono: 01.37.49.83.21. 
+Mensaje: Hello, we visited proditelsas.com and noticed you do not have a mobile application.
+
+We have a service that provides mobile Apps to companies just like yours.
+
+You can learn more by visiting us on MakeMySiteMobile.com
+
+Regards,
+Chadwick. 
+
+
+--1679433487-eximdsn-1593573390--

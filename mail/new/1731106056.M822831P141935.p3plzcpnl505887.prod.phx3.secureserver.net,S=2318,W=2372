@@ -1,0 +1,54 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 0L9iMAiVLmdvKgIA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 08 Nov 2024 15:47:36 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 08 Nov 2024 15:47:36 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1t9XlQ-000ebL-2O
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 08 Nov 2024 15:47:36 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1t9XlI-000eM1-1I@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1t9XlQ-000ebL-2O@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 08 Nov 2024 15:47:36 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1t9XlI-000eM1-1I
+	for servicioalcliente@serkoi.com;
+	Fri, 08 Nov 2024 15:47:28 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 193.36.224.92
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 193.36.224.92
+From:
+Message-Id: <E1t9XlI-000eM1-1I@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 08 Nov 2024 15:47:28 -0700
+
+De: Phil Stewart. 
+Correo: . 
+Telefono: 342-123-4456. 
+Mensaje: Need a way to get millions of people to view your ad without high expenses?
+ Contact me at the details below if you’d like to explore this further.
+
+Regards,
+Candice Mayo
+Email: Candice.Mayo@morebiz.my
+Website: http://p2nwpu.form-marketing.top
+Skype: marketingwithcontactforms. 
+

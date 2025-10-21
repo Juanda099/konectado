@@ -1,0 +1,60 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id mtyVEC+4EWWrjBQAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 25 Sep 2023 09:41:19 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 25 Sep 2023 09:41:19 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qkoe7-005eL7-2l
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Mon, 25 Sep 2023 09:41:19 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qkoe1-005eIq-CR@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1qkoe7-005eL7-2l@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 25 Sep 2023 09:41:19 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qkoe1-005eIq-CR
+	for servicioalcliente@serkoi.com;
+	Mon, 25 Sep 2023 09:41:13 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 89.149.87.118
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 89.149.87.118
+From:
+Message-Id: <E1qkoe1-005eIq-CR@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 25 Sep 2023 09:41:13 -0700
+
+De: GeorgeZooNa. 
+Correo: . 
+Telefono: 84573443931. 
+Mensaje: Ищете достоверных помощников для положительной миграции?Ваш поиск закончен! Мы с нашей командой оказываем разнообразный набор услуг по миграционным процессам,чтобы сделать ваш переезд простым и спокойным.Позвольте нашим консультантам показать,как мы можем помочь вам начать новую главу вашей судьбы: 
+Наш коллектив-спецы в области деятельности помощи в миграции.Мы преподносим вам ключ к миру иных вариантов развития,распахивая перед вами двери к новому месту,новой фазе и новым направлениям.Мы заботимся о вас,о вашей желаемой цели,и всегда на готовности вас поддержать на каждой фазе этого путешествия 
+[url=https://juridicheskaja-konsultaciya.ru/]https://juridicheskaja-konsultaciya.ru/[/url] 
+1.Индивидуализированный подход к желанию:Мы как команда осознаём,что каждый отличается от других,и ваш переезд-это ваша собственная история.Наши знатоки  составят личный план для вас. 
+2.Подготовка документов:Не задумывайтесь о формальных проблемах!Мы с командой можем помочь вам сложить и заранее подготовить все важные акты,включая разрешения на въезд,трудовые удостоверения и прочие формальности. 
+3.Подбор приятного жилья: Мы выберем вам прекрасное жильё,учитывающее ваши предпочтения и бюджет. 
+4.Поиск рабочего места:Получить рабочее место без необязательных хлопот!Мы с нашей командой ведем совместные проекты с компаниями и поможем вам подобрать подходящую рабочую позицию. 
+5.Культурная ассимиляция:Приходя в малознакомую среду,существенно осознавать её культурные аспекты и обычаи.Мы с командой предлагаем учебные программы и адвайс по адаптации. 
+6.Услуги перевозки-Перевозка личных вещей-это особое аккуратное мероприятие.Мы проводим перемещение вашего имущества без волнений и потерь. 
+7.Стабильная поддержка и содействие:Наши професииональные консультанты постоянно готовы дать ответ на ваши вопросы и помогут разрешить любые сложности. 
+8.Максимизация производительности:C нашей поддержкой вы избежите дополнительных проблем и фиаско,оптимизируя свободное время и расходы. 
+Не зависимо от того, хотите ли вы менять место жительства с целью благоприятной трудовой карьеры, образования или даже индивидуальных целей,мы все время здесь,чтобы содействовать вам на данном переходе.Вместе мы достигнем ваши желания о совершенно новой судьбе реальностью. Не упустите свое драгоценное время,свяжитесь с нами уже сегодня и дайте нам шанс помочь вам достичь ваших целей.Мы ждем вашего звонка или письма! 
+С глубоким уважением, 
+Команда экспертов по вопросам миграции.. 
+

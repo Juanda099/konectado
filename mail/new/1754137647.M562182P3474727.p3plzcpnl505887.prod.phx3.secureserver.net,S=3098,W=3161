@@ -1,0 +1,63 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id sMcNIC8EjmgnBTUA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 02 Aug 2025 05:27:27 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 02 Aug 2025 05:27:27 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uiBKh-0000000EfV2-1uES
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 02 Aug 2025 05:27:27 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uiBKU-0000000EfPE-0g8b@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uiBKh-0000000EfV2-1uES@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 02 Aug 2025 05:27:27 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uiBKU-0000000EfPE-0g8b
+	for servicioalcliente@serkoi.com;
+	Sat, 02 Aug 2025 05:27:14 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uiBKU-0000000EfPE-0g8b@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 02 Aug 2025 05:27:14 -0700
+
+De: Hugh Maddox. 
+Correo: . 
+Telefono: 6649160550. 
+Mensaje: Hello,
+
+We have a promotional offer for your website proditelsas.com.
+
+20+ Ready-to-Teach AI Professors– Instantly Deliver AI Live Classes in Math, Physics, Chemistry, Coding & More – All Done-For-You and 100% Automated!
+AI Live Professors for 20+ Subjects – Covering academics, tech, business, languages, and wellness.
+Smart Student Management System – Track student progress, issue certificates & provide AI-personalized feedback.
+AI-Powered Q&A & Adaptive Tutoring – Instant help for every student, available 24/7 through built-in AI guidance.
+Run AI-Powered Exams, Quizzes & Auto-Grading – Assess, grade & evaluate with zero manual effort.
+Monetize Your University –With AI-Driven Subscription Model & Charge monthly subscriptions Or one-time payments.
+
+See it in action: https://www.novaai.expert/AILiveUniversityBuilder
+
+You are receiving this message because we believe our offer may be relevant to you. 
+If you do not wish to receive further communications from us, please click here to UNSUBSCRIBE:
+https://www.novaai.expert/unsubscribe?domain=proditelsas.com
+Address: 209 West Street Comstock Park, MI 49321
+Looking out for you, Ethan Parker
+. 
+

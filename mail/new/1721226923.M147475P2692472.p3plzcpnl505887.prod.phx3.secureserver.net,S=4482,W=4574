@@ -1,0 +1,92 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 6GibCKvWl2Z4FSkA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 17 Jul 2024 07:35:23 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 17 Jul 2024 07:35:23 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sU5kZ-00BIQs-0F
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 17 Jul 2024 07:35:23 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sU5kO-00BIPB-1R@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1721226923-eximdsn-1444445107
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sU5kZ-00BIQs-0F@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 17 Jul 2024 07:35:23 -0700
+
+--1721226923-eximdsn-1444445107
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 U5kZsUGUu1mAe :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=ELrN0EZC c=1 sm=1 tr=0 ts=6697d6ab p=3P4ZFHI_nTOJg1Q2gbtE:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=4kmOji7k6h8A:10 a=smrCSdiaAAAA:8 a=JFqkAMp0AAAA:8 a=vo4oGYI8hyYiGVraGSMA:9 a=M9ZHoLuYIHMl9pbmgCZa:22 a=QUX-bxtqBKFMbur4cTsc:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1721226923-eximdsn-1444445107
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 U5kZsUGUu1mAe :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=ELrN0EZC c=1 sm=1 tr=0 ts=6697d6ab p=3P4ZFHI_nTOJg1Q2gbtE:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=4kmOji7k6h8A:10 a=smrCSdiaAAAA:8 a=JFqkAMp0AAAA:8 a=vo4oGYI8hyYiGVraGSMA:9 a=M9ZHoLuYIHMl9pbmgCZa:22 a=QUX-bxtqBKFMbur4cTsc:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1721226923-eximdsn-1444445107
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sU5kO-00BIPB-1R
+	for servicioalcliente@serkoi.com;
+	Wed, 17 Jul 2024 07:35:22 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 87.249.132.163
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 87.249.132.163
+From:
+Message-Id: <E1sU5kO-00BIPB-1R@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 17 Jul 2024 07:35:12 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Mike Hardman
+. 
+Correo: . 
+Telefono: 85466848231. 
+Mensaje: Hi there 
+I just checked proditelsas.com ranks and am sorry to bring this up, but it lacks in many areas. 
+ 
+Unfortunately, building a bunch of links won't solve the issue in this case, and a more comprehensive strategy is required. Google has undergone significant changes over the past year, making it nearly impossible to compete for favorable rankings without a well-designed website. 
+ 
+We recommend a search engine-friendly website layout to resolve all issues and propel your site to the top. 
+ 
+You can check more details here: https://www.speed-seo.net/product/seo-friendly-website-designs/ 
+ 
+Thanks for your consideration 
+Mike Hardman
+Speed Designs 
+https://www.speed-seo.net/whatsapp-us/. 
+
+
+--1721226923-eximdsn-1444445107--

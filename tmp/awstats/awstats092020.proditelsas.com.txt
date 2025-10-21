@@ -1,0 +1,680 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202009 will be lost/reset.
+# Last config file used to build this data file was /home/z1h9uk8mq9i3/tmp/awstats/awstats.proditelsas.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2694                
+POS_VISITOR 10617               
+POS_DAY 17315               
+POS_DOMAIN 3479                
+POS_LOGIN 4023                
+POS_ROBOT 4178                
+POS_WORMS 4659                
+POS_EMAILSENDER 4790                
+POS_EMAILRECEIVER 4933                
+POS_SESSION 18102               
+POS_SIDER 18313               
+POS_FILETYPES 5068                
+POS_DOWNLOADS 5292                
+POS_OS 5392                
+POS_BROWSER 5600                
+POS_SCREENSIZE 6396                
+POS_UNKNOWNREFERER 6470                
+POS_UNKNOWNREFERERBROWSER 7064                
+POS_ORIGIN 7499                
+POS_SEREFERRALS 7637                
+POS_PAGEREFS 7781                
+POS_SEARCHWORDS 7929                
+POS_KEYWORDS 8081                
+POS_MISC 2358                
+POS_ERRORS 8140                
+POS_CLUSTER 3879                
+POS_SIDER_404 8269                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201001031738 58 15471 8396454092809
+FirstTime 20200901021455
+LastTime 20200930211150
+LastUpdate 20201001050429 58 0 57 0 0
+TotalVisits 389                 
+TotalUnique 172                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 172                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 34 34 13168 19 27 51983
+1 41 41 31057 36 50 165048
+2 36 36 53842 27 42 162650
+3 128 169 1628948 33 46 85149
+4 21 21 79852 19 19 7637
+5 25 25 77939 29 39 73124
+6 40 40 159291 30 53 189544
+7 19 19 13167 18 32 137437
+8 83 83 238914 91 93 10545
+9 91 139 1327957 95 98 257948
+10 36 60 571172 29 33 57001
+11 35 35 59776 25 33 72822
+12 24 41 396397 25 28 40236
+13 47 67 279330 56 57 76437
+14 38 39 58523 33 37 59749
+15 52 76 649997 19 24 278374
+16 31 31 42536 31 34 45540
+17 22 22 44810 10 12 10539
+18 22 22 94629 27 35 42249
+19 27 27 4072 30 38 90719
+20 55 55 147790 34 35 93163
+21 56 56 116610 38 48 78078
+22 39 39 77818 25 44 121379
+23 30 31 59009 32 33 41457
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 25
+us 880 1022 4298230
+gb 52 52 265598
+fr 19 19 123579
+ca 9 9 7060
+se 9 26 799079
+it 7 7 68907
+eu 6 6 33794
+ua 6 6 9270
+nl 5 5 13818
+ru 5 5 38464
+cn 5 5 31882
+au 4 4 15378
+cz 3 3 21123
+vn 3 3 2512
+de 3 3 43424
+gr 3 3 6108
+no 2 2 2274
+at 2 19 383230
+tr 2 2 4072
+in 2 2 11306
+ir 1 1 2036
+es 1 1 9270
+al 1 1 32118
+my 1 1 2036
+bg 1 1 2036
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+Googlebot/ 165 865432 20200930191021 24
+SemrushBot/ 33 95276 20200929165619 23
+unknown 12 816 20200930141912 12
+bot[\s_+:,\.\;\/\\-] 6 82914 20200925234956 2
+Googlebot\-Image/ 3 321341 20200919152927 0
+bingbot/ 2 138 20200930101828 2
+Apache\-HttpClient/ 1 9270 20200918100235 0
+AhrefsBot/ 1 0 20200908073701 0
+no_user_agent 1 32118 20200922074443 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+Unknown 4 4496 0 0
+php 901 1127185 0 0
+jpg 29 2708140 0 0
+html 123 1269646 0 0
+txt 1 9577 0 0
+css 63 588525 0 0
+png 1 35921 0 0
+xml 4 3010 0 0
+js 82 480104 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/wp-content/plugins/woocommerce/readme.txt 1 0 9577
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+linuxandroid 2 2
+macosx12 29 29
+win7 57 57
+linux 275 162
+win10 88 87
+macosx 4 4
+Unknown 747 685
+macosx10 1 1
+winxp 1 1
+winlong 3 3
+win8.1 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 35
+firefox67.0 4 4
+chrome40.0.2214.93 1 1
+chrome80.0.3987.149 16 16
+chrome79.0.3945.88 1 1
+chrome69.0.3497.100 1 1
+firefox64.0 5 5
+chrome80.0.3987.122 1 1
+chrome71.0.3578.98 1 1
+chrome65.0.3325.181 27 27
+chrome66.0.3359.181 13 13
+chrome72.0.3626.119 1 1
+chrome68.0.3440.106 104 8
+mozilla 3 3
+chrome41.0.2227.0 1 1
+chrome76.0.3809.132 2 2
+chrome61.0.3163.100 1 1
+chrome78.0.3904.108 44 44
+chrome74.0.3729.169 2 2
+chrome83.0.4103.116 1 1
+firefox62.0 151 151
+chrome71.0.3563.0 18 1
+netscape 1 1
+firefox72.0 2 2
+firefox59.0 1 1
+firefox68.0 2 2
+Unknown 720 682
+chrome75.0.3770.100 1 1
+opera53.0.2907.68 1 1
+chrome40.0.2214.85 2 2
+chrome34.0.1847.116 3 3
+safari6.0.5 26 2
+chrome57.0.2987.133 1 1
+chrome84.0.4147.105 2 1
+firefox50.0 2 2
+firefox17.0 46 46
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+colly_-_https://github.com/gocolly/colly/v2 20200926233911
+Installatron_Plugin/9.1.53 20200930211150
+Go-http-client/1.1 20200928215249
+Mozilla/5.0_AppleWebKit/536.30.1_(KHTML,_like_Gecko)_Version/6.0.5_Safari/536.30.1_Installatron_(Mimicking_WebKit) 20200930153358
+WordPress/5.4.2;_http://www.proditelsas.com 20200930211150
+Scrapy/1.7.2_(_https://scrapy.org) 20200924032546
+Mozilla 20200910094920
+panscient.com 20200908134532
+Installatron_Plugin/9.1.52 20200930153401
+python-requests/2.24.0 20200915231823
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+panscient.com 20200908134532
+Installatron_Plugin/9.1.52 20200930153401
+python-requests/2.24.0 20200915231823
+Go-http-client/1.1 20200928215249
+colly_-_https://github.com/gocolly/colly/v2 20200926233911
+Installatron_Plugin/9.1.53 20200930211150
+WordPress/5.4.2;_http://www.proditelsas.com 20200930211150
+Scrapy/1.7.2_(_https://scrapy.org) 20200924032546
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 307 346
+From1 0 0
+From2 0 0
+From3 0 0
+From4 725 862
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+401 5 680
+404 87 840569
+302 8 0
+400 14 254
+301 652 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 31
+/beck/cron.php 1 -
+/writebab.php 1 -
+/sites/all/stats.php 1 -
+/checkout/ 1 -
+/new/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/wp-content/plugins/wp-file-manager/lib/files/css.php 1 -
+/wp-content/plugins/wp-file-manager/lib/files/hardfork.php 1 -
+/reservas/ 11 -
+/wp-content/plugins/wp-file-manager/readme.txt 1 -
+/wp-content/plugins/wp-file-manager/lib/files/upload.php 2 http://proditelsas.com/wp-content/plugins/wp-file-manager/lib/files/upload.php
+/wp-content/plugins/wp-file-manager/lib/js/elFinder.js 1 http://proditelsas.com/wp-content/plugins/wp-file-manager/lib/js/elFinder.js
+/wp-content/plugins/wp-file-manager/lib/files/feoidasf4e0_index.php 2 http://www.proditelsas.com/wp-content/plugins/wp-file-manager/lib/files/feoidasf4e0_index.php
+/humans.txt 5 http://proditelsas.com/humans.txt
+/sitemap.xml 1 -
+/system/storage/logs/seo_script.php 1 -
+/ads.txt 5 http://proditelsas.com/ads.txt
+/wp-content/plugins/wp-file-manager/css/fm_custom.css 4 -
+/wp-content/plugins/wp-file-manager/lib/files/accesson.php 2 http://proditelsas.com/wp-content/plugins/wp-file-manager/lib/files/accesson.php
+/wp-content/plugins/wp-file-manager/lib/files/x.php 3 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 8 http://proditelsas.com/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+/blog/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/wp-content/plugins/wp-file-manager/lib/files/thumbs.php 2 http://proditelsas.com/wp-content/plugins/wp-file-manager/lib/files/thumbs.php
+/ 11 http://www.proditelsas.com///
+/adminer.php 1 -
+/wp-content/plugins/wp-file-manager/lib/files/ 1 -
+/wordpress/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+/xmlrpc.php 3 -
+/wp-content/plugins/wp-file-manager/lib/files/n.php 2 http://proditelsas.com/wp-content/plugins/wp-file-manager/lib/files/n.php
+/comida/ 10 -
+/adminer/adminer.php 1 -
+/wp/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 www.google.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 172
+107.180.46.150 712 712 508158 20200930211150
+128.199.249.2 44 44 236640 20200911084036
+104.154.159.155 16 16 111433 20200906133342
+199.187.211.101 13 13 128747 20200926090701
+104.168.82.48 12 12 118594 20200913201400
+193.106.30.99 6 6 9270 20200929194557
+132.148.141.147 5 5 14965 20200917065252
+192.169.219.79 4 4 12929 20200923104616
+72.79.58.112 4 24 154492 20200908134509
+80.248.225.154 4 21 752729 20200924032543
+13.211.150.37 3 3 10893 20200917065410
+13.126.216.120 3 3 10893 20200907122958
+167.71.202.93 3 3 2512 20200910205210
+62.210.83.78 3 3 27810 20200920221751
+13.232.183.43 3 3 10893 20200906114750
+192.254.207.43 3 3 4310 20200912023855
+195.154.189.186 3 3 10893 20200909014019
+161.35.46.248 3 3 10893 20200913131351
+157.245.102.80 3 3 10893 20200909145017
+161.47.70.199 3 3 10893 20200912073223
+178.62.74.6 3 3 29484 20200905065746
+162.243.8.129 3 3 10893 20200903111033
+206.189.136.172 3 3 10893 20200905103919
+54.218.115.33 2 26 524325 20200918101458
+178.62.101.117 2 2 2274 20200910164138
+157.230.248.89 1 1 2036 20200914023642
+43.250.250.150 1 1 2036 20200911101948
+207.244.230.205 1 2 45191 20200926233911
+52.27.152.144 1 1 9270 20200914091020
+5.135.177.5 1 1 238 20200905234350
+192.169.244.239 1 1 2036 20200920232902
+51.38.211.30 1 1 2036 20200911054324
+51.195.47.79 1 1 2036 20200911141615
+46.4.33.48 1 1 32118 20200930021807
+149.28.47.51 1 1 2036 20200912195400
+51.159.30.6 1 1 9270 20200908095741
+148.72.212.195 1 1 2036 20200905161827
+91.121.184.52 1 1 2036 20200911041300
+104.248.236.204 1 1 9270 20200924115110
+122.13.162.31 2 2 18540 20200910091411
+198.12.248.77 2 2 4072 20200923162959
+159.65.239.34 1 1 238 20200909210217
+104.131.12.67 1 1 238 20200911122023
+178.128.103.151 1 1 2036 20200911182453
+34.213.51.230 1 1 9270 20200918101447
+37.59.141.40 1 1 2036 20200911152640
+54.218.136.33 1 1 32118 20200918225945
+52.12.44.206 2 26 524325 20200914091028
+82.99.171.211 1 1 2036 20200906025004
+198.12.250.168 2 2 4072 20200905141521
+79.137.77.213 1 1 238 20200910144638
+5.39.74.233 1 1 238 20200911015436
+139.59.2.181 1 1 2036 20200911091258
+31.171.152.109 1 1 32118 20200906181053
+161.35.19.129 2 2 2274 20200911230148
+46.101.135.189 1 1 2036 20200910102908
+89.22.101.69 1 1 9270 20200904145344
+132.148.28.20 1 1 2036 20200905010122
+66.70.160.187 1 1 2036 20200913154311
+54.38.188.35 1 1 238 20200911013851
+59.110.138.221 1 1 2036 20200911113911
+185.117.154.235 1 1 32118 20200924160444
+139.155.16.233 1 1 9270 20200921110658
+156.146.36.75 1 1 58489 20200927050033
+198.12.250.187 1 1 2036 20200906015040
+148.72.210.140 1 1 2036 20200915033115
+44.234.188.194 2 26 524325 20200921091525
+149.202.67.223 2 2 64236 20200904212352
+192.71.10.105 1 1 9270 20200909211945
+52.11.176.170 1 1 9270 20200930093726
+95.173.161.167 1 1 2036 20200911064704
+85.175.6.103 1 1 2036 20200909213505
+151.80.41.7 1 1 2036 20200907052814
+149.129.52.21 1 1 2036 20200910171226
+188.165.201.55 1 1 2036 20200910094920
+185.126.177.216 1 1 2036 20200910093631
+93.114.86.226 1 1 2036 20200911120556
+104.238.94.60 1 1 2036 20200920140528
+208.109.52.183 1 1 2036 20200910013757
+3.17.203.235 1 1 32118 20200908182710
+159.89.2.220 1 1 238 20200913133242
+193.31.24.77 1 1 2036 20200911172455
+54.68.34.175 1 1 9270 20200922093741
+178.128.99.211 1 1 2036 20200908020533
+68.183.234.44 1 1 2036 20200911000346
+192.71.36.158 1 1 9270 20200928215249
+198.12.227.90 2 2 4072 20200919153428
+212.102.33.153 1 1 58489 20200923060657
+192.169.243.111 1 1 2036 20200904051042
+162.241.170.84 1 1 2036 20200903175004
+34.217.10.14 1 1 9270 20200925091200
+192.36.52.37 1 1 9270 20200924051225
+34.85.46.229 1 1 2036 20200910055030
+18.237.240.190 1 1 9270 20200926100144
+217.170.205.71 2 2 2274 20200911130027
+148.72.64.192 1 1 2036 20200910223007
+157.245.243.14 2 2 4072 20200911002928
+64.225.14.25 1 1 2036 20200913171458
+13.70.199.80 1 1 2036 20200907211356
+93.56.47.242 1 1 2036 20200908105259
+109.70.100.51 1 18 381194 20200924124248
+54.202.121.179 1 1 9270 20200923095922
+128.199.249.213 1 1 2036 20200908062556
+67.205.129.197 1 1 2036 20200909223639
+192.99.149.195 1 1 238 20200912220032
+192.169.218.28 1 1 2036 20200905020449
+46.101.95.65 1 1 238 20200912043310
+34.219.5.146 1 1 9270 20200927095534
+81.40.154.154 1 1 9270 20200919220214
+130.185.77.147 1 1 2036 20200910202834
+38.18.51.74 1 1 9270 20200917044635
+46.105.102.68 2 2 2274 20200911034307
+45.122.223.198 1 1 238 20200912171805
+149.202.8.66 1 1 238 20200912035531
+91.134.248.230 1 1 2036 20200910114148
+159.203.27.100 2 2 2274 20200907222048
+107.175.46.17 1 1 2036 20200910111808
+159.253.46.18 1 1 2036 20200910201147
+142.93.145.204 1 1 0 20200920084728
+89.187.175.144 2 2 19087 20200924182228
+64.246.178.34 1 1 9270 20200922224951
+18.237.75.203 1 1 9270 20200919092146
+52.149.32.73 1 1 9270 20200915231823
+104.248.158.95 1 1 2036 20200908010045
+148.72.209.9 1 1 2036 20200905205729
+80.252.136.182 2 2 2274 20200910000543
+96.125.168.246 1 1 2036 20200913000022
+93.113.111.100 1 1 238 20200910012602
+198.12.156.214 1 1 2036 20200922083546
+62.210.99.227 2 2 2274 20200913160114
+147.139.133.13 1 1 9270 20200904035120
+62.210.92.175 1 1 9270 20200928025200
+132.148.154.8 1 1 2036 20200920150659
+54.187.135.223 2 26 524325 20200910035905
+192.71.126.175 1 1 9270 20200905181151
+192.99.200.69 1 1 238 20200908001854
+52.25.113.194 1 1 9270 20200910035859
+54.201.93.135 1 1 9270 20200921091514
+45.127.106.204 1 1 2036 20200912133517
+138.68.80.235 1 1 238 20200912003131
+69.162.68.206 2 26 524325 20200930153357
+3.129.66.243 1 2 18847 20200930141908
+192.36.248.249 1 1 9270 20200917110159
+47.94.141.148 1 1 2036 20200910020633
+34.219.11.203 1 1 9270 20200909030110
+178.62.252.206 1 1 2036 20200910221842
+178.128.51.162 1 1 2036 20200913012149
+208.109.11.224 1 1 2036 20200914054436
+198.12.225.100 1 1 2036 20200918171842
+5.79.77.54 1 1 9270 20200929202814
+159.89.9.140 2 2 2274 20200909202710
+38.145.94.148 2 2 64236 20200928045717
+45.118.144.77 2 2 2274 20200910151508
+212.186.182.133 1 1 2036 20200908112313
+159.65.223.215 1 1 238 20200913145845
+95.110.129.91 1 1 2036 20200912041247
+46.101.84.165 1 1 2036 20200910040337
+142.93.157.53 1 1 0 20200920084729
+166.62.122.244 1 1 2036 20200911215325
+51.15.78.133 1 1 9270 20200929010024
+159.89.1.19 1 1 2036 20200909213747
+67.205.161.59 2 2 2274 20200913060440
+139.59.85.41 1 1 2036 20200912204538
+34.82.217.165 1 1 2036 20200910004313
+146.185.163.81 1 1 238 20200913085520
+142.93.161.89 1 1 2036 20200908064957
+103.118.53.158 1 1 9270 20200906104746
+192.241.180.168 1 1 32118 20200922171501
+54.200.150.41 1 1 9270 20200911094557
+161.117.196.97 1 1 9270 20200904035106
+193.70.89.118 2 2 4072 20200918114238
+176.56.62.144 1 1 2036 20200911162524
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20200901 13 13 20784 6
+20200902 15 15 30054 8
+20200903 21 21 35749 11
+20200904 23 23 114869 14
+20200905 39 39 74529 24
+20200906 43 43 180214 14
+20200907 39 39 47293 13
+20200908 45 65 220264 19
+20200909 48 48 59338 15
+20200910 118 142 619377 31
+20200911 166 166 307044 27
+20200912 44 44 30857 19
+20200913 71 71 153047 18
+20200914 21 45 558451 8
+20200915 17 17 21698 10
+20200916 12 12 10392 6
+20200917 26 26 50718 13
+20200918 18 42 580177 12
+20200919 17 17 30968 10
+20200920 22 22 35040 13
+20200921 18 42 563649 8
+20200922 23 23 73478 12
+20200923 23 23 102011 9
+20200924 26 60 1214060 12
+20200925 16 16 30054 8
+20200926 25 26 193600 9
+20200927 19 19 78151 8
+20200928 20 20 103560 10
+20200929 18 18 39324 10
+20200930 26 51 647854 12
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 26
+5mn-15mn 8
+15mn-30mn 12
+30s-2mn 15
+2mn-5mn 4
+0s-30s 295
+30mn-1h 29
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 110
+/wp-cron.php 591 0 169 184
+/wp-login.php 101 205636 101 81
+/ 79 896096 65 61
+//wp-login.php 52 310450 0 2
+/xmlrpc.php 33 124492 22 31
+/wp-admin/admin-ajax.php 28 0 6 10
+//wp-json/wp/v2/users/ 13 6694 0 11
+/author/admin/ 11 92851 0 0
+/cobertura/ 6 51510 0 2
+/pqr/ 5 58140 0 0
+/titulo-de-la-publicacion-en-el-blog/ 5 47689 1 2
+/wp-json/oembed/1.0/embed 4 4496 0 0
+//xmlrpc.php 3 1297 0 0
+// 2 17710 0 0
+/wp-json/ 2 98956 0 0
+/wp-includes/wlwmanifest.xml 2 920 0 0
+//wp-includes/wlwmanifest.xml 2 2090 1 0
+/deleteme.chaw4yff.php 1 2483 0 0
+/deleteme.wppqcb.php 1 7909 0 0
+/deleteme.wpkksu.php 1 7909 0 0
+/deleteme.chancmoy.php 1 2483 0 0
+/deleteme.chab5nlo.php 1 2483 0 0
+/deleteme.chaluc4z.php 1 2483 1 0
+/deleteme.wp89sr.php 1 7909 0 1
+/deleteme.wpqk5e.php 1 7909 0 1
+/deleteme.wpxbzl.php 1 7909 0 0
+/deleteme.wpldlv.php 1 7909 0 1
+/deleteme.chalhypq.php 1 2483 1 0
+/deleteme.cha9ql1x.php 1 2483 0 0
+/deleteme.chacakfg.php 1 2483 1 0
+/deleteme.wpxaiw.php 1 7909 0 0
+/deleteme.cham3wt8.php 1 2483 1 0
+/deleteme.wpodju.php 1 7909 0 0
+/deleteme.wpp7gj.php 1 7909 0 0
+/deleteme.chapfblb.php 1 2483 1 0
+/deleteme.wpxxcq.php 1 7411 0 0
+/deleteme.chadfwz9.php 1 2483 0 0
+/deleteme.chadvncf.php 1 2483 1 0
+/deleteme.wphlqd.php 1 7909 0 0
+/deleteme.wpmwjn.php 1 7909 0 0
+/index.php 1 9270 1 1
+/deleteme.wpwajo.php 1 7909 0 1
+/deleteme.chak2mfj.php 1 2483 1 0
+/deleteme.chahbhgs.php 1 2483 0 0
+/deleteme.wpgyrh.php 1 7909 0 0
+/deleteme.chasmhwx.php 1 2483 0 0
+/deleteme.cha4jwm8.php 1 2483 1 0
+/deleteme.wphami.php 1 7909 0 0
+/deleteme.chasvkod.php 1 2483 0 0
+/deleteme.wplgmb.php 1 7909 0 0
+/deleteme.chaz5xak.php 1 2483 0 0
+/deleteme.wpnfzr.php 1 7909 0 0
+/deleteme.wp0kht.php 1 7909 0 0
+/deleteme.wpzldf.php 1 7909 0 0
+/deleteme.chaggil7.php 1 2483 0 0
+/deleteme.wpyykg.php 1 7909 0 0
+/deleteme.chamlinv.php 1 2483 1 0
+/deleteme.chagzq92.php 1 2483 0 0
+/deleteme.wpisbu.php 1 7909 0 0
+/deleteme.chabvzcy.php 1 2483 1 0
+/deleteme.chanrq5p.php 1 2483 1 0
+/deleteme.wpdy2w.php 1 7909 0 0
+/deleteme.chakvx84.php 1 2483 0 0
+/deleteme.wpcg30.php 1 7909 0 0
+/deleteme.cha6ww0o.php 1 2483 0 0
+/deleteme.chaawopc.php 1 2483 0 0
+/deleteme.chatvfeb.php 1 2483 1 0
+/deleteme.cha1budi.php 1 2483 0 0
+/deleteme.chackgfo.php 1 2483 0 0
+/deleteme.cha8ithx.php 1 2483 1 0
+/deleteme.wp4ugi.php 1 7411 0 0
+/deleteme.wpxp7z.php 1 7411 0 0
+/deleteme.wpony7.php 1 7909 0 0
+/deleteme.cha7ilcb.php 1 2483 1 0
+/deleteme.wpmozr.php 1 7909 0 0
+/deleteme.wp2vqs.php 1 7909 0 0
+/deleteme.chajfuxg.php 1 2483 1 0
+/deleteme.wpxldq.php 1 7909 0 0
+/deleteme.wpnn85.php 1 7909 0 0
+/deleteme.wpmc4b.php 1 7909 0 0
+/deleteme.wp0786.php 1 7909 0 0
+/deleteme.wpciq5.php 1 7909 0 0
+/deleteme.wpp1hz.php 1 7909 0 0
+/deleteme.wp1ucl.php 1 7909 0 0
+/deleteme.chaf5x8g.php 1 2483 1 0
+/deleteme.wp4w59.php 1 7909 0 0
+/deleteme.wpwisv.php 1 7909 0 0
+/deleteme.chaztzou.php 1 2483 0 0
+/deleteme.chatnix0.php 1 2483 1 0
+/deleteme.chav3zsu.php 1 2483 1 0
+/deleteme.cha3vbzw.php 1 2483 0 0
+/deleteme.chaaiwin.php 1 2483 0 0
+/deleteme.chaujrm8.php 1 2483 1 0
+/deleteme.chaiq15a.php 1 2483 0 0
+/deleteme.wpnoks.php 1 7909 0 0
+/deleteme.chavuhsl.php 1 2483 0 0
+/deleteme.chael6lo.php 1 2483 0 0
+/deleteme.wpgzps.php 1 7909 0 0
+/deleteme.wpjrpg.php 1 7909 0 0
+/deleteme.cha33ynd.php 1 2483 0 0
+/deleteme.wpyurp.php 1 7909 0 0
+/deleteme.wplg5e.php 1 7411 0 0
+/deleteme.cha1rr1w.php 1 2483 1 0
+/deleteme.wpu5yv.php 1 7909 0 0
+/deleteme.wpdf14.php 1 7909 0 0
+/deleteme.chazg9vl.php 1 2483 1 0
+/deleteme.wpybwd.php 1 7909 0 0
+/deleteme.chahodxz.php 1 2483 1 0
+/deleteme.cha8syp1.php 1 2483 1 0
+/deleteme.wpaqln.php 1 7909 0 0
+END_SIDER

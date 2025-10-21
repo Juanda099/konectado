@@ -1,0 +1,45 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 2MLND6NvzWgA3RcA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 19 Sep 2025 07:58:43 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 19 Sep 2025 07:58:43 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uzcZP-0000000776t-0pq9
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 19 Sep 2025 07:58:43 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uzcZO-0000000776l-0qoQ@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uzcZP-0000000776t-0pq9@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 19 Sep 2025 07:58:43 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uzcZO-0000000776l-0qoQ
+	for servicioalcliente@serkoi.com;
+	Fri, 19 Sep 2025 07:58:42 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uzcZO-0000000776l-0qoQ@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 19 Sep 2025 07:58:42 -0700
+
+De: Jung Cruse. 
+Correo: . 
+Telefono: 3878641300. 
+Mensaje: Not getting enough leads for Proditelsas Com? Check out this video to see our AI traffic solution in action: https://www.youtube.com/shorts/A8YPkXQq4EY. 
+

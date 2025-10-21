@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id OEejGagCf2inMxkA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 21 Jul 2025 20:16:56 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 21 Jul 2025 20:16:56 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1ue3Uu-00000007Ci6-1UKa
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 21 Jul 2025 20:16:56 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1ue3Ud-00000007Cf8-1EmI@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1ue3Uu-00000007Ci6-1UKa@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 21 Jul 2025 20:16:56 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1ue3Ud-00000007Cf8-1EmI
+	for servicioalcliente@serkoi.com;
+	Mon, 21 Jul 2025 20:16:39 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1ue3Ud-00000007Cf8-1EmI@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 21 Jul 2025 20:16:39 -0700
+
+De: Ferne Baldessin. 
+Correo: . 
+Telefono: 4405809501. 
+Mensaje: Our AI-driven solution delivers keyword and location-specific visitors to your site, offering a budget-friendly alternative to expensive paid advertising. Ready to boost your reach?
+
+https://ow.ly/i27B50WrhbV. 
+

@@ -1,0 +1,100 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id MALqM9tUnWf7QAYA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 31 Jan 2025 15:55:23 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 31 Jan 2025 15:55:23 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tdzv1-001lFo-2a
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 31 Jan 2025 15:55:23 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tdzup-001lC3-1V@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1738364123-eximdsn-112503581
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tdzv1-001lFo-2a@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 31 Jan 2025 15:55:23 -0700
+
+--1738364123-eximdsn-112503581
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 dzv1tTSEs7Al7 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=YYtH5xRf c=1 sm=1 tr=0 ts=679d54db p=z7yj3MyLJO9662B2qQ0A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=qRgBJNX7AAAA:8 a=3ZKOabzyN94A:10 a=S4eFLHoOr4TEoXbopjKR:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1738364123-eximdsn-112503581
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 dzv1tTSEs7Al7 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=YYtH5xRf c=1 sm=1 tr=0 ts=679d54db p=z7yj3MyLJO9662B2qQ0A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=qRgBJNX7AAAA:8 a=3ZKOabzyN94A:10 a=S4eFLHoOr4TEoXbopjKR:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1738364123-eximdsn-112503581
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tdzup-001lC3-1V
+	for servicioalcliente@serkoi.com;
+	Fri, 31 Jan 2025 15:55:23 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tdzup-001lC3-1V@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 31 Jan 2025 15:55:11 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Billy Bruni. 
+Correo: . 
+Telefono: 666769691. 
+Mensaje: Hello dear Entrepreneur,
+
+I wanted to share how Botsify can transform the way you handle customer interactions and help you scale effortlessly.
+
+Why Botsify?
+1Ô∏è. Save Time ‚Äì Botsify automates customer interactions, instantly handling FAQs and repetitive inquiries. This reduces wait times and allows your team to focus on high-value tasks.
+2Ô∏è. Make More Money ‚Äì Engage visitors 24/7, qualify leads, and guide them through the sales funnel. Automated upselling and cross-selling help maximize revenue.
+3Ô∏è.  Save Money ‚Äì Reduce hiring and labor costs by automating customer support without compromising service quality.
+4Ô∏è. Enhance Your Brand ‚Äì Provide fast, efficient, and personalized support, improving customer satisfaction and positioning your company as a leader in your industry.
+5Ô∏è. Reduce Stress ‚Äì Less manual work means a smoother workflow and better well-being for your team‚Äîbecause a stress-free business is a successful one!
+
+Ì†ΩÌ∫Ä Unlimited Chats, No Restrictions!
+Unlike other platforms that limit interactions, Botsify offers unlimited conversations at no extra cost.
+
+Ì†ΩÌ≤° Try Botsify free for 14 days and see the impact yourself!
+
+Need more details? Book a free demo‚Äîno commitment, just answers to all your questions and more!
+
+Ì†ΩÌ≥å Start Your Free Trial | Book a Free Demo : https://app.botsify.com/register?referral=AInKnRTAQ8 
+
+Looking forward to helping you grow!
+
+Best regards,
+. 
+
+
+--1738364123-eximdsn-112503581--

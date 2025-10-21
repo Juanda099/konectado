@@ -1,0 +1,115 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id aFpfLlJa5WM5TREAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 09 Feb 2023 13:40:50 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 09 Feb 2023 13:40:50 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pQDis-004mD2-Kj
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 09 Feb 2023 13:40:50 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pQDin-004mBJ-CU@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1675975250-eximdsn-1582227706
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pQDis-004mD2-Kj@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 09 Feb 2023 13:40:50 -0700
+
+--1675975250-eximdsn-1582227706
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 QDispNYIdy0IM :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=DbjR6NhW c=1 sm=1 tr=0 ts=63e55a52 p=k_bvpK_fAAAA:8 p=KlG4oFspXngA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=m04uMKEZRckA:10 a=4Cr8C8glrJIA:10 a=pGLkceISAAAA:8 a=TcYvUUxzuLsvNfzs7jEA:9 a=xUw8KmifmYcA:10 a=wPh81gAyQusA:10 a=3kKLdCwAS10TpctlyAC7:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=sqb81yftrqocne5vrSzp:22 a=gmBUQmQ1v4TNhijbxsra:22 ::
+    100.00
+
+--1675975250-eximdsn-1582227706
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 QDispNYIdy0IM :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=DbjR6NhW c=1 sm=1 tr=0 ts=63e55a52 p=k_bvpK_fAAAA:8 p=KlG4oFspXngA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=m04uMKEZRckA:10 a=4Cr8C8glrJIA:10 a=pGLkceISAAAA:8 a=TcYvUUxzuLsvNfzs7jEA:9 a=xUw8KmifmYcA:10 a=wPh81gAyQusA:10 a=3kKLdCwAS10TpctlyAC7:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=sqb81yftrqocne5vrSzp:22 a=gmBUQmQ1v4TNhijbxsra:22 :: 100.00
+
+--1675975250-eximdsn-1582227706
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pQDin-004mBJ-CU
+	for servicioalcliente@serkoi.com;
+	Thu, 09 Feb 2023 13:40:50 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 154.29.109.153
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 154.29.109.153
+From:
+Message-Id: <E1pQDin-004mBJ-CU@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 09 Feb 2023 13:40:45 -0700
+
+De: Rosey Batt. 
+Correo: . 
+Telefono: 702-213-5665. 
+Mensaje: Greetings! I hope this email finds you well. I am writing to you today to introduce a game-changing innovation that has the 5 Star Touch that will rocket your business to the top of the traffic generation scene, basically overnight.
+
+Imagine having YOUR customers believe that your business has been recommend by Google and Bing just because YOUR business name appears next to the keyword YOUR customers are searching for in the search box. We call this Search Box Optimization. This solution is suitable for businesses of all shapes and sizes, and I can assure you, that your competition will not be wasting time in taking advantage of this opportunity. 
+
+The company I partner with is so confident in the effectiveness of this solution, that they offer a no risk guarantee. If this 5-Start Touch solution doesn’t increase your traffic as promised, you don’t pay a dime. I myself have been thoroughly impressed by the impact that this solution has had on businesses and I am eager to share it with others.
+
+My name is Rosey, and I am excited to promote this company’s product to businesses like yours. If would like to be notified when this Search Box Optimization launches for new clients simply text me at 702-213-5665.
+
+Don’t miss this once-in-a-lifetime opportunity to take your business to new heights. Note that once a business claims a keyword, they have it for as long as they want.
+
+Send the text now.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+to opt-out of future marketing go here https://www.contactformoptout.com/ if you choose to email your opt-out, you MUST put the link of your website that has the that you were contacted by.  DO NOT send your email address and phone number. YOUE WEBSITE LINK IS A MUST TO OPT OUT email theonlinefind@gmail.com
+Address
+Opt-out
+1050 e flamingo road se 107 1101
+Las Vegas NV, 89119
+
+
+. 
+
+
+--1675975250-eximdsn-1582227706--

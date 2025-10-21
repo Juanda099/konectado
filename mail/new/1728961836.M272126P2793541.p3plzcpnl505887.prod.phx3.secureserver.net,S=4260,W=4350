@@ -1,0 +1,90 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id sFdcDyzdDWdFoCoA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 14 Oct 2024 20:10:36 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 14 Oct 2024 20:10:36 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1t0XxE-00BjV1-0e
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 14 Oct 2024 20:10:36 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1t0Xx1-00BjGO-1q@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1728961836-eximdsn-1413945312
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t0XxE-00BjV1-0e@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 14 Oct 2024 20:10:36 -0700
+
+--1728961836-eximdsn-1413945312
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 0XxDtS9NEng7z :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=DJNE4DNb c=1 sm=1 tr=0 ts=670ddd2c p=Hm3ctN6MAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=f3Mc-QDLAAAA:8 a=HCs5WxzMQ6GZwYKfL5EA:9 a=-FEs8UIgK8oA:10 a=kmWYnKD08txgNIA4VXKR:22 a=0SaJ1KquKOlPPWsih9jA:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1728961836-eximdsn-1413945312
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 0XxDtS9NEng7z :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=DJNE4DNb c=1 sm=1 tr=0 ts=670ddd2c p=Hm3ctN6MAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=f3Mc-QDLAAAA:8 a=HCs5WxzMQ6GZwYKfL5EA:9 a=-FEs8UIgK8oA:10 a=kmWYnKD08txgNIA4VXKR:22 a=0SaJ1KquKOlPPWsih9jA:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1728961836-eximdsn-1413945312
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1t0Xx1-00BjGO-1q
+	for servicioalcliente@serkoi.com;
+	Mon, 14 Oct 2024 20:10:35 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.111.220.7
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.111.220.7
+From:
+Message-Id: <E1t0Xx1-00BjGO-1q@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 14 Oct 2024 20:10:23 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Misty Lett. 
+Correo: . 
+Telefono: 4123722802. 
+Mensaje: Hi there,
+
+Acquiring backlinks from highly established sites is crucial for your SEO success. However, relying on backlinks from high DA sites with zero ranking keywords can be counterproductive.
+
+If you recognize the importance of a strategic backlink approach, check out our service:
+https://www.strictlyseonet.com/semrush-backlinks/
+
+
+Thanks
+Striclty Digital
+Whatsapp us:https://wa.link/qz8zwo
+https://www.strictlyseonet.com/semrush-backlinks/. 
+
+
+--1728961836-eximdsn-1413945312--

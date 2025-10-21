@@ -1,0 +1,56 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id gCWaKbPRSWS08jcAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Wed, 26 Apr 2023 18:36:51 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Wed, 26 Apr 2023 18:36:51 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1prqZ1-00FOkT-IV
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Wed, 26 Apr 2023 18:36:51 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1prqYw-00FOjY-Kw@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1prqZ1-00FOkT-IV@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 26 Apr 2023 18:36:51 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1prqYw-00FOjY-Kw
+	for servicioalcliente@serkoi.com;
+	Wed, 26 Apr 2023 18:36:46 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 45.8.134.55
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 45.8.134.55
+From:
+Message-Id: <E1prqYw-00FOjY-Kw@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 26 Apr 2023 18:36:46 -0700
+
+De: Steve Collins. 
+Correo: . 
+Telefono: 06-13838518. 
+Mensaje: Hey there, my name is Steve and I am a remote recruitment agent for AISocial, I checked out your website and I am impressed. I am currently looking for a couple more social media specialists to join our team. The position is flexible so you can work it a couple hours a day on the side of your main business, it pays a minimum of $200 per day and would involve completing various tasks on social media platforms.
+
+We currently are hiring 4 more people from your location, if you are interested you can view the details of the job by clicking my hiring link below, it isn't the hardest job but we are looking for the most qualified candidates to proceed.
+
+https://www.theaisocial.com/socialmediajobs
+
+Thank you for your time, we hope to see you on our team!
+
+Looking out for you,
+Steve from AISocial. 
+

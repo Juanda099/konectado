@@ -1,0 +1,137 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id CHwVJVc5YWONMz0AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 01 Nov 2022 08:20:55 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 01 Nov 2022 08:20:55 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	id 1opt4R-00Gxcg-H4
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Tue, 01 Nov 2022 08:20:55 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1opt4Q-00Gxc6-Oz@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1667316055-eximdsn-1223958942
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1opt4R-00Gxcg-H4@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 01 Nov 2022 08:20:55 -0700
+
+--1667316055-eximdsn-1223958942
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 pt4RojpOtF1hF :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=WoDtc/Tv c=1 sm=1 tr=0 ts=63613957 p=KY3w8gh7AAAA:8 p=7QMtt-1JAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=9xFQ1JgjjksA:10 a=-iOU4KB_CPsA:10 a=i-x6Uf4seJqt1LSHc44A:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=0xgLOgdONIp6ReWtfY7s:22 a=nFFjNVGfoSlG1Vi7Lnti:22 ::
+    100.00
+
+--1667316055-eximdsn-1223958942
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 pt4RojpOtF1hF :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=WoDtc/Tv c=1 sm=1 tr=0 ts=63613957 p=KY3w8gh7AAAA:8 p=7QMtt-1JAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=9xFQ1JgjjksA:10 a=-iOU4KB_CPsA:10 a=i-x6Uf4seJqt1LSHc44A:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=0xgLOgdONIp6ReWtfY7s:22 a=nFFjNVGfoSlG1Vi7Lnti:22 :: 100.00
+
+--1667316055-eximdsn-1223958942
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1opt4Q-00Gxc6-Oz
+	for servicioalcliente@serkoi.com; Tue, 01 Nov 2022 08:20:54 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.241.169.12
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.241.169.12
+From:
+Message-Id: <E1opt4Q-00Gxc6-Oz@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 01 Nov 2022 08:20:54 -0700
+
+De: Kali Schulte. 
+Correo: . 
+Telefono: 06-47165829. 
+Mensaje: With our system, your caller gets an immediate SMS with a link to schedule an appointment on your calendar at your next available opportunity. You can head on over and set an appointment with our onboarding team to get set up and running right away.
+
+https://bravooffer.com/smstextback
+
+If you want more information on some of the other benefits of using SMS to grow your business, then here are 12 solid reasons to implement this simple strategy.
+
+12 benefits of using SMS for business
+So let’s dive into our 12 reasons you should start using SMS text messaging for your business, then we’ll go on to tell you how you can easily integrate this platform alongside your other existing communication platforms to create an omnichannel approach to servicing your customers.
+
+1.Immediate delivery
+As far as delivery goes, SMS is pretty quick, and it’s also efficient – taking only seconds to reach a vast audience. It’s rare to get such a quick and fast personalized message to an audience with that kind of speed.
+
+2. Immediate results
+You will instantly be able to see those who have received it, along with other analytical data such as those who have opened it, read it and of course, the important one, which is those who have responded.
+
+3. Personal
+Because it’s directly sent to each individual client, SMS is a very personal message. Mobile phones are very personal devices, so people will often respond with more personal immediacy. You can improve this still further by delivering it as a personal message to each individual. This is sure to grab their attention.
+
+Potential customers are far more likely to give you an email address than they are their mobile phone number, so yes you need to keep an email list too. But this demonstrates how personal most people take their phone number to be. Once you have a phone number, it’s likely that customers will be more responsive to your messaging because they invited you in.
+
+4. Cost-effective
+Text messages are cheap especially if you buy them in bulk. No other marketing method provides such affordable results, particularly if compared with traditional marketing methods, such as TV, radio or print media.     
+
+5. Simple and easy
+Due to its simplicity and reach, SMS has become a globally adopted communication channel. Everyone knows how to open, read and text a message. Moreover, thanks to the limitation in length (160 characters), messages are small, direct, concise and go straight to the point. And who doesn’t like it sweet & simple?
+
+6. Global marketing
+Text messages are designed to reach anyone who has a reasonably modern mobile device and a cell phone signal. So you can reach millions of people in an instant, anytime, anywhere.
+
+It’s estimated there are up to 7 billion mobile phones in daily use today, so SMS is one of the few technologies that are universally synced between all of the global mobile phone operators. You can reach the world with text messaging.
+
+7. Direct delivery
+SMS is among the most direct ways of communicating with clients, besides meeting face-to-face and a direct phone call. Since the other 2 can be complicated, time-consuming and expensive, it’s clear who’s the winner!
+
+8. Precise
+Once you have your audience segmented, then you can accurately target groups of customers with a variety of marketing messages. Understanding what works and what doesn’t means you can refine your approach to maximize sales potential.
+
+9. Efficient
+The ability to schedule text messages means that you can save time in planning your campaign, you don’t need to write each message individually, so groups of people can be targeted with scheduled texts.
+
+This then provides more time to spend on other areas of the business, or indeed, managing the bulk of sales opportunities that will come back from your SMS delivery very soon after sending.
+
+10. Trackable and analytics
+SMS can easily be trackable too, most providers offer delivery reports which can be a great source for interrogating what successes you’ve had with your SMS deliveries, so you can fully and accurately rate the success of your campaigns. You can then take lessons learned into the next campaign.
+
+11. Reliable
+Mobile phones don’t generally come with a spam filter, let alone a spam box. Mostly as mobile phone SMS messages are generally safer than email which can deliver all kinds of shady attachments. Plus, delivery occurs within a 48 hour period to allow for phones being switched off or out of range of a signal.
+
+So, for the most part, you know delivery by SMS is a reliable form of inboxing your customers. At worst, you might get your phone number blocked. But then that can be down to your message and your audience.
+
+12. SMS vs email
+SMS text messages have a far higher “open rate” than email. Plus, with email, you could be sending your emails to clients that long assigned your name to the junk box. If your text messages aren’t delivered, then there is feedback on that through the medium.
+
+Emails, of course, have their place and are still extremely effective in communicating with customers and increasing sales opportunities, as people say, “the money is in the list!”. But SMS is actually quicker, and safer overall.
+
+Armed with those undeniable advantages, let’s assume you like the idea and are probably wondering how you would go about setting up this system. So let’s dive into that by setting an appointment with our onboarding team
+
+https://bravooffer.com/smstextback
+
+All the best, 
+
+
+Opt out here
+https://redeyedeal.com/opt-out-2954. 
+
+
+--1667316055-eximdsn-1223958942--

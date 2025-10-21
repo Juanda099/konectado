@@ -1,0 +1,144 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id QwMSEL1mk2YgCRsA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 13 Jul 2024 22:48:45 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 13 Jul 2024 22:48:45 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sSs6H-007QvS-0e
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 13 Jul 2024 22:48:45 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sSs6C-007Qub-2V@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1720936125-eximdsn-1718394474
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sSs6H-007QvS-0e@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 13 Jul 2024 22:48:45 -0700
+
+--1720936125-eximdsn-1718394474
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Ss6Hs2NNjxg8z :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=asF5CjZV c=1 sm=1 tr=0 ts=669366bd p=oaH3vmS9Z4QOp9ReUbUA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=4kmOji7k6h8A:10 a=yMLecPVjAAAA:8 a=3ZKOabzyN94A:10 a=HwR36gB4XySiQ-p4cJ92:22 a=A8K_miWuik2qwdwY1c4Z:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1720936125-eximdsn-1718394474
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Ss6Hs2NNjxg8z :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=asF5CjZV c=1 sm=1 tr=0 ts=669366bd p=oaH3vmS9Z4QOp9ReUbUA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=4kmOji7k6h8A:10 a=yMLecPVjAAAA:8 a=3ZKOabzyN94A:10 a=HwR36gB4XySiQ-p4cJ92:22 a=A8K_miWuik2qwdwY1c4Z:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1720936125-eximdsn-1718394474
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sSs6C-007Qub-2V
+	for servicioalcliente@serkoi.com;
+	Sat, 13 Jul 2024 22:48:45 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.164.186.202
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.164.186.202
+From:
+Message-Id: <E1sSs6C-007Qub-2V@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 13 Jul 2024 22:48:40 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: James Mcgill. 
+Correo: . 
+Telefono: 5455554567. 
+Mensaje: Hows your customer service? Are your employees working while on phone or chatting with friends? Paying more than around 20 dollars a phone line? Ditch your provider. What if I was to tell you there are plans out there that can not only record selected calls for future training but put you in the drivers seat seeing whos helping your company and who might need a little more help. I can help! Other areas this service would help with are:
+ 
+
+
+
+
+-Superior Call Quality and Reliability
+-Competitive Pricing with No Hidden Fees
+-Advanced Features like VoIP 
+-Video Conferencing
+-Virtual Numbers
+-Seamless Integration with Your Existing Systems
+-24/7 Exceptional Customer Support 
+-Scalable Solutions to Grow with Your Business
+-Enhanced Security and Data Protection
+
+
+Don’t miss out on this opportunity to elevate your business communication.
+
+
+Reply with the work YES and I will send you a free 30 min video and link to my website as soon as possible!!!
+
+
+
+
+
+Looking forward to helping you unlock your communication potential!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1108 rock ave apt 7 waupun wi 53963
+To stop receiving marketing emails please reply stop with your domain example......badmonkey.com. 
+
+
+--1720936125-eximdsn-1718394474--

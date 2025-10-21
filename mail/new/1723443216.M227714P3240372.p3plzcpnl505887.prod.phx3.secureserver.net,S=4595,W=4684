@@ -1,0 +1,89 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id oO71DBCouWa0cTEA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 11 Aug 2024 23:13:36 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 11 Aug 2024 23:13:36 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sdOJE-00DbmE-0W
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 11 Aug 2024 23:13:36 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sdOJ5-00DbWz-2t@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1723443216-eximdsn-582900573
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sdOJE-00DbmE-0W@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 11 Aug 2024 23:13:36 -0700
+
+--1723443216-eximdsn-582900573
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 dOJEs4Cw0blTT :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=X4+ZK3Te c=1 sm=1 tr=0 ts=66b9a810 p=4J6o8NIqAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=pGLkceISAAAA:8 a=qPjrxJs78e_JsfCojGcA:9 a=tjTIllgkyIkA:10 a=iq47Fu6_sB0A:10 a=4ut6qvpyOUzA87T1nUVI:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=1bks8LVp-wmniAIlUO1q:22 a=Yajj1CDIGXXwlA5zWPKp:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1723443216-eximdsn-582900573
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 dOJEs4Cw0blTT :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=X4+ZK3Te c=1 sm=1 tr=0 ts=66b9a810 p=4J6o8NIqAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=pGLkceISAAAA:8 a=qPjrxJs78e_JsfCojGcA:9 a=tjTIllgkyIkA:10 a=iq47Fu6_sB0A:10 a=4ut6qvpyOUzA87T1nUVI:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=1bks8LVp-wmniAIlUO1q:22 a=Yajj1CDIGXXwlA5zWPKp:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1723443216-eximdsn-582900573
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sdOJ5-00DbWz-2t
+	for servicioalcliente@serkoi.com;
+	Sun, 11 Aug 2024 23:13:36 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 154.29.233.197
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 154.29.233.197
+From:
+Message-Id: <E1sdOJ5-00DbWz-2t@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 11 Aug 2024 23:13:27 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Jason Clemens. 
+Correo: . 
+Telefono: 12345687. 
+Mensaje: Hello, this is Jason. I found your website recently and noticed a few areas where some small changes could increase your a lot more leads. I've helped several clients in your industry improve their websites, and they've seen a significant growth in leads due to these changes.
+
+I'm happy to jump on a quick call to discuss these improvements with you. I'm available this week, so no charge, just to assist.
+
+Tell me the best way to get in touch, and we can set up a convenient time. It's simple stuff and shouldn't take too long to fix.
+
+Best Regards,
+
+Jason Clemens
+-- Visit: https://bit.ly/FreeWebsiteAuditByJason
+Or reply to this email Jason.clemens01@gmail.com or call me at: +1-651-419-8101. 
+
+
+--1723443216-eximdsn-582900573--

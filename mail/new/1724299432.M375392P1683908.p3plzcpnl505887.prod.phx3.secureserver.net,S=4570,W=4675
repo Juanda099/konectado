@@ -1,0 +1,105 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 8GQ1Fqi4xmbEsRkA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 21 Aug 2024 21:03:52 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 21 Aug 2024 21:03:52 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sgz3A-0075zy-11
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 21 Aug 2024 21:03:52 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sgz34-0075yP-1a@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1724299432-eximdsn-934648245
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sgz3A-0075zy-11@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 21 Aug 2024 21:03:52 -0700
+
+--1724299432-eximdsn-934648245
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 gz3AsJpVgaCKk :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=FP7QxPos c=1 sm=1 tr=0 ts=66c6b8a8 p=g3wXUFhsUXcA:10 p=Y5xgk3oarkyUiX-TM4GS:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=UqCG9HQmAAAA:8 a=j6bZMUxnOt-ciDz-c08A:9 a=3ZKOabzyN94A:10 a=0lgtpPvCYYIA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1724299432-eximdsn-934648245
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 gz3AsJpVgaCKk :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=FP7QxPos c=1 sm=1 tr=0 ts=66c6b8a8 p=g3wXUFhsUXcA:10 p=Y5xgk3oarkyUiX-TM4GS:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=UqCG9HQmAAAA:8 a=j6bZMUxnOt-ciDz-c08A:9 a=3ZKOabzyN94A:10 a=0lgtpPvCYYIA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1724299432-eximdsn-934648245
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sgz34-0075yP-1a
+	for servicioalcliente@serkoi.com;
+	Wed, 21 Aug 2024 21:03:52 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 138.199.59.243
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 138.199.59.243
+From:
+Message-Id: <E1sgz34-0075yP-1a@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 21 Aug 2024 21:03:46 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Tanu. 
+Correo: . 
+Telefono: 9154490370. 
+Mensaje: Hello, I’m Tanu, a HubSpot Certified copywriter and content writer, distinguished as one of the few globally certified in this field. With 8 years of experience, I excel in crafting compelling content across various formats, including blogs, articles, e-commerce product descriptions, SEO content, website copy, business service descriptions, newsletters, brochures, and SOPs. I carefully ensure that each word is strategically chosen to resonate with your audience while integrating relevant keywords with precise density to boost SEO effectiveness. Additionally, I can craft Meta titles and descriptions tailored for every page of your website, ensuring optimal search engine visibility.
+
+If you have any current content needs, please don’t hesitate to contact me at brandbuildingassistance@outlook.com 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+
+--1724299432-eximdsn-934648245--

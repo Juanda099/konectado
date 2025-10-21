@@ -1,0 +1,85 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id GFvDCgFza2el8DoA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 24 Dec 2024 19:50:41 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 24 Dec 2024 19:50:41 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tQHTt-00GGsM-0N
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 24 Dec 2024 19:50:41 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tQHTk-00GGnb-2D@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1735095041-eximdsn-505116588
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tQHTt-00GGsM-0N@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 24 Dec 2024 19:50:41 -0700
+
+--1735095041-eximdsn-505116588
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 QHTttiloB4Jd3 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=cIsaskeN c=1 sm=1 tr=0 ts=676b7301 p=2oNWDmOrvGoegdTT9hgA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=RZcAm9yDv7YA:10 a=isZzd6j2AAAA:8 a=YrcoOYBdAAAA:8 a=3ZKOabzyN94A:10 a=aSz48rO6vuOyJeaM2ap8:22 a=PASPP1u2rMi1vm_e_KLx:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1735095041-eximdsn-505116588
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 QHTttiloB4Jd3 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=cIsaskeN c=1 sm=1 tr=0 ts=676b7301 p=2oNWDmOrvGoegdTT9hgA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=RZcAm9yDv7YA:10 a=isZzd6j2AAAA:8 a=YrcoOYBdAAAA:8 a=3ZKOabzyN94A:10 a=aSz48rO6vuOyJeaM2ap8:22 a=PASPP1u2rMi1vm_e_KLx:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1735095041-eximdsn-505116588
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tQHTk-00GGnb-2D
+	for servicioalcliente@serkoi.com;
+	Tue, 24 Dec 2024 19:50:41 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tQHTk-00GGnb-2D@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 24 Dec 2024 19:50:32 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Danuta Zapata. 
+Correo: . 
+Telefono: 6817210721. 
+Mensaje: Do you have a project you’ve been dreaming of completing for years? A book you want to write or publish? A business you’re ready to start or grow? Imagine having your own dedicated team to help you get it across the finish line.
+At WCD Marketing, we offer Accountability Coaching designed to turn your ideas into achievements. From “someday” to “success.”  We know how easy it is for goals to stall when life gets busy, and that’s why we’re here to keep you focused, motivated, and moving forward.
+Whether it’s a creative project, a business venture, or a personal milestone, our proven strategies and expert guidance will help you overcome obstacles, stay on track, and achieve the success you’ve envisioned. We don’t just set goals; we make them happen—together.
+Don’t let another year pass with your dreams on hold. Contact us today and take the first step toward making your vision a reality.  Contact me at wilene@wcdenterprises.com or WCD Marketing and let’s start your journey to success.
+Your breakthrough is waiting—let’s make it happen!
+
+----------------
+Here is the link to the form
+https://wcdmarketing.com/contact/. 
+
+
+--1735095041-eximdsn-505116588--

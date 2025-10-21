@@ -1,0 +1,83 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 4KnKD/LdbmgxEQcA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 09 Jul 2025 14:24:02 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 09 Jul 2025 14:24:02 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uZcGo-00000001x3m-0acS
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 09 Jul 2025 14:24:02 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uZcGd-00000001wtZ-3OqE@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uZcGo-00000001x3m-0acS@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 09 Jul 2025 14:24:02 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uZcGd-00000001wtZ-3OqE
+	for servicioalcliente@serkoi.com;
+	Wed, 09 Jul 2025 14:23:51 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uZcGd-00000001wtZ-3OqE@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 09 Jul 2025 14:23:51 -0700
+
+De: Omar Galloway. 
+Correo: . 
+Telefono: 5597630715. 
+Mensaje: Hi,
+
+
+Are you sending cold emails but worried about hitting the spam folder?
+
+
+We offer fully prewarmed SMTP servers ready to go — no warmup needed:
+
+
+✅ Instant setup
+
+✅ High-reputation IPs
+
+✅ Supports high-volume cold outreach
+
+One-time cost of just $375. 
+Plus, you’ll get a FREE 14-day trial of our bonus toolkit:
+
+
+Unlimited Email Accounts
+
+AI Warmup
+
+Up to 1M Active Leads
+
+150,000 AI Word Credits
+
+
+Check it out here → smtpInbox.com
+
+
+
+Happy to answer any questions!
+
+
+Best,
+
+Omar
+. 
+

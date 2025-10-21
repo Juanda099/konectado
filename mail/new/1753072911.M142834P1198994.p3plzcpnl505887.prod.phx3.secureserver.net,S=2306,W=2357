@@ -1,0 +1,51 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id aOsiBw/FfWiSSxIA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 20 Jul 2025 21:41:51 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 20 Jul 2025 21:41:51 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1udiLX-000000056Og-0Bc0
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 20 Jul 2025 21:41:51 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1udiLM-000000056M8-3GMg@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1udiLX-000000056Og-0Bc0@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 20 Jul 2025 21:41:51 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1udiLM-000000056M8-3GMg
+	for servicioalcliente@serkoi.com;
+	Sun, 20 Jul 2025 21:41:40 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1udiLM-000000056M8-3GMg@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 20 Jul 2025 21:41:40 -0700
+
+De: Tiago S. 
+Correo: . 
+Telefono: 732921988. 
+Mensaje: Hi there,
+
+I just came across your website, it looks great! But I noticed the logo doesn’t fully reflect your brand’s strength. First impressions matter, so here’s my offer: I’d love to offer a free logo redesign, no strings attached. If it doesn’t fit your style, no worries at all.
+
+View my work & contact me here on fiverr: https://bit.ly/portfoilio-Tiago
+
+– Tiago. 
+

@@ -1,0 +1,46 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id OBK6KN548Gju9DoA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 15 Oct 2025 21:47:26 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 15 Oct 2025 21:47:26 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1v9Fte-0000000GDXT-2XNA
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 15 Oct 2025 21:47:26 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1v9FtX-0000000GDWD-0SAG@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1v9Fte-0000000GDXT-2XNA@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 15 Oct 2025 21:47:26 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1v9FtX-0000000GDWD-0SAG
+	for servicioalcliente@serkoi.com;
+	Wed, 15 Oct 2025 21:47:19 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1v9FtX-0000000GDWD-0SAG@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 15 Oct 2025 21:47:19 -0700
+
+De: Rosemarie Teece. 
+Correo: . 
+Telefono: 889224253. 
+Mensaje: Discover why thousands trust Amish Reserve for natural relief. Rated Excellent on Trustpilot — experience organic wellness that truly works. From the heart of Amish Country, every Amish Reserve product is handcrafted using time-honored traditions and the finest natural ingredients. Our top-selling favorites include Natural Pain Relief Cream, Rest & Relax Formula, Daily Wellness Drops, and Herbal Salves & Oils — all made pure, tested for quality, and free from synthetic additives. Join thousands who trust Amish Reserve for honest, effective wellness. Shop now: https://amishreserve.com/collections/all
+. 
+

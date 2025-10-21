@@ -1,0 +1,141 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 8LpnLi7OsWddDD0A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 16 Feb 2025 04:38:22 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 16 Feb 2025 04:38:22 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tjcyc-00GqfR-2H
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 16 Feb 2025 04:38:22 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tjcyR-00GqbA-1w@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1739705902-eximdsn-1652132846
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tjcyc-00GqfR-2H@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 16 Feb 2025 04:38:22 -0700
+
+--1739705902-eximdsn-1652132846
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 jcyctOLjfzFT9 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=MPGamNZl c=1 sm=1 tr=0 ts=67b1ce2e p=B6SD4yx05lhcUPzqiIsA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=T2h4t0Lz3GQA:10 a=Yv54dSjnAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=khjitF4eWTVcZivGhQua:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1739705902-eximdsn-1652132846
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 jcyctOLjfzFT9 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=MPGamNZl c=1 sm=1 tr=0 ts=67b1ce2e p=B6SD4yx05lhcUPzqiIsA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=T2h4t0Lz3GQA:10 a=Yv54dSjnAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=khjitF4eWTVcZivGhQua:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1739705902-eximdsn-1652132846
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tjcyR-00GqbA-1w
+	for servicioalcliente@serkoi.com;
+	Sun, 16 Feb 2025 04:38:22 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tjcyR-00GqbA-1w@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 16 Feb 2025 04:38:11 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Ryan Pyles. 
+Correo: . 
+Telefono: 668943937. 
+Mensaje: 
+Crikey!
+
+Lunchtime already?   Hope you're hungry for some mind-blowing truth bombs.
+
+Picture this: You're at a fancy schmancy business seminar, surrounded by suits that cost more than your car.
+
+The speaker steps up, looking like he just walked off a magazine cover.
+
+He clears his throat and drops this bombshell…
+
+"The key to success is working harder and longer hours."
+
+The crowd goes wild.
+
+You?
+
+You're fighting the urge to chuck your overpriced seminar coffee at him.
+
+Because let's face it - you've been there, done that, got the burnout to prove it.
+
+But what if I told you there's a way to work smarter, not harder?
+
+A way that's already raked in 247,584.65 in record time: https://www.growwealthy.info/aifranchise ?
+
+And no, it's not some get-rich-quick scheme or a pyramid scam dressed up in a fancy suit.
+
+It's a legitimate business that's so powerful, it's like having a money-printing machine in your pocket.
+
+The best part?
+
+It costs less than your fancy morning latte.
+
+I'm talking about the AI Franchise by Michael Cheney (the OG): https://www.growwealthy.info/aifranchise 
+
+A system so efficient, it makes traditional businesses look like they're running​ on hamster wheels.
+
+This isn't about replacing human ingenuity with cold, unfeeling machines.
+
+It's about leveraging cutting-edge AI to do the heavy lifting while you focus on what really matters - living your best life.
+
+Imagine waking up to find your business has been humming along all night, making money while you were catching Z's.
+
+No more sacrificing family time for the grind.
+
+No more missing out on life's precious moments because you're glued to your computer.
+
+This is your chance to flip the script on what success looks like.
+
+Ready to discover the 247,584.65 secret for yourself?
+
+Click below and prepare for your mind to be blown: https://www.growwealthy.info/aifranchise 
+
+Best,
+Ryan Pyles
+
+
+
+P.S. Success doesn't have to mean sacrifice.   Grab your piece of the AI revolution and start living life on your own terms: https://www.growwealthy.info/aifranchise 
+
+
+
+UNSUBSCRIBE: https://www.growwealthy.info/unsubscribe/?d=proditelsas.com 
+Address: 4821 Poe Lane
+Paola, KS 66071. 
+
+
+--1739705902-eximdsn-1652132846--

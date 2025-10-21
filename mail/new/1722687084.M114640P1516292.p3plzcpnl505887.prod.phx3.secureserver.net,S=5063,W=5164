@@ -1,0 +1,101 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 7I45BmwermYEIxcA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 03 Aug 2024 05:11:24 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 03 Aug 2024 05:11:24 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1saDbY-006MSE-08
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 03 Aug 2024 05:11:24 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1saDbQ-006MQ9-0G@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1722687084-eximdsn-2007169646
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1saDbY-006MSE-08@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 03 Aug 2024 05:11:24 -0700
+
+--1722687084-eximdsn-2007169646
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 aDbXsO0jVojts :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=O63yvw9W c=1 sm=1 tr=0 ts=66ae1e6c p=7jinVdc_vf-K9w9xJVru:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=sGz8wb4UAAAA:8 a=gvEWQHGuAAAA:8 a=E_vZNWrlg_P3U0dQnbEA:9 a=-FEs8UIgK8oA:10 a=zY0JdQc1-4EAyPf5TuXT:22 a=FelJ9Qjv7qEEecjhsvGS:22 a=Y6qt3LAc584zpJst3wUE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=6ZT68aAqujzcFUlwFyIj:22 ::
+    100.00
+
+--1722687084-eximdsn-2007169646
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 aDbXsO0jVojts :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=O63yvw9W c=1 sm=1 tr=0 ts=66ae1e6c p=7jinVdc_vf-K9w9xJVru:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=sGz8wb4UAAAA:8 a=gvEWQHGuAAAA:8 a=E_vZNWrlg_P3U0dQnbEA:9 a=-FEs8UIgK8oA:10 a=zY0JdQc1-4EAyPf5TuXT:22 a=FelJ9Qjv7qEEecjhsvGS:22 a=Y6qt3LAc584zpJst3wUE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=6ZT68aAqujzcFUlwFyIj:22 :: 100.00
+
+--1722687084-eximdsn-2007169646
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1saDbQ-006MQ9-0G
+	for servicioalcliente@serkoi.com;
+	Sat, 03 Aug 2024 05:11:23 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 204.15.110.166
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 204.15.110.166
+From:
+Message-Id: <E1saDbQ-006MQ9-0G@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 03 Aug 2024 05:11:16 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Daniel Sanderson. 
+Correo: . 
+Telefono: 916-634-1928. 
+Mensaje: I am not an engineer or architect, but I've been in the AEC industry for a long time. 
+
+I have a well-reasoned offer for you to consider, which involves my media outlet creating regular content and promoting it on LinkedIn. 
+
+I am considering moving to a donation model because it allows us to work together and build trust. What do you think? 
+
+Once we begin to work together, I am sure that the scope of my work for you will increase; I am saying this based on experience and a history of happy clients. 
+
+Here's my article on the CEO world, called "Trendsetting Architectural Consultant," 
+https://planksip.me/CEO
+
+Here are two example articles (with a video explaining a new seismic anchor for building facades) that I'd love to share; 
+Example #1: https://planksip.me/ex1
+Example #2: https://planksip.me/ex2
+
+Or BAUCO, a happy client that supplies mechanical and electrical "virtually invisible" drywall access panels. Here is a link to their website: https://bauco.com.
+
+Please let me know your feedback or willingness to explore working together. 
+
+Thank you for your time and consideration, 
+
+Daniel Sanderson 
+Cell; 778-838-2531. 
+
+
+--1722687084-eximdsn-2007169646--

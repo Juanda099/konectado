@@ -1,0 +1,62 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id EPn4OSeZDmclBg8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 15 Oct 2024 09:32:39 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 15 Oct 2024 09:32:39 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1t0kTP-0048Oi-2w
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 15 Oct 2024 09:32:39 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1t0kTE-0048As-2y@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1t0kTP-0048Oi-2w@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 15 Oct 2024 09:32:39 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1t0kTE-0048As-2y
+	for servicioalcliente@serkoi.com;
+	Tue, 15 Oct 2024 09:32:28 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 185.190.42.200
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 185.190.42.200
+From:
+Message-Id: <E1t0kTE-0048As-2y@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 15 Oct 2024 09:32:28 -0700
+
+De: Dencyprof. 
+Correo: . 
+Telefono: 88481777144. 
+Mensaje: Erectile dysfunction treatments available online from TruePills. 
+Discreet, next day delivery and lowest price guarantee. 
+ 
+Trial ED Pack consists of the following ED drugs: 
+ 
+Viagra Active Ingredient: Sildenafil 100mg 5 pills 
+Cialis 20mg 5 pills 
+Levitra 20mg 5 pills 
+ 
+Acquistare viagra con paypal: 
+ 
+https://cutt.ly/4eIsYIfm 
+ 
+https://cutt.ly/webeBkKx 
+ 
+https://u.to/BdO4IA. 
+

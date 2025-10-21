@@ -1,0 +1,121 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id KMa4A5s4RWXIdwIAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Fri, 03 Nov 2023 11:14:51 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Fri, 03 Nov 2023 11:14:51 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qyyh0-000iLy-T6
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Fri, 03 Nov 2023 11:14:51 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qyygw-000iFd-1g@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1699035290-eximdsn-840659937
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qyyh0-000iLy-T6@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 03 Nov 2023 11:14:50 -0700
+
+--1699035290-eximdsn-840659937
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 yyh0qnikwwCPu :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=euwZjKlX c=1 sm=1 tr=0 ts=6545389a p=kEDBsHewAAAA:20 p=LbYH2qZkAAAA:20 p=RppQr0x9k5QA:10 p=CO9FTC6JPzb34hgu9aed:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=BNY50KLci1gA:10 a=smrCSdiaAAAA:8 a=tK3mXjE6Ky9fj7STmvoA:9 a=AWHbcYPWEh4A:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 a=N9367y62RxpOJ3WW_aZz:22 ::
+    100.00
+
+--1699035290-eximdsn-840659937
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 yyh0qnikwwCPu :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=euwZjKlX c=1 sm=1 tr=0 ts=6545389a p=kEDBsHewAAAA:20 p=LbYH2qZkAAAA:20 p=RppQr0x9k5QA:10 p=CO9FTC6JPzb34hgu9aed:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=BNY50KLci1gA:10 a=smrCSdiaAAAA:8 a=tK3mXjE6Ky9fj7STmvoA:9 a=AWHbcYPWEh4A:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 a=N9367y62RxpOJ3WW_aZz:22 :: 100.00
+
+--1699035290-eximdsn-840659937
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qyygw-000iFd-1g
+	for servicioalcliente@serkoi.com;
+	Fri, 03 Nov 2023 11:14:50 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 196.240.51.197
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 196.240.51.197
+From:
+Message-Id: <E1qyygw-000iFd-1g@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 03 Nov 2023 11:14:46 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Essie Tancred. 
+Correo: . 
+Telefono: 570-574-8594. 
+Mensaje: To the proditelsas.com Webmaster!
+
+Nice website!
+
+My name’s Essie, and I just found your site - proditelsas.com - while surfing the net. Your site popped up at the very top of the search engine results, so I looked you out. Seems like what you’re doing is pretty cool.
+
+But just in case you don’t mind me asking – once someone like me stumbles across proditelsas.com, what usually happens?
+
+Is your site create leads for your business?
+
+I’m assuming a few, but I also guess you’d prefer more… studies suggest that 7 out 10 who land on a site end up leaving without any interaction.
+
+Not good.
+
+Here’s a idea – what if there's an easy way for each visitor to “signal interest” to get a phone call from you INSTANTLY… the moment they hit your site and expressed, “call me now.”
+
+Guess what, you can –
+
+Web Visitors Into Leads is a software widget that’s operates on your site, set to collect every visitor’s Name, Email address and Phone Number. It allows you be informed RIGHT AWAY – so that you can speak to that lead while they’re actually browsing your site.
+
+CLICK HERE https://bit.ly/LeadGena to experience a Live Demo with Web Visitors Into Leads now to understand precisely how it works.
+
+Time is crucial when it comes to connecting with leads – the difference between connecting with someone in just 5 minutes compared to 30 minutes later is massive – like 100 times better!
+
+That’s why we designed out our new SMS Text With Lead function… since once you’ve collected the visitor’s phone number, you can instantly start a text message (SMS) chat.
+
+Think about the potential – even if you don’t close a deal immediately, you can follow up with text messages for fresh promotions, content links, or even just “how you doing?” notes to build a relationship.
+
+Would not that be cool?
+
+CLICK HERE https://bit.ly/LeadGena to discover what Web Visitors Into Leads can offer for your business.
+
+You could be turning up to 100X more leads right now!
+Essie
+
+PS: Web Visitors Into Leads provides a FREE 14 days trial – and it even includes International Long Distance Calling. 
+You have customers eager to chat with you at this moment… don’t keep them waiting. 
+CLICK HERE https://bit.ly/LeadGena to test Web Visitors Into Leads today.
+
+If you'd want to unsubscribe click here https://bit.ly/3rD0G5c
+
+Just a brief note - the names and email used here, Essie and Tancred, are for representation and not genuine contact details. We appreciate transparency and wish to make that you’re aware! If you want to get in contact with the real person responsible for this message, please visit our site, and we’ll link you with the appropriate individual.
+. 
+
+
+--1699035290-eximdsn-840659937--

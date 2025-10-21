@@ -1,0 +1,110 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id oKi+JRBS/meyBhcA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 15 Apr 2025 05:33:20 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 15 Apr 2025 05:33:20 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1u4fTc-006PnF-1i
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 15 Apr 2025 05:33:20 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1u4fTR-006PgQ-2h@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1744720400-eximdsn-1237171457
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1u4fTc-006PnF-1i@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 15 Apr 2025 05:33:20 -0700
+
+--1744720400-eximdsn-1237171457
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 4fTcuwo9pXgPh :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=YNdlyQGx c=1 sm=1 tr=0 ts=67fe5210 p=8WpghKBKK7_g5dM1EU8A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=Yv54dSjnAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=khjitF4eWTVcZivGhQua:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1744720400-eximdsn-1237171457
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 4fTcuwo9pXgPh :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=YNdlyQGx c=1 sm=1 tr=0 ts=67fe5210 p=8WpghKBKK7_g5dM1EU8A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=Yv54dSjnAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=khjitF4eWTVcZivGhQua:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1744720400-eximdsn-1237171457
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1u4fTR-006PgQ-2h
+	for servicioalcliente@serkoi.com;
+	Tue, 15 Apr 2025 05:33:20 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1u4fTR-006PgQ-2h@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 15 Apr 2025 05:33:09 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Clarence Perez. 
+Correo: . 
+Telefono: 01.38.47.70.08. 
+Mensaje: Hi,
+
+You can earn more from your professional website: proditelsas.com, if you currently earn $1,000 per month, then with MonetizeMore's help you will earn $1,300 to $1,500 per month.
+
+MonetizeMore was founded in 2010 as one of the early outsourced ad operations companies that innovated by focusing on the optimization of ad inventories rather than merely the management. 
+
+MonetizeMore became a Google Certified Partner at the end of 2014. Google recognized their leadership in outsourced ad operations and the professional use of Google AdSense, AdX and DFP that they certified MonetizeMore as a partner they could vouch for.
+
+Since day one, MonetizeMore has offered a percentage of the ad revenue increase for premium publishers. This was innovative because no ad operations consultant or SSP would dream of risking financial losses if they couldn’t achieve the performance they promised. MonetizeMore pioneered their model with one of the largest online classified networks in Canada, UsedEverywhere, by increasing their ad revenues by millions of dollars (Maybe you're next): https://www.growwealthy.info/monetizemore .
+
+Once MonetizeMore proved their initial success, they applied this perfected model on new premium publishers to also achieve staggering lifts in ad revenues and page RPMs. Many publishers like you have seen consistently high page RPM increases. 
+
+Pro:
+
+	Great page RPM increases for publishers from any country
+
+	Customized ad optimization
+
+	Dedicated ad optimization teams
+
+Publisher Requirements: 
+
+	Traffic minimum: 500k page views per month (They also work with publishers below this threshold, but they want to cooperate with websites like proditelsas.com with significant potential: https://www.growwealthy.info/monetizemore .)
+		
+	Publisher language requirement: None
+
+
+Regards,
+Clarence Perez
+
+
+UNSUBSCRIBE: https://www.growwealthy.info/unsubscribe/?d=proditelsas.com 
+418 Arron Smith Drive
+Honolulu, HI 96813. 
+
+
+--1744720400-eximdsn-1237171457--

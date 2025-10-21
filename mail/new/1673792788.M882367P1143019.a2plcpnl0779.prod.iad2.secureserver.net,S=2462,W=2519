@@ -1,0 +1,57 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id mK9wMxQNxGPrcBEAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sun, 15 Jan 2023 07:26:28 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sun, 15 Jan 2023 07:26:28 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pH3xs-004pKD-Np
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sun, 15 Jan 2023 07:26:28 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pH3xl-004p9g-SF@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1pH3xs-004pKD-Np@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 15 Jan 2023 07:26:28 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pH3xl-004p9g-SF
+	for servicioalcliente@serkoi.com;
+	Sun, 15 Jan 2023 07:26:21 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 84.17.49.5
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 84.17.49.5
+From:
+Message-Id: <E1pH3xl-004p9g-SF@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 15 Jan 2023 07:26:21 -0700
+
+De: Raymond. 
+Correo: . 
+Telefono: 85216486275. 
+Mensaje: Dear Sir/mdm, 
+Hope you are doing well 
+We supply 4G solar cameras, explosion-proof cameras and underwater cameras for commercial use. Use of applications: ships, construction sites, oil rigs and nuclear reactor etc.. 
+Do contact us for any enquiries and visit our website below 
+We also have nitrile gloves if you need some 
+Whatsapp: +65 87695655 
+Email: sales@thecctvpro.com 
+W: https://www.thecctvpro.com/ 
+If you wish to unsubscribe, do reply to our email. 
+regards, 
+Raymond. 
+

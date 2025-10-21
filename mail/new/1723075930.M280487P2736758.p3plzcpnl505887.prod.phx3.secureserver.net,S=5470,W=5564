@@ -1,0 +1,94 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 4BwgEFoNtGZ2wikA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 07 Aug 2024 17:12:10 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 07 Aug 2024 17:12:10 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sbqlG-00BUMk-0g
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 07 Aug 2024 17:12:10 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sbql7-00BUBs-2S@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1723075930-eximdsn-353991414
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sbqlG-00BUMk-0g@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 07 Aug 2024 17:12:10 -0700
+
+--1723075930-eximdsn-353991414
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 bqlGscZkVabMS :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Apol3/9P c=1 sm=1 tr=0 ts=66b40d5a p=iyOI5gxRfGlNwuEeV1UA:9 p=sBOGckTRcwNjLwtwUS26:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=FlfHxdS5AAAA:8 a=FbrwdjZN4z8A:10 a=TLP0qMQHKLcgN60ytP8M:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1723075930-eximdsn-353991414
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 bqlGscZkVabMS :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Apol3/9P c=1 sm=1 tr=0 ts=66b40d5a p=iyOI5gxRfGlNwuEeV1UA:9 p=sBOGckTRcwNjLwtwUS26:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=FlfHxdS5AAAA:8 a=FbrwdjZN4z8A:10 a=TLP0qMQHKLcgN60ytP8M:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1723075930-eximdsn-353991414
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sbql7-00BUBs-2S
+	for servicioalcliente@serkoi.com;
+	Wed, 07 Aug 2024 17:12:10 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 149.34.252.53
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 149.34.252.53
+From:
+Message-Id: <E1sbql7-00BUBs-2S@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 07 Aug 2024 17:12:01 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Dave Sinclair. 
+Correo: . 
+Telefono: 079 7295 9396. 
+Mensaje: Hello , 
+
+Do you suffer with anxiety or PTSD, or have a history that involved being abused?   Or do you know someone who suffers?  Do you have employees or family members who need help? These emotions can be totally resolved with EMDR self-help at:  Se-REM.com.   
+
+Many people don't know that REM brain activity dramatically improves the processing of traumatic emotion. It creates peace and empowers the listener. Se-REM is an advanced version of EMDR therapy. It is more powerful because it combines elements of 6 different therapies, EMDR, hypnosis, mindfulness, Gestalt child within work, music therapy, and Awe therapy, (connecting profoundly with nature).  
+  
+It has helped thousands of people overcome PTSD, and anxiety. But it is also helpful in a great many situations, loss of any kind, grief, and even marital counseling. Se-REM's mission statement is "Trauma relief at as close to free as possible". This not-for-profit program downloads to a smart phone or computer and can be used in an office or at home.  Therapists use this program to aid their clients in making rapid progress. 
+ 
+Read about it, hear samples, and download at: Se-REM.com. Once you own the program, you are encouraged to give it away to others who will benefit. I provide free consultation to all who use the program.  Write questions to: davidb@se-rem.com. Se-REM.com has a 95% rating on Trustpilot.  It is in use in 33 countries. 
+
+No subscriptions asked for. This email is a one-time occurrence.
+
+I wish you well,  
+David B., LCSW  (retired trauma therapist). 
+
+P.S: You may wish to save this email for future reference.   This announcement is a public service for a not-for-profit program that has saved and restored lives shattered by abuse and trauma.. 
+
+
+--1723075930-eximdsn-353991414--

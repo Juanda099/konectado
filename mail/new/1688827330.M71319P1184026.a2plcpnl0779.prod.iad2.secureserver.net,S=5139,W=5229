@@ -1,0 +1,90 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id uHdlAcJ1qWQaERIAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 08 Jul 2023 07:42:10 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 08 Jul 2023 07:42:10 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qI98T-004ziI-Ri
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sat, 08 Jul 2023 07:42:09 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qI98P-004zdQ-2b@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1688827329-eximdsn-1309300409
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qI98T-004ziI-Ri@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 08 Jul 2023 07:42:09 -0700
+
+--1688827329-eximdsn-1309300409
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 I98TquvpHDjHy :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=TuEgxhbh c=1 sm=1 tr=0 ts=64a975c1 p=wu3a3p55AAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=JkmBRdC3AAAA:8 a=smrCSdiaAAAA:8 a=OQGmKDd1UOT_dO9aRacA:9 a=-FEs8UIgK8oA:10 a=tWoqpk2qV6BvwcQ7z6sE:22 a=UxC7Hm4Ox8bzgXgdYd15:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=sl6iiTqqDGjdwytBingO:22 ::
+    100.00
+
+--1688827329-eximdsn-1309300409
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 I98TquvpHDjHy :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=TuEgxhbh c=1 sm=1 tr=0 ts=64a975c1 p=wu3a3p55AAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=JkmBRdC3AAAA:8 a=smrCSdiaAAAA:8 a=OQGmKDd1UOT_dO9aRacA:9 a=-FEs8UIgK8oA:10 a=tWoqpk2qV6BvwcQ7z6sE:22 a=UxC7Hm4Ox8bzgXgdYd15:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=sl6iiTqqDGjdwytBingO:22 :: 100.00
+
+--1688827329-eximdsn-1309300409
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qI98P-004zdQ-2b
+	for servicioalcliente@serkoi.com;
+	Sat, 08 Jul 2023 07:42:09 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 45.39.46.37
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 45.39.46.37
+From:
+Message-Id: <E1qI98P-004zdQ-2b@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 08 Jul 2023 07:42:05 -0700
+
+De: Richard Turner. 
+Correo: . 
+Telefono: 02.61.92.33.04. 
+Mensaje: Need more cash to start or grow your business, charity or any type of project?  
+
+There's more investment capital available than you can imagine and much of it never gets placed.  I'll show you where it is and how to get it.  Best of all, my methods and sources do not rely on your credit history, assets, income, social standing, or location. 
+
+I should know because I've been raising capital for my own projects using the exact method you're about to learn for more than four decades. 
+ 
+I've raised tens of millions of dollars for my own companies, each of which had annual sales between $18 million and $40 million.  Thanks to my ability to raise capital my current business is on track now to top $100 million in annual sales.  Now it's YOUR turn to apply these tactics and methods for your OWN organization.
+
+I'll give you, ABSOLUTELY FREE, my step-by-step formula showing you how I raised all that money, and how you can too!  I call it The Ultimate Business Funding Checklist.  To get your free copy just request it here to get instant access:  https://bizfundingforyou.com
+
+See you there!
+
+Rich
+
+To opt out of future messages, click or tap here:  https://omnioptout.xyz?customer_domain=proditelsas.com. 
+
+
+--1688827329-eximdsn-1309300409--

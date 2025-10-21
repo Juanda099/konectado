@@ -1,0 +1,61 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id cxLCNP8WK2fgnh8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 06 Nov 2024 00:13:03 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 06 Nov 2024 00:13:03 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1t8aDv-008h5r-2a
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 06 Nov 2024 00:13:03 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1t8aDk-008gqL-1v@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1t8aDv-008h5r-2a@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 06 Nov 2024 00:13:03 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1t8aDk-008gqL-1v
+	for servicioalcliente@serkoi.com;
+	Wed, 06 Nov 2024 00:12:52 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 158.51.147.84
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 158.51.147.84
+From:
+Message-Id: <E1t8aDk-008gqL-1v@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 06 Nov 2024 00:12:52 -0700
+
+De: Ahmad Azam. 
+Correo: . 
+Telefono: 9521424413. 
+Mensaje: Hello Friend,
+
+Creator proditelsas.com
+
+I wanted to personally invite you to something truly exciting! I'm inviting you to join an amazing community of forward-thinking entrepreneurs who are unlocking freedom and success through a powerful marketing system. 
+
+Inside, you’ll gain access to step-by-step trainings on achieving lasting success online. This community has been a total transformation for me, and I know it can be for you too!
+
+Grab Your VIP Access
+https://easyleadsflow.digital/community
+
+Let’s make big things happen together!
+
+Warm regards,
+Ahmad Azam. 
+

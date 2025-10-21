@@ -1,0 +1,93 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id MBZxFl9ATWaWYwAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 21 May 2024 17:46:23 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 21 May 2024 17:46:23 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1s9a7b-000BaN-10
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 21 May 2024 17:46:23 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1s9a7R-000BW7-2d@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1716338783-eximdsn-131889678
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1s9a7b-000BaN-10@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 21 May 2024 17:46:23 -0700
+
+--1716338783-eximdsn-131889678
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 9a7bsagsoBI1m :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=B7hy0/tM c=1 sm=1 tr=0 ts=664d405f p=6l-eYLnwAAAA:20 p=hHoRwFc9AAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=oN_nQjIOHqPoN-UFYgEA:9 a=KdZh9To6ZYAA:10 a=YXDF9bRtWIjFGaM0kl54:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1716338783-eximdsn-131889678
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 9a7bsagsoBI1m :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=B7hy0/tM c=1 sm=1 tr=0 ts=664d405f p=6l-eYLnwAAAA:20 p=hHoRwFc9AAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=oN_nQjIOHqPoN-UFYgEA:9 a=KdZh9To6ZYAA:10 a=YXDF9bRtWIjFGaM0kl54:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1716338783-eximdsn-131889678
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1s9a7R-000BW7-2d
+	for servicioalcliente@serkoi.com;
+	Tue, 21 May 2024 17:46:23 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 198.144.190.248
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 198.144.190.248
+From:
+Message-Id: <E1s9a7R-000BW7-2d@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 21 May 2024 17:46:13 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Brian Jenkins. 
+Correo: . 
+Telefono: 18885256696. 
+Mensaje: Don't Miss This! 
+
+Bring ultra bright displays to meeting rooms with this wireless portable projector.
+
+Order the Epson PowerLite 1288 1080p Projector with Wi-Fi now for $599 and receive a FREE ceiling mount! Epson Certified ReNew Program and Epson Standard Warranty included.
+
+Experience vibrant, high-resolution projections with Miracast wireless screen mirroring. Ready to ship immediately - in stock now. FREE U.S. ground shipping included.
+
+Order now at PSSAV and Save: https://bit.ly/3QPR9Be
+
+Only 32 available - order now and don't miss out!
+
+
+Unsubscribe here if you don't want to get these awesome offers: https://form.jotform.com/241413178974462
+Flughafenstrasse 3, Peekskill, NY, US, 17111. 
+
+
+--1716338783-eximdsn-131889678--

@@ -1,0 +1,31 @@
+Return-Path: <noreply@a2plcpnl0779.prod.iad2.secureserver.net>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id ACrtAVP4jWEpexYAoisFWw
+	(envelope-from <noreply@a2plcpnl0779.prod.iad2.secureserver.net>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 11 Nov 2021 22:14:59 -0700
+Return-path: <noreply@a2plcpnl0779.prod.iad2.secureserver.net>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 11 Nov 2021 22:14:59 -0700
+Received: from root by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	(envelope-from <noreply@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1mlO59-005QiB-3Q
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Thu, 11 Nov 2021 21:22:31 -0700
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Subject: [Installatron] Proditel SAS updated
+Date: Thu, 11 Nov 2021 21:22:31 -0700
+From: noreply@a2plcpnl0779.prod.iad2.secureserver.net
+Message-ID: <0bf53c8c871fbe53150e2136ff2210d1@a2plcpnl0779.prod.iad2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.57
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+The update process for Proditel SAS located at http://www.proditelsas.com has succeeded.
+
+New installed version: WordPress 5.4.8
+
+End of report.
+

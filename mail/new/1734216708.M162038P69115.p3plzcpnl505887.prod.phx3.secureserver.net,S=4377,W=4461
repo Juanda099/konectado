@@ -1,0 +1,84 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id SBt/CQQMXmf7DQEA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 14 Dec 2024 15:51:48 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 14 Dec 2024 15:51:48 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tMazE-000Pzx-0G
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 14 Dec 2024 15:51:48 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tMayz-000PwA-1s@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1734216708-eximdsn-1168801064
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tMazE-000Pzx-0G@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 14 Dec 2024 15:51:48 -0700
+
+--1734216708-eximdsn-1168801064
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 MazEt2BnJDiyQ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=GvW4+l1C c=1 sm=1 tr=0 ts=675e0c04 p=W0hXNVz1AAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=RZcAm9yDv7YA:10 a=smrCSdiaAAAA:8 a=yqfa5iZziuIQhdRSNLUA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=AGMk0faPYU2kUiiYt_Ae:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1734216708-eximdsn-1168801064
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 MazEt2BnJDiyQ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=GvW4+l1C c=1 sm=1 tr=0 ts=675e0c04 p=W0hXNVz1AAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=RZcAm9yDv7YA:10 a=smrCSdiaAAAA:8 a=yqfa5iZziuIQhdRSNLUA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=AGMk0faPYU2kUiiYt_Ae:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1734216708-eximdsn-1168801064
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tMayz-000PwA-1s
+	for servicioalcliente@serkoi.com;
+	Sat, 14 Dec 2024 15:51:47 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.82.81.113
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.82.81.113
+From:
+Message-Id: <E1tMayz-000PwA-1s@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 14 Dec 2024 15:51:33 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Juliane Villa. 
+Correo: . 
+Telefono: 635119454. 
+Mensaje: 
+What if your website proditelsas.com was guaranteed a significant boost in traffic starting today? Many sites unknowingly lose hundreds—even thousands—of potential visitors daily. Our AI-powered solution ensures you don’t fall into that category.
+
+Get started with a free trial of 4,000 so you can experience the results firsthand. Beyond the trial, we provide plans for up to 250K, all targeted to match your audience needs. Let’s expand your site’s reach together. Get more information here: https://ln.run/PJGG7
+
+. 
+
+
+--1734216708-eximdsn-1168801064--

@@ -1,0 +1,165 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 0F5HETcQkmdp/TUA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 23 Jan 2025 02:47:35 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 23 Jan 2025 02:47:35 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tatoF-00EsrV-0k
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 23 Jan 2025 02:47:35 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tato4-00EsbC-0i@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1737625655-eximdsn-2117227736
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tatoF-00EsrV-0k@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 23 Jan 2025 02:47:35 -0700
+
+--1737625655-eximdsn-2117227736
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 atoFtB5wF08lE :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Wb/2a1hX c=1 sm=1 tr=0 ts=67921037 p=J_6GPAh8AAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=kJjpJbnrGeZjIbTdfJ8A:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=Rs6WJNaaI7vqF0WlzYVz:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1737625655-eximdsn-2117227736
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 atoFtB5wF08lE :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Wb/2a1hX c=1 sm=1 tr=0 ts=67921037 p=J_6GPAh8AAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=kJjpJbnrGeZjIbTdfJ8A:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=Rs6WJNaaI7vqF0WlzYVz:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1737625655-eximdsn-2117227736
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tato4-00EsbC-0i
+	for servicioalcliente@serkoi.com;
+	Thu, 23 Jan 2025 02:47:34 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tato4-00EsbC-0i@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 23 Jan 2025 02:47:24 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Heather Young. 
+Correo: . 
+Telefono: 0349 6816457. 
+Mensaje: 
+You won't believe what I managed to secure for you...
+
+As most webmasters/online marketers (myself included) you’re probably paying
+each month or each year ridiculously high fees for online hosting that’s
+sub-par, slow and keeps crashing.
+
+FACT: hosting is one of the biggest expenses for webmasters/online marketers, and
+expensive fees are the #1 reason why many give up quickly or never even start.
+
+This here puts an end to it: https://www.increasetraffic.shop/spark 
+
+WHAT?  Enterprise-level hosting for a one-time fee?
+
+AND – brand new for 2025: your own drag & drop funnel builder aka “the ClickFunnels killer!”
+
+YES – cloud hosting for life with just one small payment, that still gives you 100% uptime, blazingly fast loading times, SUPERIOR service and the best possible support Webmasters/Internet Marketers
+wish for…
+
+SPARK is the next step in cloud hosting.  A revolution like no other that enables you to enjoy:
+
+[+] Faster loading websites than ever before
+[+] 60-Second Quick Setup Using Built-in Wizard
+[+] Built-in “ClickFunnels KILLER” drag & drop funnel builder
+[+] 100% uptime with free SSL encryption built-in
+[+] Unlimited sites, email accounts & more
+[+] Next-Generation Control Panel
+[+] Free one-click Wordpress installer
+[+] 24/7 support from marketing gurus
+
+… and here’s the kicker: you get all of this, for LIFE, with just ONE time low fee today…
+
+…and if you act FAST, you get your own 99-in-1 premium Ais included!
+
+That means, you can have the AI
+
+[+] build entire (affiliate) websites on Spark hosting
+[+] write unlimited unique content for those websites
+[+] code any apps that you can host inside Spark
+[+] create amazing HD videos and HOST them as well with our Spark video player
+[+] generate graphics and images
+[+] turn any text into human sounding speech
+[+] create music that can top the Billboard charts
+[+] publish NY Times bestselling books
+[+] manage your social media accounts
+[+] clone any voice and setup talking avatars
+[+] get you #1 rankings via SEO and backlinks
+[+] run live chatbots for support & sales
+[+] even create entire Hollywood-polish movies using Sora AI
+
+Listen – Sora AI premium alone is $200/mo.  And you get it as a bonus of this hosting package.
+
+Get started now (available ONLY during early bird): https://www.increasetraffic.shop/spark 
+
+
+There's not really much I can say about this other than - GET IT!  I'm sure you can see the huge value in it.
+
+It's the same package huge corporations are offering and charging you hundreds of dollars a year.
+
+Except this one is better in every way:
+
+[+] unlimited bandwidth
+[+] 24/7 premium support
+[+] faster loading websites
+[+] DDOS & malware protection
+[+] Dedicated server cluster
+[+] Quick Setup Wizard
+
+
+
+Let’s not kid ourselves: you know you’re getting this.  It’s what’s called in the industry as a “complete no-brainer”.
+
+So why not get it now while the early bird is live?
+
+
+You’d be virtually stealing it – it’s that affordable!
+
+In fact, wait till you see the price – you get lifetime hosting for LESS than what you previously used to pay for one month of service!
+
+Click here now to claim yours: https://www.increasetraffic.shop/spark 
+
+To your success,
+Heather Young
+
+
+
+UNSUBSCRIBE: https://www.increasetraffic.shop/unsubscribe/?d=proditelsas.com 
+Address: 1968 Logan Lane
+Denver, CO 80205. 
+
+
+--1737625655-eximdsn-2117227736--

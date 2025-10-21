@@ -1,0 +1,88 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id +NnCAVW4YWYKUS8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 06 Jun 2024 06:23:33 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 06 Jun 2024 06:23:33 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sFD5Y-00DJCr-37
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 06 Jun 2024 06:23:33 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sFD5K-00DInx-0v@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1717680212-eximdsn-1047506637
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sFD5Y-00DJCr-37@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 06 Jun 2024 06:23:32 -0700
+
+--1717680212-eximdsn-1047506637
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 FD5YsTV8KEr7D :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=JaR3rlKV c=1 sm=1 tr=0 ts=6661b854 p=9BIJHf7oAAAA:8 p=X7mhbKlES_9Lkdq4gKU2:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=RFDaamjjAAAA:20 a=aIp08Od_yvAej1fbV-8A:9 a=3ZKOabzyN94A:10 a=TIhSfsOxo9cA:10 a=IawXvI9lP1MA:10 a=T4qsEIY6Z8gA:10 a=V9SzmBXc7sWNSSvjWDyn:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1717680212-eximdsn-1047506637
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 FD5YsTV8KEr7D :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=JaR3rlKV c=1 sm=1 tr=0 ts=6661b854 p=9BIJHf7oAAAA:8 p=X7mhbKlES_9Lkdq4gKU2:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=RFDaamjjAAAA:20 a=aIp08Od_yvAej1fbV-8A:9 a=3ZKOabzyN94A:10 a=TIhSfsOxo9cA:10 a=IawXvI9lP1MA:10 a=T4qsEIY6Z8gA:10 a=V9SzmBXc7sWNSSvjWDyn:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1717680212-eximdsn-1047506637
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sFD5K-00DInx-0v
+	for servicioalcliente@serkoi.com;
+	Thu, 06 Jun 2024 06:23:32 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.239.40.11
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.239.40.11
+From:
+Message-Id: <E1sFD5K-00DInx-0v@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 06 Jun 2024 06:23:18 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Ivory Strzelecki. 
+Correo: . 
+Telefono: . 
+Mensaje: Whole USA B2B contact data (email, phone, addresses, social media profiles). Gain entry to the contact details of every business operating in the entire USA. 
+
+That’s more than 7,900 specialized databases of businesses working in the United States of America – Over 5 Million Business Contact Details for ONLY 49 dollars. That’s $0.00001 per contact. 1/100,000 of $1! Our 20GB data is collected this year. 
+
+Get a free sample and purchase: https://bit.ly/usab2bCFL
+
+
+
+Unsubscribe here if you don't want to get these great deals: https://bynd.li/unsubscribe
+Baumbachstrasse 7, Willersdorf, BURGENLAND, Austria, 3200. 
+
+
+--1717680212-eximdsn-1047506637--

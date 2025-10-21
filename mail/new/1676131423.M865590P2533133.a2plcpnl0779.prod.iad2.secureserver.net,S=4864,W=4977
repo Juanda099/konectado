@@ -1,0 +1,113 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 2OHbMl+852MNpyYAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 11 Feb 2023 09:03:43 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 11 Feb 2023 09:03:43 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pQsLn-00AdnF-Na
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sat, 11 Feb 2023 09:03:43 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pQsLj-00AdlP-3c@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1676131423-eximdsn-1535867533
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pQsLn-00AdnF-Na@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 11 Feb 2023 09:03:43 -0700
+
+--1676131423-eximdsn-1535867533
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 QsLnpc6LRy0IM :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=DbjR6NhW c=1 sm=1 tr=0 ts=63e7bc5f p=dNNrv8SXAAAA:20 p=CkmYRlJcAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=m04uMKEZRckA:10 a=2rTsYDsBwaEA:10 a=vpE6wdZGjapds0NxSpoA:9 a=olcHJwEynjoA:10 a=ZT_8zCgGubuJgGonBfBE:22 a=44mnNBeVCTpWjVAOHrk-:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1676131423-eximdsn-1535867533
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 QsLnpc6LRy0IM :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=DbjR6NhW c=1 sm=1 tr=0 ts=63e7bc5f p=dNNrv8SXAAAA:20 p=CkmYRlJcAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=m04uMKEZRckA:10 a=2rTsYDsBwaEA:10 a=vpE6wdZGjapds0NxSpoA:9 a=olcHJwEynjoA:10 a=ZT_8zCgGubuJgGonBfBE:22 a=44mnNBeVCTpWjVAOHrk-:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1676131423-eximdsn-1535867533
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pQsLj-00AdlP-3c
+	for servicioalcliente@serkoi.com;
+	Sat, 11 Feb 2023 09:03:43 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 38.154.161.61
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 38.154.161.61
+From:
+Message-Id: <E1pQsLj-00AdlP-3c@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 11 Feb 2023 09:03:39 -0700
+
+De: Joey Nolette. 
+Correo: . 
+Telefono: (02) 4957 6564. 
+Mensaje: Hey, have you heard of ChatGPT??
+
+I guess so... It's the new web app that has disrupted the internet for the past few weeks... (Over 10 million signups so far)
+
+But guess what, the special version for marketers and business owners has just been released..
+
+See Access Here >> https://bit.ly/aibuddyx
+
+It works just like Siri, all you need do is ask and it would automatically create any marketing asset for you...
+
+It can create
+
+í ¼í¾¯ Image from text
+í ¼í¾¯ Video Sales Letter
+í ¼í¾¯ Email Script
+í ¼í¾¯ Webinar Script
+í ¼í¾¯ Sales page copy
+í ¼í¾¯ Brand Story
+í ¼í¾¯ Marketing Plan
+
+and lots more...
+
+all you need do is "say it.".. and AiBuddy will create it..
+
+See How This Works Here >>> https://bit.ly/aibuddyx
+
+In a few hours, due to outrageous on-demand purchase, the price of AiBuddy would be increasing.... so you have to take your chance right away and grab your copy...
+
+(Use Special Coupon Code: AIBUDDY3 to reduce the pricing during purchase)
+
+Cheers
+
+Rolex M.
+
+
+========
+
+Unsubscribe: https://bit.ly/uunsubscribehere. 
+
+
+--1676131423-eximdsn-1535867533--

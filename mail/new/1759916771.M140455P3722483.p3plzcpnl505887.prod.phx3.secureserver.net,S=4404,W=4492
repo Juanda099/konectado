@@ -1,0 +1,88 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id GJfRBuMy5mjzzDgA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 08 Oct 2025 02:46:11 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 08 Oct 2025 02:46:11 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1v6QkN-0000000FuJy-0B6g
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 08 Oct 2025 02:46:11 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1v6QkF-0000000FuI8-1Szt@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1759916771-eximdsn-15233760
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1v6QkN-0000000FuJy-0B6g@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 08 Oct 2025 02:46:11 -0700
+
+--1759916771-eximdsn-15233760
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 6QkMv6tIEVavA :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=T+3Vj/KQ c=1 sm=1 tr=0 ts=68e632e2 p=Sg99XdO22CJxIvPDduUA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=xYvQq5hmYUp9UrEdZ97h8g==:17 a=MKtGQD3n3ToA:10 a=x6icFKpwvdMA:10 a=q4z2bWwTAAAA:8 a=3ZKOabzyN94A:10 a=9ROg-SuGflihxkTmUMU2:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a[truncated]
+
+--1759916771-eximdsn-15233760
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 6QkMv6tIEVavA :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=T+3Vj/KQ c=1 sm=1 tr=0 ts=68e632e2 p=Sg99XdO22CJxIvPDduUA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=xYvQq5hmYUp9UrEdZ97h8g==:17 a=MKtGQD3n3ToA:10 a=x6icFKpwvdMA:10 a=q4z2bWwTAAAA:8 a=3ZKOabzyN94A:10 a=9ROg-SuGflihxkTmUMU2:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=4xQPVDHpUZLjoeD0PocN:22 a=yo6FTSzOfzKqdyR7rV1A:22 a=eeDtFMHqlkPJeBvn9BwJ:22 :: 100.00
+
+--1759916771-eximdsn-15233760
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1v6QkF-0000000FuI8-1Szt
+	for servicioalcliente@serkoi.com;
+	Wed, 08 Oct 2025 02:46:10 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:team@enso.finance
+Message-Id: <E1v6QkF-0000000FuI8-1Szt@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 08 Oct 2025 02:46:03 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+X-DATACENTER: p3
+X-SITE-UID: z1h9uk8mq9i3
+X-SHOPPER-ID: 8fa67fc62ca84e7fff53d063d30fc77efc6179c583c5fd823c5cc6ae2719f6bb
+X-ENTITLEMENT-ID: ad501a63-d2c1-11ea-81e0-3417ebe73f0e
+X-ACCOUNT-CREATED-DATE: 1596153997
+
+De: Samuelbof. 
+Correo: team@enso.finance. 
+Telefono: 84684128838. 
+Mensaje: The Scammer Team — https://www.enso.build/ 
+ 
+Starting tomorrow, all your partners will begin receiving similar messages! 
+You do not keep your promises. 
+We hope your partners will be able to influence you. 
+ 
+Fulfill what you promised four years ago to the participants of the Vampire Attack campaign — and all of this will end immediately. 
+If you refuse to do so, more and more people will learn about your fraud, and they will start fighting against you.. 
+
+
+--1759916771-eximdsn-15233760--

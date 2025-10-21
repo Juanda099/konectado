@@ -1,0 +1,59 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id EK0rA8YhUWTEziUAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 02 May 2023 07:44:22 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 02 May 2023 07:44:22 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1ptrEr-00AVRS-Oz
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 02 May 2023 07:44:21 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1ptrEm-00AVPV-GN@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1ptrEr-00AVRS-Oz@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 02 May 2023 07:44:21 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1ptrEm-00AVPV-GN
+	for servicioalcliente@serkoi.com;
+	Tue, 02 May 2023 07:44:16 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 102.129.143.32
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 102.129.143.32
+From:
+Message-Id: <E1ptrEm-00AVPV-GN@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 02 May 2023 07:44:16 -0700
+
+De: Kevin Johnso. 
+Correo: . 
+Telefono: 81331115572. 
+Mensaje: Be careful, it's dangerous to work with them. These are scammers, neither one, they do not fulfill their obligations. 
+ 
+George - helloprofectmedia@gmail.com - http://www.profectmedia.uk/ 
+Kevin Johnson -  tbformleads@gmail.com  - myaafva@gmail.com 
+Susan Gilroy - susangilroy.haftoo@gmail.com -  https://globalbrands.clickfunnels.com/optin1hnqzip6g 
+http://www.tungstenbody.com/ 
+Michael - hivemailers@gmail.com - https://calendly.com/msinclair-myaa/myaa-overview 
+Jeremy - teammyaa2022@gmail.com - https://calendly.com/jeremymyaa/30min?month=2023-05 
+Michael - teammyaa2022@gmail.com - https://calendly.com/msinclair-myaa/myaa-overview?month=2023-05 
+Tiara - tiara.promo2022@gmail.com - https://calendly.com/tiara-82/30min?month=2023-05 
+Jeffery Brown - jefferybrown.betatester1@gmail.com - https://funding.thenationalsmallbusinessdirectory.com/dac-funding 
+Michael - tbformleads@gmail.com -  http://www.erpgoldgroup.com/appointments/ 
+April Yaseen - aarilyaseen@gmail.com. 
+

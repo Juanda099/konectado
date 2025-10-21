@@ -1,0 +1,102 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id qBteFfeiXGdK2gAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 13 Dec 2024 14:11:19 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 13 Dec 2024 14:11:19 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tMCwR-000FVG-0y
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 13 Dec 2024 14:11:19 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tMCwF-000FOF-1V@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1734124279-eximdsn-1109165669
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tMCwR-000FVG-0y@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 13 Dec 2024 14:11:19 -0700
+
+--1734124279-eximdsn-1109165669
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 MCwRtUaCRM7tR :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=aaWbnQot c=1 sm=1 tr=0 ts=675ca2f7 p=DJbTIT31AAAA:20 p=5smhJ33VT05ODzD_8C0A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=RZcAm9yDv7YA:10 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=r9PxOEZA83_ABAjm_Bws:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1734124279-eximdsn-1109165669
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 MCwRtUaCRM7tR :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=aaWbnQot c=1 sm=1 tr=0 ts=675ca2f7 p=DJbTIT31AAAA:20 p=5smhJ33VT05ODzD_8C0A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=RZcAm9yDv7YA:10 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=r9PxOEZA83_ABAjm_Bws:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1734124279-eximdsn-1109165669
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tMCwF-000FOF-1V
+	for servicioalcliente@serkoi.com;
+	Fri, 13 Dec 2024 14:11:19 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.82.105.152
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.82.105.152
+From:
+Message-Id: <E1tMCwF-000FOF-1V@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 13 Dec 2024 14:11:07 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Abby Hutchens. 
+Correo: . 
+Telefono: 24845606. 
+Mensaje: We design and post high-impact content weekly to grow your online presence. Could your social media use a boost?
+
+There are two stages to our service that are both included: 
+
+Stage 1: Content Creation
+
+We create and post 5 times a week across your social platforms.
+Our USA-based team ensures quality, no outsourcing.
+We use images/video from your website, shared drives (Google Drive/Dropbox), or stock photos/video if needed.
+Review and approve posts before scheduling, with options for feedback.
+Custom content tailored to your audience's interests, using insights you provide.
+
+Stage 2: Organic Growth
+
+We engage directly with users in your target market to boost visibility and drive engagement.
+Growth is targeted through hashtags and competitor account followers.
+
+Special Offer
+Normally $499/month, now just $399/month with code SAVE100. No contracts—cancel anytime.
+
+Ready to grow? Let’s get started!
+
+Get more information here: https://ln.run/w4kwu
+. 
+
+
+--1734124279-eximdsn-1109165669--

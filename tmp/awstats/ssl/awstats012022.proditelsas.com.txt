@@ -1,0 +1,366 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202201 will be lost/reset.
+# Last config file used to build this data file was /home/z1h9uk8mq9i3/tmp/awstats/ssl/awstats.proditelsas.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2694                
+POS_VISITOR 8359                
+POS_DAY 9574                
+POS_DOMAIN 3311                
+POS_LOGIN 3595                
+POS_ROBOT 3750                
+POS_WORMS 4071                
+POS_EMAILSENDER 4202                
+POS_EMAILRECEIVER 4345                
+POS_SESSION 10103               
+POS_SIDER 10260               
+POS_FILETYPES 4480                
+POS_DOWNLOADS 4613                
+POS_OS 4692                
+POS_BROWSER 4868                
+POS_SCREENSIZE 5397                
+POS_UNKNOWNREFERER 5471                
+POS_UNKNOWNREFERERBROWSER 5852                
+POS_ORIGIN 6228                
+POS_SEREFERRALS 6362                
+POS_PAGEREFS 6549                
+POS_SEARCHWORDS 6697                
+POS_KEYWORDS 6849                
+POS_MISC 2358                
+POS_ERRORS 6908                
+POS_CLUSTER 3451                
+POS_SIDER_404 7025                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220201041908 7 1127 8052918953528
+FirstTime 20220101031651
+LastTime 20220131174229
+LastUpdate 20220201051544 7 0 6 0 0
+TotalVisits 41                  
+TotalUnique 30                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 30                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 15 265229 8 8 8839
+1 0 0 0 11 12 51440
+2 1 1 17038 6 9 14457
+3 2 2 8528 4 6 4495
+4 6 6 25584 3 4 17285
+5 0 0 0 5 8 17832
+6 0 0 0 2 3 4264
+7 2 2 8528 5 7 30682
+8 0 0 0 0 2 0
+9 8 8 25584 1 3 7381
+10 6 6 12792 3 4 7121
+11 0 0 0 5 6 7326
+12 0 0 0 1 1 0
+13 11 17 286531 2 3 1819
+14 0 0 0 2 5 8528
+15 2 2 21302 5 6 4264
+16 1 1 17038 10 11 9090
+17 2 2 21302 4 5 7306
+18 3 3 12792 2 4 4278
+19 2 2 8528 4 4 22374
+20 0 0 0 2 3 8592
+21 2 2 21302 4 5 27142
+22 2 2 17038 2 4 8528
+23 0 0 0 4 5 26638
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 22 22 132130
+ca 18 30 530458
+cn 11 11 21320
+gr 4 4 68152
+de 4 4 17056
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+AhrefsBot/ 41 149594 20220131162815 0
+no_user_agent 4 91056 20220122072548 0
+bot[\s_+:,\.\;\/\\-] 2 34076 20220117040420 0
+Applebot/ 2 8656 20220129054059 0
+Dalvik/ 1 4264 20220119101256 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+pdf 2 392602 0 0
+php 12 41018 0 0
+js 10 76636 0 0
+html 47 258860 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/disponibilidad.pdf 2 0 392602
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+macosx 15 9
+linuxandroid 6 6
+winxp 1 1
+win10 7 7
+win7 3 3
+Unknown 6 6
+linux 16 16
+ios_iphone 15 9
+macosx11 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 24
+chrome70.0.2726.101 1 1
+firefox84.0 4 4
+msie11.0 1 1
+Unknown 6 6
+chrome77.0.3865.90 15 9
+chrome83.0.4103.97 8 8
+chrome72.0.1388.34 1 1
+chrome81.0.4044.138 1 1
+safari 15 9
+chrome75.0.2525.112 1 1
+chrome68.0.3440.106 1 1
+firefox52.0 1 1
+chrome47.0.2526.106 1 1
+chrome72.0.2018.117 1 1
+firefox57.0 1 1
+msie6.0 1 1
+chrome42.0.2311.90 1 1
+chrome77.0.709.10 1 1
+chrome81.0.4044.129 1 1
+firefox87.0 2 2
+chrome55.0.2883.87 1 1
+chrome92.0.4515.107 1 1
+android 4 4
+chrome70.0.3348.34 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220131174229
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20220129215721
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220131174229
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20220129215721
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 40 40
+From1 0 0
+From2 17 29
+From3 0 0
+From4 2 2
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 16 28
+www_google_com_hk 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+422 2 10672
+401 9 383
+404 61 0
+301 4 980
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 28
+/app.js 1 -
+/robots.txt 23 -
+/app/.env 1 -
+/wordpress/alfacgiapi/py.alfa 1 www.google.com
+/wordpress/ALFA_DATA/alfacgiapi/bash.alfa 1 www.google.com
+/wp-includes/ALFA_DATA/alfacgiapi/bash.alfa 1 www.google.com
+/wordpress/ALFA_DATA/cgialfa/perl.alfa 1 www.google.com
+/scripts/app.js 1 -
+/.env 12 -
+/wordpress/ALFA_DATA/alfacgiapi/py.alfa 1 www.google.com
+/wordpress/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/sitemap.xml 1 -
+/~app/.env 1 -
+/.well-known/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/wp-includes/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/.vscode/sftp.json 1 -
+/wordpress/alfacgiapi/perl.alfa 1 www.google.com
+/wp-content/plugins/image-hover-effects-ultimate/assets/backend/js/admin-notice.js 1 -
+/src/app.js 1 -
+/wordpress/ALFA_DATA/cgialfa/py.alfa 1 www.google.com
+/wordpress/ALFA_DATA/cgialfa/bash.alfa 1 www.google.com
+/wordpress/alfacgiapi/bash.alfa 1 www.google.com
+/resources/js/app.js 1 -
+/.env~ 1 -
+/assets/js/app.js 1 -
+/.well-known/assetlinks.json 1 -
+/_app/.env 1 -
+/dist/app.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 30
+192.99.18.136 18 30 530458 20220126130326
+114.119.150.149 6 6 0 20220104101210
+137.226.113.44 4 4 17056 20220127074335
+20.127.100.248 3 3 12792 20220126170623
+92.118.160.37 2 2 34076 20220131174229
+169.57.0.239 2 2 8528 20220130040733
+35.87.139.176 1 1 4264 20220127090829
+222.94.163.100 1 1 4264 20220119100928
+44.201.204.161 1 1 4264 20220122194129
+34.76.168.140 1 1 4264 20220101031651
+92.118.160.57 1 1 17038 20220123131022
+35.86.78.19 1 1 4264 20220127090737
+52.39.201.219 1 1 4264 20220131092046
+61.147.15.67 1 1 4264 20220119101300
+3.22.97.11 1 1 17038 20220115160944
+128.1.46.184 1 1 4264 20220119100931
+123.245.25.240 1 1 4264 20220101041456
+54.191.85.59 1 1 4264 20220126091328
+125.76.177.127 1 1 4264 20220102180003
+128.1.49.112 1 1 4264 20220101041459
+34.86.35.8 1 1 17038 20220114024843
+34.96.130.24 1 1 17038 20220129215721
+49.234.43.244 1 1 4264 20220101211146
+156.96.156.9 1 1 4264 20220114043004
+92.118.160.5 1 1 17038 20220117153746
+34.220.207.80 1 1 4264 20220128091848
+69.197.185.43 1 1 4264 20220105154857
+54.214.169.82 1 1 4264 20220125182100
+35.162.230.121 1 1 4264 20220128091914
+52.11.214.226 1 1 4264 20220125182129
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20220101 6 6 17056 6
+20220102 3 3 4264 2
+20220103 1 1 0 1
+20220104 1 1 0 1
+20220105 1 1 4264 1
+20220106 10 16 269493 2
+20220108 1 1 17038 1
+20220113 1 1 4264 1
+20220114 2 2 21302 2
+20220115 2 2 21302 2
+20220117 1 1 17038 1
+20220119 3 3 12792 3
+20220120 1 1 4264 1
+20220122 1 1 4264 1
+20220123 1 1 17038 1
+20220124 1 1 4264 1
+20220125 2 2 8528 2
+20220126 11 17 273757 3
+20220127 3 3 12792 3
+20220128 2 2 8528 2
+20220129 1 1 17038 1
+20220130 2 2 8528 1
+20220131 2 2 21302 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30mn-1h 1
+0s-30s 40
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 45 255714 41 39
+/corporativo.php 2 5852 0 0
+/contactenos.php 2 6144 0 0
+/pqr/upload/ 2 3146 0 0
+/caracteristicas.php 2 8656 0 2
+/residenciales.php 2 6124 0 0
+/medidor.php 2 5714 0 0
+/index.php 2 8528 0 0
+END_SIDER

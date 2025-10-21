@@ -1,0 +1,103 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id wA8pJca8bmX3nj8AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 04 Dec 2023 23:01:42 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 04 Dec 2023 23:01:42 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rAOV4-00HV1q-1d
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Mon, 04 Dec 2023 23:01:42 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rAOUx-00HUz0-0D@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1701756102-eximdsn-663133112
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rAOV4-00HV1q-1d@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 04 Dec 2023 23:01:42 -0700
+
+--1701756102-eximdsn-663133112
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 AOV4rNYIKUs7h :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=d6wzizvE c=1 sm=1 tr=0 ts=656ebcc6 p=akvoyOuefj4ygd8N9GEI:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=e2cXIFwxEfEA:10 a=PP2i3lvcAAAA:8 a=BSSTC7xqjqeBsPUHhksA:9 a=3-DLGy6jXJcT7pJeCvit:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1701756102-eximdsn-663133112
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 AOV4rNYIKUs7h :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=d6wzizvE c=1 sm=1 tr=0 ts=656ebcc6 p=akvoyOuefj4ygd8N9GEI:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=e2cXIFwxEfEA:10 a=PP2i3lvcAAAA:8 a=BSSTC7xqjqeBsPUHhksA:9 a=3-DLGy6jXJcT7pJeCvit:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1701756102-eximdsn-663133112
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rAOUx-00HUz0-0D
+	for servicioalcliente@serkoi.com;
+	Mon, 04 Dec 2023 23:01:42 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 58.246.58.150
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 58.246.58.150
+From:
+Message-Id: <E1rAOUx-00HUz0-0D@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 04 Dec 2023 23:01:35 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: DanielIMAVA. 
+Correo: . 
+Telefono: 87113527811. 
+Mensaje: Мы предлагаем вам уникальную возможность решения финансовых трудностей – [url=https://b2b2c.market/yslygi/bankrotstvo/prodazha-ynasledovannogo-imyschestva-ponimanie-naloga-s-prodazh_i2694758 ]списание долгов[/url] через процедуру банкротства. 
+Наша компания специализируется на помощи клиентам, которые столкнулись с задолженностями и неспособны их погасить. 
+ 
+Преимущества сотрудничества с нами: 
+ 
+Опыт и экспертиза: Мы обладаем многолетним опытом в области банкротства и юридической поддержки. 
+Индивидуальный подход: Мы разрабатываем стратегии, учитывающие ваши уникальные финансовые обстоятельства. 
+Эффективность: Наша цель - помочь вам избавиться от долгов и начать новую финансовую жизнь. 
+Конфиденциальность: Мы гарантируем полную конфиденциальность всех ваших данных и информации. 
+ 
+Сделайте шаг к финансовой свободе! Свяжитесь с нами прямо сейчас, и наши эксперты помогут вам разработать план действий для списания долгов через [url=https://b2b2c.market/yslygi/bankrotstvo/nalog-na-nasledstvo-pri-prodazhe-ynasledovannogo-imyschestva-ekspert-nalogovye-resheniya_i2694749 ]процедуру банкротства[/url]. 
+ 
+https://b2b2c.market/yslygi/bankrotstvo/bank-belveb-v-ysloviyax-sankcij-yznajte-chto-my-mozhem-sdelat-dlya-vas_i2711763 
+ 
+Жизнь без долгов имеет множество преимуществ, включая: 
+ 
+Финансовая свобода: Отсутствие долгов означает, что вы не обязаны тратить часть своих доходов на выплату процентов и погашение долговых обязательств. Это позволяет вам распоряжаться своими деньгами более свободно и инвестировать их в свои цели. 
+Меньший стресс: Долги могут вызывать финансовый стресс и беспокойство. Когда вы избавляетесь от них, вы чувствуете облегчение и уменьшение психологической нагрузки. 
+Лучшая кредитная история: Без долгов вы имеете возможность поддерживать хорошую кредитную историю, что может быть полезным, если в будущем вам понадобится кредит для крупных покупок, таких как недвижимость или автомобиль. 
+Больше возможностей для сбережений и инвестиций: Когда у вас нет долговых обязательств, вы можете сэкономить больше денег и инвестировать их в разнообразные финансовые инструменты, чтобы достичь своих финансовых целей. 
+Улучшенные отношения: Финансовые проблемы и долги могут оказывать давление на отношения в семье и с близкими. Жизнь без долгов способствует укреплению ваших отношений и семейного благополучия. 
+Больше свободного времени: Вы можете более свободно управлять своим временем и энергией, так как не приходится постоянно беспокоиться о долгах и их погашении. 
+Спокойствие и уверенность в будущем: Без долгов вы можете чувствовать большую уверенность в отношении своего финансового будущего и более спокойно смотреть вперед. 
+ 
+Итак, жизнь без долгов может предоставить вам множество плюсов, позволяя наслаждаться финансовой стабильностью и более качественной жизнью.. 
+
+
+--1701756102-eximdsn-663133112--

@@ -1,0 +1,65 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id wFPNG+SZu2XIXRsAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 01 Feb 2024 06:17:24 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 01 Feb 2024 06:17:24 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rVWwW-007WYw-10
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 01 Feb 2024 06:17:24 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rVWwR-007WX2-2a@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rVWwW-007WYw-10@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 01 Feb 2024 06:17:24 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rVWwR-007WX2-2a
+	for servicioalcliente@serkoi.com;
+	Thu, 01 Feb 2024 06:17:19 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 89.23.103.157
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 89.23.103.157
+From:
+Message-Id: <E1rVWwR-007WX2-2a@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 01 Feb 2024 06:17:19 -0700
+
+De: Aida Tulloch. 
+Correo: . 
+Telefono: 06-37132141. 
+Mensaje: Hi proditelsas
+
+We are proud to present our new website for all your B2B and B2C data and advertising needs. 
+
+https://proditelsas.marketingfriend.biz
+
+We offer a large range of products and to assist you in getting ahead this new yeah with better advertising and reaching more clients in your specific niche. Our products include all of the following: 
+
+We provide a free live search on site so you can see the amount and type of data we provide.
+Pre-compiled B2B and B2C data sets with all the necessary fields\columns included to assist you reach your clients.
+If we do not currently have the data you are looking for we are also willing to assist with custom data collection.
+Mail servers setup for you able to send over a million mails per day or as per your specifications.
+
+“Stopping advertising to save money is like stopping your watch to save time.” Henry Ford. 
+
+https://proditelsas.marketingfriend.biz
+
+Regards,
+MarketingFriend.biz. 
+

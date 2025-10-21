@@ -1,0 +1,61 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id WE3BFtjhbmjtvgcA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 09 Jul 2025 14:40:40 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 09 Jul 2025 14:40:40 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uZcWu-00000002Buh-1Fwx
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 09 Jul 2025 14:40:40 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uZcWr-00000002Btr-2qWu@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uZcWu-00000002Buh-1Fwx@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 09 Jul 2025 14:40:40 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uZcWr-00000002Btr-2qWu
+	for servicioalcliente@serkoi.com;
+	Wed, 09 Jul 2025 14:40:37 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uZcWr-00000002Btr-2qWu@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 09 Jul 2025 14:40:37 -0700
+
+De: Justina Chute. 
+Correo: . 
+Telefono: 247652832. 
+Mensaje: Hello,
+
+I hope this message finds you well.
+
+My name is Tony Chu, and I represent the Marketing Department at ATH Capital Management Ltd., a Hong Kong-based investment firm specializing in business loans and capital investments tailored for growing companies across Asia, Europe, and beyond.
+
+We support businesses with Flexible business loans, Growth capital investment and Custom financing solutions that align with all strategic business goals.
+
+As part of our ongoing global expansion we are currently looking for serious business owners outside Hong Kong and China who are currently exploring funding options for business expansion for access to fast capital.
+
+If you are interested, please feel free to reach out to me at: tonychu@athcapitalltd.com
+
+Best regards,
+Tony Chu
+Marketing Department
+ATH Capital Management Ltd.
+tonychu@athcapitalltd.com. 
+

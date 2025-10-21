@@ -1,0 +1,99 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id sA/BFQQCjWavWS0A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 09 Jul 2024 02:25:24 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 09 Jul 2024 02:25:24 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sR76C-00CV7m-0z
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 09 Jul 2024 02:25:24 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sR75t-00CV3h-1W@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1720517124-eximdsn-574878721
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sR76C-00CV7m-0z@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 09 Jul 2024 02:25:24 -0700
+
+--1720517124-eximdsn-574878721
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 R76CsC6aOjFAe :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Od1TDQTY c=1 sm=1 tr=0 ts=668d0204 p=ePxmsk3gAAAA:20 p=YbdBi8QrAAAA:20 p=-_I9CrCiEVIdw2lh_MCW:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=4kmOji7k6h8A:10 a=Vjija-DMqoizChAYGnsA:9 a=l_ZJLoen5BgA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1720517124-eximdsn-574878721
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 R76CsC6aOjFAe :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Od1TDQTY c=1 sm=1 tr=0 ts=668d0204 p=ePxmsk3gAAAA:20 p=YbdBi8QrAAAA:20 p=-_I9CrCiEVIdw2lh_MCW:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=4kmOji7k6h8A:10 a=Vjija-DMqoizChAYGnsA:9 a=l_ZJLoen5BgA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1720517124-eximdsn-574878721
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sR75t-00CV3h-1W
+	for servicioalcliente@serkoi.com;
+	Tue, 09 Jul 2024 02:25:24 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 198.105.108.72
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 198.105.108.72
+From:
+Message-Id: <E1sR75t-00CV3h-1W@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 09 Jul 2024 02:25:05 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Quentin McNair. 
+Correo: . 
+Telefono: 6523285787. 
+Mensaje: UPGRADE YOUR EDUCATION SPACE and BOARDROOM and GET A GREAT DEAL!
+
+EPSON PowerLite 1288
+4K Lumen, 1080p, Wi-Fi Projector for ONLY $599!
+
+The Epson PowerLite 1288 High Brightness Full HD 3LCD Projector includes Wi-Fi connectivity that supports wireless screen mirroring via Miracast, enabling you to show your corporate slideshows effortlessly. The projector produces up to 4000 lumens of color and white light output and has a native resolution of Full HD to provide vibrant, high-resolution images with supported content.
+
+- Full 3 Year Warranty
+- Free Ground Shipping
+- In Stock / Immediately Available
+- Certified Epson Renewal Program
+- Only 20 left At This Price
+
++++ Check out: https://bit.ly/4dNAKqQ
+
+
+
+
+
+Unsubscribe by filling this form: https://bit.ly/myounsubscribe
+Rua Natal 906, Cuiaba, MT, US, 78028-520. 
+
+
+--1720517124-eximdsn-574878721--

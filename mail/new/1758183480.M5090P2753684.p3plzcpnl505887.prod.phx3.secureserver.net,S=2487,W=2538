@@ -1,0 +1,51 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id CA5QOjfAy2iUBCoA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 18 Sep 2025 01:17:59 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 18 Sep 2025 01:18:00 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uz9q3-0000000C183-3mrr
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 18 Sep 2025 01:17:59 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uz9po-0000000C0ze-1p6n@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uz9q3-0000000C183-3mrr@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 18 Sep 2025 01:17:59 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uz9po-0000000C0ze-1p6n
+	for servicioalcliente@serkoi.com;
+	Thu, 18 Sep 2025 01:17:44 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uz9po-0000000C0ze-1p6n@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 18 Sep 2025 01:17:44 -0700
+
+De: Estelle Carlino. 
+Correo: . 
+Telefono: 890004526. 
+Mensaje: Is anyone human reading my message? Ah there you are! I'm offering a cheap and quick way for you to reach millions of website owners just like my message reached you now. It's simple, you give me your ad text and I blast it with my special AI enabled software to either millions of random sites or targets that you select. Check out my site below for details or to have a live chat with me now. 
+
+Go ahead and reach out now! I mean you already know this works since you've read my message this far right?
+
+Thanks!
+Phil
+website: contactformpromotion.com. 
+

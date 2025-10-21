@@ -1,0 +1,55 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id +K9cKCJt3mMwECgAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 04 Feb 2023 07:35:14 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 04 Feb 2023 07:35:14 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pOJdK-00B6m8-JX
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sat, 04 Feb 2023 07:35:14 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pOJdG-00B6jB-3p@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1pOJdK-00B6m8-JX@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 04 Feb 2023 07:35:14 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pOJdG-00B6jB-3p
+	for servicioalcliente@serkoi.com;
+	Sat, 04 Feb 2023 07:35:10 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 204.217.216.15
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 204.217.216.15
+From:
+Message-Id: <E1pOJdG-00B6jB-3p@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 04 Feb 2023 07:35:10 -0700
+
+De: Mac Estes. 
+Correo: . 
+Telefono: 0281-8951621. 
+Mensaje: Tired of spending hours creating content? 
+Let ChatGPT Riches help! Our AI-powered live classes teach you how to monetize your content, freeing up time. 
+
+Click the link now to elevate your business.
+https://ultimatewritingtool.com
+
+
+Thank me later,
+Colin. 
+

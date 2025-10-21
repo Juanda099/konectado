@@ -1,0 +1,70 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id QA7PGQpXPmh/0ycA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 02 Jun 2025 18:59:38 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 02 Jun 2025 18:59:38 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.1)
+	id 1uMGwE-0000000BKi0-1RAz
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 02 Jun 2025 18:59:38 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uMGw4-0000000BKPt-1POZ@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uMGwE-0000000BKi0-1RAz@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 02 Jun 2025 18:59:38 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.1)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uMGw4-0000000BKPt-1POZ
+	for servicioalcliente@serkoi.com;
+	Mon, 02 Jun 2025 18:59:28 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:mike@monkeydigital.co
+Message-Id: <E1uMGw4-0000000BKPt-1POZ@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 02 Jun 2025 18:59:28 -0700
+
+De: Mike Gustavo Meyer
+. 
+Correo: mike@monkeydigital.co. 
+Telefono: 89836631941. 
+Mensaje: Dear Webmaster, 
+ 
+I wanted to connect with something that could seriously help your website’s reach. We work with a trusted ad network that allows us to deliver genuine, location-based social ads traffic for just $10 per 10,000 visits. 
+ 
+This isn't bot traffic—it’s real visitors, tailored to your target country and niche. 
+ 
+What you get: 
+ 
+10,000+ genuine visitors for just $10 
+Localized traffic for any country 
+Higher volumes available based on your needs 
+Used by marketers—we even use this for our SEO clients! 
+ 
+Ready to scale? Check out the details here: 
+https://www.monkeydigital.co/product/country-targeted-traffic/ 
+ 
+Or chat with us on WhatsApp: 
+https://monkeydigital.co/whatsapp-us/ 
+ 
+Looking forward to helping you grow! 
+ 
+Best, 
+Mike Gustavo Meyer
+ 
+Phone/whatsapp: +1 (775) 314-7914. 
+

@@ -1,0 +1,100 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id zIFvHrzh42f4fRoA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 26 Mar 2025 04:15:08 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 26 Mar 2025 04:15:08 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1txOiy-007Hes-1L
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 26 Mar 2025 04:15:08 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1txOip-007HOb-2W@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1742987708-eximdsn-1386224131
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1txOiy-007Hes-1L@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 26 Mar 2025 04:15:08 -0700
+
+--1742987708-eximdsn-1386224131
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 xOiytZUVlIGxf :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=EesyQOmC c=1 sm=1 tr=0 ts=67e3e1bc p=73yONcbvKx5ftTb7IvQA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=Vs1iUdzkB0EA:10 a=CvkoyNBKAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=gGVWmjP6DlEA:10 a=Z0n-gXxEXAsA:10 a=yqxBCVLG7cQCub8Sv58b:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1742987708-eximdsn-1386224131
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 xOiytZUVlIGxf :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=EesyQOmC c=1 sm=1 tr=0 ts=67e3e1bc p=73yONcbvKx5ftTb7IvQA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=Vs1iUdzkB0EA:10 a=CvkoyNBKAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=gGVWmjP6DlEA:10 a=Z0n-gXxEXAsA:10 a=yqxBCVLG7cQCub8Sv58b:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1742987708-eximdsn-1386224131
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1txOip-007HOb-2W
+	for servicioalcliente@serkoi.com;
+	Wed, 26 Mar 2025 04:15:08 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1txOip-007HOb-2W@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 26 Mar 2025 04:14:59 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Jayrn Marques. 
+Correo: . 
+Telefono: 890720303. 
+Mensaje: Hey Proditelsas,
+
+Imagine launching a product and selling out in 48 hours—without spending a fortune on ads. Sounds like a dream, right?
+
+That’s exactly what happened to EcoStride, a sustainable sneaker brand. Instead of relying only on ads, they used a press release to get featured on Yahoo Finance, Google News, and 150+ media sites.
+
+✅ 11,400+ visitors in 5 days
+✅ 300+ sales before ads even started
+✅ 100% free organic traffic from media coverage
+
+And the best part? Writing a press release used to be time-consuming and difficult, but now EIN Presswire’s AI Press Release Generator makes it fast and effortless.
+
+Just enter your details, let AI craft a professional press release, and distribute it to top-tier media instantly.
+
+Launch your next product the smart way.
+
+Try It Today: https://marketersmentor.com/sold-out-product-launch.php?refer=proditelsas.com&real=yes
+
+To your success,
+Jayrn
+
+
+Unsubscribe: 
+https://marketersmentor.com/unsubscribe.php?d=proditelsas.com&real=yes. 
+
+
+--1742987708-eximdsn-1386224131--

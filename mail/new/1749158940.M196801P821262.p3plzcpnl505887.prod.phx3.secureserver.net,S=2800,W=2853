@@ -1,0 +1,53 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id oGJaBxwMQmgOiAwA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 05 Jun 2025 14:29:00 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 05 Jun 2025 14:29:00 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.1)
+	id 1uNI8x-00000003VWa-42kU
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 05 Jun 2025 14:29:00 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uNI8o-00000003VU2-2ybB@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uNI8x-00000003VWa-42kU@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 05 Jun 2025 14:28:59 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.1)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uNI8o-00000003VU2-2ybB
+	for servicioalcliente@serkoi.com;
+	Thu, 05 Jun 2025 14:28:50 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uNI8o-00000003VU2-2ybB@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 05 Jun 2025 14:28:50 -0700
+
+De: Karissa Free. 
+Correo: . 
+Telefono: 821948088. 
+Mensaje: Attract more leads for your proditelsas.com website by harnessing AI on Instagram. If you're looking to increase greater traffic, create leads, and amplify your brand's reach, you can find more information and start a free trial here: https://ow.ly/XBrW50VycRS
+
+This is an AI-powered Instagram growth service that:
+-Boosts followers with focused, high-quality audiences.
+-Improves engagement through advanced AI algorithms.
+-Focuses on users based on hashtags and accounts they follow.
+-Eliminates time by automating repetitive Instagram tasks.
+
+Our service emphasizes on real, organic growth—zero bots, without fake followers. It’s perfect for brands like yours that want to turn Instagram into a lead generation machine. Even better, our service is provided on a flexible subscription basis so you can stop whenever you like. No contracts and a 7-day free trial.. 
+

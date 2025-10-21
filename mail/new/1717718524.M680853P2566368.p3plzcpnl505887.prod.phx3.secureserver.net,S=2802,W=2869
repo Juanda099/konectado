@@ -1,0 +1,67 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id wL9NKPxNYmbgKCcA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 06 Jun 2024 17:02:04 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 06 Jun 2024 17:02:04 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sFN3U-00As2H-1z
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 06 Jun 2024 17:02:04 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sFN3I-00AraE-2m@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sFN3U-00As2H-1z@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 06 Jun 2024 17:02:04 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sFN3I-00AraE-2m
+	for servicioalcliente@serkoi.com;
+	Thu, 06 Jun 2024 17:01:52 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 149.34.243.83
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 149.34.243.83
+From:
+Message-Id: <E1sFN3I-00AraE-2m@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 06 Jun 2024 17:01:52 -0700
+
+De: Mike Vance
+. 
+Correo: . 
+Telefono: 88677469871. 
+Mensaje: Hi there, 
+ 
+My name is Mike from Monkey Digital, 
+ 
+Allow me to present to you a lifetime revenue opportunity of 35% 
+That's right, you can earn 35% of every order made by your affiliate for life. 
+ 
+Simply register with us, generate your affiliate links, and incorporate them on your website, and you are done. It takes only 5 minutes to set up everything, and the payouts are sent each month. 
+ 
+Click here to enroll with us today: 
+https://www.monkeydigital.co/join-affiliates/ 
+ 
+Think about it, 
+Every website owner requires the use of search engine optimization (SEO) for their website. This endeavor holds significant potential for both parties involved. 
+ 
+Thanks and regards 
+Mike Vance
+ 
+Monkey Digital 
+https://www.monkeydigital.co/whatsapp-affiliates/. 
+

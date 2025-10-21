@@ -1,0 +1,105 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id yLW7NKnXUmYMGSMA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 25 May 2024 23:33:13 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 25 May 2024 23:33:13 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sB7RR-009wuo-2Z
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 25 May 2024 23:33:13 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sB7R6-009waQ-0m@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1716705193-eximdsn-1443966913
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sB7RR-009wuo-2Z@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 25 May 2024 23:33:13 -0700
+
+--1716705193-eximdsn-1443966913
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 B7RRsiBurzgMf :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=KvKG2nWN c=1 sm=1 tr=0 ts=6652d7a9 p=MTXg8JMWAAAA:20 p=RW2SfOytkOw91G0vCWsA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=3ZKOabzyN94A:10 a=5YyvPUnqIO8A:10 a=4cpdlPB_HN6azf2pL7G2:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1716705193-eximdsn-1443966913
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 B7RRsiBurzgMf :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=KvKG2nWN c=1 sm=1 tr=0 ts=6652d7a9 p=MTXg8JMWAAAA:20 p=RW2SfOytkOw91G0vCWsA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=3ZKOabzyN94A:10 a=5YyvPUnqIO8A:10 a=4cpdlPB_HN6azf2pL7G2:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1716705193-eximdsn-1443966913
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sB7R6-009waQ-0m
+	for servicioalcliente@serkoi.com;
+	Sat, 25 May 2024 23:33:13 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.106.20.129
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.106.20.129
+From:
+Message-Id: <E1sB7R6-009waQ-0m@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 25 May 2024 23:32:52 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Theresa Smith. 
+Correo: . 
+Telefono: 3871649184. 
+Mensaje: Would you like to burn 750-1500 calories a day without having to work out? If yes, we have a solution, and if you order today, you will Get One FREE!
+
+We created the first ever, luxury, all-day-wearable weight bands that goes on your wrist, ankles, & waist. The great thing is, they look stylish, super sexy, and you can wear them with any outfit.
+
+Plus, we make it easy to burn calories, you just put them on in the morning and go about your day, then take them off at night. You’ll burn calories, shed pounds, build muscle, improve your cardiovascular system, increase endurance, and gain more flexibility at the same time.  Plus! If you go for a walk or hit the gym you can burn even more calories. 
+
+Now is your chance to get the body you always dreamed of, and because we will give you one full set absolutely FREE, you can give your free gift to a friend or family member and lose weight together. 
+
+What are you waiting for, get started today. Go Here: https://bit.ly/elebands-special-bogo
+ 
+Join thousands of people who have lost weight in a natural way. We have full body sets (wrist, ankle, waist) in 5, 10, 15, 20, 25 and 30 pounds (per set) so no matter your fitness goals we have you covered. 
+
+Start getting results NOW!, the smart and easy way!!
+
+OUR BANDS HELP YOU TO: 
+
+- Burn calories all-day
+- Have a sculpted body
+- Slim down all over
+- Tighten glutes
+- Tone your calves 
+- Firm up abs
+
+Many of our clients are losing 2-3 pounds every week and getting major health benefits just by going about their day and handling business as usual. 
+
+What are you waiting for, get started today. Go Here: https://bit.ly/elebands-special-bogo
+. 
+
+
+--1716705193-eximdsn-1443966913--

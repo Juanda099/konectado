@@ -1,0 +1,93 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id WF7SK7V+3GKKzDYAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 23 Jul 2022 16:05:25 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 23 Jul 2022 16:05:25 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	id 1oFOBZ-00FBLw-K0
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Sat, 23 Jul 2022 16:05:25 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1oFOBZ-00FBLT-48@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1658617525-eximdsn-1342950733
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1oFOBZ-00FBLw-K0@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 23 Jul 2022 16:05:25 -0700
+
+--1658617525-eximdsn-1342950733
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 FOBZo968044O5 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=eNzWMFl1 c=1 sm=1 tr=0 ts=62dc7eb5 p=_UXlwbKHAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=RgO8CyIxsXoA:10 a=RgYQ3kf2a2YA:10 a=smrCSdiaAAAA:8 a=WmUqaw_yebn7A7kazHcA:9 a=M89fsZTLi6gA:10 a=Eqx87qgnWZoA:10 a=-FEs8UIgK8oA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=Ylblc30YeT2SMkt-fuiF:22 a=M9ZHoLuYIHMl9pbmgCZa:22 ::
+    100.00
+
+--1658617525-eximdsn-1342950733
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 FOBZo968044O5 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=eNzWMFl1 c=1 sm=1 tr=0 ts=62dc7eb5 p=_UXlwbKHAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=RgO8CyIxsXoA:10 a=RgYQ3kf2a2YA:10 a=smrCSdiaAAAA:8 a=WmUqaw_yebn7A7kazHcA:9 a=M89fsZTLi6gA:10 a=Eqx87qgnWZoA:10 a=-FEs8UIgK8oA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=Ylblc30YeT2SMkt-fuiF:22 a=M9ZHoLuYIHMl9pbmgCZa:22 :: 100.00
+
+--1658617525-eximdsn-1342950733
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1oFOBZ-00FBLT-48
+	for servicioalcliente@serkoi.com; Sat, 23 Jul 2022 16:05:25 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 170.83.176.245
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 170.83.176.245
+From:
+Message-Id: <E1oFOBZ-00FBLT-48@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 23 Jul 2022 16:05:25 -0700
+
+De: Chrissy Allan. 
+Correo: . 
+Telefono: 805-372-3366. 
+Mensaje: Hello, we need some additional information regarding your business to be registered on Amazon Alexa and Siri (iPhones) so people can find your company using Voice Search. 
+
+There are more then 31,500 Voice Searches being done every second, wouldn't you agree its time to get your fair share of those searches?
+
+Its simple & easy; Register your business here --> 
+https://thevoicedirectory4.xyz/video/?site=proditelsas.com
+
+
+Chrissy
+Voice Activation Follow-up Specialist
+Your Alexa Directory
+
+
+
+ 
+2764 Pleasant Road Suite Suite A PMB 708
+Fort Mill, SC 29708
+
+You can skip future marketing messages here:
+https://thevoicedirectory4.xyz/unsubscribe.php/?site=proditelsas.com. 
+
+
+--1658617525-eximdsn-1342950733--

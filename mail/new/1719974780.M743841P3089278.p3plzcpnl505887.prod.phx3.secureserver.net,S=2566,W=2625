@@ -1,0 +1,59 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 2BCWK3y7hGZ+Iy8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 02 Jul 2024 19:46:20 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 02 Jul 2024 19:46:20 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sOq0i-00Cxp5-28
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 02 Jul 2024 19:46:20 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sOq0X-00Cxmw-2J@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sOq0i-00Cxp5-28@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 02 Jul 2024 19:46:20 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sOq0X-00Cxmw-2J
+	for servicioalcliente@serkoi.com;
+	Tue, 02 Jul 2024 19:46:09 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 37.19.223.107
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 37.19.223.107
+From:
+Message-Id: <E1sOq0X-00Cxmw-2J@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 02 Jul 2024 19:46:09 -0700
+
+De: Mike Barrington
+. 
+Correo: . 
+Telefono: 87161294923. 
+Mensaje: After reviewing your domain in MOZ, it has come to my attention that you may benefit from an increase in authority. 
+ 
+Our solution will give you a high-quality domain authority score in three months. This will increase your organic visibility and strengthen your website authority, thus strengthening it against Google updates. 
+ 
+Check out our deals for more details. 
+https://www.monkey-seo.com/moz-authority-seo/ 
+ 
+ 
+Thanks and regards 
+Mike Barrington
+Monkey Digital 
+Whatsapp: https://www.monkey-seo.com/whatsapp-us/. 
+

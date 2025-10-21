@@ -1,0 +1,105 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id EP+eM7FJ42Q/DQ8AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 21 Aug 2023 04:25:37 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 21 Aug 2023 04:25:37 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qY32P-004K30-Nk
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Mon, 21 Aug 2023 04:25:37 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qY32K-004Jqd-KX@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1692617137-eximdsn-2012575878
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qY32P-004K30-Nk@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 21 Aug 2023 04:25:37 -0700
+
+--1692617137-eximdsn-2012575878
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Y32PqBTeFLeYs :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=C+kviyD+ c=1 sm=1 tr=0 ts=64e349b1 p=eJu54hshAAAA:20 p=Vn1RYf_BGZPPvr7oKIIA:9 p=v-yog_Kadg-Rr9Hbfyfl:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=UttIx32zK-AA:10 a=zZCYzV9kfG8A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1692617137-eximdsn-2012575878
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Y32PqBTeFLeYs :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=C+kviyD+ c=1 sm=1 tr=0 ts=64e349b1 p=eJu54hshAAAA:20 p=Vn1RYf_BGZPPvr7oKIIA:9 p=v-yog_Kadg-Rr9Hbfyfl:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=UttIx32zK-AA:10 a=zZCYzV9kfG8A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1692617137-eximdsn-2012575878
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qY32K-004Jqd-KX
+	for servicioalcliente@serkoi.com;
+	Mon, 21 Aug 2023 04:25:37 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 206.232.44.24
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 206.232.44.24
+From:
+Message-Id: <E1qY32K-004Jqd-KX@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 21 Aug 2023 04:25:32 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Adam Smith. 
+Correo: . 
+Telefono: 03381 75 94 07. 
+Mensaje: Thank you, Thank you, THANK YOU
+
+That's what hundreds of people told me before
+
+I asked "for what?"
+
+And they said "for showing them how to make
+an extra $200 to $300 a DAY using this simple
+method to make easy type of money using the
+brand new CashGiveaway Automated Software"
+
+HERE'S YOUR EARLY BIRD PRIVATE ACCESS: bit.ly/FreeEmailSender
+
+You have 8 hours to access this unfair advantage
+
+NO Websites Needed
+NO Calling
+NO Recruiting
+NO Selling
+NO Experience Needed (Beginners are Preferred)
+
+If you don't take advantage of this now, you
+WILL regret it later.  So don't make a mistake.
+
+See you inside,
+Adam
+. 
+
+
+--1692617137-eximdsn-2012575878--

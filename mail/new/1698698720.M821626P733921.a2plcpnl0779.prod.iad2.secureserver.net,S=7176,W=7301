@@ -1,0 +1,125 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id yD7SMOAVQGXhMgsAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 30 Oct 2023 13:45:20 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 30 Oct 2023 13:45:20 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qxZ8S-0037ZV-M5
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Mon, 30 Oct 2023 13:45:20 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qxZ8M-0037WY-Qg@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1698698720-eximdsn-53917368
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qxZ8S-0037ZV-M5@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 30 Oct 2023 13:45:20 -0700
+
+--1698698720-eximdsn-53917368
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 xZ8SqDbw1wCPu :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=euwZjKlX c=1 sm=1 tr=0 ts=654015e0 p=FjYQhgBUAAAA:20 p=LbYH2qZkAAAA:20 p=WXINskxj198A:10 p=F1iDtrbCXYMUrNxD1lWc:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=smrCSdiaAAAA:8 a=6XAQKg-pngRcU753nCoA:9 a=AWHbcYPWEh4A:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1698698720-eximdsn-53917368
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 xZ8SqDbw1wCPu :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=euwZjKlX c=1 sm=1 tr=0 ts=654015e0 p=FjYQhgBUAAAA:20 p=LbYH2qZkAAAA:20 p=WXINskxj198A:10 p=F1iDtrbCXYMUrNxD1lWc:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=smrCSdiaAAAA:8 a=6XAQKg-pngRcU753nCoA:9 a=AWHbcYPWEh4A:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1698698720-eximdsn-53917368
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qxZ8M-0037WY-Qg
+	for servicioalcliente@serkoi.com;
+	Mon, 30 Oct 2023 13:45:20 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 194.36.98.209
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 194.36.98.209
+From:
+Message-Id: <E1qxZ8M-0037WY-Qg@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 30 Oct 2023 13:45:14 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Tracy Genovese. 
+Correo: . 
+Telefono: 435 11 411. 
+Mensaje: Hello proditelsas.com Administrator.
+
+My name’s Tracy, I came across proditelsas.com after conducting a brief search – you appeared near the top of the rankings, so whatever you’re doing for SEO, looks like it’s functioning well.  
+
+So here’s my inquiry – what happens AFTER someone lands on your site?  Anything?
+
+Investigations tell us at least 70% of the individuals who discover your site, after a brief once-over, they disappear… forever.
+
+That signifies that all the work and effort you put into making them to show up, goes the tubes.
+
+Why would you desire all that good work – and the great site you’ve built – go to waste?
+
+Because the odds are they’ll just skip over calling or even pulling out their phone, leaving you high and dry.
+
+But here’s a thought… what if you could make it super-simple for someone to elevate their hand, say, “okay, let’s talk” without requiring them to even extract their cell phone from their pocket?
+  
+You can – thanks to innovative new software that can literally make that first call occur NOW.
+
+Web Visitors Into Leads is a software widget that exists on your site, ready and waiting to seize any visitor’s Name, Email address and Phone Number.  It lets you know IMMEDIATELY – so that you can talk to that lead while they’re still present at your site.
+  
+You understand, strike when the iron’s hot!
+
+CLICK HERE https://bit.ly/3LPltcD to try out a Live Demo with Web Visitors Into Leads now to witness specifically how it works.
+
+When targeting leads, you HAVE to act fast – the distinction between connecting with someone within 5 minutes versus 30 minutes later is huge – like 100 times better!
+
+That’s why you should check out our new SMS Text With Lead attribute as well… once you’ve seized the phone number of the website visitor, you can immediately kick off a text message (SMS) conversation with them. 
+
+Imagine how potent this could be – even if they don’t accept you up on your offer instantly, you can stay in touch with them using text messages to create new offers, supply links to excellent content, and create your credibility.
+
+Just this on its own could be a game changer to render your website even more efficient.
+
+Strike when the iron’s hot!
+
+CLICK HERE https://bit.ly/3LPltcD to find out more about all the things Web Visitors Into Leads can do for your business – you’ll be amazed.
+
+Thanks and maintain the great work!
+
+Tracy
+PS: Web Visitors Into Leads gives a FREE 14 days trial – you could be transforming up to 100x more leads right away!   
+It even comprises International Long Distance Calling. 
+Quit wasting money chasing eyeballs that don’t change into paying customers. 
+CLICK HERE https://bit.ly/3LPltcD to experience Web Visitors Into Leads now.
+
+If you'd like to unsubscribe click here https://bit.ly/3rD0G5c
+
+Merely a brief remark - the monikers and email used in this communication, Tracy and Genovese, are substitutes and not genuine contact information. We esteem transparency and wished to ensure you are informed! If ever you desire to communicate with the real individual behind this note, do check out our site, and we’ll connect you with the proper person.. 
+
+
+--1698698720-eximdsn-53917368--

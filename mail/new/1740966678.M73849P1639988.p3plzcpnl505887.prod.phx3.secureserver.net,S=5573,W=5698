@@ -1,0 +1,125 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id wOg5BBYLxWc0BhkA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 02 Mar 2025 18:51:18 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 02 Mar 2025 18:51:18 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1touxi-006tIS-02
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 02 Mar 2025 18:51:18 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1touxT-006tEi-16@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1740966678-eximdsn-1240225871
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1touxi-006tIS-02@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 02 Mar 2025 18:51:18 -0700
+
+--1740966678-eximdsn-1240225871
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 ouxht6RoDIQUj :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=JZlGrVKV c=1 sm=1 tr=0 ts=67c50b15 p=rYdNvQKUpl39SKYPOHcA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=Vs1iUdzkB0EA:10 a=Yv54dSjnAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=khjitF4eWTVcZivGhQua:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1740966678-eximdsn-1240225871
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 ouxht6RoDIQUj :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=JZlGrVKV c=1 sm=1 tr=0 ts=67c50b15 p=rYdNvQKUpl39SKYPOHcA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=Vs1iUdzkB0EA:10 a=Yv54dSjnAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=khjitF4eWTVcZivGhQua:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1740966678-eximdsn-1240225871
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1touxT-006tEi-16
+	for servicioalcliente@serkoi.com;
+	Sun, 02 Mar 2025 18:51:17 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1touxT-006tEi-16@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 02 Mar 2025 18:51:03 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: James Pelton. 
+Correo: . 
+Telefono: 677396679. 
+Mensaje: Hey proditelsas.com,
+
+Letâ€™s be honest...  plain text content just doesnâ€™t cut it anymore.
+
+We see it happening every day, people pour hours into crafting perfect posts, optimizing hashtags, following every so-called "best practice"...
+
+And what do they get?  Crickets.
+
+Why?  Because in 2025, if your content isnâ€™t instantly captivating, itâ€™s instantly forgotten: https://www.growwealthy.info/moviereelai .
+
+Hereâ€™s the cold, hard truth:
+
+í ¼í¾¥ Videos get 10X more engagement than any other content
+í ½í³¢ Videos generate 1200% more shares than text and images combined
+í ½í²° Creators using AI videos are earning 3-5X more than traditional content creators
+
+Thatâ€™s why smart marketers, influencers, and businesses are turning to AI-powered video creation and making thousands of dollars per video while doing it.
+
+í ½í´¥ Enter MovieReelAI â€“ Your Ultimate â€˜Text-to-Videoâ€™ Generator!  í ½í´¥
+
+With MovieReelAI, you can:
+
+âœ… Instantly turn any idea, script, or simple text into a Hollywood-quality animated video: https://www.growwealthy.info/moviereelai 
+âœ… Charge clients $500 - $5,000 per video (businesses are paying for this RIGHT NOW!)
+âœ… Generate professional AI short movies in under 2 minutesâ€”no editing required
+âœ… Create stunning, highly engaging marketing videos, explainer animations, and social content
+
+
+No video editing skills?  No problem.
+
+No actors, expensive cameras, or software?  You donâ€™t need them.
+
+No idea where to start?  MovieReelAI does the heavy lifting for you!
+
+í ¼í¾¬ Your audience wants video, are you giving them what they want?
+
+Nowâ€™s your chance to make AI video creation your BIGGEST revenue stream.  But the cart is closing soonâ€¦
+
+í ½í±‰ [Grab MovieReelAI Before the Deal Disappears! ]  https://www.growwealthy.info/moviereelai 
+
+To Your Success,
+James Pelton
+
+
+ 
+UNSUBSCRIBE: https://www.growwealthy.info/unsubscribe/?d=proditelsas.com 
+Address: 1043 Hardesty Street
+Albany, NY 12207
+. 
+
+
+--1740966678-eximdsn-1240225871--

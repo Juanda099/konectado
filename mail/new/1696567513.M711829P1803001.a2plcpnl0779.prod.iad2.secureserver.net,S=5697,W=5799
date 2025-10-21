@@ -1,0 +1,102 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 0ACXKdmQH2X5ghsAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 05 Oct 2023 21:45:13 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 05 Oct 2023 21:45:13 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qoci9-007bvZ-IL
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 05 Oct 2023 21:45:13 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qoci4-007buj-TT@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1696567513-eximdsn-1353786194
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qoci9-007bvZ-IL@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 05 Oct 2023 21:45:13 -0700
+
+--1696567513-eximdsn-1353786194
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 oci9qbKtBpslS :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=HL4FVKhv c=1 sm=1 tr=0 ts=651f90d9 p=1uisQHiRAAAA:20 p=RnBylBGCAAAA:20 p=whLb5ivLAAAA:20 p=Yf2i8BlfAAAA:20 p=ZLbGITMXAAAA:20 p=u6pVpiXdAAAA:20 p=Mj5bRKhnAAAA:20 p=P7hgC6JkAAAA:20 p=vQGrd-2gAAAA:20 p=Z0sDoJTB29ytU5S5JvDy:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=NyDcBta8AAAA:20 a=RJff7rnzpc_4E5LwfpMA:9 a=gaEnw8yJ1FEA:10 a=WDwiEYY8nc8A:10 a=yYMIE_ZgVbIA:10 a=bVcVJU41WAcA:10 a=7-x_p2huafEA:10 a=q88Lirp3Ke4A:10 a=Z33O3Qm5FfoA:10 a=W3N0yqQJhwEA:10 a=z5dF167mk0EA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 a=tPi8_vkTu69w2KDsQcVr:22 ::
+    100.00
+
+--1696567513-eximdsn-1353786194
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 oci9qbKtBpslS :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=HL4FVKhv c=1 sm=1 tr=0 ts=651f90d9 p=1uisQHiRAAAA:20 p=RnBylBGCAAAA:20 p=whLb5ivLAAAA:20 p=Yf2i8BlfAAAA:20 p=ZLbGITMXAAAA:20 p=u6pVpiXdAAAA:20 p=Mj5bRKhnAAAA:20 p=P7hgC6JkAAAA:20 p=vQGrd-2gAAAA:20 p=Z0sDoJTB29ytU5S5JvDy:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=NyDcBta8AAAA:20 a=RJff7rnzpc_4E5LwfpMA:9 a=gaEnw8yJ1FEA:10 a=WDwiEYY8nc8A:10 a=yYMIE_ZgVbIA:10 a=bVcVJU41WAcA:10 a=7-x_p2huafEA:10 a=q88Lirp3Ke4A:10 a=Z33O3Qm5FfoA:10 a=W3N0yqQJhwEA:10 a=z5dF167mk0EA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 a=tPi8_vkTu69w2KDsQcVr:22 :: 100.00
+
+--1696567513-eximdsn-1353786194
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qoci4-007buj-TT
+	for servicioalcliente@serkoi.com;
+	Thu, 05 Oct 2023 21:45:13 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 161.123.101.48
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 161.123.101.48
+From:
+Message-Id: <E1qoci4-007buj-TT@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 05 Oct 2023 21:45:08 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: David Taylor. 
+Correo: . 
+Telefono: 484 4865. 
+Mensaje: verified fiverr seo service from 5$..
+
+I will build 500 high authority dofollow seo backlinks for google top ranking for 5$ : https://tinyurl.com/a77h723f
+
+I will write 4 posts of 500 words or 2 blogs of 1000 words SEO optimized for 10$ : https://tinyurl.com/29um728t
+
+I will embed your google map in 3000 web20 high da blogs best for local SEO for 10$ : https://tinyurl.com/kbvte8u3
+
+I will do white hat contextual link building website high quality SEO backlinks fro 30$ : https://tinyurl.com/yny9tzsz
+
+I will catapult your google rankings with my seo authority links for 20$ : https://tinyurl.com/mr2mxn7w
+
+I will improve SEO positioning with permanent google stacks stacking for 100$ : https://tinyurl.com/2p8hj9f3
+
+I will offer SEO backlinks contextual via pro link building service for 100$ : https://tinyurl.com/3ber9z7k
+
+I will provide high da backlinks dofollow via expert SEO guest post for 100$ : https://tinyurl.com/nbbctsxy
+
+I will write an SEO landing page as your copywriter for 100$ : https://tinyurl.com/363ydkfp
+
+PS : I helped 1500+ website to rank 1st page on google with these service. They will do do heavy lifting for you...
+
+
+for free email marketing service : https://linktr.ee/businessolutionz. 
+
+
+--1696567513-eximdsn-1353786194--

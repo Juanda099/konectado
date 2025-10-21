@@ -1,0 +1,80 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id AP4RBK+2f2PzYiQAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 24 Nov 2022 11:23:43 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 24 Nov 2022 11:23:43 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1oyGsw-00A9Mx-Uf
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 24 Nov 2022 11:23:43 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1oyGss-00A9Jf-ET@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1669314222-eximdsn-1958678625
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1oyGsw-00A9Mx-Uf@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 24 Nov 2022 11:23:42 -0700
+
+--1669314222-eximdsn-1958678625
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 yGswohF0RYaPW :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=FrnDvUnq c=1 sm=1 tr=0 ts=637fb6ae p=5mA8mib6AAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=9xFQ1JgjjksA:10 a=Ium_oUpU2oYA:10 a=CzXaxTd7zUXxD9iMTMIA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=exP9eGxgHXg38VDx-o8H:22 ::
+    100.00
+
+--1669314222-eximdsn-1958678625
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 yGswohF0RYaPW :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=FrnDvUnq c=1 sm=1 tr=0 ts=637fb6ae p=5mA8mib6AAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=9xFQ1JgjjksA:10 a=Ium_oUpU2oYA:10 a=CzXaxTd7zUXxD9iMTMIA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=exP9eGxgHXg38VDx-o8H:22 :: 100.00
+
+--1669314222-eximdsn-1958678625
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1oyGss-00A9Jf-ET
+	for servicioalcliente@serkoi.com;
+	Thu, 24 Nov 2022 11:23:42 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 79.137.103.132
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 79.137.103.132
+From:
+Message-Id: <E1oyGss-00A9Jf-ET@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 24 Nov 2022 11:23:38 -0700
+
+De: Earl Rundle. 
+Correo: . 
+Telefono: 021 903 26 13. 
+Mensaje: Did you know that you can use this simple All In One tool that makes it fast & super easy to step into an IMMEDIATELY profitable online business? this underground All In One toolbox can help you get profits in as little as 48 hours, in just a few clicks... That’s not all: You can accomplish all this Without Ever having to create Your Own Products, or Websites, and Even if it's Your First Day Online​​.
+ 
+All The Answers Are Here: brilliantmoneyhacks.com
+
+Regards. 
+
+
+--1669314222-eximdsn-1958678625--

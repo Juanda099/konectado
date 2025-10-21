@@ -1,0 +1,110 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 0K3ENZ0GSmfMeBcA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 29 Nov 2024 11:23:25 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 29 Nov 2024 11:23:25 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tH5eH-006WuG-2h
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 29 Nov 2024 11:23:25 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tH5e7-006WrI-2U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1732904605-eximdsn-757633403
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tH5eH-006WuG-2h@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 29 Nov 2024 11:23:25 -0700
+
+--1732904605-eximdsn-757633403
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 H5eHt5mdtS4Zd :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=OcliDgTY c=1 sm=1 tr=0 ts=674a069d p=3ycP0w_8FK4TWHYteiUA:9 p=HD6VpbvAA0kA:10 p=PLmJFNos3rZG10BMF6hv:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=VlfZXiiP6vEA:10 a=UqCG9HQmAAAA:8 a=3ZKOabzyN94A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1732904605-eximdsn-757633403
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 H5eHt5mdtS4Zd :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=OcliDgTY c=1 sm=1 tr=0 ts=674a069d p=3ycP0w_8FK4TWHYteiUA:9 p=HD6VpbvAA0kA:10 p=PLmJFNos3rZG10BMF6hv:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=VlfZXiiP6vEA:10 a=UqCG9HQmAAAA:8 a=3ZKOabzyN94A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1732904605-eximdsn-757633403
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tH5e7-006WrI-2U
+	for servicioalcliente@serkoi.com;
+	Fri, 29 Nov 2024 11:23:20 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 149.102.243.14
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 149.102.243.14
+From:
+Message-Id: <E1tH5e7-006WrI-2U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 29 Nov 2024 11:23:15 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Ramiro Reaves. 
+Correo: . 
+Telefono: . 
+Mensaje: Hi Mate,
+
+"Traffic down, rankings down, revenue down, business down."
+
+"Just as the new broad core update is rolling out, sales vanished while traffic is way up."
+
+"We are free falling." 
+
+"Yes, looks like a drop. Ad revenue record low for November.” 
+
+"Big drop today. -40%." 
+
+"Yeah, a very big drop today. Seems like Google wants to ensure that they don’t lose any piece of the Christmas shopping cake."
+
+"Anyone else seeing big changes for their sites at the moment? Traffic for our Indonesian speaking main site is down by nearly 50%"
+
+Well, Google, hit you hard again, didn’t it?
+
+If the above SEO chatter regarding the November 2024 Core Update hits a little too close to home then know this…
+We stand by you.
+We stand by you like always and are happy to report that we have massacred the Update of Google November 2024 Core Update.
+
+
+As soon as the update hit the web, me and my team hit the SEO lab and started testing thousands of websites for various permutations and combinations.
+
+AND THE RESULTS ARE ASTOUNDING!
+
+We are happy to share the fruits of labour with you so your money site doesn’t have to labour for revenue this Black Friday.
+Come, take a bite at it. Contact me at esolus@outlook.com
+
+Sam
+esolus@outlook.com. 
+
+
+--1732904605-eximdsn-757633403--

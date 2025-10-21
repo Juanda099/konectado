@@ -1,0 +1,52 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id YLaiHjedyWgAwC0A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 16 Sep 2025 10:24:07 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 16 Sep 2025 10:24:07 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uyZPT-0000000Cmoa-1l2O
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 16 Sep 2025 10:24:07 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uyZPS-0000000Cmns-2GIi@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uyZPT-0000000Cmoa-1l2O@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 16 Sep 2025 10:24:07 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uyZPS-0000000Cmns-2GIi
+	for servicioalcliente@serkoi.com;
+	Tue, 16 Sep 2025 10:24:06 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uyZPS-0000000Cmns-2GIi@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 16 Sep 2025 10:24:06 -0700
+
+De: AlvinTaf. 
+Correo: . 
+Telefono: 84417629258. 
+Mensaje: You registered in our mining affiliate program on January 19, 2021. 
+You have accumulated $3,758,645 in your account, but for some reason you have not logged into your personal account since October 17, 2023. 
+We closed on August 22, 2025. 
+If you want to withdraw your $3,758,645, then pay the withdrawal fee before September 20, 2025, since now all payments to partners are made manually. 
+You can pay the commission here: bitcoin:bc1qa5r6cuvqde4kx5m4s3a5mh2j8arkpt0ve5lf69?amount=0.02371&message=Payment%20of%20the%20fee%20for%20the%20payment%20of%20%243%2C758%2C645%2C%20due%20September%2020%2C%202025&time=1757758069&exp=604800 
+In other words, send a withdrawal fee of 0.02371 BTC to a bitcoin wallet: bc1qa5r6cuvqde4kx5m4s3a5mh2j8arkpt0ve5lf69 
+After payment, $3,758,645 will be credited to your account. 
+If you do not pay the commission by September 20, 2025, you will no longer be able to receive your $3,758,645. 
+

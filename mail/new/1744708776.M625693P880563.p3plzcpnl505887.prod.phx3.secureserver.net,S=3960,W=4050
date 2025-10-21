@@ -1,0 +1,90 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id qEZlJKgk/mezbw0A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 15 Apr 2025 02:19:36 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 15 Apr 2025 02:19:36 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1u4cS8-003rxC-1k
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 15 Apr 2025 02:19:36 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1u4cRw-003rgG-0R@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1744708776-eximdsn-780158910
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1u4cS8-003rxC-1k@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 15 Apr 2025 02:19:36 -0700
+
+--1744708776-eximdsn-780158910
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 4cS8ueqK4WXy3 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=EeoyQOmC c=1 sm=1 tr=0 ts=67fe24a8 p=4z9CR4p8AAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=Zv7c9A5wWh0HIZdG12sA:9 a=zgiPjhLxNE0A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1744708776-eximdsn-780158910
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 4cS8ueqK4WXy3 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=EeoyQOmC c=1 sm=1 tr=0 ts=67fe24a8 p=4z9CR4p8AAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=Zv7c9A5wWh0HIZdG12sA:9 a=zgiPjhLxNE0A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1744708776-eximdsn-780158910
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1u4cRw-003rgG-0R
+	for servicioalcliente@serkoi.com;
+	Tue, 15 Apr 2025 02:19:36 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1u4cRw-003rgG-0R@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 15 Apr 2025 02:19:24 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Brian And Dee Mchenry. 
+Correo: . 
+Telefono: 651601319. 
+Mensaje: The TikTok social media platform has seen explosive growth over the last two years. It now has 500
+million users that are desperate for fun and exciting content and this is a massive opportunity for you
+to promote your business.
+
+I can help you to grow and promote your tiktok account organically
+visit my 5 star profile and join over 3000 happy customer
+
+Click here to check out   ===== > https://shorturl.at/so4jb
+
+See you there!
+Regards
+Brian And Dee
+
+. 
+
+
+--1744708776-eximdsn-780158910--

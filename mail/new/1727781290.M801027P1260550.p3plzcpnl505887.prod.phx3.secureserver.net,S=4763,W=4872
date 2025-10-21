@@ -1,0 +1,109 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id MBXwLqrZ+2YGPBMA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 01 Oct 2024 04:14:50 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 01 Oct 2024 04:14:50 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1svaqA-005IFb-2L
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 01 Oct 2024 04:14:50 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1svapu-005ICY-2h@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1727781290-eximdsn-1636362110
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1svaqA-005IFb-2L@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 01 Oct 2024 04:14:50 -0700
+
+--1727781290-eximdsn-1636362110
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 vaqAs2Fvh6A9H :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=TvQthyXh c=1 sm=1 tr=0 ts=66fbd9aa p=Uy_DGsOZAAAA:8 p=EzxyKTau1IrX6JJ1pIUz:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=smrCSdiaAAAA:8 a=5u_uLit701k_8n2Kl4YA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=zLs5zXHdM_ywxrUNOd-D:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=TXsIlKFjo6nxZ24sthUj:22 ::
+    100.00
+
+--1727781290-eximdsn-1636362110
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 vaqAs2Fvh6A9H :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=TvQthyXh c=1 sm=1 tr=0 ts=66fbd9aa p=Uy_DGsOZAAAA:8 p=EzxyKTau1IrX6JJ1pIUz:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=smrCSdiaAAAA:8 a=5u_uLit701k_8n2Kl4YA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=zLs5zXHdM_ywxrUNOd-D:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=TXsIlKFjo6nxZ24sthUj:22 :: 100.00
+
+--1727781290-eximdsn-1636362110
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1svapu-005ICY-2h
+	for servicioalcliente@serkoi.com;
+	Tue, 01 Oct 2024 04:14:50 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.136.95
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.136.95
+From:
+Message-Id: <E1svapu-005ICY-2h@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 01 Oct 2024 04:14:34 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Betty Mannino. 
+Correo: . 
+Telefono: 412-746-9740. 
+Mensaje: Hello Entrepreneur,
+
+Ready to dive into the future of photography?
+
+Launch your own AI Photo Studio Business today: https://www.wealthyhand.xyz/fotostudioai !
+
+Here's what you get:
+• 50 Realistic Photos + 20 BONUS Credits
+• Multiple Genders & 10 Trained Models
+• Commercial License for All Photos
+• Unlimited Input Images & Downloads
+• 100-Day Photo Storage
+• 1-Click Photo Creation
+• 5-Minute Photoshoots
+
+Create photos for websites, social media, book covers, business cards, and more.
+
+Charge any amount and keep all profits!
+
+Start your lucrative AI photo business now.
+
+No camera, no skills, no studio required!
+
+[Launch Your AI Photo Business Today]: https://www.wealthyhand.xyz/fotostudioai 
+
+Betty Mannino
+
+
+UNSUBSCRIBE: https://www.wealthyhand.xyz/unsubscribe/?d=proditelsas.com   
+Address: 3169 Meadowview Drive
+Unionville, VA 22567. 
+
+
+--1727781290-eximdsn-1636362110--

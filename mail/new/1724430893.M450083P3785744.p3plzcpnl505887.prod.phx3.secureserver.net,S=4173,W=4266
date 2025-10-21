@@ -1,0 +1,93 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id EN0WGi26yGYQxDkA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 23 Aug 2024 09:34:53 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 23 Aug 2024 09:34:53 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1shXFV-00FtCb-1D
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 23 Aug 2024 09:34:53 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1shXFK-00Ft9p-1C@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1724430893-eximdsn-74085935
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1shXFV-00FtCb-1D@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 23 Aug 2024 09:34:53 -0700
+
+--1724430893-eximdsn-74085935
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 hXFVsvTPBYxvc :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=c99gQg9l c=1 sm=1 tr=0 ts=66c8ba2d p=-vLwvnP25U5W2emWh2ew:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=gy3MnIBMAAAA:20 a=cO4Fc1l28I5rbpzXfzIA:9 a=zgiPjhLxNE0A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1724430893-eximdsn-74085935
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 hXFVsvTPBYxvc :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=c99gQg9l c=1 sm=1 tr=0 ts=66c8ba2d p=-vLwvnP25U5W2emWh2ew:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=gy3MnIBMAAAA:20 a=cO4Fc1l28I5rbpzXfzIA:9 a=zgiPjhLxNE0A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1724430893-eximdsn-74085935
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1shXFK-00Ft9p-1C
+	for servicioalcliente@serkoi.com;
+	Fri, 23 Aug 2024 09:34:53 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 113.20.53.95
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 113.20.53.95
+From:
+Message-Id: <E1shXFK-00Ft9p-1C@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 23 Aug 2024 09:34:42 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Kimber Pearl. 
+Correo: . 
+Telefono: 753544984. 
+Mensaje: Hey Proditelsas
+
+I have a deal you can't refuse.
+I specialize in helping companies with their website and branding.
+
+My vision is to help as many website owners as I can to become well-recognized brands.
+
+For this reason I'd like to design your website upfront for FREE.
+No payment - no risk. I'm confident I can knock it out of the park.
+
+If you are happy with it. You can pay for it..
+contact me here : https://bit.ly/free30minscall-webdesign
+
+Thoughts?
+. 
+
+
+--1724430893-eximdsn-74085935--

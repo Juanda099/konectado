@@ -1,0 +1,240 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id MBQwI1sax2TxEz0AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sun, 30 Jul 2023 19:20:11 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sun, 30 Jul 2023 19:20:11 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qQIW3-00GnJ6-BT
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sun, 30 Jul 2023 19:20:11 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qQIVw-00GnCf-Hg@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1690770011-eximdsn-1320105415
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qQIW3-00GnJ6-BT@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 30 Jul 2023 19:20:11 -0700
+
+--1690770011-eximdsn-1320105415
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 QIW2qxEvuPA7H :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Zskraf3G c=1 sm=1 tr=0 ts=64c71a5b p=w2EZt8tlAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=bATtddgK8XldqGeOV2AA:9 a=-X4T7mAbjFEA:10 a=OCUnqwwg_7CLcotJQAUG:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1690770011-eximdsn-1320105415
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 QIW2qxEvuPA7H :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Zskraf3G c=1 sm=1 tr=0 ts=64c71a5b p=w2EZt8tlAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=bATtddgK8XldqGeOV2AA:9 a=-X4T7mAbjFEA:10 a=OCUnqwwg_7CLcotJQAUG:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1690770011-eximdsn-1320105415
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qQIVw-00GnCf-Hg
+	for servicioalcliente@serkoi.com;
+	Sun, 30 Jul 2023 19:20:09 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.106.20.58
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.106.20.58
+From:
+Message-Id: <E1qQIVw-00GnCf-Hg@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 30 Jul 2023 19:20:04 -0700
+
+De: Josh Peck. 
+Correo: . 
+Telefono: 604-599-0643. 
+Mensaje: Do you want to profit in 2023?
+
+
+You have infinite options:
+
+
+Affiliate marketing... writing content... build your own app... become an influencer...
+
+
+In all the years I've been online, I've tried ALL of these methods (and 100s more)
+
+
+But, millions later - there's ONE method I recommend - above all others:
+
+
+Selling your own digital product.
+
+
+And more specifically...
+
+
+Selling your own software product, in the Internet marketing niche, and promoting it with affiliate traffic.
+
+
+Now...
+
+
+That sounds eerily specific - and it is. Because...
+
+
+I shouldn't need to "convince" you this method works.
+
+
+Chances are you got on this list because you at some point bought a marketing software!
+
+
+The fact you're reading this is proof that this method works.
+
+
+And... how many marketing tools have you bought to get here?
+
+
+But don't think yours is a unique situation...
+
+
+Every week millions buy marketing products in this same way.
+
+
+You've probably worked this out a long time ago... you already know it's a billion-dollar business...
+
+
+But, until now, you might have thought:
+
+
+"yeah but there's no way I could do that, so I'll just look at the other methods out there..."
+
+
+Maybe you concluded:
+
+
+• You can't create your own software products
+
+• You don't know any big affiliates who would promote you
+
+• There's no way you could create a professional sales website
+
+• You simply could never afford a $5k copywriter to write a script
+
+• Nor can you do all the "little" jobs like logo creation, ecovers etc
+
+
+And most of all you probably decided...
+
+
+"I would love to have my own legit, unique software business... but just don't know how to put it all together"
+
+
+Well, guess what...
+
+
+I've just come across a $20 million marketer who automated and simplified all these steps.
+
+
+How?
+
+
+By REMIXING what other six-figure marketers are doing.
+
+
+And then automated this entire process!
+
+
+This marketer's name is CHRIS, and...
+
+
+This is something he's been working on for over 2 years!
+
+
+In fact, he tried to automate this #1 method... for over a decade...
+
+
+But it's such a big, hairy problem, that he just couldn't crack it... until now.
+
+
+And, as of today, it's here!
+
+
+Now, I can say that, for the first time ever, anyone can tap into the ultimate business model on the planet:
+
+
+Selling your own Internet marketing software.
+
+
+OK, so here's the score...
+
+
+Go see yourself:
+
+
+==>  bit.ly/RemixableOffer
+
+
+You won't find a better solution for you to plug into the #1 business on the planet.
+
+
+OK, enough talk.
+
+
+If you're at all curious about what he's up to, then hit this link and watch the intro video...
+
+
+At the very least, it will show you some information that no-one has disclosed before.
+
+
+OK, here's that link:
+
+
+Click Here 
+
+
+==> bit.ly/RemixableOffer
+
+
+Thanks
+
+
+P.S. This offer is running for the last few weeks of 2022.
+
+
+Then early 2023 Chris is going to increasethe price.
+
+
+He threw everything at this, including the kitchen sink...
+
+
+He spent $200k+ to make this software for you.
+
+
+That's the good news. The bad news? It's due a price increase.
+
+
+No joke. Go here to see what I mean...
+
+
+==> bit.ly/RemixableOffer. 
+
+
+--1690770011-eximdsn-1320105415--

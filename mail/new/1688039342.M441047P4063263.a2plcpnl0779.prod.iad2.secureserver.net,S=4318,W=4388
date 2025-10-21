@@ -1,0 +1,70 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id aPqHFa5vnWQfAD4AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 29 Jun 2023 04:49:02 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 29 Jun 2023 04:49:02 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qEq90-00H6gY-7Q
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 29 Jun 2023 04:49:02 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qEq8v-00H6ZR-As@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1qEq90-00H6gY-7Q@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 29 Jun 2023 04:49:02 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qEq8v-00H6ZR-As
+	for servicioalcliente@serkoi.com;
+	Thu, 29 Jun 2023 04:48:57 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.108.18.96
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.108.18.96
+From:
+Message-Id: <E1qEq8v-00H6ZR-As@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 29 Jun 2023 04:48:57 -0700
+
+De: Matt Lee. 
+Correo: . 
+Telefono: 02.29.89.54.77. 
+Mensaje: Are you tired of spending a fortune on email marketing services that offer subpar results? Look no further! We have an exciting offer that will revolutionize your email campaigns while keeping your costs in check. Introducing our game-changing email marketing service powered by Amazon Simple Email Service (SES), delivering exceptional deliverability rates at an unbeatable price!
+
+Why choose us?
+
+Unmatched Deliverability: With Amazon SES, we guarantee your emails will reach your audience's inboxes effectively and reliably. Leverage the power of Amazon's sophisticated infrastructure to ensure maximum deliverability and avoid the dreaded spam folder.
+
+Cost-Effective Solutions: We understand the importance of optimizing your marketing budget. By leveraging Amazon SES, we bring you highly competitive and wallet-friendly pricing plans without compromising quality or performance. Save big on your email marketing expenses while achieving outstanding results.
+
+Seamless Integration: Our platform seamlessly integrates with Amazon SES, making it incredibly easy to set up and manage your email campaigns. Whether you're a seasoned marketer or just starting out, our user-friendly interface ensures a hassle-free experience from start to finish.
+
+Advanced Analytics: Gain valuable insights into the effectiveness of your email campaigns through comprehensive analytics and reporting. Track open rates, click-through rates, and conversion metrics to make data-driven decisions and refine your strategies for optimal results.
+
+Personalized Support: We believe in building strong relationships with our clients. Our dedicated support team is always ready to assist you with any queries or concerns you may have. We'll work closely with you to ensure your email marketing endeavors achieve the best possible outcomes.
+
+Get started today and unlock the full potential of your email marketing efforts by harnessing the power of Amazon SES. Simply reply to this email or give us a call at [Your Contact Number]. Let us take care of the technical details while you focus on growing your business.
+
+Remember, great deliverability doesn't have to break the bank. Take advantage of our unbeatable pricing and start supercharging your email marketing campaigns today!
+
+Best regards,
+
+Matt Lee
+Co Founder
+Cloud Front
+https://GetAWSSes.com. 
+

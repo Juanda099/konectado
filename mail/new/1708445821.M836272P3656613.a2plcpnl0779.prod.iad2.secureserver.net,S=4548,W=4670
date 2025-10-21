@@ -1,0 +1,122 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id gNNTMH3Q1GWlyzcAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 20 Feb 2024 09:17:01 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 20 Feb 2024 09:17:01 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rcSnl-00FTb5-2I
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 20 Feb 2024 09:17:01 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rcSnV-00FTGm-0N@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1708445821-eximdsn-1858421731
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rcSnl-00FTb5-2I@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 20 Feb 2024 09:17:01 -0700
+
+--1708445821-eximdsn-1858421731
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 cSoqrqP2zkPL5 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=FLG4xPos c=1 sm=1 tr=0 ts=65d4d0c0 p=ne-2aG0hq2G3e4b2pH27:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=k7vzHIieQBIA:10 a=21bxT215TxgNOWxYzOEA:9 a=3ZKOabzyN94A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1708445821-eximdsn-1858421731
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 cSoqrqP2zkPL5 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=FLG4xPos c=1 sm=1 tr=0 ts=65d4d0c0 p=ne-2aG0hq2G3e4b2pH27:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=k7vzHIieQBIA:10 a=21bxT215TxgNOWxYzOEA:9 a=3ZKOabzyN94A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1708445821-eximdsn-1858421731
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rcSnV-00FTGm-0N
+	for servicioalcliente@serkoi.com;
+	Tue, 20 Feb 2024 09:17:01 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 88.218.174.102
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 88.218.174.102
+From:
+Message-Id: <E1rcSnV-00FTGm-0N@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 20 Feb 2024 09:16:45 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: William Shepherd. 
+Correo: . 
+Telefono: . 
+Mensaje: Hello,
+
+
+I was looking at your website and it's good, but
+ 
+I was unable to find an approved vendor list for Automation Intelligence Agencies.
+
+I understand this is new technology, so you may not have this yet.
+
+Right now, we're looking for businesses to help us test our software.
+
+I’m looking forward to speaking with you.  
+
+Please respond to this email so we can set up a time to go over everything.
+
+Thank you,
+
+William Shepherd
+
+
+P.S. I get a lot of automated responses stating that my message was received
+so if this is something you’re serious about learning more about please put 
+“Please tell me more” in the subject line of your response.  Thank you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+
+Reply to this email with the subject line “Unsubscribe” to opt out of further emails.  
+
+
+. 
+
+
+--1708445821-eximdsn-1858421731--

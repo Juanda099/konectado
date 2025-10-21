@@ -1,0 +1,102 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id UOdkGMdQ+GUTKAsAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 18 Mar 2024 07:33:43 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 18 Mar 2024 07:33:43 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rmE3b-0036Mi-0u
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Mon, 18 Mar 2024 07:33:43 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rmE3V-0036La-0q@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1710772423-eximdsn-1302545214
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rmE3b-0036Mi-0u@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 18 Mar 2024 07:33:43 -0700
+
+--1710772423-eximdsn-1302545214
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 mE4jrqQDFCgBA :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=fr1/Z04f c=1 sm=1 tr=0 ts=65f8510d p=jpfgK4oVqvwsFwybRVAA:9 p=aRE3bNZX_VGEQUetV1gx:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=K6JAEmCyrfEA:10 a=pkXLWFGFAAAA:8 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1710772423-eximdsn-1302545214
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 mE4jrqQDFCgBA :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=fr1/Z04f c=1 sm=1 tr=0 ts=65f8510d p=jpfgK4oVqvwsFwybRVAA:9 p=aRE3bNZX_VGEQUetV1gx:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=K6JAEmCyrfEA:10 a=pkXLWFGFAAAA:8 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1710772423-eximdsn-1302545214
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rmE3V-0036La-0q
+	for servicioalcliente@serkoi.com;
+	Mon, 18 Mar 2024 07:33:42 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.59.137.245
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.59.137.245
+From:
+Message-Id: <E1rmE3V-0036La-0q@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 18 Mar 2024 07:33:37 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Javier O'Reily. 
+Correo: . 
+Telefono: . 
+Mensaje: Are you looking to take your business to new heights in 2024? Look no further! Fiverr, the world's leading marketplace for digital services, has got you covered with a plethora of top-tier services tailored to meet your business needs.
+
+https://go.fiverr.com/visit/?bta=957738&brand=fiverrmarketplace
+
+With our platform, you can easily find skilled professionals offering a wide range of services, including:
+
+1. SEO: Enhance your online visibility and climb the search engine rankings with expert SEO services.
+2. Web Design: Impress your audience with stunning, responsive website designs that reflect your brand identity.
+3. Virtual Assistants: Get the support you need to streamline your operations and focus on what matters most.
+4. Social Media Management: Engage with your audience, build your brand presence, and drive conversions with strategic social media management.
+5. Google & Facebook Advertising: Effectively reach your target audience through targeted advertising campaigns on two of the biggest online platforms.
+
+Why choose Fiverr?
+
+- Access to a global pool of talented freelancers with diverse skill sets.
+- Competitive pricing tailored to suit businesses of all sizes.
+- Secure transactions and satisfaction guaranteed.
+
+Don't miss out on the opportunity to elevate your business to new heights with Fiverr's top-tier services. Sign up today and take the first step towards success!
+
+https://go.fiverr.com/visit/?bta=957738&brand=fiverrmarketplace
+
+Best regards,
+Antonio. 
+
+
+--1710772423-eximdsn-1302545214--

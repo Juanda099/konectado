@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 6AyECdmj4mOW/QwAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 07 Feb 2023 12:17:45 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 07 Feb 2023 12:17:45 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pPTTN-003dRK-1Z
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 07 Feb 2023 12:17:45 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pPTT5-003d6i-3A@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1pPTTN-003dRK-1Z@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 07 Feb 2023 12:17:45 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pPTT5-003d6i-3A
+	for servicioalcliente@serkoi.com;
+	Tue, 07 Feb 2023 12:17:27 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 37.139.53.81
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 37.139.53.81
+From:
+Message-Id: <E1pPTT5-003d6i-3A@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 07 Feb 2023 12:17:27 -0700
+
+De: Idoffbeew. 
+Correo: . 
+Telefono: 89032307568. 
+Mensaje: Hacer miles de dólares. No pagues nada. https://iujxnsp.com/27?r=yuqrebng35846. 
+

@@ -1,0 +1,69 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id CLGGKbBjQWfLPzIA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 22 Nov 2024 22:10:08 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 22 Nov 2024 22:10:08 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tEiPI-00DrwF-21
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 22 Nov 2024 22:10:08 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tEiP7-00Drfq-32@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1tEiPI-00DrwF-21@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 22 Nov 2024 22:10:08 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tEiP7-00Drfq-32
+	for servicioalcliente@serkoi.com;
+	Fri, 22 Nov 2024 22:09:57 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 181.214.173.36
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 181.214.173.36
+From:
+Message-Id: <E1tEiP7-00Drfq-32@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 22 Nov 2024 22:09:57 -0700
+
+De: Mike Willy Schmidt
+. 
+Correo: . 
+Telefono: 83358483866. 
+Mensaje: Hi, 
+ 
+This Black Friday, we’re offering an incredible 70% discount on our Ahrefs Domain Authority SEO Plan to take your SEO game to the next level. 
+ 
+What’s in the Plan? 
+? Boost your Ahrefs DR to 50+ and UR to 70+ 
+? Enhance your proditelsas.com authority and search rankings 
+? Strengthen your SEO metrics with a proven strategy 
+ 
+Exclusive Offer: 
+•	Coupon Code: AHREFS70 
+•	Validity: 10 Days Only! 
+ 
+Redeem Your Discount Now 
+https://www.monkeydigital.org/product/ahrefs-dr50-ur70-seo-plan/ 
+ 
+Don’t miss out on this opportunity to elevate your website’s performance and dominate the search results. 
+Act fast—this Black Friday deal ends in 10 days. 
+ 
+Best regards, 
+The Monkey Digital Team 
+Whatsapp: https://www.monkeydigital.org/whatsapp-with-us/. 
+

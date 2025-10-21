@@ -1,0 +1,86 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id gBbcFBjez2dCAioA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 10 Mar 2025 23:54:16 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 10 Mar 2025 23:54:16 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1trtVI-00Bmi7-0t
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 10 Mar 2025 23:54:16 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1trtVD-00BmhA-11@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1741676056-eximdsn-1215905539
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1trtVI-00Bmi7-0t@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 10 Mar 2025 23:54:16 -0700
+
+--1741676056-eximdsn-1215905539
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 rtVItuzfXbZMM :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=WOOFXmsR c=1 sm=1 tr=0 ts=67cfde18 p=MlZWOEGosmqj2djRfw4A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=Vs1iUdzkB0EA:10 a=UqCG9HQmAAAA:8 a=3ZKOabzyN94A:10 a=I5avIoMn7MAA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1741676056-eximdsn-1215905539
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 rtVItuzfXbZMM :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=WOOFXmsR c=1 sm=1 tr=0 ts=67cfde18 p=MlZWOEGosmqj2djRfw4A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=Vs1iUdzkB0EA:10 a=UqCG9HQmAAAA:8 a=3ZKOabzyN94A:10 a=I5avIoMn7MAA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1741676056-eximdsn-1215905539
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1trtVD-00BmhA-11
+	for servicioalcliente@serkoi.com;
+	Mon, 10 Mar 2025 23:54:16 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1trtVD-00BmhA-11@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 10 Mar 2025 23:54:11 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Sam. 
+Correo: . 
+Telefono: 4823739. 
+Mensaje: I design and develop high-quality, custom websites—no templates, only top-tier craftsmanship. My 5-page portfolio sites start at $2,000, and e-commerce platforms from $3,500. First, I design all pages for approval. Once all designs are finalized, I begin development. The result? A fast, smooth, mobile-friendly, SEO-optimized, and high-scrolling experience. If quality matters to you, let’s build something exceptional. 
+
+Reply to webdesignservices111@outlook.com to discuss your project!
+
+
+
+
+
+
+. 
+
+
+--1741676056-eximdsn-1215905539--

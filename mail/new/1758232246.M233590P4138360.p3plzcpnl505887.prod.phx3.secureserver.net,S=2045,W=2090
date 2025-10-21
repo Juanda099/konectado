@@ -1,0 +1,45 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id sIuJDbZ+zGh4JT8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 18 Sep 2025 14:50:46 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 18 Sep 2025 14:50:46 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uzMWc-000000003Xf-0X3x
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 18 Sep 2025 14:50:46 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uzMWT-000000003Vu-2tjg@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uzMWc-000000003Xf-0X3x@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 18 Sep 2025 14:50:46 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uzMWT-000000003Vu-2tjg
+	for servicioalcliente@serkoi.com;
+	Thu, 18 Sep 2025 14:50:37 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uzMWT-000000003Vu-2tjg@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 18 Sep 2025 14:50:37 -0700
+
+De: RobertCaf. 
+Correo: . 
+Telefono: 86194593656. 
+Mensaje: Highlight of the day someone won an iPhone 16 Pro https://telegra.ph/Win-iPhones-Samsung-09-18-386?4r5j8f4r5c6qgpe. 
+

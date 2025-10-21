@@ -1,0 +1,35 @@
+Return-Path: <noreply@a2plcpnl0779.prod.iad2.secureserver.net>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id rRb3HbFCnF+uBSYAoisFWw
+	(envelope-from <noreply@a2plcpnl0779.prod.iad2.secureserver.net>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Fri, 30 Oct 2020 09:43:29 -0700
+Return-path: <noreply@a2plcpnl0779.prod.iad2.secureserver.net>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Fri, 30 Oct 2020 09:43:29 -0700
+Received: from root by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.93)
+	(envelope-from <noreply@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1kYXUv-00ASES-A7
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Fri, 30 Oct 2020 09:43:29 -0700
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Subject: [Installatron] WordPress 5.5.2 disponible (security release)
+Date: Fri, 30 Oct 2020 10:43:29 -0600
+From: noreply@a2plcpnl0779.prod.iad2.secureserver.net
+Message-ID: <52d2ea15bde2bac54e5e4e3d953ad455@a2plcpnl0779.prod.iad2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.53
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Este es un correo electrónico automático de Installatron. Para dejar de recibir estos mensajes de correo electrónico o para cambiar la configuración de notificación, ingrese a su panel de control de alojamiento web, vaya a la herramienta Installatron y seleccione las aplicaciones instaladas que desea modificar.
+
+Una actualización de WordPress 5.5.2 (security release) ya está disponible para el WordPress instalaciones está gestionando con Installatron. A continuación se puede actualizar:
+
+- http://www.proditelsas.com
+
+
+Acceda a su panel de control de alojamiento web y vaya a la herramienta Installatron para actualizar las aplicaciones instaladas.
+
+Fin del informe.
+

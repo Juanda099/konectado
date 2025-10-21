@@ -1,0 +1,57 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id MDnICrgE7WZUWBQA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 19 Sep 2024 22:14:32 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 19 Sep 2024 22:14:32 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1srVyS-005b5E-0M
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 19 Sep 2024 22:14:32 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1srVyI-005aty-34@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1srVyS-005b5E-0M@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 19 Sep 2024 22:14:32 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1srVyI-005aty-34
+	for servicioalcliente@serkoi.com;
+	Thu, 19 Sep 2024 22:14:22 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.96.95.184
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.96.95.184
+From:
+Message-Id: <E1srVyI-005aty-34@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 19 Sep 2024 22:14:22 -0700
+
+De: Chante Houchens. 
+Correo: . 
+Telefono: 48149046. 
+Mensaje: Good day proditelsas.com 
+
+I came across your site while exploring businesses like yours and felt compelled to reach out about an idea.
+
+We're giving free access to "The E8 Sourcing Method Mini-Course," which shares tips on sourcing success, and we'd love your thoughts to shape its final version.
+
+Although sourcing is our specialty, making a course is uncharted territory for us, and we'd love to hear your thoughts on how we can improve.
+
+It includes practical guides on sourcing smarter and faster, plus tips on identifying the right suppliers for your needs.
+
+Help us improve! Sign up now at https://da.gd/sourcing47. . 
+

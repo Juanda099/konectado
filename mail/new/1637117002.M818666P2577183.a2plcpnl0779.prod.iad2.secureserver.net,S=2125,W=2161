@@ -1,0 +1,36 @@
+Return-Path: <noreply@a2plcpnl0779.prod.iad2.secureserver.net>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id IAdUL0pslGEfUycAoisFWw
+	(envelope-from <noreply@a2plcpnl0779.prod.iad2.secureserver.net>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 16 Nov 2021 19:43:22 -0700
+Return-path: <noreply@a2plcpnl0779.prod.iad2.secureserver.net>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 16 Nov 2021 19:43:22 -0700
+Received: from root by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	(envelope-from <noreply@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1mnAuw-00Ar64-NR
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Tue, 16 Nov 2021 19:43:22 -0700
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Subject: [Installatron] backup Proditel SAS ahora disponible
+X-PHP-Script: a2plcpnl0779.prod.iad2.secureserver.net/var/installatron/tasks/task_0163711698653163900 for 181.225.72.211
+Date: Tue, 16 Nov 2021 19:43:22 -0700
+From: noreply@a2plcpnl0779.prod.iad2.secureserver.net
+Message-ID: <32c9e1bec0a79a85a722dd530151e38d@a2plcpnl0779.prod.iad2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.57
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Este es un correo electrónico automático de Installatron. Para dejar de recibir estos mensajes de correo electrónico o para cambiar la configuración de notificación, ingrese a su panel de control de alojamiento web, vaya a la herramienta Installatron y seleccione las aplicaciones instaladas que desea modificar.
+
+El proceso de copia de seguridad para Proditel SAS ubicado en http://www.proditelsas.com ha tenido éxito.
+
+/home/z1h9uk8mq9i3/application_backups/app_proditelsas-com_Proditel-SAS_2021-11-16_19-43-06.tar.gz
+El tamaño de copia de seguridad: 10.91MB
+
+Para utilizar esta copia de seguridad, acceder a su panel de control de hosting web y vaya a la herramienta Installatron.
+
+Fin del informe.
+

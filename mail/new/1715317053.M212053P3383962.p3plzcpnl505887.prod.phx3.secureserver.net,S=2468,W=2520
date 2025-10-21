@@ -1,0 +1,52 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id gNBwDD2pPWaaojMA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 09 May 2024 21:57:33 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 09 May 2024 21:57:33 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1s5IK5-00EQOX-0Q
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 09 May 2024 21:57:33 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1s5IK0-00EQ9z-2D@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1s5IK5-00EQOX-0Q@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 09 May 2024 21:57:33 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1s5IK0-00EQ9z-2D
+	for servicioalcliente@serkoi.com;
+	Thu, 09 May 2024 21:57:28 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.241.247.48
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.241.247.48
+From:
+Message-Id: <E1s5IK0-00EQ9z-2D@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 09 May 2024 21:57:28 -0700
+
+De: Philip  Mitchell . 
+Correo: . 
+Telefono: . 
+Mensaje: Hi,
+Learn from Roland Fraiser's experience in acquiring businesses with no upfront costs and earning millions annually, 50 times faster than real estate. I'm giving you the course link to access at no cost.
+https://courses.savvyzones.com/roland-frasier-epic-business-buying-blueprint6
+
+Sincerely.
+-To unsubscribe, please reply "unsubscribe" at unsubscribe.wisebases@gmail.com (please provide the website that forwarded this message)-. 
+

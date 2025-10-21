@@ -1,0 +1,87 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 8ICONzqgtmc4QyEA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 19 Feb 2025 20:23:38 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 19 Feb 2025 20:23:38 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tkxA2-0099Me-2m
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 19 Feb 2025 20:23:38 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tkx9u-0099A0-1E@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1740021818-eximdsn-1908558646
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tkxA2-0099Me-2m@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 19 Feb 2025 20:23:38 -0700
+
+--1740021818-eximdsn-1908558646
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 kxA2tKXuu2xrs :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=WtzRMcfv c=1 sm=1 tr=0 ts=67b6a03a p=vvBRahVa54AoKthFvs0A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=T2h4t0Lz3GQA:10 a=JKqm1BnRAAAA:8 a=3ZKOabzyN94A:10 a=7WQlheGxbyynCYtkQ9ff:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1740021818-eximdsn-1908558646
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 kxA2tKXuu2xrs :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=WtzRMcfv c=1 sm=1 tr=0 ts=67b6a03a p=vvBRahVa54AoKthFvs0A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=T2h4t0Lz3GQA:10 a=JKqm1BnRAAAA:8 a=3ZKOabzyN94A:10 a=7WQlheGxbyynCYtkQ9ff:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1740021818-eximdsn-1908558646
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tkx9u-0099A0-1E
+	for servicioalcliente@serkoi.com;
+	Wed, 19 Feb 2025 20:23:38 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tkx9u-0099A0-1E@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 19 Feb 2025 20:23:30 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Ryan Winchester. 
+Correo: . 
+Telefono: 070 8774 9525. 
+Mensaje: Unlock Your Business Potential with Proven Marketing & Investor Relations Strategies
+Are you looking to amplify your brand’s visibility, attract new investors + strengthen your market presence? With over 35 years of expertise in Investor Relations, Public Relations + Marketing, I specialize in helping businesses worldwide craft powerful narratives that resonate with their target audience, drive engagement, and generate measurable results.
+At Pristine Advisers, we provide customized marketing, PR, and IR solutions designed to elevate your brand, enhance shareholder value, and secure top-tier media placements. From crisis management and brand awareness campaigns to investment strategy events and media outreach, our tailored approach ensures that your business gets the attention it deserves.
+Our track record speaks for itself—we’ve successfully scaled revenue streams beyond $75M, placed clients in leading financial publications and TV networks, and connected businesses with high-profile investors through exclusive networking events.
+Now, we’re offering an exclusive opportunity to connect with millions of business owners directly through high-impact outreach—a more effective alternative to email marketing. Let’s discuss how we can help grow your business and secure the attention of key decision-makers.
+
+Get in touch today: pbaronowski@pristineadvisers.com
+
+Learn more: www.pristineadvisers.com
+Let’s take your business to the next level! 
+. 
+
+
+--1740021818-eximdsn-1908558646--

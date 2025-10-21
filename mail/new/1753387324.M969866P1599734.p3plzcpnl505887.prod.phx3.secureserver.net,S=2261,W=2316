@@ -1,0 +1,55 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 2OmMODyRgmj2aBgA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 24 Jul 2025 13:02:04 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 24 Jul 2025 13:02:04 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uf28i-00000008E2Y-3hNi
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 24 Jul 2025 13:02:04 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uf28h-00000008DzM-1haB@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uf28i-00000008E2Y-3hNi@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 24 Jul 2025 13:02:04 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uf28h-00000008DzM-1haB
+	for servicioalcliente@serkoi.com;
+	Thu, 24 Jul 2025 13:02:03 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uf28h-00000008DzM-1haB@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 24 Jul 2025 13:02:03 -0700
+
+De: Ashok. 
+Correo: . 
+Telefono: 3707373301. 
+Mensaje: Hi, I’m Ashok! As a Website Developer, I help businesses build and enhance their online presence with WordPress, PHP, and other CMS platforms. My services include new website design, redesigning old websites, content uploads, plugin-related work, and functionality development. 
+Reach out at webdesignservices111@outlook.com
+
+
+
+
+
+
+
+
+. 
+

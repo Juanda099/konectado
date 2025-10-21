@@ -1,0 +1,118 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id kJeWMhx5BWebqyEA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 08 Oct 2024 11:25:32 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 08 Oct 2024 11:25:32 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1syEto-009GJA-2U
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 08 Oct 2024 11:25:32 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1syEtY-009G1e-0M@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1728411932-eximdsn-1042704341
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1syEto-009GJA-2U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 08 Oct 2024 11:25:32 -0700
+
+--1728411932-eximdsn-1042704341
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 yEtosh323gcJg :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=R/DIGsRX c=1 sm=1 tr=0 ts=6705791c p=5LopVqP7AAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=smrCSdiaAAAA:8 a=bzZCpMMCP93_l0xNrFEA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=PZsgi5PHHQSAHjhwdIG6:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=yjbxaCTLMoqZMjtTDYy9:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1728411932-eximdsn-1042704341
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 yEtosh323gcJg :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=R/DIGsRX c=1 sm=1 tr=0 ts=6705791c p=5LopVqP7AAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=smrCSdiaAAAA:8 a=bzZCpMMCP93_l0xNrFEA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=PZsgi5PHHQSAHjhwdIG6:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=yjbxaCTLMoqZMjtTDYy9:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1728411932-eximdsn-1042704341
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1syEtY-009G1e-0M
+	for servicioalcliente@serkoi.com;
+	Tue, 08 Oct 2024 11:25:32 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.173.29
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.173.29
+From:
+Message-Id: <E1syEtY-009G1e-0M@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 08 Oct 2024 11:25:16 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Samuel Mallet. 
+Correo: . 
+Telefono: 71-12-70-97. 
+Mensaje: 
+Hi proditelsas.com 
+ 
+Even if your content and backlinks are not as good as your competitors, if visitors prefer to stay on your site, then Google will inevitably rank your site: proditelsas.com #1. But how?  
+ 
+The method is so simple that most websites ignore it, and a small number of websites use it to get a lot of traffic and sales, that is, chatbot. 
+
+Chatbot can improve the  dwell time (time spent on site per session) / engagement rate / visitor experience so that your website can get Google's favor, and for e-commerce websites, it can also boost sales: https://www.trafficgogo.xyz/chatbot  .  
+
+A chatbot may seem like an ecommerce-focused tool, but it‚Äôs also one of the most handy tools a blogger can use. It saves time and money by offering an interactive experience to your visitor, while also promoting your content/product and reaching your audience in a more organic way.
+
+Many blog creators fail to keep up communication with their readerships. This leads to missed comments, unanswered questions, and fewer conversions. It‚Äôs not enough to simply create blog posts; many readers want to interact with you in some capacity.
+
+A lead generation chatbot can revolutionize your business and capture more leads effortlessly!By providing immediate responses and personalized interaction, they enhance the user experience, making potential customers more likely to leave their contact details or express interest in the business‚Äôs products or services.
+
+Here are the best tips for how to use chatbots on your website: 
+
+Promote your blog content. 
+Prompt readers to sign up for email updates. Ì†ΩÌ≥ß 
+Automate customer support and answer common inquiries. Ì†ΩÌ∂±Ô∏è 
+Provide special offers or discounts to readers. 
+Increase Lead Generation and Boost Sales For Your Business
+Reduce customer service costs and improve the consumer experience
+. . .  
+ 
+ 
+Text.inc also offers live chat tool, which can be seamlessly integrated with their chatbot.  
+ 
+Click here now to get more traffic and sales: https://www.trafficgogo.xyz/chatbot   
+
+BestÔºå
+
+Samuel Mallet
+
+ 
+
+UNSUBSCRIBE: https://www.trafficgogo.xyz/unsubscribe/?d=proditelsas.com   
+Address: 102 Victoria Court
+Portland, ME 04101
+. 
+
+
+--1728411932-eximdsn-1042704341--

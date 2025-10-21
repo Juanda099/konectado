@@ -1,0 +1,152 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id CEJYJmuRv2TogRAAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 25 Jul 2023 02:10:03 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 25 Jul 2023 02:10:03 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qOE3P-004XOU-GH
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 25 Jul 2023 02:10:03 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qOE3K-004Wj9-P7@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1690276203-eximdsn-279141315
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qOE3P-004XOU-GH@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 25 Jul 2023 02:10:03 -0700
+
+--1690276203-eximdsn-279141315
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 OE3PqGixlPA7H :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Zskraf3G c=1 sm=1 tr=0 ts=64bf916b p=8hvXox7iAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=mkrp3627GLzQgdHbXmsA:9 a=WdN0LB6sHzMA:10 a=9xBa4rLnyOblethUvNRL:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1690276203-eximdsn-279141315
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 OE3PqGixlPA7H :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Zskraf3G c=1 sm=1 tr=0 ts=64bf916b p=8hvXox7iAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=mkrp3627GLzQgdHbXmsA:9 a=WdN0LB6sHzMA:10 a=9xBa4rLnyOblethUvNRL:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1690276203-eximdsn-279141315
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qOE3K-004Wj9-P7
+	for servicioalcliente@serkoi.com;
+	Tue, 25 Jul 2023 02:10:03 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 136.0.58.239
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 136.0.58.239
+From:
+Message-Id: <E1qOE3K-004Wj9-P7@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 25 Jul 2023 02:09:58 -0700
+
+De: David Anderson. 
+Correo: . 
+Telefono: 803-802-9221. 
+Mensaje: How would you feel about the need not to pay for any expensive Video tools for Lifetime?
+
+
+What about paying once and using all Ai features for a lifetime without any restrictions? 
+
+
+⇒Go and Check Full Details Here: bit.ly/VideoBlogAI
+
+
+Introducing VideoBlogAi.
+
+
+VideoBlogAI - The World’s First OpenAI’s New Tech “Dall E 2.0-powered App Turns Any Blog Url Into Attention-Grabbing Ai Video With Human-Like Voice Over In Less Than 60 Seconds…
+
+
+✅ Turn Any Blog Url Into Stunning Ai Video In Less Than 60 Seconds……
+
+✅ Choose From Our Built-In Human-Like Voice Artists For Videos…
+
+✅ Get Access To A Vast Pool Of Over 200+ Million Video Clips, Images, And Much More!
+
+✅ Writes JVs & Android codes…
+
+✅ Effortlessly Turn Tweets & Powerpoint Presentations Into Engaging  Ai Videos
+
+✅ Start Profiting By Converting Any Blog Article Into a Video Podcast, Reels, Shorts & So Much More…
+
+
+==>Go and watch the 60 seconds demo video Here: bit.ly/VideoBlogAI
+
+
+
+Right now, you have an early bird discount on this page which gives you full lifetime access to VideoBlogAI just at the price of a cheap t-shirt…
+
+
+⇒Click the link here to get a copy of VideoBlogAI at the lowest one-time price: bit.ly/VideoBlogAI
+
+
+
+Also, you are going to get these Free Bonuses Here:-
+
+
+Bonus#1 VideoBlogAI  Apps Version
+
+“Brand New 1-Click Cloud Based Mobile App Builder LETS YOU CREATE UNLIMITED MOBILE APPS FOR IOS & ANDROID!”
+
+ 
+
+Bonus#2 VideoBlogAI  Puzzle version
+
+“1 Click App Help You Create A Full-Time PASSIVE INCOME Publishing Puzzle Books On Amazon KPD”
+
+ 
+
+Bonus #3 VideoBlogAI  StockHub
+
+“Get Instant Access To The World’s First Biggest Collection Of Stock Images, Videos, Vectors, GIFS, Animations, Memes & Audios + Inbuilt Image & Video Editor On a Complete Searchable Platform”
+
+ 
+
+Bonus#4 VideoBlogAI  CB site version, 
+
+PUSH-BUTTON APP GETS YOU FREE BUYER TRAFFIC AND AUTOMATICALLY CREATES "DONE-FOR-YOU" CLICKBANK MONEY SITES LOADED WITH PRE-MADE 2 MILLION+ ARTICLES!
+
+ 
+
+Bonus #5  VideoBlogAI  Jobsite version:
+
+“NEW CLOUD SOFTWARE BUILDS Beginner-Friendly Profitable JOB SEARCH Sites In 90 Seconds With TWO Income Streams”
+
+
+⇒Download All Bonuses Here: bit.ly/VideoBlogAI
+
+
+Thanks & Regards,
+
+David. 
+
+
+--1690276203-eximdsn-279141315--

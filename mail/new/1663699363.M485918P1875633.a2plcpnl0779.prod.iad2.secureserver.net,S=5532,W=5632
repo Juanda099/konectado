@@ -1,0 +1,100 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id qOgJGqMJKmOxnhwAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 20 Sep 2022 11:42:43 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 20 Sep 2022 11:42:43 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	id 1oaiCh-007u5W-Ac
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Tue, 20 Sep 2022 11:42:43 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1oaiCh-007u5G-0Y@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1663699363-eximdsn-1386401012
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1oaiCh-007u5W-Ac@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 20 Sep 2022 11:42:43 -0700
+
+--1663699363-eximdsn-1386401012
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 aiCho1FxJ44O5 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=eNzWMFl1 c=1 sm=1 tr=0 ts=632a09a3 p=pVxxfkWsAAAA:8 p=EQjx35uLAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=xOM3xZuef0cA:10 a=0DpdE9jBjJQA:10 a=X844ZW5eXAdUq9P8lnoA:9 a=kxGkjK3EnfIA:10 a=u5gC2jshLnMA:10 a=1Kw4jSDkqJAA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=PIEfQwtLkkbwzluAInV-:22 a=mv2SBoi-Vo8OVNFVw3yu:22 ::
+    100.00
+
+--1663699363-eximdsn-1386401012
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 aiCho1FxJ44O5 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=eNzWMFl1 c=1 sm=1 tr=0 ts=632a09a3 p=pVxxfkWsAAAA:8 p=EQjx35uLAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=xOM3xZuef0cA:10 a=0DpdE9jBjJQA:10 a=X844ZW5eXAdUq9P8lnoA:9 a=kxGkjK3EnfIA:10 a=u5gC2jshLnMA:10 a=1Kw4jSDkqJAA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=PIEfQwtLkkbwzluAInV-:22 a=mv2SBoi-Vo8OVNFVw3yu:22 :: 100.00
+
+--1663699363-eximdsn-1386401012
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1oaiCh-007u5G-0Y
+	for servicioalcliente@serkoi.com; Tue, 20 Sep 2022 11:42:43 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 74.50.125.18
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 74.50.125.18
+From:
+Message-Id: <E1oaiCh-007u5G-0Y@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 20 Sep 2022 11:42:43 -0700
+
+De: John. 
+Correo: . 
+Telefono: (844) 440-3782. 
+Mensaje: Dear Business Owner:
+
+Read EVERY WORD of This EMAIL – 
+You Can Thank Me Later -
+
+John Richards here with Express Tax Pros.
+
+You might be aware of the Government's PPP Program where qualifying businesses received Funds to help them retain their employees as a part of the CARES Act.
+The program has been expanded and now the more generous ERTC Fund program has been revised so more businesses qualify and can receive potentially up to $26,000 PER W-2 EMPLOYEE.  
+
+The time to apply is NOW!
+
+We work with an accounting firm that specializes in assisting businesses with the application process to ensure that they get all the money they qualify for.  For example, did you know that if you provided health care benefits to your employee and their family, that the funds paid out for those benefits also count as wages in the calculations.   That is why our expert accounting team is getting some sizable checks for the businesses that they work with.
+To find out how much your business potentially qualifies for, just go to this website, and take 1 minute to fill out the simple initial inquiry form to see what your business qualifies to receive.
+
+www.expresstaxpros.com
+
+Any business owner that has W-2 employees and was affected by Covid-19 probably has a nice government check waiting for them, BUT you have to apply to get it.
+Go to the website NOW to apply – you will be glad you did.
+
+www.expresstaxpros.com
+
+Feel free to reach out to me if you have any questions and let me know that you applied.
+
+Sincerely,
+John Richards
+If you would like to opt out of future messages, please email your domain name to optout@expresstaxpros.net. 
+
+
+--1663699363-eximdsn-1386401012--

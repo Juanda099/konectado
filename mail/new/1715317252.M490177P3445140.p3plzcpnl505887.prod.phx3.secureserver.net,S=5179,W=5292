@@ -1,0 +1,113 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id YB7xHASqPWaUkTQA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 09 May 2024 22:00:52 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 09 May 2024 22:00:52 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1s5INI-00ESbJ-1M
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 09 May 2024 22:00:52 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1s5IND-00ESaB-2C@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1715317252-eximdsn-545644112
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1s5INI-00ESbJ-1M@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 09 May 2024 22:00:52 -0700
+
+--1715317252-eximdsn-545644112
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 5INIsU1lWUd24 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Z+8nH2RA c=1 sm=1 tr=0 ts=663daa04 p=MTXg8JMWAAAA:20 p=hI2oyapar7IBg4MLfnsA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=3ZKOabzyN94A:10 a=5YyvPUnqIO8A:10 a=avK6ZWJ6hi53hEBzSLBY:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1715317252-eximdsn-545644112
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 5INIsU1lWUd24 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Z+8nH2RA c=1 sm=1 tr=0 ts=663daa04 p=MTXg8JMWAAAA:20 p=hI2oyapar7IBg4MLfnsA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=3ZKOabzyN94A:10 a=5YyvPUnqIO8A:10 a=avK6ZWJ6hi53hEBzSLBY:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1715317252-eximdsn-545644112
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1s5IND-00ESaB-2C
+	for servicioalcliente@serkoi.com;
+	Thu, 09 May 2024 22:00:52 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.80.164.198
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.80.164.198
+From:
+Message-Id: <E1s5IND-00ESaB-2C@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 09 May 2024 22:00:47 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Theresa Smith. 
+Correo: . 
+Telefono: 2068249801. 
+Mensaje: Hello,
+
+Do you struggle with the choice of chilling out, working more hours, or going to the gym?
+
+No need to choose anymore, we have the perfect solution for you - EleBands! 
+
+EleBands offers ultra-thin, fashionable all day wearable body weight bands that seamlessly integrate into your daily routine. Burn up to 1,500 calories a day by simply wearing our bands on your wrist, ankle, and waist while you go about your normal day. 
+
+This week, we are giving 20% off to the first 20 customers. 
+
+ Lose Weight 
+ Build Strength
+ Tone Body
+ Look And Feel Great
+
+THEY LOOK HOT!! SEE FOR YOURSELF: https://bit.ly/elebands-news
+ 
+***Get 20% OFF with this coupon code: 20%OFF
+
+Imagine achieving your dream body by just going about your day. With EleBands, it's possible.
+
+Many of our clients are losing 2-3 pounds per week while experiencing significant health improvements. Plus, our clients tell us they receive compliments all the time when they wear thier EleBands. 
+
+People from all walks of life, including top athletes, celebrites and fitness enthusiast love our bands and we are confident you will love them to.  
+
+Beautiful Bands To Choose From: 
+
+ We have multiple colors and 10 styles to choose from. 
+ We have sets from 3lb to 30lbs to meet a range of fitness goals.
+
+THEY LOOK SO GOOD!! SEE FOR YOURSELF: https://bit.ly/elebands-news
+
+***Get 20% OFF with this coupon code: 20%OFF
+
+Theresa Smith. 
+
+
+--1715317252-eximdsn-545644112--

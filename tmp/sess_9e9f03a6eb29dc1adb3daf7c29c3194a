@@ -1,0 +1,86 @@
+ PMA_token |s:32:"7c784c697a7d5b7b303c37684f263c39"; HMAC_secret |s:16:"^f.|^p@v+31[XNi2";auth_type|s:3:"env";browser_access_time|a:1:{s:7:"default";i:1625611966;}encryption_key|s:32:"üº[9çJÛˆf:{?ÎëŒ5´Mn!‹qUvì¶ f≤S";relation|a:1:{i:1;a:22:{s:11:"PMA_VERSION";s:5:"4.9.4";s:7:"relwork";b:0;s:11:"displaywork";b:0;s:12:"bookmarkwork";b:0;s:7:"pdfwork";b:0;s:8:"commwork";b:0;s:8:"mimework";b:0;s:11:"historywork";b:0;s:10:"recentwork";b:0;s:12:"favoritework";b:0;s:11:"uiprefswork";b:0;s:12:"trackingwork";b:0;s:14:"userconfigwork";b:0;s:9:"menuswork";b:0;s:7:"navwork";b:0;s:17:"savedsearcheswork";b:0;s:18:"centralcolumnswork";b:0;s:20:"designersettingswork";b:0;s:19:"exporttemplateswork";b:0;s:8:"allworks";b:0;s:4:"user";N;s:2:"db";N;}}cache|a:2:{s:8:"server_1";a:4:{s:15:"userprefs_mtime";i:1625611940;s:14:"userprefs_type";s:7:"session";s:12:"config_mtime";i:1595972689;s:9:"userprefs";a:2:{s:4:"lang";s:2:"es";s:7:"Console";a:1:{s:4:"Mode";s:8:"collapse";}}}s:25:"server_1_cpses_z1sadx8iua";a:5:{s:12:"is_grantuser";b:0;s:13:"is_createuser";b:0;s:12:"is_superuser";b:0;s:11:"binary_logs";a:0:{}s:18:"menu-levels-server";a:13:{s:9:"databases";s:14:"Bases de datos";s:3:"sql";s:3:"SQL";s:6:"status";s:13:"Estado actual";s:6:"rights";s:8:"Usuarios";s:6:"export";s:8:"Exportar";s:6:"import";s:8:"Importar";s:8:"settings";s:14:"Configuraci√≥n";s:6:"binlog";s:16:"Registro binario";s:11:"replication";s:12:"Replicaci√≥n";s:4:"vars";s:9:"Variables";s:7:"charset";s:20:"Juegos de caracteres";s:7:"plugins";s:12:"Complementos";s:6:"engine";s:7:"Motores";}}}userconfig|a:2:{s:2:"db";a:2:{s:4:"lang";s:2:"es";s:12:"Console/Mode";s:8:"collapse";}s:2:"ts";i:1625611940;}two_factor_check|b:1;git_location|N;is_git_revision|b:0;tmpval|a:14:{s:15:"favorite_tables";a:1:{i:1;a:0:{}}s:13:"recent_tables";a:1:{i:1;a:0:{}}s:18:"table_limit_offset";i:0;s:21:"table_limit_offset_db";s:3:"pqr";s:5:"query";a:10:{s:32:"535de63e3dc7a4141a817d09a8d45fb6";a:8:{s:3:"sql";s:64:"/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"65cc52af3a57bea57b002e22b4d27edc";a:8:{s:3:"sql";s:29:"/*!40101 SET NAMES utf8mb4 */";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"b9ddaee33ef305a2259efdabc63660bb";a:8:{s:3:"sql";s:477:"--
+-- Base de datos: `conectan_pqr`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Estructura de tabla para la tabla `ost_list_items`
+--
+
+CREATE TABLE `ost_list_items` (
+  `id` int(11) UNSIGNED NOT NULL,
+  `list_id` int(11) DEFAULT NULL,
+  `status` int(11) UNSIGNED NOT NULL DEFAULT '1',
+  `value` varchar(255) NOT NULL,
+  `extra` varchar(255) DEFAULT NULL,
+  `sort` int(11) NOT NULL DEFAULT '1',
+  `properties` text
+) ENGINE=MyISAM DEFAULT CHARSET=utf8";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"ee2a584b408bff8ca6feeca445e836a6";a:8:{s:3:"sql";s:2723:"--
+-- Volcado de datos para la tabla `ost_list_items`
+--
+
+INSERT INTO `ost_list_items` (`id`, `list_id`, `status`, `value`, `extra`, `sort`, `properties`) VALUES
+(1, 2, 1, 'Registro Civil', NULL, 1, '[]'),
+(2, 2, 1, 'Tarjeta de Identidad', NULL, 1, '[]'),
+(3, 2, 1, 'Cedula de Ciudadania', NULL, 1, '[]'),
+(4, 2, 1, 'Cedula de Extranjeria', NULL, 1, '[]'),
+(5, 2, 1, 'Adulto sin identificar', NULL, 1, '[]'),
+(6, 2, 1, 'Menor sin identificar', NULL, 1, '[]'),
+(7, 2, 1, 'Recien Nacido', NULL, 1, '[]'),
+(8, 2, 1, 'Pasaporte', NULL, 1, '[]'),
+(9, 2, 1, 'Documento Extranjero', NULL, 1, '[]'),
+(10, 2, 1, 'Carn√© Diplomatico', NULL, 1, '[]'),
+(11, 2, 1, 'Numero de identificaci√≥n tributaria', NULL, 1, '[]'),
+(12, 2, 1, 'No Definido', NULL, 1, '[]'),
+(13, 2, 1, 'Tarjeta de Extranjeria', NULL, 1, '[]'),
+(14, 2, 1, 'Otro Documento', NULL, 1, '[]'),
+(15, 3, 1, 'Falta de informaci√≥n sobre terminaci√≥n del contrato', 'B5', 1, '[]'),
+(16, 3, 1, 'Clausula de permanencia sin consentimiento', 'B2', 1, '[]'),
+(17, 3, 1, 'Otros', 'I1', 1, '[]'),
+(18, 3, 1, 'No traslado a nuevo domicilio', 'D5', 1, '[]'),
+(19, 3, 1, 'No compensaci√≥n informada', 'D3', 1, '[]'),
+(20, 3, 1, 'Error factura / Cobro o descuento injustificado', 'E1', 1, '[]'),
+(21, 3, 1, 'Publicidad enga√±osa', 'A2', 1, '[]'),
+(22, 3, 1, 'Cobro en proceso de reclamaci√≥n', 'E4', 1, '[]'),
+(23, 3, 1, 'Servicios no solicitados', 'A3', 1, '[]'),
+(24, 3, 1, 'Valor subsidiado o financiado', 'B4', 1, '[]'),
+(25, 3, 1, 'Cl√°usula de permanencia superior a un a√±o', 'B3', 1, '[]'),
+(26, 3, 1, 'Fraudes en contrataci√≥n', 'A4', 1, '[]'),
+(27, 3, 1, 'Solicitud de cambio de Plan', 'S1', 1, '[]'),
+(28, 3, 1, 'Reporte a centrales de riesgo', 'E3', 1, '[]'),
+(29, 3, 1, 'Datos personales', 'A5', 1, '[]'),
+(30, 3, 1, 'Medios de atenci√≥n al usuario', 'G1', 1, '[]'),
+(31, 3, 1, 'Modificaci√≥n de consiciones acordadas', 'A1', 1, '[]'),
+(32, 3, 1, 'Incremento tarifario', 'E2', 1, '[]'),
+(33, 3, 1, 'Solicitud de terminaci√≥n del contrato', 'S2', 1, '[]'),
+(34, 3, 1, 'Plan corporativo', 'A6', 1, '[]'),
+(35, 3, 1, 'No disponibilidad del servicio', 'D1', 1, '[]'),
+(36, 3, 1, 'Imposibilidad terminaci√≥n de contrato', 'B1', 1, '[]'),
+(37, 3, 1, 'Cobro por reconexi√≥n', 'E8', 1, '[]'),
+(38, 3, 1, 'Fraude en facturaci√≥n', 'E7', 1, '[]'),
+(39, 3, 1, 'Transferencia de saldos', 'E6', 1, '[]'),
+(40, 3, 1, 'Vigencia de saldos', 'E5', 1, '[]'),
+(41, 3, 1, 'Intermitencia', 'D4', 1, '[]'),
+(42, 3, 1, 'Solicitud de traslado', 'S3', 1, '[]'),
+(43, 3, 1, 'Solicitud de suspensi√≥n temporal', 'S3', 1, '[]'),
+(44, 3, 1, 'Solicitud de revisi√≥n interna', 'S4', 1, '[]'),
+(45, 3, 1, 'Solicitud de pago a plazos', 'S5', 1, '[]'),
+(46, 3, 1, 'Otro tipo de solicitud', 'S6', 1, '[]')";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"21b1cd38392ae32797c3e0fc0577f941";a:8:{s:3:"sql";s:181:"--
+-- √çndices para tablas volcadas
+--
+
+--
+-- Indices de la tabla `ost_list_items`
+--
+ALTER TABLE `ost_list_items`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `list_item_lookup` (`list_id`)";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"ca2d22fb3ff58c4e72e78ba62db2666f";a:8:{s:3:"sql";s:203:"--
+-- AUTO_INCREMENT de las tablas volcadas
+--
+
+--
+-- AUTO_INCREMENT de la tabla `ost_list_items`
+--
+ALTER TABLE `ost_list_items`
+  MODIFY `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=47";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"1d0ba376e273b9d622641124d8c59264";a:8:{s:3:"sql";s:6:"COMMIT";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"314a2a6af715a117719831abd47a7e59";a:8:{s:3:"sql";s:62:"/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"3156cc0fff730d17edc1acfdb05ed71c";a:8:{s:3:"sql";s:64:"/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"dcdde952b3211bb4e1b0a9110e18a57f";a:8:{s:3:"sql";s:62:"/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}}s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;s:12:"display_blob";b:0;s:19:"hide_transformation";b:0;s:3:"pos";i:0;s:8:"max_rows";i:25;s:12:"repeat_cells";i:100;}ConfigFile1|a:4:{s:28:"PmaNoRelation_DisableWarning";b:1;s:12:"ShowCreateDb";b:0;s:7:"Console";a:1:{s:4:"Mode";s:8:"collapse";}s:7:"Servers";a:1:{i:1;a:2:{s:7:"only_db";s:0:"";s:7:"hide_db";s:0:"";}}}debug|a:0:{}Import_message|a:2:{s:7:"message";s:189:"<div class="success"><img src="themes/dot.gif" title="" alt="" class="icon ic_s_success" /> <em>Importaci√≥n ejecutada exitosamente, 16 consultas ejecutadas.</em> (ost_list_items.sql)</div>";s:11:"go_back_url";s:20:"db_import.php?db=pqr";}is_multi_query|b:1;sql_from_query_box|b:1;sql_history|a:3:{i:0;a:3:{s:2:"db";s:3:"pqr";s:5:"table";s:0:"";s:8:"sqlquery";s:25:"DROP TABLE ost_list_items";}i:1;a:3:{s:2:"db";s:3:"pqr";s:5:"table";s:0:"";s:8:"sqlquery";s:62:"/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */";}i:2;a:3:{s:2:"db";s:3:"pqr";s:5:"table";s:0:"";s:8:"sqlquery";s:62:"/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */";}}__upload_status|a:1:{s:7:"handler";s:47:"PhpMyAdmin\Plugins\Import\Upload\UploadNoplugin";}errors|a:0:{}

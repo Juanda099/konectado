@@ -1,0 +1,51 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 2D/mC519emYRbw4A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 25 Jun 2024 01:19:41 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 25 Jun 2024 01:19:41 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sM1Ov-003yL8-0O
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 25 Jun 2024 01:19:41 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sM1Om-003yJ1-2U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sM1Ov-003yL8-0O@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 25 Jun 2024 01:19:41 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sM1Om-003yJ1-2U
+	for servicioalcliente@serkoi.com;
+	Tue, 25 Jun 2024 01:19:32 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 8.218.0.227
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 8.218.0.227
+From:
+Message-Id: <E1sM1Om-003yJ1-2U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 25 Jun 2024 01:19:32 -0700
+
+De: sellyourhousenow. 
+Correo: . 
+Telefono: . 
+Mensaje: Market hot? Thinking of selling? Get a FREE, no-obligation quote to unlock your home's value. 
+ 
+Click now: 
+ 
+https://novacodex.site/house_sale.html. 
+

@@ -1,0 +1,120 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 97SlBwW6pGRQ1j0AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 04 Jul 2023 17:32:05 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 04 Jul 2023 17:32:05 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qGqRA-00H0El-E2
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 04 Jul 2023 17:32:04 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qGqR4-00H01a-Rs@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1688517124-eximdsn-1668015282
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qGqRA-00H0El-E2@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 04 Jul 2023 17:32:04 -0700
+
+--1688517124-eximdsn-1668015282
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 GqRAqjkn4WbB0 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Dp2Qukz+ c=1 sm=1 tr=0 ts=64a4ba04 p=WvdEJ74V8pX1wtShg6pW:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=8sBWj3wrAAAA:20 a=QOQjTlsSOrm7ijt_ir0A:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1688517124-eximdsn-1668015282
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 GqRAqjkn4WbB0 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Dp2Qukz+ c=1 sm=1 tr=0 ts=64a4ba04 p=WvdEJ74V8pX1wtShg6pW:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=8sBWj3wrAAAA:20 a=QOQjTlsSOrm7ijt_ir0A:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1688517124-eximdsn-1668015282
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qGqR4-00H01a-Rs
+	for servicioalcliente@serkoi.com;
+	Tue, 04 Jul 2023 17:32:03 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 63.161.78.105
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 63.161.78.105
+From:
+Message-Id: <E1qGqR4-00H01a-Rs@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 04 Jul 2023 17:31:58 -0700
+
+De: Liam Urban. 
+Correo: . 
+Telefono: 0314 6981754. 
+Mensaje: Hey
+
+I wanted to share some exciting news with you about a powerful tool that
+revolutionizes the way you create attention grabbing graphics, videos, arts etc for you & your clients.
+
+Yes,
+Now you too can use AI to create mesmerizing marketing assets like a pro.
+
+See Vision AI In Action Here- https://shorturl.at/hyzHZ 
+
+First To Universe - Explainable AI App That Creates Mind Blowing Text-to-Video, Vision Videos, Image Talking Videos, Incredible Graphic Arts, 
+Age Changer Videos, Ai Text Paint Images, Ai Hair Styler, Ai Image Unblur, Multi Image Subject Generation, Human Instructions Editor, 
+Ai Illustration, Pointing People Generator, Ai Avatar Generator, Ai Vision Image, & Much Much More In Less Than 60 Minutes......
+
+Checkout Some Of Its Amazing Features-
+
+First To Market, Cutting Edge AI Technology That’s The Future Of Intelligent Solutions
+Create 100% Unique AI Avatars Of Any Image & Get 100X More Visibility For Your Offers
+Instantly Convert Any Random Text Into Stunning 4K and 8k HD Video & Get Max Attention
+Make Any Image Into Human Like Talking Image & Attract Hordes of Audience In 3 Clicks
+Smartly Convert Any Ordinary Photo Into Eye Catchy Live Image In Any Niche
+Transform Any Outdated Image Into 100% Fresh, Audience Friendly AI Robotic Image
+Create Multiple Versions Of Any Existing Photo & Grab More Eyeballs In A Flash
+Change Age Of Any Photo And Make It Look Young, Old Or Grown Up Instantly Using Style Based Regression Model  
+Crush your Competition By Converting An Existing Video Into Attention Grabbing AI Video
+Restore Faces Inside Any Blurred Image & Make It As Clear As Morning Sky
+Let Customers Literally Beg You In Exchange For Your Premium Services
+Create Unique Own Songs Easily With Your Voice Commands Or By Entering Any Keyword
+Offer Premium Video & Graphic Creation Services On Top Platforms & Make A Cool Passive Income
+Create Your Own AI-Generated Songs Site With Just One Click- Easily Upload Your Songs And Charge Top Dollar By Selling Them To A Wide Audience
+Totally Unique & Innovative Tech That Creates Stunning Marketing Assets For You & Your Clients In Seconds
+Convert Any Blurred Image Into 100% Visible & Lure Max Visitors To Your Offers
+Use Our Innovative Tech To Attract More Eyeballs & Make 10 X More Appealing Assets
+Change Hair Style For Any Image & Make It More Visually Enticing...
+& tons of other benefits
+
+Wanna know more?
+
+SEE THE FULL SCOOP HERE- https://shorturl.at/hyzHZ 
+
+So, what’s the point of waiting?
+
+Thanks,
+Liam
+. 
+
+
+--1688517124-eximdsn-1668015282--

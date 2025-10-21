@@ -1,0 +1,56 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id cLK/CRwfdWa2qg8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 20 Jun 2024 23:35:08 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 20 Jun 2024 23:35:08 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sKXrY-004Jb2-0J
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 20 Jun 2024 23:35:08 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sKXrM-004JAu-2t@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sKXrY-004Jb2-0J@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 20 Jun 2024 23:35:08 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sKXrM-004JAu-2t
+	for servicioalcliente@serkoi.com;
+	Thu, 20 Jun 2024 23:34:56 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 184.185.2.12
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 184.185.2.12
+From:
+Message-Id: <E1sKXrM-004JAu-2t@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 20 Jun 2024 23:34:56 -0700
+
+De: lineofcredit. 
+Correo: . 
+Telefono: . 
+Mensaje: Control your finances with Upgrade OneCard 
+ 
+-Fast access to funds 
+-Predictable payments 
+-No annual fees 
+-Manage it all in our app 
+ 
+Rewards Checking & high-yield Savings available in the same place, click for more information: 
+ 
+https://novacodex.site/line_of_credit.html. 
+

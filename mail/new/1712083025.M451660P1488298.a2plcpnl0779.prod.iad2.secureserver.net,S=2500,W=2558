@@ -1,0 +1,58 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id eMRAGVFQDGaqtRYAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 02 Apr 2024 11:37:05 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 02 Apr 2024 11:37:05 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rrj0L-006GKC-0t
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 02 Apr 2024 11:37:05 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rrj0F-006G5t-1h@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rrj0L-006GKC-0t@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 02 Apr 2024 11:37:05 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rrj0F-006G5t-1h
+	for servicioalcliente@serkoi.com;
+	Tue, 02 Apr 2024 11:36:59 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 45.59.20.26
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 45.59.20.26
+From:
+Message-Id: <E1rrj0F-006G5t-1h@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 02 Apr 2024 11:36:59 -0700
+
+De: Matthew Williams. 
+Correo: . 
+Telefono: 8641451320. 
+Mensaje: Hi there,
+
+Elevate your company's digital journey with ARSource! As the President, I'm excited to introduce our cutting-edge solutions tailored for businesses like you. From mobile app and web development to AI, NFTs, and cybersecurity, we're your partners in digital transformation. Interested in exploring more? Let's connect! Reply to this email for a free consultation.  
+
+Best,
+Matthew Williams
+President, ARSource
+Https://arsource.io 
+
+
+P.S. Or just 
+book a call here (https://arsource.setmore.com). 
+

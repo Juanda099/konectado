@@ -1,0 +1,49 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id CEG9HG1lTWiQygAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 14 Jun 2025 05:05:01 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 14 Jun 2025 05:05:01 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uQPd7-00000000jaL-1PIY
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 14 Jun 2025 05:05:01 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uQPcx-00000000jTL-07VZ@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uQPd7-00000000jaL-1PIY@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 14 Jun 2025 05:05:01 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uQPcx-00000000jTL-07VZ
+	for servicioalcliente@serkoi.com;
+	Sat, 14 Jun 2025 05:04:51 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uQPcx-00000000jTL-07VZ@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 14 Jun 2025 05:04:51 -0700
+
+De: Romeo Armer. 
+Correo: . 
+Telefono: 749043450. 
+Mensaje: 
+Is your website proditelsas.com failing to capture its true potential? With our automated traffic system, you can engage thousands of additional visitors daily—without any extra effort on your part.
+
+Take advantage of our free trial that delivers 4,000 visitors so you can see the impact. If you love the results, our plans offer up to 350,000 visitors per month. Let’s realize untapped potential for growth. Get more details here: https://cutt.ly/rrQWZNO3
+. 
+

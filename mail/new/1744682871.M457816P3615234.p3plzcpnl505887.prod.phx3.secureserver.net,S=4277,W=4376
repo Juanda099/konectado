@@ -1,0 +1,99 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 6AYfGne//WcCKjcA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 14 Apr 2025 19:07:51 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 14 Apr 2025 19:07:51 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1u4ViJ-00FJXp-1C
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 14 Apr 2025 19:07:51 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1u4ViE-00FJWs-0g@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1744682871-eximdsn-1023035820
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1u4ViJ-00FJXp-1C@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 14 Apr 2025 19:07:51 -0700
+
+--1744682871-eximdsn-1023035820
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 4ViJuFwYuWmkF :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=K6TYHzWI c=1 sm=1 tr=0 ts=67fdbf77 p=-uFi6cOxYdoA:10 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=pGLkceISAAAA:8 a=Sf4V56FJNJDZ1PhwJo8A:9 a=ZXulRonScM0A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=Ybz075xMJtT7FhSb9isu:22 ::
+    100.00
+
+--1744682871-eximdsn-1023035820
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 4ViJuFwYuWmkF :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=K6TYHzWI c=1 sm=1 tr=0 ts=67fdbf77 p=-uFi6cOxYdoA:10 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=pGLkceISAAAA:8 a=Sf4V56FJNJDZ1PhwJo8A:9 a=ZXulRonScM0A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=Ybz075xMJtT7FhSb9isu:22 :: 100.00
+
+--1744682871-eximdsn-1023035820
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1u4ViE-00FJWs-0g
+	for servicioalcliente@serkoi.com;
+	Mon, 14 Apr 2025 19:07:51 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1u4ViE-00FJWs-0g@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 14 Apr 2025 19:07:46 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Rafaela Woods. 
+Correo: . 
+Telefono: 315-323-9243. 
+Mensaje: Hi,
+
+I am a senior web developer, highly skilled and with 10+ years of collective web design and development experience, I work in one of the best web development company.
+
+
+My hourly rate is $8
+
+
+My expertise includes: 
+
+Website design - custom mockups and template designs 
+Website design and development - theme development, backend customisation 
+Responsive website - on all screen sizes and devices 
+Plugins and Extensions Development 
+Website speed optimisation and SEO on-page optimisation 
+Website security 
+Website migration, support and maintenance 
+If you have a question or requirement to discuss, I would love to help and further discuss it. Please email me at e.solus@gmail.com
+
+
+Regards, 
+Sachin
+hireadevelopernow@gmail.com. 
+
+
+--1744682871-eximdsn-1023035820--

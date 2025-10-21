@@ -1,0 +1,50 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id yEvDBUwm1WgELS8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 25 Sep 2025 04:23:56 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 25 Sep 2025 04:23:56 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1v1k4q-0000000DKnP-07BN
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 25 Sep 2025 04:23:56 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1v1k4f-0000000DKl5-0qr6@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1v1k4q-0000000DKnP-07BN@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 25 Sep 2025 04:23:56 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1v1k4f-0000000DKl5-0qr6
+	for servicioalcliente@serkoi.com;
+	Thu, 25 Sep 2025 04:23:45 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1v1k4f-0000000DKl5-0qr6@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 25 Sep 2025 04:23:45 -0700
+
+De: Natali  Conti. 
+Correo: . 
+Telefono: 889580504. 
+Mensaje: WEBINAR: Watch Us Build a Complete AI-Powered Local Marketing Agency That Finds Desperate Clients, 
+Creates Custom Pitches & Delivers Premium Services Automatically, For Multiple Niches & Turn
+It Into $15,000/month Recurring Revenue Business!
+
+
+For more click here : https://jvz6.com/c/688203/424347/. 
+

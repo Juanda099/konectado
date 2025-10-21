@@ -1,0 +1,97 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id SKVyMYPyPmY9Oz0A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 10 May 2024 21:22:27 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 10 May 2024 21:22:27 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1s5eFf-00Gw1F-2U
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 10 May 2024 21:22:27 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1s5eFa-00Gvzk-2L@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1715401347-eximdsn-1427372493
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1s5eFf-00Gw1F-2U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 10 May 2024 21:22:27 -0700
+
+--1715401347-eximdsn-1427372493
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 5eFfs2SZ8Dqcu :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=fO7y3oae c=1 sm=1 tr=0 ts=663ef283 p=CvLZxFmWAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=smrCSdiaAAAA:8 a=-qnHDQ8mtq1lwyhyvbAA:9 a=3ZKOabzyN94A:10 a=OlUEeBNNtsa85_XQETH0:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=DOIpJmcSShHcJ-WrTLR_:22 a=zY0JdQc1-4EAyPf5TuXT:22 ::
+    100.00
+
+--1715401347-eximdsn-1427372493
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 5eFfs2SZ8Dqcu :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=fO7y3oae c=1 sm=1 tr=0 ts=663ef283 p=CvLZxFmWAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=smrCSdiaAAAA:8 a=-qnHDQ8mtq1lwyhyvbAA:9 a=3ZKOabzyN94A:10 a=OlUEeBNNtsa85_XQETH0:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=DOIpJmcSShHcJ-WrTLR_:22 a=zY0JdQc1-4EAyPf5TuXT:22 :: 100.00
+
+--1715401347-eximdsn-1427372493
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1s5eFa-00Gvzk-2L
+	for servicioalcliente@serkoi.com;
+	Fri, 10 May 2024 21:22:27 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 149.34.252.18
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 149.34.252.18
+From:
+Message-Id: <E1s5eFa-00Gvzk-2L@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 10 May 2024 21:22:22 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: John Hayden. 
+Correo: . 
+Telefono: 952 39 698. 
+Mensaje: Dear proditelsas.com webmaster,
+
+I am very excited to share with you a new groundbreaking publication that will stir the scientific community: "Secrets of the Winds, Discovery Chronicles of Earth's’ Galactic Odyssey" This compelling new book unveils significant geological evidence that will redefine our understanding of extraterrestrial life.
+
+Inside 'Secrets of the Winds’; 
+- Revolutionary Findings:  Journey through the portal as I reveal how recent geological discoveries have unearthed signs of ancient extraterrestrial life forms.
+- Earth's Hidden Blueprints: Learn about the enigmatic geological formations, and world - changing events that have been shaped by forces beyond our world.
+- A Bold Perspective: Expert insights with stunning microscope fossils and correlating Google Earth images, this book offers a fresh and riveting look at our planet's history and its cosmic connections.
+
+Whether you're a geologist, scientist, engineer or simply captivated by the mysteries of the universe, "Secrets of the Winds" promises to take you on an enlightening adventure.
+
+I would be honored if you could share this news with your audience. For more information or to request a review copy, please reply to this email and visit my engaging website.
+
+Thank you for your time and consideration. Enjoy discovering these amazing secrets for yourself!
+
+Warm regards,
+
+Johnny Tesone, explore@geovortex.net
+Geologist, Author, GeoVortex, www.geovortex.net. 
+
+
+--1715401347-eximdsn-1427372493--

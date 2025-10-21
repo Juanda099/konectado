@@ -1,0 +1,59 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id KD6qFxOL22X2QgQAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sun, 25 Feb 2024 11:46:43 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sun, 25 Feb 2024 11:46:43 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1reJWN-001CwJ-0p
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sun, 25 Feb 2024 11:46:43 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1reJWI-001CuZ-2t@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1reJWN-001CwJ-0p@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 25 Feb 2024 11:46:43 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1reJWI-001CuZ-2t
+	for servicioalcliente@serkoi.com;
+	Sun, 25 Feb 2024 11:46:38 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 98.159.33.38
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 98.159.33.38
+From:
+Message-Id: <E1reJWI-001CuZ-2t@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 25 Feb 2024 11:46:38 -0700
+
+De: Benito Brock. 
+Correo: . 
+Telefono: 0339 5509995. 
+Mensaje: For a limited time we would like to offer you a NO-COST Reputation Video that you can put on your Website, LinkedIn, Facebook, Instagram etc.
+
+We simply turn your static 5 Star Reviews into SEO content and will be seen on the Front Page of Google when prospects are looking up your Online Reputation.
+
+What's the Catch - excellent question - if you like the video we produce for you, all we need from you is 3 referrals.
+
+When you introduce them to us, they will get a 50% Discount from our retail pricing.
+
+GET YOUR NO-CHARGE VIDEO HERE:
+https://YourFreeReputationVideo.com
+
+Thank You,
+Media Relations. 
+

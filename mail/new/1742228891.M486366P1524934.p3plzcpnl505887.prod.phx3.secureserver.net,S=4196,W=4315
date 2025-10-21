@@ -1,0 +1,119 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id ADBKHJtN2GfGRBcA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 17 Mar 2025 09:28:11 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 17 Mar 2025 09:28:11 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tuDJz-006oIb-1K
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 17 Mar 2025 09:28:11 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tuDJu-006oG1-0A@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1742228891-eximdsn-468345708
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tuDJz-006oIb-1K@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 17 Mar 2025 09:28:11 -0700
+
+--1742228891-eximdsn-468345708
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 uDJztB9LYbZMM :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=WOOFXmsR c=1 sm=1 tr=0 ts=67d84d9b p=8cCDjZ-2AAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=Vs1iUdzkB0EA:10 a=DSxnSpgcIxOmCVXmoFsA:9 a=FS6ca8Crnar_1wlNRrMM:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1742228891-eximdsn-468345708
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 uDJztB9LYbZMM :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=WOOFXmsR c=1 sm=1 tr=0 ts=67d84d9b p=8cCDjZ-2AAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=Vs1iUdzkB0EA:10 a=DSxnSpgcIxOmCVXmoFsA:9 a=FS6ca8Crnar_1wlNRrMM:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1742228891-eximdsn-468345708
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tuDJu-006oG1-0A
+	for servicioalcliente@serkoi.com;
+	Mon, 17 Mar 2025 09:28:11 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tuDJu-006oG1-0A@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 17 Mar 2025 09:28:06 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Latesha Karr. 
+Correo: . 
+Telefono: 474 3483. 
+Mensaje: 30-Day Free Trial 
+
+Post content to Social Media Sites Daily
+Generate reviews via SMS, Email, or using NFC cards for in person tap to phone
+All Reviews are gated - good reviews are posted automatically, negative reviews sent to business owner for attention. 
+Create image of review to post to social media sites.
+Responding to reviews using AI to create great responses for positive and negative reviews.
+Streaming reviews to your website
+
+Special Bonus: We will create a jingle (short Song) for your business
+
+Interested? 
+
+Send email to eric@capstonemediamash.com 
+
+Subject: Interested in 30-day trial
+
+Provide business name and URL
+Your contact information, best email and phone number.
+List any questions.
+
+Thanks 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+
+--1742228891-eximdsn-468345708--

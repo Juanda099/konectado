@@ -1,0 +1,95 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id qKLyA4PpWWdw2QEA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 11 Dec 2024 12:35:31 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 11 Dec 2024 12:35:31 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tLSUd-000dau-00
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 11 Dec 2024 12:35:31 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tLSUQ-000dV3-2W@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1733945730-eximdsn-1724361713
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tLSUd-000dau-00@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 11 Dec 2024 12:35:31 -0700
+
+--1733945730-eximdsn-1724361713
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 LSUct4DlmgoJo :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=aqhICTZV c=1 sm=1 tr=0 ts=6759e982 p=Y40vOjFBAAAA:20 p=M7D1Om9sXeS6JASAjI8A:9 p=WbrI96307STyAX_xuAGm:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=RZcAm9yDv7YA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1733945730-eximdsn-1724361713
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 LSUct4DlmgoJo :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=aqhICTZV c=1 sm=1 tr=0 ts=6759e982 p=Y40vOjFBAAAA:20 p=M7D1Om9sXeS6JASAjI8A:9 p=WbrI96307STyAX_xuAGm:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=RZcAm9yDv7YA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1733945730-eximdsn-1724361713
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tLSUQ-000dV3-2W
+	for servicioalcliente@serkoi.com;
+	Wed, 11 Dec 2024 12:35:30 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 162.212.174.137
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 162.212.174.137
+From:
+Message-Id: <E1tLSUQ-000dV3-2W@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 11 Dec 2024 12:35:18 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Nadya Clifton. 
+Correo: . 
+Telefono: 4274984. 
+Mensaje: Hi ,
+
+
+I will help to build chatbot with the power of AI & help you to integrate in your desired platform (mobile app, website, desktop app).
+ I have 3+ years of experience in building multiple chatbots. You can always check our portfolio. 
+Below are the services that we offer in this gig:
+
+In-demand:
+
+Custom GPT Integration (Trained on GPT Builder)
+Custom chatbot trained on your dataset
+Document Question Answering Chatbot
+AI Website
+AI Web App
+AI Saas
+
+Jump over to video counsltation and lets chat about your needs  ====>  https://shorturl.at/VE4dm. 
+
+
+--1733945730-eximdsn-1724361713--

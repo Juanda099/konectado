@@ -1,0 +1,98 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id iNPxEQXtSmeDHgAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 30 Nov 2024 03:46:29 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 30 Nov 2024 03:46:29 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tHKzd-0002jS-0n
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 30 Nov 2024 03:46:29 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tHKzQ-0002fV-2n@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1732963589-eximdsn-1148980400
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tHKzd-0002jS-0n@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 30 Nov 2024 03:46:29 -0700
+
+--1732963589-eximdsn-1148980400
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 HKzctCknrS4Zd :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=OcliDgTY c=1 sm=1 tr=0 ts=674aed05 p=KCAVoTqBBepX9zsIMEgA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=VlfZXiiP6vEA:10 a=1BaD8y4kAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=LCDJwnhByO2dJd6sQooN:22 a=cRYJZdyqU1EvkJ8DXzHF:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1732963589-eximdsn-1148980400
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 HKzctCknrS4Zd :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=OcliDgTY c=1 sm=1 tr=0 ts=674aed05 p=KCAVoTqBBepX9zsIMEgA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=VlfZXiiP6vEA:10 a=1BaD8y4kAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=LCDJwnhByO2dJd6sQooN:22 a=cRYJZdyqU1EvkJ8DXzHF:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1732963589-eximdsn-1148980400
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tHKzQ-0002fV-2n
+	for servicioalcliente@serkoi.com;
+	Sat, 30 Nov 2024 03:46:28 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.94.78.3
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.94.78.3
+From:
+Message-Id: <E1tHKzQ-0002fV-2n@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 30 Nov 2024 03:46:16 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Marco Royston. 
+Correo: . 
+Telefono: 3915354910. 
+Mensaje: Hi there,
+I’m Marco from Monkey Digital, and I’m excited to share a fantastic opportunity for you to earn 35% commission on every order made through your affiliate links—for life!
+
+Here’s how it works:
+
+1.	Quick Registration: Sign up and create your affiliate links.
+2.	Easy Integration: Add those links to your website in just five minutes.
+3.	Monthly Payouts: Enjoy hassle-free monthly payments directly to you.
+
+https://www.monkeydigital.co/join-our-affiliate-program/
+
+Think about it: every website owner needs effective search engine optimization (SEO) to thrive. This presents a significant earning potential for both you and us.
+
+Don’t miss out on this opportunity to boost your income with minimal effort!
+
+Thank you,
+Marco Royston
+Monkey Digital
+Contact Us on WhatsApp
+https://www.monkeydigital.co/affiliates-whatsapp/. 
+
+
+--1732963589-eximdsn-1148980400--

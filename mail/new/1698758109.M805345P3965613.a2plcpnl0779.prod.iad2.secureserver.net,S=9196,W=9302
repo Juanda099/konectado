@@ -1,0 +1,106 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 4NTuLt39QGWtgjwAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 31 Oct 2023 06:15:09 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 31 Oct 2023 06:15:09 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qxoaL-00GemJ-LN
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 31 Oct 2023 06:15:09 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qxoaE-00GeaP-CQ@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1698758109-eximdsn-277876726
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qxoaL-00GemJ-LN@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 31 Oct 2023 06:15:09 -0700
+
+--1698758109-eximdsn-277876726
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 xoaLqAVsTnklG :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=HeTSDAI8 c=1 sm=1 tr=0 ts=6540fddd p=CCcmxEj3j7TL0G7Y3GaJ:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=_qqYmxgdAAAA:8 a=09U5ZglCoYn7tv3tARwA:9 a=Tc7mR8-NNdbduheQ9K_d:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1698758109-eximdsn-277876726
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 xoaLqAVsTnklG :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=HeTSDAI8 c=1 sm=1 tr=0 ts=6540fddd p=CCcmxEj3j7TL0G7Y3GaJ:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=_qqYmxgdAAAA:8 a=09U5ZglCoYn7tv3tARwA:9 a=Tc7mR8-NNdbduheQ9K_d:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1698758109-eximdsn-277876726
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qxoaE-00GeaP-CQ
+	for servicioalcliente@serkoi.com;
+	Tue, 31 Oct 2023 06:15:09 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 178.18.44.42
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 178.18.44.42
+From:
+Message-Id: <E1qxoaE-00GeaP-CQ@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 31 Oct 2023 06:15:02 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Miltontiz. 
+Correo: . 
+Telefono: 85635222645. 
+Mensaje: Автомашину - это не просто средство передвижения. Для множества среди нас он стал надежным спутником в ежедневной жизни. Он доставляет нас на работу, разрешает совершать длительные путешествия, выручает в чрезвычайных ситуациях и презентует нам свободу передвижения. Хотя даже самый надежный автомобиль время от времени требует профессионального ухода, и непосредственно тут в игру вступает автосервис. 
+ 
+1. Техническое обслуживание 
+ 
+Автосервис - это место, где проф механики берут на себя заботу о состоянии вашего автомобиля. Регулярное техническое обслуживание разрешает предотвращать огромное количество проблем и увеличивать срок службы вашего авто. Подмена масла, проверка трансмиссии, антифриза, тормозной жидкости - все это проделывает вашу машину надежной и неопасной. 
+ 
+2. Ремонт и Восстановление 
+ 
+В жизни бывают неожиданные ситуации, и ваш автомашину может понадобиться ремонт. Автосервис предоставляет предложения по диагностике и ремонтным работам двигателя, трансмиссии, тормозов, электрики и прочих систем. Проф мастера помогут выявить и убрать неисправности, вернув вашему авто боевую готовность. 
+<a href=https://old.mama.md/topic/250260-comanda-montaj-anvelope-mobile-in-moldova/>https://old.mama.md/topic/250260-comanda-montaj-anvelope-mobile-in-moldova/</a> 
+ 
+3. Защищенность и Надежность 
+ 
+Поддерживая автомобиль в неплохом техническом состоянии, вы гарантируете собственную безопасность и безопасность окружающих. Достоверная транспортная система - это гарантия, что ваш автомобиль не представляет угрозы на магистрали. Также, автосервис помогает блюсти стереотипы безопасности и экологичности. 
+ 
+4. Экономия Времени и Денег 
+ 
+Кое-какие имеют все шансы считать,  собственно что обращение к автосервису - вспомогательные издержки, но это вовсе не так как могло показаться на первый взгляд. Постоянное сервис и предотвращение дорогостоящих ремонтов могут существенно сберечь ваши средства в долгосрочной перспективе. к тому же, беспроигрышный автомашину сберегает ваше время и нервишки. 
+ 
+5. Гарантия и Качество 
+ 
+Автосервисы работают согласно высочайшим стандартам и нередко деют гарантии на собственную работу. Это выделяет для вас уверенность в виде предоставляемых услуг и честности тарифов. Почти все автосервисы употребляют оригинальные запчасти,  собственно что обеспечивает длинный срок службы. 
+ 
+6. Удобство и Комфорт 
+ 
+Современные автосервисы предлагают посетителям множество удобств. Вам продоставляется возможность записаться на сервис онлайн, воспользоваться заменой масла на дому либо забыть автомашину на стоянке и получить его уже отремонтированным. Все это проделывает сервис авто максимально удобным. 
+ 
+В итоге, автосервис - это не просто пространство ремонтных работ, это ваш надежный партнер в уходе за вашим автомашиной. Заботясь о своей машине, вы кроме того заботитесь о собственной защищенности, экономите средства и время. Так что не забывайте о регулярном обслуживании и по мере надобности обращайтесь в надежный автосервис. Ваш автомашину и ваши нервы произнесут вам спасибо.. 
+
+
+--1698758109-eximdsn-277876726--

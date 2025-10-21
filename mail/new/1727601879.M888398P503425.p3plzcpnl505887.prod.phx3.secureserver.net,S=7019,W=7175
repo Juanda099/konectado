@@ -1,0 +1,156 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id zUNONNcc+WaBrgcA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 29 Sep 2024 02:24:39 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 29 Sep 2024 02:24:39 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1suqAR-0026xf-2c
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 29 Sep 2024 02:24:39 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1suqAH-0026io-1C@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1727601879-eximdsn-326616445
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1suqAR-0026xf-2c@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 29 Sep 2024 02:24:39 -0700
+
+--1727601879-eximdsn-326616445
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 uqARs29a9fN0M :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=YI9UygGx c=1 sm=1 tr=0 ts=66f91cd7 p=99gU2ldPTBBDlTTvy66D:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=CBX9V72gAAAA:8 a=smrCSdiaAAAA:8 a=K8igpE2-uaAkRfTfLScA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=1-2kolRezbUNJhA1kn5e:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1727601879-eximdsn-326616445
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 uqARs29a9fN0M :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=YI9UygGx c=1 sm=1 tr=0 ts=66f91cd7 p=99gU2ldPTBBDlTTvy66D:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=CBX9V72gAAAA:8 a=smrCSdiaAAAA:8 a=K8igpE2-uaAkRfTfLScA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=1-2kolRezbUNJhA1kn5e:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1727601879-eximdsn-326616445
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1suqAH-0026io-1C
+	for servicioalcliente@serkoi.com;
+	Sun, 29 Sep 2024 02:24:39 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.201.198
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.201.198
+From:
+Message-Id: <E1suqAH-0026io-1C@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 29 Sep 2024 02:24:29 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Edward Conley. 
+Correo: . 
+Telefono: 0347 6113785. 
+Mensaje: 
+Woah..    Guaranteed rankings?
+Ôªø
+That‚Äôs a dangerous word to throw around, right?
+Ôªø
+Yea I thought so too.
+Ôªø
+Until I saw how these two guys actually figured out how to do it.
+Ôªø
+Not only have they figured out how to do it, they‚Äôve automated the process into a simple, 4-step, web-based software.
+Ôªø
+Short on time?    See a LIVE case study here: https://www.busihelp.xyz/xranker360 
+Ôªø
+X Ranker 360 is the ONLY Web App To Truly Guarantee Your Videos Will Rank on Page 1 of Google Without Any Wasted Time or Effort‚Ä¶
+Ôªø
+And the idea of how it came about is actually kinda simple..
+Ôªø
+You see, most people
+Ôªø
+1Ô∏è‚É£ pick some keywords
+2Ô∏è‚É£ create full campaigns around those keywords
+3Ô∏è‚É£ build backlinks to their videos
+4Ô∏è‚É£ wait 1-4 weeks to see which video will
+rank and which will not‚Ä¶
+Ôªø
+And for the most part, that scenario ends in TOTAL disappointment.
+Ôªø
+so The X Ranker guys decided to build a web-app that automatically figures out which keywords will rank with 100% certainty FIRST..
+Ôªø
+and THEN you can invest more time into the campaigns that you know are guaranteed to rank..
+Ôªø
+Sounds pretty genius, right?
+Ôªø
+See the LIVE case study here: https://www.busihelp.xyz/xranker360 
+Ôªø
+And the best part is, they've just released their 3.0 version which includes some VERY powerful additions:
+Ôªø
+‚úÖ A more powerful keyword suggestion engine.
+Ôªø
+X Ranker 360 already has a powerful keyword engine, however they've made it BETTER by being one of the VERY few video ranking apps that reveals EXACT-MATCH search data for EVERY keyword it suggests.
+Ôªø
+This allows you to ensure that you target keywords that ACTUALLY get search volume.
+Ôªø
+‚úÖ International targeting and ranking.
+Ôªø
+Not only does X Ranker give you exact-match search data, they've also extended their keyword tool to allow you to target most of the major countries out there!
+Ôªø
+You can now find profitable keywords from Google Germany, Google UK, France, Italy, Spain, and many many more..
+Ôªø
+‚úÖ Seamless SyndBuddy Integration for one-click syndication.
+Ôªø
+SyndBuddy is their own proprietary syndication platform that allows you to tap into their Army of 8,892 Members to STICK Your Videos on Page 1 FOR YOU By Syndicating Your Videos To ALL The TOP Social Sites 100% Hands Free
+Ôªø
+And they've integrated SB into X Ranker via their API system to allow for ONE-CLICK submissions to the SB "sharing pool" from inside of X Ranker.
+Ôªø
+And the BEST part is you'll be able to secure a massive discount for SB as a new X Ranker member with upgrade #2
+Ôªø
+Ì†ΩÌ±âÌ†ºÌøº Check out the X Ranker case study here: https://www.busihelp.xyz/xranker360 
+Ôªø
+Edward Conley
+
+
+P.S. I love when people completely change an entire industry..
+Ôªø
+Many people have been doing video ranking the SAME.EXACT.WAY for YEARS!
+Ôªø
+And then, every so often, a couple guys figure out a BETTER and more EFFECTIVE way of doing things.
+Ôªø
+X Ranker 360 is one of those RARE events :)
+Ôªø
+Ì†ΩÌ±âÌ†ºÌøº See how it works here: https://www.busihelp.xyz/xranker360 
+
+
+
+UNSUBSCRIBE: https://www.busihelp.xyz/unsubscribe/?d=proditelsas.com   
+Address: 2221 Water Street
+San Francisco, CA 94107
+. 
+
+
+--1727601879-eximdsn-326616445--

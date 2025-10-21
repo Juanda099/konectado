@@ -1,0 +1,1649 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202204 will be lost/reset.
+# Last config file used to build this data file was /home/z1h9uk8mq9i3/tmp/awstats/awstats.proditelsas.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2698                
+POS_VISITOR 30690               
+POS_DAY 49539               
+POS_DOMAIN 3572                
+POS_LOGIN 4310                
+POS_ROBOT 4465                
+POS_WORMS 5301                
+POS_EMAILSENDER 5432                
+POS_EMAILRECEIVER 5575                
+POS_SESSION 50392               
+POS_SIDER 50604               
+POS_FILETYPES 5710                
+POS_DOWNLOADS 5985                
+POS_OS 6267                
+POS_BROWSER 6580                
+POS_SCREENSIZE 9516                
+POS_UNKNOWNREFERER 9590                
+POS_UNKNOWNREFERERBROWSER 10658               
+POS_ORIGIN 11513               
+POS_SEREFERRALS 11658               
+POS_PAGEREFS 11905               
+POS_SEARCHWORDS 14273               
+POS_KEYWORDS 14425               
+POS_MISC 2362                
+POS_ERRORS 14484               
+POS_CLUSTER 4166                
+POS_SIDER_404 14642               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220501013503 142 35663 11146553514972
+FirstTime 20220401002450
+LastTime 20220430230953
+LastUpdate 20220501050136 142 0 141 0 0
+TotalVisits 733                 
+TotalUnique 451                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 502                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 82 159 29498353 30 61 568336
+1 287 288 370138 32 56 1704536
+2 70 98 6864832 31 41 522624
+3 37 57 469956 22 34 1382596
+4 27 43 2430301 28 45 695909
+5 100 183 11883679 49 93 1257826
+6 43 85 5878759 27 40 1510106
+7 151 312 18650618 165 190 284985
+8 104 211 21297624 71 105 2382577
+9 162 215 24373586 144 178 4054372
+10 65 88 2477441 68 81 140878
+11 91 127 4755878 60 68 38022
+12 104 233 32698366 42 63 1888465
+13 83 149 22840967 42 65 1069276
+14 56 112 9267734 57 92 130237
+15 58 79 8007746 40 53 290881
+16 57 104 7187506 93 117 559162
+17 69 75 147344 28 46 85803
+18 57 80 2521774 50 71 98618
+19 54 90 4824403 63 80 459802
+20 54 109 7117023 178 217 1634547
+21 74 90 2446324 145 170 82186
+22 56 79 2481064 79 104 137123
+23 39 39 166436 39 46 500595
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 34
+in 439 473 20811197
+us 411 595 30090037
+co 296 763 109609420
+nl 257 257 228512
+bg 127 127 102743
+ru 91 92 847681
+cn 75 185 9921271
+it 44 44 338883
+gb 30 44 2349018
+cl 22 22 264918
+ca 21 35 2423933
+bo 21 207 28573398
+sc 17 17 46617
+se 14 14 143678
+eu 13 13 142560
+de 11 25 2317650
+ro 10 10 105563
+gr 10 10 67631
+zz 9 9 7281
+ar 9 31 7521310
+fr 9 9 48762
+dk 8 8 100156
+cr 6 6 4854
+ma 4 4 13470
+hk 4 4 13470
+at 3 3 40786
+es 3 31 4568104
+id 3 3 40786
+tr 1 1 4264
+ua 3 3 4121
+mx 1 17 3266437
+il 1 1 809
+br 3 38 4624037
+pl 4 4 13470
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 18
+Googlebot/ 146 1214218 20220430081341 0
+bot[\s_+:,\.\;\/\\-] 138 11456716 20220430210419 0
+bingbot/ 58 332532 20220422140059 0
+AhrefsBot/ 56 196016 20220430071153 0
+BLEXBot/ 28 96854 20220425234913 0
+SemrushBot/ 18 61912 20220430211022 0
+crawl 16 55253 20220421163635 0
+spider 12 82619 20220425221024 0
+archive\.org_bot 9 1969314 20220409121200 0
+Python\-urllib/ 9 172485 20220427000035 0
+no_user_agent 8 105702 20220430203110 0
+libwww\-perl 4 6948 20220422172419 0
+Googlebot\-Image/ 3 2486835 20220430081625 0
+facebookexternalhit/ 2 0 20220415210557 0
+java 1 1737 20220410032443 0
+Firefox/1\.5 1 17038 20220403081139 0
+curl 1 1737 20220427092431 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 809 20220423181555 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+woff 2 87144 0 0
+gif 43 20447 0 0
+Unknown 66 99104 0 0
+864 1 36 0 0
+pdf 10 3563888 0 0
+js 407 4247157 0 0
+png 166 88695622 0 0
+jpg 346 126293207 0 0
+css 153 196146 0 0
+php 1620 3745839 0 0
+html 291 1708237 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 7
+/ficha%20tecnica.pdf 14 1 6816986
+/atencion.pdf 8 0 1513608
+/contrato.pdf 8 0 3395448
+/disponibilidad.pdf 8 0 1570408
+/Decreto%20067.pdf 7 0 71575
+/Decreto%201524%20de%202002.pdf 6 0 1805424
+/ELEMENTOS%20DE%20SEGURIDAD.pdf 1 0 400444
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 18
+macosx8 1 1
+macosx12 111 111
+macosx10 1 1
+win8.1 49 19
+symbian 5 1
+win7 162 79
+macosx11 8 8
+macosx7 5 1
+Unknown 427 413
+winunknown 3 3
+ios_iphone 92 21
+win8 4 4
+linux 68 50
+winxp 10 10
+win10 1591 1133
+macosx 197 63
+macosx9 4 4
+linuxandroid 368 58
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 132
+chrome95.0.4638.69 25 25
+chrome83.0.4099.2 2 2
+chrome96.0.4664.110 12 12
+opera85.0.4341.75 61 52
+opera69.0.3686.7 2 2
+chrome67.0.3396.87 4 4
+msie11.0 8 1
+chrome90.0.4430.93 7 7
+firefox95.0 6 6
+chrome66.0.2536.51 1 1
+firefox74.0 1 1
+nokia 5 1
+msie9.0 18 0
+chrome99.0.4844.84 30 2
+chrome96.0.4664.45 2 2
+chrome62.0.3202.94 3 3
+chrome99.0.4896.127 1 1
+chrome60.0.3112.107 2 2
+chrome45.0.2454.94 1 1
+chrome35.0.1916.47 3 3
+firefox83.0 35 35
+chrome83.0.4103.14 4 4
+chrome91.0.4472.114 24 12
+firefox68.0 1 1
+safari14.1.2 1 1
+opera8.50 3 3
+Unknown 305 305
+chrome59.0.3071.125 14 6
+chrome85.0.4183.121 2 2
+chrome85.0.4183.120 27 7
+opera53.0.2907.106 6 6
+chrome90.0.4430.72 23 23
+chrome83.0.4103.44 2 2
+chrome49.0.2623.112 13 5
+netscape 1 1
+chrome100.0.4896.58 22 7
+chrome83.0.4103.97 23 23
+chrome91.0.4472.77 2 2
+chrome58.0.3010.104 1 1
+safari13.0.5 9 9
+chrome61.0.3163.128 45 3
+chrome50.0.2661.75 1 1
+firefox59.0 1 1
+chrome50.0.3081.109 1 1
+opera53.0.2907.99 3 3
+safari15.3 30 5
+chrome83.0.4103.34 6 6
+chrome67.0.3396.99 3 3
+chrome74.0.3694.0 15 1
+safari14.0.3 2 1
+firefox86.0 2 2
+safari5.1 5 1
+chrome100.0.4896.60 2 2
+chrome57.0.2987.110 1 1
+chrome61.0.3163.79 1 1
+chrome80.0.3987.132 1 1
+chrome62.0.3202.84 1 1
+chrome83.0.4093.3 5 5
+chrome85.0.4183.102 1 1
+chrome74.0.3729.169 6 6
+firefox17.0 1 1
+chrome100.0.4896.79 15 1
+chrome92.0.4515.107 1 1
+firefox28.0 2 2
+firefox72.0 1 1
+chrome67.0.3396.62 3 3
+safari 66 14
+chrome44.0.2403.130 5 1
+chrome81.0.4044.129 12 12
+chrome71.0.3578.98 1 1
+chrome99.0.4844.73 38 5
+chrome51.0.3038.95 1 1
+chrome92.0.4515.166 30 2
+chrome100.0.4896.75 63 5
+firefox67.0 1 1
+chrome70.0.3538.77 1 1
+chrome67.0.3396.79 3 3
+chrome78.0.3904.108 530 530
+chrome96.0.4664.104 14 1
+opera84.0.4316.42 45 5
+chrome83.0.4103.24 2 2
+android 8 8
+chrome51.0.3093.109 1 1
+firefox58.0 4 4
+chrome80.0.3987 1 1
+mozilla 110 96
+chrome79.0.3945.136 15 1
+opera53.0.2907.68 9 9
+chrome44.0.2403.157 2 2
+chrome60.0.3112.113 115 115
+chrome35.0.2117.157 2 2
+chrome100.0.4896.88 46 4
+chrome83.0.4103.61 28 24
+chrome65.0.3325.109 2 2
+chrome84.0.4147.125 4 4
+opera85.0.4341.60 144 80
+opera54.0.2952.54 3 3
+firefox47.0 6 6
+chrome63.0.3239.132 12 12
+netscape5.0 17 17
+chrome59.0.3071.115 18 4
+chrome99.0.4844.51 10 1
+safari15.4 64 15
+firefox55.0 1 1
+chrome26.0.1410.65 1 1
+chrome68.0.2747.159 1 1
+chrome81.0.4044.138 2 1
+firefox40.0 2 2
+chrome83.0.4086.0 2 2
+chrome83.0.4100.3 4 4
+safari13.1.2 16 2
+chrome90.0.4400.8 2 2
+chrome66.0.3359.117 5 5
+chrome78.0.3904.87 7 1
+chrome87.0.4280.88 30 6
+opera85.0.4341.47 143 98
+chrome90.0.4430.85 24 23
+chrome97.0.4692.71 15 1
+chrome5.0.375.99 2 2
+chrome97.0.4692.99 15 1
+firefox66.0 1 1
+chrome51.0.2704.84 1 1
+chrome88.0.4324.182 15 1
+safari11.1.2 1 1
+chrome98.0.4758.101 27 3
+chrome66.0.3359.181 31 31
+chrome92.0.4515.159 2 2
+chrome65.0.3325.181 109 109
+chrome88.0.4324.190 6 6
+chrome86.0.4240.111 30 2
+chrome79.0.3945.130 15 1
+chrome100.0.4896.127 296 36
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 15
+Mozilla/5.0_zgrab/0.x 20220414073300
+python-requests/2.26.0 20220421193135
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220428221236
+https://gdnplus.com:Gather_Analyze_Provide. 20220430070146
+python-requests/2.27.1 20220429192000
+python-requests/2.18.4 20220415011608
+GRequests/0.10 20220430221054
+Mozilla/5.0 20220428024633
+Go-http-client/1.1 20220423025229
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220430200534
+wp_is_mobile 20220429074552
+Mozilla/5.0_(compatible;_Dataprovider.com) 20220426055133
+python-requests/2.22.0 20220425052839
+Python/3.6_aiohttp/3.7.4.post0 20220428133610
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220425182131
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220428221236
+https://gdnplus.com:Gather_Analyze_Provide. 20220430070146
+python-requests/2.27.1 20220429192000
+python-requests/2.18.4 20220415011608
+python-requests/2.26.0 20220421193135
+python-requests/2.22.0 20220425052839
+Python/3.6_aiohttp/3.7.4.post0 20220428133610
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220425182131
+GRequests/0.10 20220430221054
+wp_is_mobile 20220429074552
+Go-http-client/1.1 20220423025229
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 639 698
+From1 4 4
+From2 50 50
+From3 791 792
+From4 496 1562
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+baidu 3 3
+www_google_es 1 1
+www_google_com_co 3 3
+www_google_com 40 40
+www_google_fr 2 2
+startpage 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 45
+http://181.119.64.150:8080 174 174
+http://181.225.72.211:8080 162 162
+http://181.119.64.150:8080/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 36 36
+http://181.225.72.211:8080/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 28 28
+http://181.225.72.211:8080/securityRealm/user/admin/search/index 23 23
+http://181.119.64.150:8080/console/ 22 22
+http://181.119.64.150:8080/mifs/. 21 21
+http://181.119.64.150:8080/_ignition/execute-solution 21 21
+http://181.119.64.150:8080/securityRealm/user/admin/search/index 20 20
+http://181.225.72.211:8080/index.php 20 20
+http://181.119.64.150:8080/Autodiscover/Autodiscover.xml 19 19
+http://181.225.72.211:8080/mifs/. 18 18
+http://181.225.72.211:8080/cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh 17 17
+http://181.225.72.211:8080/console/ 17 17
+http://181.225.72.211:8080/Autodiscover/Autodiscover.xml 17 17
+http://181.119.64.150:8080/actuator/gateway/routes 17 17
+http://181.119.64.150:8080/index.php 17 17
+http://181.225.72.211:8080/actuator/gateway/routes 16 16
+http://181.119.64.150:8080/cgi-bin/.%2e/.%2e/.%2e/.%2e/bin/sh 15 15
+http://181.119.64.150:8080/favicon.ico 15 15
+http://181.225.72.211:8080/_ignition/execute-solution 14 14
+http://181.225.72.211:8080/favicon.ico 14 14
+http://181.119.64.150:8080 8 8
+http://181.225.72.211:8080/robots.txt 6 6
+http://181.225.72.211:8080/invoker/readonly 6 6
+http://181.119.64.150:8080/somepage 1 1
+http://181.119.64.150:8080/script 1 1
+http://181.119.64.150:8080/webfig/ 2 2
+http://www.kimblog.top/blog/141407591/how-to-increase-website-traffic/ 0 1
+http://181.225.72.211:8080/jenkins/login 4 4
+http://181.119.64.150:8080/jenkins/login 1 1
+http://181.119.64.150:8080/Telerik.Web.UI.WebResource.axd 1 1
+http://181.225.72.211:8080/manager/html 5 5
+http://181.119.64.150:8080/login 3 3
+http://181.225.72.211:8080/sitemap.xml 4 4
+http://181.225.72.211:8080/script 5 5
+http://181.119.64.150:8080/invoker/readonly 1 1
+http://181.225.72.211:8080/webfig/ 2 2
+http://181.225.72.211:8080/actuator/env 4 4
+http://181.225.72.211:8080/login 6 6
+http://181.119.64.150:8080/manager/html 1 1
+http://181.225.72.211:8080/Telerik.Web.UI.WebResource.axd 1 1
+http://181.225.72.211:8080 4 4
+http://181.119.64.150:8080/actuator/env 1 1
+http://www.kimblog.top 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+403 1 36
+201 8 613
+301 14 3420
+206 6 2938403
+404 1221 0
+302 167 585
+422 92 277680
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 549
+/wp-includes/css/ 1 www.google.com
+/assets/images/wp-plugins.php 1 -
+/lock360.php 1 www.bing.com
+/wp-content/ALFA_DATA/alfacgiapi/ 1 -
+/wp-content/uploads/2021/12/fw.php 1 -
+/administrator/help/en-GB/toc.json 1 -
+/wp-admin/js/widgets/index.php 1 proditelsas.com
+/old/wp-admin/install.php 3 -
+/assets/images/get.php 1 -
+/readme.php 1 www.google.com
+/xleet-shell.php 4 www.google.com
+/wp-config.php.original 1 -
+/reservas/corporativo.php 1 -
+/wap/trading/lastKlineParameter 1 -
+/psm.php 1 -
+/wp-SEo.php 1 -
+/logs.php 1 -
+/wso.php 7 www.google.com
+/wp-content/uploads/2022/radio.php 1 proditelsas.com
+/wp-admin/fw.php 1 -
+/laravel/.env 3 -
+/jiaoyimao/default.css 1 -
+/site/wp-admin/setup-config.php 1 -
+/static/img/notices.png 1 -
+/wp-admin/wso.php 1 -
+/wp-admin/ALFA_DATA 3 www.bing.com
+/_ignition/health-check/ 2 -
+/app/.env 2 -
+/leaf.php 1 -
+/templates/beez3/cgialfa 3 www.bing.com
+/7yn.php 1 -
+/.aws/credentials 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/public/img/cz1.png 1 -
+/pqr/caracteristicas.php 1 -
+/FoxWSO.php 1 -
+/archives.php 3 www.bing.com
+/0.php 1 -
+/upload.php 5 www.bing.com
+/sites/default/files/alfacgiapi 3 www.bing.com
+/cobertura/pqr/index.php 1 -
+/wp-content/plugins/ 1 www.google.com
+/wp-content/plugins/tatsu/public/js/vendor/tilt.min.js 1 -
+/wp-includes/ 4 www.google.com
+/plugins/elfinder/connectors/php/connector.php 1 -
+/phpdebugbar 1 -
+/owl.php 1 -
+/!.php 1 -
+/wp-admin/maint/ 1 www.google.com
+/sym.php 1 -
+/Public/home/js/fukuang.js 1 -
+/q.php 1 -
+/content.php 1 -
+/.well-known/ALFA_DATA 3 www.bing.com
+/wp-includes/cgialfa 3 www.bing.com
+/wp-content/themes/twentytwenty/radio.php 1 proditelsas.com
+/other/codepay/js/codepay_util.js 1 -
+/comida/procedimientos.php 1 -
+/sites/default/files/cgialfa 3 www.bing.com
+/wp-renew.php 1 -
+/wp-uploads.php 1 -
+/Cpanel.php 1 -
+/crcom.gov.co 1 -
+/sitemap.xml 20 -
+/wp-content/plugins/ubh/ 1 www.google.com
+/pqr/disponibilidad.pdf 1 -
+/i.php 1 -
+/13.php 1 -
+/js/_system/jQuery-File-Upload/server/php/index.php 1 -
+/wp-content/cgialfa 3 www.bing.com
+/a/license.txt 1 -
+/style.php 8 www.bing.com
+/admin/elfinder/src/connectors/php/connector.php 1 -
+/s.php 1 -
+/css/skin/ymPrompt.css 1 -
+/templates/beez3/index.php 3 www.bing.com
+/h.php 1 -
+/file-uploader/server/php/index.php 1 -
+/cobertura/pqr/procedimientos.php 1 -
+/991176.php 4 www.google.com
+/test/wp-admin/install.php 3 -
+/lanren/css/global.css 1 -
+/wp-content/plugins/tatsu/css/dark-context-menu.css 2 proditelsas.com
+/shell20211028.php 2 www.google.com
+/wp/wp-content/themes/sketch/404.php 3 www.google.com
+/cms.php 1 -
+/wp-admin/network/ 1 www.google.com
+/sh3ll.php 1 -
+/old/license.txt 1 -
+/config/aws.yml 1 -
+/cobertura/pqr/ficha%20tecnica.pdf 1 -
+/wordpress/wp-blockup.php 1 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/x.php 5 www.bing.com
+/cobertura/pqr/contactenos.php 1 -
+/wp-fox.php 1 -
+/xmlrpc.php 1 -
+/new.php 1 -
+/f.php 2 www.google.com
+/y.php 1 -
+/simple.php 1 -
+/defaul1.php 8 www.google.com
+/wordpress/wp-admin/install.php 3 -
+/wp-includes/wp-class.php 3 www.bing.com
+/wp-admin/css/colors/new-index.php 1 proditelsas.com
+/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh 1 -
+/ficha%20tecnica.pdf/jquery/jquery.mousewheel.js 1 -
+/xmlrpcs.php 1 www.bing.com
+/images/ 3 binance.com
+/l.php 1 -
+/assets/colors/go.php 1 -
+/wp-content/alfacgiapi/perl.alfa 1 www.google.com
+/axx.php 1 -
+/reservas/control.php 1 -
+/wp-booking.php 3 www.bing.com
+/home/ 1 -
+/backend/.env 1 -
+/wp-admin/admin-ajax.php 5 -
+/auto-seo.php 1 -
+/public/_ignition/health-check/ 2 -
+/admin/view/javascript/common.js 1 -
+/sites/default/files/ALFA_DATA 3 www.bing.com
+/cgi-bin/index.php 1 proditelsas.com
+/ohayo.php 1 -
+/cms/wp-admin/install.php 3 -
+/zonapagos.com 1 -
+/wp-includes/images/css.php 3 www.bing.com
+/wp-blog-post.php 1 -
+/wp-content/plugins/ubh/up.php 3 www.bing.com
+/alfav4.1-tesla.php 1 -
+/wp-admin/css/ 5 www.google.com
+/wp-content/uploads/2021/2index.php 1 proditelsas.com
+/wp-blog.php 1 -
+/it.php 1 -
+/alexuse.php 1 -
+/wp-admin/alfacgiapi 3 www.bing.com
+/aws/config 1 -
+/wp-content/uploads/2021/new-index.php 1 proditelsas.com
+/pqr/procedimientos.php 1 -
+/wso2.php 1 -
+/core/.env 1 -
+/static/guide/ab.css 1 -
+/1index.php 6 www.bing.com
+/feed/ 4 -
+/api/apps 1 -
+/api/common/getConfig 1 -
+/local.php 3 www.google.com
+/Sendemail.php 1 -
+/ups.php 8 www.google.com
+/robots.txt 173 -
+/haxor.php 1 -
+/wp-config.txt 1 -
+/wp-includes/rest-api/endpoints/radio.php 1 proditelsas.com
+/Public/css/errorCss.css 1 -
+/static/img/bitbeb-logo.png 1 -
+/.well-known/cgialfa 3 www.bing.com
+/administrator/ 1 -
+/wp-content/languages/ 1 www.google.com
+/media-admin.php 4 www.bing.com
+/backup/license.txt 1 -
+/Content/Wap/base.css 1 -
+/static/data/thirdgames.json 1 -
+/wp-content/uploads/typehub/custom/ccpl/.cpl.php 1 -
+/nee.php 1 -
+/images/editor/separator.gif 1 -
+/wp-content/alfacgiapi 3 www.bing.com
+/sitemap 5 -
+/wordpress/wp-content/themes/sketch/404.php 3 www.google.com
+/wp-includes/ALFA_DATA 3 www.bing.com
+/administrator/language/en-GB/install.xml 1 -
+/phpinfo 3 -
+/xleet.php 8 www.google.com
+/wp-includes/images/ 1 www.google.com
+/index/wodedingdan.png 1 -
+/api/user/dataDictionaryService/list 1 -
+/wp-includes/js/zxcvbn-async.min.js 1 -
+/.aws 1 -
+/titulo-de-la-publicacion-en-el-blog/ 4 -
+/wp-content/mu-plugins/db-safe-mode.php 3 www.bing.com
+/.well-known/ 3 binance.com
+/ALFA_DATA 3 www.bing.com
+/uploads/ 3 binance.com
+/test/wp-admin/setup-config.php 1 -
+/wp-2022.php 1 www.google.com
+/public/h5static/js/main.js 1 -
+/shells.php 5 www.bing.com
+/wp-json 1 -
+/new-index.php 1 -
+/pqr/ficha%20tecnica.pdf 1 -
+/wp-content/themes/twentynineteen/index.php 1 proditelsas.com
+/wp-admin/alfa.php 1 -
+/asset-manifest.json 1 http://proditelsas.com/
+/wp-admin/ 2 www.google.com
+/wp/wp-admin/setup-config.php 1 -
+/upload/image/ 1 www.google.com
+/wp-content/uploads/2021/12/up.php 1 -
+/mailer.php 1 -
+/assets/admin/plugins/elfinder/connectors/php/connector.php 1 -
+/wp-content/ 5 -
+/olu.php 1 -
+/wp-includes/css/wp-config.php 3 www.bing.com
+/root.php 2 -
+/opt/env/.env 1 -
+/404.php 1 -
+/alexus.php 2 -
+/wp-content/uploads/2022/content.php 1 proditelsas.com
+/p.php 1 -
+/temp/license.txt 1 -
+/shell.php 6 www.bing.com
+/.well-known/acme-challenge/ 4 www.google.com
+/wordpress/wp-admin/setup-config.php 1 -
+/ALFA_DATA/alfacgiapi/ 1 -
+/wso-ioxi.php 1 -
+/wp-content/db-cache.php 3 www.bing.com
+/xmrlpc.php 1 www.bing.com
+/rss.php 1 -
+/wp2.php 1 -
+/api/Index/getconfig 1 -
+/wp-includes/fw.php 1 -
+/database/.env 1 -
+/wp-ad.php 1 -
+/.env 41 -
+/config.php 3 www.bing.com
+/leafmailer2.8.php 1 -
+/2index.php 1 -
+/.env.save 1 -
+/wp-content/themes/twentynineteen/radio.php 1 proditelsas.com
+/wp-includes/wp-atom.php 4 www.bing.com
+/wp-admin/js/widgets/content.php 1 proditelsas.com
+/wp-includes/class-wp-page-icon.php 1 -
+/vita.php 1 -
+/Gel.php 1 -
+/alfa123.php 1 -
+/srx.php 1 -
+/3index.php 5 proditelsas.com
+/wp-rss.php 1 -
+/style2.php 1 -
+/alfa.php 6 www.bing.com
+/infe/rest/fig/advertise/common.json 1 -
+/wp-includes/js/jquery/jquery.js 1 -
+/wp-admin.php 2 -
+/k.php 1 -
+/cobertura/caracteristicas.php 1 -
+/mtja.html 1 -
+/shx.php 1 -
+/images.php 1 -
+/1/license.txt 1 -
+/Public/js/common.js 1 -
+/public/assets/plugins/plupload/examples/upload.php 1 -
+/wp-content/uploads/ 4 www.google.com
+/images/vuln.php 1 -
+/foxwso.php 1 -
+/alexusmailer%202.0.php 1 -
+/pqr/informacion_crc.php 1 -
+/dev/license.txt 1 -
+/ws.php 1 -
+/2jx603/xmlrpc.php 1 -
+/wp-login.php 9 -
+/config.js 1 -
+/wp-confirm.php 1 -
+/0byte.php 1 -
+/wp_wrong_datlib.php 3 www.bing.com
+/r.php 1 -
+/ffAA531.php 5 www.google.com
+/btc/system-setting/service-url/ 1 -
+/wp-content/themes/twentynineteen/content.php 1 proditelsas.com
+/frontend_dev.php 1 -
+/common/download.js 1 -
+/.env.bak 2 -
+/ok.php 1 -
+/comments/feed/ 4 -
+/wp-blockdown.php 1 -
+/upl.php 1 -
+/wp-admin/css/colors/radio.php 1 proditelsas.com
+/blog/wp-content/themes/sketch/404.php 3 www.google.com
+/api/ApiHub/fetchJinse 1 -
+/dr.php 1 -
+/defau1t.php 4 www.bing.com
+/nyyh/chkjs.js 1 -
+/FoxWSOv1.php 3 www.google.com
+/dup-installer/main.installer.php 1 -
+/info.php 5 -
+/wp-includes/wso.php 1 -
+/Home/GetInitSource 1 -
+/if.php 1 -
+/assets/colors/get.php 1 -
+/static/v/v2/image/star.png 1 -
+/slicemap.php 1 -
+/admin/controller/extension/extension/ 3 binance.com
+/mi.php 1 -
+/beence.php 3 www.bing.com
+/wi.php 1 -
+/100.php 1 -
+/v.php 1 -
+/xindex.php 2 -
+/kk.php 1 -
+/wp-config.original 1 -
+/pqr/medidor.php 1 -
+/up.php 5 www.bing.com
+/legion.php 4 www.bing.com
+/olux.php 4 www.bing.com
+/web/wp-admin/install.php 3 -
+/alexusMailer_v2.0.php 1 -
+/alfashell.php 1 -
+/lf.php 1 -
+/o.php 1 -
+/wp-content/uploads/cgialfa 3 www.bing.com
+/wp-content/plugins/elementor/assets/css/app-base-rtl.min.css 1 proditelsas.com
+/portal/index/protocol.html 1 -
+/api/v/index/queryOfficePage 1 -
+/wp-content/uploads/alfacgiapi 3 www.bing.com
+/api/product/info/1 1 -
+/s_ne.php 3 www.bing.com
+/sindex.php 1 -
+/backup/wp-admin/install.php 2 -
+/alex.php 1 -
+/g.php 1 -
+/login 1 -
+/.git/config 1 -
+/wp-content/uploads/wp-blockup.php 1 -
+/templates/beez3/alfacgiapi 3 www.bing.com
+/misc/ajax.js 1 -
+/alwso.php 3 -
+/WSO.php 2 -
+/blog/wp-admin/install.php 3 -
+/wp-one.php 1 -
+/qindex.php 1 www.bing.com
+/wp-content/uploads/ALFA_DATA 3 www.bing.com
+/c.php 1 -
+/alfacgiapi 3 www.bing.com
+/anone.php 1 -
+/wso1.php 1 -
+/js/header-rollup-554.js 1 -
+/api/site/getInfo.do 1 -
+/radio.php 4 www.bing.com
+/87.php 1 -
+/xx.php 2 -
+/wp-admin/style.php 3 www.bing.com
+/fw.php 7 www.google.com
+/a.php 4 www.bing.com
+/php.php 1 -
+/xox.php 1 -
+/403.php 4 www.google.com
+/oldsite/wp-admin/install.php 3 -
+/wp-content/uploads/2021/radio.php 1 proditelsas.com
+/assets/file-uploader/server/php/index.php 1 -
+/phpinfo.php 5 -
+/public/web/js/add/com.js 1 -
+/wp-includes/css/css.php 3 www.bing.com
+/wp-includes/js/jcrop/index.php 1 proditelsas.com
+/11index.php 1 -
+/wso1337.php 1 -
+/wp-content/themes/sketch/404.php 3 www.google.com
+/wp-content/outcms.php 3 www.bing.com
+/baindex.php 1 -
+/Public/css/hall.css 1 -
+/gank.php.PhP 7 www.google.com
+/lol.php 1 -
+/xxx.php 1 -
+/error.php 4 www.bing.com
+/css.php 2 www.google.com
+/wp-content/uploads/typehub/custom/dn46/.demo.php 1 proditelsas.com
+/w.php 1 -
+/alf.php 1 -
+/wikindex.php 2 -
+/alexus-mailer.php 1 -
+/wp-system.php 1 -
+/m.php 1 -
+/xo.php 1 -
+/assets/images/search.php 1 -
+/wp-configer.php 1 -
+/site/wp-content/themes/sketch/404.php 3 www.google.com
+/wp/wp-admin/install.php 3 -
+/wp-includes/rest-api/endpoints/content.php 1 proditelsas.com
+/wp-option.php 1 proditelsas.com
+/humans.txt 4 -
+/wp-content/themes/twentytwenty/index.php 1 proditelsas.com
+/j.php 1 -
+/old-index.php 6 proditelsas.com
+/wp-content/themes/config.bak.php 3 www.bing.com
+/api/uploads/apimap 1 -
+/assets/images/go.php 1 -
+/admin/assets/plugins/plupload/examples/upload.php 1 -
+/sdk.html 1 -
+/41.php 1 -
+/m/ 1 -
+/nasgor.php 1 -
+/wp-content/themes/fitnessbase/404.php 1 www.google.com
+/comida/medidor.php 1 -
+/wp-config.php 1 -
+/h5 1 -
+/trade/mobile/login.php 1 -
+/wp-backup-sql-302.php 3 www.bing.com
+/wp-content/themes/twentynineteen/new-index.php 1 proditelsas.com
+/wp-includes/alfacgiapi 3 www.bing.com
+/_aws/credentials 1 -
+/wp-content/themes/twentyfive/include.php 3 www.google.com
+/about.php 7 www.bing.com
+/777.php 1 -
+/sym403.php 1 -
+/api/default/login-page 1 -
+/installer.php 2 -
+/wp-content/ALFA_DATA 3 www.bing.com
+/Public/Home/js/cls.js 1 -
+/wp-content/plugins/akismet/radio.php 1 proditelsas.com
+/blog/wp-blockdown.php 1 -
+/static/home/css/new_cfb.css 1 -
+/public/.env 2 -
+/site/api/v1/site/vipExclusiveDomain/getGuestDomain 1 -
+/edit-form.php 1 -
+/d.php 1 -
+/system_log.php 4 www.google.com
+/Anon.php 3 www.google.com
+/wp-2018.php 1 -
+/wp-content/mu-plugins-old/index.php 1 www.bing.com
+/new/license.txt 1 -
+/assets/plugins/elfinder/connectors/php/connector.php 1 -
+/kindex.php 1 -
+/.wp-cache.php 1 -
+/e.php 1 -
+/wp/wp-admin/css/colors/blue/red.php 1 -
+/wp-content/export.php 3 www.bing.com
+/cobertura/pqr/medidor.php 1 -
+/ads.txt 5 -
+/cp.php 1 -
+/wp-content/uploads/2020/content.php 1 proditelsas.com
+/3.php 1 -
+/wp-content/wso.php 1 -
+/export.php 3 www.bing.com
+/config.bak.php 3 www.bing.com
+/blog.php 1 -
+/cgialfa 3 www.bing.com
+/fa.php 1 -
+/sitemap.txt 5 -
+/MARIJUANA.php 1 -
+/2.php 1 -
+/application/config/s3.php 1 -
+/aws.yml 2 -
+/XxX.php 1 -
+/t.php 1 -
+/plugins/system/debug/debug.xml 1 -
+/wp-content/fw.php 1 -
+/mini.php 1 -
+/modules/mod_simplefileuploadv1.3/elements//.well-known/ 1 www.google.com
+/bypass.php 1 -
+/FoxWSOv1.2.php 1 -
+/comida/residenciales.php 1 -
+/wp-content/languages/themes/new-index.php 1 proditelsas.com
+/app/config/.env 1 -
+/symlink.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 10 -
+/wp-includes/images/wlw/radio.php 1 proditelsas.com
+/kn.php 1 -
+/templates/beez3/ALFA_DATA 3 www.bing.com
+/wp-content/plugins/ubh/up.php/.well-known/ 3 www.google.com
+/wp-content/themes/twentytwentyone/new-index.php 1 proditelsas.com
+/admin/controller/extension/extension/alfacgiapi 3 www.bing.com
+/wp/license.txt 2 -
+/assets/admin/plugins/plupload/examples/upload.php 1 -
+/wp-content/plugins/wpconfig.bak.php 3 www.bing.com
+/admin.php 5 www.google.com
+/wp-blockup.php 1 -
+/wp-admin/css/colors/blue/red.php 1 -
+/1337.php 1 -
+/blog/wp-admin/setup-config.php 1 -
+/admin/controller/extension/extension/cgialfa 3 www.bing.com
+/masterControl/getSystemSetting 1 -
+/wp-content/themes/twentytwentyone/content.php 1 proditelsas.com
+/wp.php 4 www.bing.com
+/pqr/residenciales.php 1 -
+/wp-load.php 7 www.bing.com
+/mrjn.php 1 -
+/public/plugins/elfinder/connectors/php/connector.php 1 -
+/wp-plugins.php 3 www.bing.com
+/wp-file.php 1 -
+/byp.php 1 -
+/cpanel.php 1 -
+/js/basic.js 1 -
+/wp-admin/setup-config.php 2 -
+/static/common/js/vant/vant.min.js 1 -
+/wp-content/uploads/2021/content.php 1 proditelsas.com
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 -
+/admin/controller/extension/extension/ALFA_DATA 3 www.bing.com
+/application/config/sms_settings.php 1 -
+/wp-content/plugins/apikey/apikey.php 1 -
+/files/ 3 binance.com
+/s_e.php 3 www.bing.com
+/wsa.php 1 -
+/laravel/_ignition/health-check/ 2 -
+/www.php 1 -
+/wp-content/themes/twentytwentyone/2index.php 1 proditelsas.com
+/protected/.env 1 -
+/moduless.php 3 www.bing.com
+/ficha%20tecnica.pdf/jquery/jquery.easing.1.3.js 1 -
+/alfacgiapi/perl.alfa 1 www.google.com
+/wp-0.php 1 -
+/defau11.php 3 www.bing.com
+/priv8.php 1 -
+/hello.php 1 -
+/admin/includes/general.js 1 -
+/doc.php 6 www.bing.com
+/sites/default/files/ 3 binance.com
+/vendor/phpunit/phpunit/build.xml 1 -
+/wp-content/languages/themes/2index.php 1 proditelsas.com
+/rlpage/lvmlqp-c.html 6 -
+/wp-22.php 1 -
+/local/.env 1 -
+/n.php 1 -
+/c99.php 1 -
+/zoushi 1 -
+/site/wp-content/uploads/wp-blockup.php 1 -
+/assets/plugins/elfinder/src/connectors/php/connector.php 1 -
+/wp-2019.php 5 www.google.com
+/.well-known/alfacgiapi 3 www.bing.com
+/cgi-bin/.env 1 -
+/wp-content/themes/twentynineteen/2index.php 1 proditelsas.com
+/stindex.php 1 -
+/1.php 5 www.bing.com
+/wordpress/ 2 -
+/wp-admin/install.php 4 -
+/mar.php 1 -
+/.fk.php 1 -
+/admin/elfinder/connectors/php/connector.php 1 -
+/wp-content/plugins/woo-product-table/readme.txt 1 -
+/4price.php 1 -
+/wp-signin.php 3 www.bing.com
+/wp-content/plugins/backup_index.php 3 www.bing.com
+/mobile/static/js/pointConfig.js 1 -
+/admin/elfinder/php/connector.minimal.php 2 -
+/mt/ 1 -
+/_profiler/phpinfo 4 -
+/u.php 1 -
+/Public/Wchat/js/cvphp.js 1 -
+/data.php 1 -
+/templates/beez3/ 1 www.google.com
+/site/wp-admin/install.php 3 -
+/wp-admin/cgialfa 3 www.bing.com
+/logo.png 1 -
+/ssl.php 1 proditelsas.com
+/new/wp-admin/install.php 3 -
+/test.php 3 www.bing.com
+/homes/ 1 -
+/z.php 5 www.bing.com
+/wp-admin/css/colors/2index.php 1 proditelsas.com
+/sendmail.php 1 -
+/b.php 1 -
+/autoload_classmap.php 4 www.google.com
+/wp-content/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/kiss.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 502
+45.155.204.146 403 403 326027 20220424034816
+181.225.72.211 240 412 6458186 20220429183352
+80.82.78.44 226 226 182834 20220415011608
+213.226.123.30 127 127 102743 20220430221214
+95.72.174.65 32 32 379968 20220430230953
+101.68.211.3 15 15 16775 20220430133128
+23.251.102.74 12 12 9708 20220430203638
+149.56.150.235 12 12 175737 20220426055129
+80.82.78.39 12 12 9708 20220428024633
+94.102.61.45 11 11 8899 20220420210208
+69.164.220.126 11 11 35679 20220426053614
+128.14.134.170 9 9 7281 20220416183546
+128.14.133.58 9 9 7281 20220423072637
+193.118.53.194 9 9 7281 20220426184517
+200.118.16.52 8 26 6528524 20220420121149
+181.119.64.133 8 30 7517046 20220409125919
+190.130.76.104 7 27 15743489 20220428135540
+128.1.248.26 7 7 5663 20220430171826
+193.118.53.202 7 7 5663 20220422010238
+45.177.109.14 7 27 20122954 20220407000604
+190.93.138.26 7 23 14632564 20220418092037
+193.118.53.210 6 6 4854 20220423204215
+101.43.150.238 6 6 4854 20220429150802
+128.14.134.134 6 6 4854 20220421061411
+162.142.125.121 6 6 4854 20220423141600
+51.158.172.23 1 1 4264 20220409212846
+194.31.98.130 1 1 4264 20220429074552
+42.236.10.117 0 1 1566 
+173.252.127.4 0 3 858194 
+185.224.138.151 1 1 17038 20220427100612
+190.129.180.161 1 15 2281920 20220415054211
+54.89.80.101 1 1 809 20220429120232
+54.75.205.110 1 1 4264 20220404205515
+193.9.114.235 3 3 40786 20220412122136
+23.129.64.138 1 1 809 20220425060809
+40.94.104.2 0 2 49137 
+3.93.213.215 1 1 809 20220412221924
+198.235.24.23 1 1 17038 20220425120318
+205.210.31.146 1 1 17038 20220414134630
+42.236.10.106 1 2 37543 20220420203751
+157.55.39.171 0 1 4328 
+191.101.31.61 5 5 59370 20220401045617
+92.118.160.41 1 1 17038 20220410230057
+51.145.93.89 1 1 4264 20220421054630
+181.114.124.118 1 15 2281920 20220425133910
+162.142.125.212 3 3 2427 20220420145636
+54.184.43.82 1 1 4264 20220409103136
+45.152.199.228 4 4 13470 20220416142055
+88.214.43.118 4 4 17056 20220420124928
+62.197.136.120 1 1 4264 20220429144434
+104.140.188.58 2 2 3474 20220429211304
+212.102.57.219 5 5 59370 20220401004409
+34.220.118.15 1 1 4264 20220408093857
+185.106.123.33 1 1 4264 20220427090459
+39.106.98.188 2 2 8528 20220413030948
+173.252.127.11 0 3 1185126 
+40.94.104.80 0 1 1566 
+40.77.167.23 0 2 8656 
+34.133.217.247 1 15 2281920 20220423124503
+35.164.171.187 1 1 4264 20220402093245
+23.225.180.201 1 1 809 20220421135749
+54.189.181.43 1 1 4264 20220410093637
+192.71.142.35 1 1 4264 20220401012023
+207.46.13.9 0 1 4243 
+171.13.14.48 0 1 33279 
+167.248.133.119 1 1 809 20220420112658
+223.29.254.56 4 4 13470 20220426030608
+198.199.83.54 1 1 4264 20220428233148
+155.138.135.59 1 1 4264 20220429131207
+20.239.56.164 1 1 4264 20220418222814
+196.242.20.45 2 2 6144 20220426022912
+198.235.24.28 1 1 17038 20220428221236
+64.227.165.64 1 1 4264 20220421112510
+212.102.40.147 3 3 10408 20220409020540
+76.72.172.171 1 1 17038 20220419094902
+191.162.194.71 1 8 60197 20220426183928
+195.154.178.159 1 1 1737 20220412172449
+217.71.24.7 1 15 2281920 20220422004907
+185.180.143.7 2 2 1618 20220407174433
+185.81.157.70 1 1 4264 20220429192000
+76.72.172.164 1 1 17038 20220414053017
+162.253.129.236 3 3 10408 20220412035603
+23.251.102.90 1 1 809 20220422173347
+47.243.180.89 1 15 2281920 20220406005623
+34.221.118.186 1 1 4264 20220416092901
+34.213.102.67 1 1 4264 20220424090736
+167.94.138.120 2 2 1618 20220421152003
+213.152.183.66 1 1 4264 20220414220319
+195.78.54.10 3 3 40786 20220402121009
+173.213.84.245 1 1 17038 20220424121725
+3.22.224.57 4 16 97502 20220416202338
+167.248.133.45 5 5 4045 20220427050211
+167.94.138.47 1 1 809 20220421032146
+23.128.248.51 1 1 809 20220404105544
+137.184.56.252 4 4 3236 20220425052839
+128.14.209.242 1 1 809 20220414111943
+34.245.102.21 1 1 4264 20220404170318
+196.196.224.41 2 2 6144 20220415031143
+54.188.89.167 1 1 4264 20220403095602
+20.231.54.188 1 1 4264 20220420033812
+104.206.128.38 1 1 1737 20220415044757
+38.128.66.69 1 1 4264 20220421204757
+62.108.40.65 1 1 4264 20220405124908
+181.114.124.35 1 1 4264 20220422163013
+181.114.121.56 2 16 2286184 20220428100503
+104.244.72.123 1 1 809 20220412003245
+212.102.57.153 5 5 59370 20220402123333
+195.224.46.178 1 15 2281920 20220428050814
+64.246.165.150 1 1 4264 20220414021228
+34.222.171.216 1 1 4264 20220419091956
+157.55.39.97 0 2 6124 
+60.186.254.37 1 1 809 20220425052227
+23.90.160.114 1 1 809 20220426064145
+186.29.100.156 1 15 2281920 20220407080759
+159.89.153.76 2 2 1618 20220423002644
+196.242.114.116 4 4 13470 20220412055115
+54.70.1.50 1 1 4264 20220412093804
+209.141.51.222 3 3 2427 20220419054159
+162.142.125.7 1 1 809 20220416045928
+162.253.129.71 3 3 10408 20220411062533
+20.184.103.171 2 2 6144 20220419213526
+137.220.131.97 3 3 2427 20220412105105
+106.75.134.236 1 5 114757 20220426023829
+167.248.133.63 2 2 1618 20220425080322
+18.237.169.56 1 1 4264 20220414093705
+42.236.10.75 0 4 305020 
+40.77.167.76 0 2 7896 
+27.124.5.124 2 2 1618 20220423025229
+186.13.40.120 1 1 4264 20220410232440
+162.142.125.10 4 4 3236 20220423214459
+167.94.146.57 3 3 2427 20220426000411
+162.221.192.90 3 3 2427 20220426232901
+54.213.49.121 1 1 4264 20220418093009
+191.102.79.38 1 15 2281920 20220407061547
+192.3.182.56 4 4 13470 20220424190332
+52.210.0.208 2 2 7336 20220427000034
+172.245.153.179 2 2 8528 20220428144253
+172.104.24.145 1 1 809 20220414072324
+177.241.233.14 0 3 984517 
+172.245.30.110 1 1 809 20220428082537
+192.36.53.165 1 1 4264 20220424130630
+23.128.248.23 1 1 809 20220418162558
+40.94.104.24 0 2 361003 
+157.245.13.77 2 2 1618 20220422111704
+52.33.9.218 1 1 4264 20220428090850
+185.220.102.254 1 1 809 20220405140614
+196.240.58.187 2 2 6144 20220426120036
+139.177.196.88 1 1 809 20220401125908
+54.149.209.84 1 1 4264 20220426091013
+54.218.253.46 1 1 4264 20220416095501
+128.1.248.42 5 5 4045 20220427024819
+167.94.138.117 1 1 809 20220406061308
+111.7.100.17 0 1 317 
+13.235.255.26 1 1 0 20220410055916
+91.90.123.72 2 2 6144 20220424200209
+23.224.189.110 3 3 2427 20220411124755
+185.220.101.63 1 1 809 20220402190850
+23.129.64.214 4 4 3236 20220424081203
+27.115.124.38 0 5 1189242 
+191.96.168.144 3 3 40786 20220419180533
+157.55.39.4 0 1 317 
+37.57.137.208 3 3 4121 20220430011746
+111.7.100.16 1 4 38624 20220419054153
+212.102.33.168 2 2 6144 20220404133722
+42.236.10.93 0 4 780126 
+46.161.11.252 3 3 40786 20220416003900
+35.161.148.206 1 1 4264 20220425092752
+20.230.34.30 4 4 12288 20220414113708
+27.115.124.6 0 6 624621 
+51.178.17.192 1 1 4264 20220429140517
+178.62.35.8 2 2 1618 20220420041710
+54.245.139.45 1 1 4264 20220415093040
+191.103.221.12 2 18 6498824 20220408075604
+177.222.61.193 2 30 4563840 20220407080826
+42.83.147.34 5 5 21320 20220426042505
+138.68.141.250 1 1 809 20220401172527
+45.154.255.138 1 1 809 20220428112621
+191.101.209.101 3 3 40786 20220415015359
+52.147.121.110 1 15 2281920 20220407005512
+40.94.105.59 0 2 176934 
+196.196.220.254 2 2 6144 20220410020916
+54.186.213.94 1 1 4264 20220430094410
+65.21.206.46 1 1 4264 20220420160944
+27.115.124.45 1 4 468057 20220417090834
+186.31.147.76 3 27 6581705 20220415020204
+198.235.24.140 1 1 17038 20220421191126
+45.125.245.153 4 4 13470 20220412005002
+62.217.124.68 1 1 17038 20220418093657
+49.12.186.64 1 1 4264 20220426060139
+35.89.112.165 2 2 8528 20220412094550
+54.212.30.238 1 1 4264 20220412094239
+181.61.209.66 1 10 2301078 20220430123029
+92.118.36.208 2 2 7832 20220419120124
+45.129.18.237 1 1 0 20220419235903
+40.94.104.31 0 1 174948 
+173.252.127.112 1 2 37543 20220410163539
+162.142.125.213 1 1 809 20220425050423
+54.191.246.55 1 1 4264 20220413091059
+162.142.125.210 1 1 809 20220419062526
+119.8.239.209 1 15 2281920 20220418001647
+40.77.167.12 0 4 12456 
+167.248.133.120 1 1 809 20220413223115
+185.180.143.70 2 2 1618 20220428075158
+106.75.162.130 1 5 114757 20220426030204
+207.46.13.171 0 1 4876 
+27.115.124.70 0 5 1159023 
+167.94.145.57 4 4 3236 20220427211749
+92.118.161.33 1 1 1737 20220425182131
+40.94.104.37 0 1 1986 
+209.141.42.155 2 2 1618 20220419054211
+175.44.42.144 1 2 4161 20220412074108
+212.102.33.67 2 2 6144 20220410024007
+95.73.238.161 2 2 23748 20220422043309
+186.154.27.143 2 16 2286184 20220408070425
+212.115.42.247 1 1 4264 20220415171651
+193.118.53.130 1 1 809 20220424133517
+92.118.160.37 1 1 17038 20220402050306
+34.212.135.82 1 1 4264 20220403092518
+185.220.100.246 1 1 809 20220407004501
+185.129.62.62 1 1 809 20220407004459
+111.13.63.69 1 5 38941 20220428131554
+104.254.92.189 2 2 6144 20220424110419
+34.123.59.89 1 1 3916 20220414160616
+186.121.228.21 1 7 44487 20220426190106
+91.230.107.197 1 1 4264 20220419085925
+81.36.203.136 2 16 2286184 20220426221723
+190.130.73.253 5 37 9174774 20220402121552
+167.248.133.44 1 1 809 20220408185355
+128.14.209.170 1 1 809 20220427071526
+124.223.197.74 0 1 1986 
+96.252.50.36 4 19 6861301 20220418091543
+54.214.193.134 1 1 4264 20220404093433
+2.57.121.42 1 1 809 20220407071113
+51.255.62.14 1 1 1737 20220406220721
+185.180.143.11 2 2 1618 20220428232740
+27.115.124.101 0 5 890716 
+59.175.144.15 3 3 12792 20220430221054
+34.228.78.93 1 1 11874 20220406144614
+45.33.72.210 1 1 809 20220414073300
+185.28.183.37 4 4 13470 20220412213758
+199.187.211.192 3 3 10408 20220406165717
+54.202.199.173 1 1 4264 20220406090946
+34.221.17.8 1 1 4264 20220405093206
+34.218.208.206 1 1 4264 20220408093834
+35.87.65.169 1 1 4264 20220420121427
+35.166.65.27 1 1 4264 20220409092342
+162.142.125.211 2 2 1618 20220428164702
+181.214.206.161 2 2 1618 20220428145543
+200.105.212.100 1 15 2281920 20220423110730
+181.115.131.48 1 15 2281920 20220427073803
+34.220.142.98 1 1 4264 20220403093124
+164.92.185.75 1 1 809 20220408191804
+42.236.10.114 0 4 1157665 
+34.219.90.162 1 1 4264 20220403093040
+185.173.35.1 1 1 1737 20220413034352
+45.33.96.205 2 2 1618 20220412100739
+103.204.109.190 2 2 6144 20220405024355
+211.95.50.5 0 3 4853 
+52.43.132.88 1 1 4264 20220415095124
+34.212.188.45 1 1 4264 20220430093537
+149.56.150.89 1 15 2281920 20220426055132
+186.81.100.82 1 15 2281920 20220426205003
+104.140.188.10 1 1 1737 20220423055339
+200.91.247.82 1 15 2281920 20220421165818
+95.73.236.158 2 2 23748 20220422150329
+171.13.14.54 0 1 317 
+167.248.133.117 2 2 1618 20220422014955
+189.242.193.250 1 15 2281920 20220418192138
+52.41.140.16 1 1 4264 20220427091251
+54.185.144.100 1 1 4264 20220411093552
+167.99.46.124 1 1 809 20220412200355
+84.247.48.3 3 3 40786 20220408063453
+201.184.75.82 1 15 2281920 20220426052801
+191.101.31.10 3 3 40786 20220425082834
+195.2.76.246 2 2 8528 20220408152113
+40.94.105.5 0 3 362569 
+20.120.6.139 4 4 17056 20220420195423
+173.252.127.13 0 3 4433 
+128.14.209.234 1 1 809 20220414013133
+162.253.129.166 3 3 10398 20220422154646
+23.90.160.122 2 2 1618 20220426222647
+167.248.133.46 2 2 1618 20220428184050
+192.53.170.163 1 1 809 20220418205852
+138.91.105.220 3 3 12792 20220413192609
+40.94.105.9 1 1 4264 20220425123450
+119.90.52.37 1 5 38941 20220430155359
+52.87.198.44 1 1 809 20220403031731
+173.252.127.15 0 2 2511 
+40.94.105.76 0 2 294069 
+130.211.196.218 1 1 3916 20220428174645
+52.32.145.89 1 1 4264 20220415093122
+212.102.57.149 5 5 59370 20220401090609
+164.92.185.57 2 2 1618 20220406113233
+172.98.86.179 2 2 7336 20220421194651
+119.90.52.36 1 5 38941 20220401222252
+162.221.192.26 4 4 3236 20220425063433
+151.106.8.38 3 3 40786 20220411210010
+162.142.125.9 1 1 809 20220406023106
+23.129.64.142 1 1 809 20220401093511
+20.211.189.13 2 2 8528 20220409015258
+40.77.167.29 0 1 4876 
+107.181.178.90 2 2 7336 20220422205555
+212.102.57.203 2 2 31435 20220413231824
+66.102.8.58 3 8 14591 20220403082144
+212.102.33.82 2 2 6144 20220404151033
+103.247.151.173 4 4 13470 20220408154730
+8.31.2.62 1 1 809 20220419054151
+92.118.161.29 1 1 1737 20220408141958
+205.210.31.137 1 1 17038 20220425185759
+190.211.109.78 6 6 4854 20220429052654
+116.202.113.215 3 17 291237 20220406032330
+159.65.131.133 1 1 17038 20220429183207
+23.90.160.130 4 4 3236 20220426085549
+92.118.160.33 1 1 1737 20220409004814
+181.188.179.17 6 34 4580960 20220424042433
+190.242.131.20 1 15 2281920 20220428141035
+128.14.141.34 6 6 4854 20220421142830
+212.102.33.227 2 2 6144 20220404181756
+190.129.181.202 1 15 2281920 20220419132451
+193.107.216.102 2 2 3474 20220405213629
+42.192.11.192 1 1 809 20220418025509
+211.95.50.4 1 2 34088 20220417085832
+185.180.143.141 1 1 809 20220429140616
+167.94.145.60 1 1 809 20220419084623
+54.202.204.66 1 1 4264 20220401094328
+138.199.7.131 3 3 40786 20220430205846
+54.82.84.8 1 1 809 20220405075955
+167.248.133.61 1 1 809 20220402031013
+116.202.209.244 1 1 4264 20220405075008
+45.79.204.46 1 1 809 20220418135957
+185.173.35.21 1 1 1737 20220419004116
+195.181.170.226 5 5 59370 20220407080930
+8.31.2.98 2 2 1618 20220419054201
+107.152.140.62 4 4 13470 20220407154314
+212.102.33.73 2 2 6144 20220428052044
+84.17.46.175 1 1 4264 20220421135157
+45.120.50.8 4 4 13470 20220410122327
+185.220.101.52 1 1 809 20220415084135
+45.129.18.233 1 1 0 20220429121329
+52.33.116.28 1 1 4264 20220425091712
+122.10.161.10 2 2 8528 20220405200505
+185.100.87.174 1 1 809 20220415193600
+130.255.166.195 1 1 4264 20220416165839
+156.146.63.18 5 5 59370 20220402010325
+101.227.1.199 1 2 34088 20220419054153
+185.220.101.34 2 2 1618 20220405140621
+212.102.33.68 2 2 6144 20220409020112
+162.142.125.220 1 1 809 20220424091300
+54.202.63.83 1 1 4264 20220416092831
+20.210.204.128 1 1 4264 20220428183639
+167.248.133.118 2 2 1618 20220424022105
+178.254.50.27 2 2 8528 20220401044639
+212.102.33.75 4 4 12288 20220422115828
+23.128.248.92 1 1 809 20220428112826
+66.102.8.60 0 3 35176 
+167.94.145.58 1 1 809 20220412134234
+191.101.217.226 3 3 40786 20220426232859
+40.94.105.90 0 3 49662 
+128.14.209.162 4 4 3236 20220425094049
+185.46.117.190 4 4 13470 20220407002419
+34.66.64.84 1 1 3916 20220421165101
+36.99.136.128 0 2 35829 
+35.88.123.82 1 1 4264 20220417093528
+192.80.76.55 6 6 4854 20220412215635
+186.29.240.159 1 15 2281920 20220408214030
+20.56.124.111 1 1 809 20220428133610
+101.43.175.128 6 6 4854 20220406051644
+34.212.231.124 1 1 4264 20220430093602
+101.227.1.198 0 3 4853 
+185.191.34.215 4 4 0 20220430061028
+207.46.13.168 0 1 3653 
+20.89.188.187 1 15 2281920 20220425143615
+34.147.4.95 1 1 4264 20220407174230
+194.26.192.187 1 1 809 20220424081213
+185.180.143.137 6 6 4854 20220430191630
+18.237.54.66 1 1 4264 20220414092828
+172.111.217.89 2 2 6144 20220422192934
+138.199.26.72 3 3 40786 20220406191519
+173.252.127.14 0 1 19165 
+45.252.189.225 4 4 13470 20220426093904
+142.93.220.8 1 1 809 20220401074218
+181.114.124.145 1 15 2281920 20220405162701
+167.94.145.59 1 1 809 20220413012634
+171.13.14.83 1 4 8341 20220417092110
+152.32.135.210 2 2 8528 20220423144525
+167.248.133.60 2 2 1618 20220412042837
+60.6.223.191 2 2 23748 20220425075433
+111.13.63.70 1 5 38941 20220408172141
+211.95.50.7 1 4 36955 20220405114108
+181.115.131.245 1 14 2251948 20220409081121
+40.94.105.12 0 2 255883 
+205.210.31.138 1 1 17038 20220418124201
+181.188.178.165 1 15 2281920 20220425114418
+143.198.111.120 1 1 4264 20220428142039
+91.37.101.177 1 15 2281920 20220421063834
+185.181.60.12 1 1 4264 20220414053451
+212.102.57.164 5 5 59370 20220406063236
+162.142.125.219 1 1 809 20220408053515
+36.99.136.129 1 3 3112 20220419054204
+34.216.145.115 1 1 4264 20220410093504
+40.94.104.22 0 2 255883 
+209.141.36.231 1 1 809 20220405114106
+54.187.31.230 1 1 4264 20220412094436
+167.94.138.60 4 4 3236 20220428112300
+54.187.116.33 1 1 4264 20220425091315
+185.181.60.189 2 2 8528 20220427171828
+51.255.62.2 1 1 17038 20220406220721
+114.112.38.23 4 4 3236 20220428024218
+154.88.26.231 3 3 2427 20220409224148
+40.94.105.64 0 2 1138539 
+170.130.187.38 1 1 1737 20220401184857
+173.252.127.9 0 1 174948 
+181.61.209.239 1 15 2281920 20220419082943
+185.220.101.41 1 1 809 20220402190838
+138.199.18.75 5 5 59370 20220404025909
+211.95.50.8 0 1 1986 
+167.94.138.119 4 4 3236 20220417073833
+46.161.11.6 2 3 220636 20220409083040
+186.154.30.167 2 4 10619 20220425183641
+92.118.160.49 1 1 1737 20220405225701
+84.247.48.25 3 3 40786 20220411163906
+20.77.49.95 1 1 4264 20220421193135
+40.94.104.78 1 2 37543 20220425142658
+191.101.209.96 3 3 40786 20220430135216
+209.141.35.128 0 1 1986 
+54.227.89.231 1 1 17038 20220406043533
+31.6.11.223 1 1 4264 20220404030756
+172.111.253.2 2 2 6144 20220430101138
+34.219.102.229 1 1 4264 20220410093434
+196.242.20.77 2 2 6144 20220419000052
+171.13.14.84 0 1 2550 
+116.62.64.145 6 6 4854 20220423233250
+54.185.67.189 1 1 4264 20220427091056
+23.224.189.27 3 3 2427 20220420114331
+3.129.22.206 1 1 4264 20220416171334
+104.140.188.2 2 2 3474 20220430070146
+185.180.143.72 2 2 1618 20220406092530
+183.136.225.9 3 3 3355 20220407090935
+185.220.100.255 1 1 809 20220425060806
+162.142.125.222 3 3 2427 20220429143213
+34.211.82.187 1 1 4264 20220403092452
+188.126.94.237 3 3 40786 20220416090812
+92.118.161.25 1 1 1737 20220419052934
+34.212.212.189 1 1 4264 20220412094643
+60.174.192.240 1 1 11874 20220426104128
+40.94.104.1 0 2 261315 
+20.79.248.82 1 1 3072 20220428205450
+3.235.244.62 2 2 8528 20220424075931
+62.210.201.179 2 2 3474 20220426061725
+111.7.100.18 1 3 36638 20220416224246
+191.95.58.52 5 20 10057511 20220403082143
+128.14.209.226 1 1 809 20220416025740
+193.38.235.79 2 2 31435 20220401005321
+167.94.146.58 4 4 3236 20220430200534
+194.195.243.101 1 1 809 20220426033942
+162.142.125.8 3 3 2427 20220423140157
+198.46.169.49 4 4 13470 20220411211219
+104.206.128.78 2 2 3474 20220425154734
+104.206.128.66 1 1 1737 20220411120738
+40.82.201.241 1 1 4264 20220416041542
+185.180.143.13 1 1 809 20220430120637
+207.46.13.68 0 2 6314 
+40.94.104.72 0 2 1138539 
+34.71.17.155 1 1 3916 20220407153814
+212.192.241.2 1 1 4264 20220404221347
+195.154.167.81 1 1 1737 20220412182145
+45.79.111.156 1 1 809 20220401133746
+20.231.196.213 1 1 4264 20220404054732
+107.175.86.19 4 4 13470 20220423165532
+195.181.172.67 3 3 40786 20220419193821
+66.102.8.62 3 3 10438 20220403082144
+51.255.62.7 1 1 1737 20220404220806
+181.114.122.122 1 15 2281920 20220425051234
+212.102.40.138 2 2 6144 20220424132330
+45.129.18.114 1 1 0 20220411234658
+95.73.239.37 4 4 47496 20220421202017
+181.140.38.45 6 23 11080602 20220420125406
+167.94.138.45 4 4 3236 20220419112019
+54.200.96.134 1 15 2281920 20220403145855
+89.46.223.134 1 1 17038 20220426184302
+20.110.121.91 1 1 4264 20220427073332
+93.158.91.214 1 1 4264 20220408211337
+199.249.230.87 1 1 809 20220428130059
+181.114.124.223 2 15 1150195 20220422064814
+195.246.120.154 3 3 40786 20220429204207
+194.195.246.182 1 1 809 20220426015519
+209.141.41.193 3 4 2744 20220419054159
+167.94.146.60 1 1 809 20220410065636
+185.220.100.242 1 1 809 20220428130104
+45.92.228.150 1 1 4264 20220428105843
+156.0.213.60 2 19 3652303 20220401080952
+51.255.62.12 1 1 17038 20220404220806
+45.79.160.101 1 1 809 20220414063103
+27.115.124.109 1 5 232181 20220423073651
+95.72.27.155 3 3 35622 20220425013700
+20.214.106.140 1 1 4264 20220406045920
+18.236.96.63 1 1 4264 20220426090811
+167.94.138.63 4 4 3236 20220427075642
+94.247.172.129 1 1 4264 20220405000709
+52.35.232.78 1 1 4264 20220414092843
+102.129.143.97 3 3 40786 20220403194623
+185.220.101.55 1 1 809 20220415084153
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20220401 42 63 3933335 24
+20220402 42 115 16513561 19
+20220403 33 100 17043694 23
+20220404 74 74 165847 25
+20220405 46 67 2400265 25
+20220406 138 232 7773120 28
+20220407 68 144 29392232 26
+20220408 41 83 8998588 19
+20220409 43 64 3177074 16
+20220410 42 56 2363615 14
+20220411 50 54 4376562 16
+20220412 99 152 727874 32
+20220413 42 42 85715 21
+20220414 30 30 86019 22
+20220415 291 331 9168156 21
+20220416 49 65 280649 22
+20220417 31 55 2396909 15
+20220418 41 102 26140994 20
+20220419 61 106 4859673 33
+20220420 75 117 13510921 24
+20220421 72 102 4763496 28
+20220422 103 134 3718163 24
+20220423 33 89 9176123 20
+20220424 48 68 2594304 18
+20220425 74 176 17187062 35
+20220426 84 161 9873926 41
+20220427 36 50 2415038 24
+20220428 79 145 22799093 42
+20220429 51 51 178822 27
+20220430 62 77 2557022 29
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 14
+2mn-5mn 12
+30mn-1h 14
+0s-30s 642
+1h+ 23
+30s-2mn 19
+15mn-30mn 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 40
+/suspencion.php 1162 975160 387 387
+/ 289 1705316 262 205
+/contactenos.php 213 1727857 56 98
+/pqr/upload/scp/tickets.php 85 509256 6 3
+/pqr/upload/scp/autocron.php 51 2142 0 5
+/index.php 24 127536 5 9
+/pqr/upload/scp/logo.php 23 96145 15 8
+/residenciales.php 22 80889 0 0
+/pqr/upload/scp/ajax.php/users/lookup/form 15 29583 0 0
+/caracteristicas.php 10 83245 0 4
+/corporativo.php 9 35377 0 3
+/pqr/upload/scp/ajax.php/content/signature/none 8 0 0 0
+/pqr/upload/scp/ajax.php/form/help-topic/12 7 40516 0 0
+/pqr/upload/scp/ajax.php/list/3/items/33/preview 6 810 0 1
+/pqr/upload/scp/ajax.php/list/3/items/27/preview 6 738 0 1
+/pqr/upload/scp/dashboard.php 4 7176 0 0
+/factores.php 4 23083 0 0
+/pqr/upload/scp/ajax.php/users 4 265 0 0
+/pqr/upload/scp/ajax.php/lock/ticket/864 4 156 0 0
+/procedimientos.php 3 27609 1 1
+/pqr/upload/scp/index.php 3 11260 1 0
+/pqr/upload/scp/ajax.php/users/local 3 66 0 0
+/informacion_crc.php 2 12255 0 1
+/pqr/upload/scp/ajax.php/tickets/858/user 2 4913 0 2
+/medidor.php 2 13339 0 0
+/pqr/upload/scp/ajax.php/draft/ticket.response.864 1 36 0 0
+/pqr/upload/scp/ajax.php/tickets/850/preview 1 753 0 0
+/pqr/upload/scp/ajax.php/tickets/848/preview 1 758 0 1
+/index.php/Wap/Api/getBanner 1 4264 0 1
+/pqr/upload/scp/users.php 1 5333 0 0
+/pqr/upload/ajax.php/i18n/es_MX/js 1 2799 0 1
+/pqr/upload/scp/ajax.php/list/3/items/35/preview 1 126 0 0
+/pqr/upload/scp/ajax.php/lock/942/ticket/864/renew 1 39 0 0
+/pqr/upload/ 2 2921 0 0
+/pqr/upload/scp/ajax.php/tickets/864/status/close/2 1 803 0 0
+/pqr/upload/scp/ajax.php/lock/941/release 1 21 0 0
+/control.php 2 8177 0 1
+/pqr/upload/scp/ajax.php/tickets/865/tasks 1 918 0 0
+/pqr/upload/scp/ajax.php/form/help-topic/13 2 11576 0 0
+/pqr/upload/assets/font/fontawesome-webfont.woff 2 87144 0 1
+END_SIDER

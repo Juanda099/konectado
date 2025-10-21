@@ -1,0 +1,66 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id AFiKLPOPW2WOGREAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 20 Nov 2023 09:57:23 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 20 Nov 2023 09:57:23 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1r57aN-004kD0-K1
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Mon, 20 Nov 2023 09:57:23 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1r57aJ-004kCJ-3Q@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1r57aN-004kD0-K1@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 20 Nov 2023 09:57:23 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1r57aJ-004kCJ-3Q
+	for servicioalcliente@serkoi.com;
+	Mon, 20 Nov 2023 09:57:19 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 37.19.223.105
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 37.19.223.105
+From:
+Message-Id: <E1r57aJ-004kCJ-3Q@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 20 Nov 2023 09:57:19 -0700
+
+De: Mike Nathan
+. 
+Correo: . 
+Telefono: 84218225691. 
+Mensaje: Hi there, 
+ 
+My name is Mike from Monkey Digital, 
+ 
+Allow me to present to you a lifetime revenue opportunity of 35% 
+That's right, you can earn 35% of every order made by your affiliate for life. 
+ 
+Simply register with us, generate your affiliate links, and incorporate them on your website, and you are done. It takes only 5 minutes to set up everything, and the payouts are sent each month. 
+ 
+Click here to enroll with us today: 
+https://www.monkeydigital.org/affiliate-dashboard/ 
+ 
+Think about it, 
+Every website owner requires the use of search engine optimization (SEO) for their website. This endeavor holds significant potential for both parties involved. 
+ 
+Thanks and regards 
+Mike Nathan
+ 
+Monkey Digital. 
+

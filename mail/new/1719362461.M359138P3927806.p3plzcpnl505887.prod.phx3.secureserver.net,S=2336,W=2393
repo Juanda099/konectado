@@ -1,0 +1,57 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id mKzsFJ1je2b+7jsA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 25 Jun 2024 17:41:01 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 25 Jun 2024 17:41:01 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sMGib-00GUHR-0q
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 25 Jun 2024 17:41:01 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sMGiP-00GU9A-1d@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sMGib-00GUHR-0q@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 25 Jun 2024 17:41:01 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sMGiP-00GU9A-1d
+	for servicioalcliente@serkoi.com;
+	Tue, 25 Jun 2024 17:40:49 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.83.185.48
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.83.185.48
+From:
+Message-Id: <E1sMGiP-00GU9A-1d@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 25 Jun 2024 17:40:49 -0700
+
+De: Casimira. 
+Correo: . 
+Telefono: 725412990. 
+Mensaje: World's Best Neck Massager Get it Now 50% OFF + Free Shipping!
+
+Wellness Enthusiasts! There has never been a better time to take care of your neck pain! 
+Our clinical-grade TENS technology will ensure you have neck relief in as little as 20 minutes.
+
+Get Yours: https://hineck.co
+
+Best,
+
+Casimira
+Proditel. 
+

@@ -1,0 +1,109 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id CB+sBKYWrWYgASYA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 02 Aug 2024 10:25:58 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 02 Aug 2024 10:25:58 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sZw2P-00ATHr-3C
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 02 Aug 2024 10:25:58 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sZw2E-00ATEV-2W@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1722619557-eximdsn-1716461043
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sZw2P-00ATHr-3C@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 02 Aug 2024 10:25:57 -0700
+
+--1722619557-eximdsn-1716461043
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Zw2Psa46uabMS :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Apol3/9P c=1 sm=1 tr=0 ts=66ad16a5 p=iyFjHaP0AAAA:8 p=OWgV9yCm4QztHbpkgpYZ:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=i3vfLlAwMHkcVmgw6OwA:9 a=3ZKOabzyN94A:10 a=U9ie7CefYcOKp_vYtI7H:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=PvXPVFlxvdAkr7gdgZTe:22 ::
+    100.00
+
+--1722619557-eximdsn-1716461043
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Zw2Psa46uabMS :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Apol3/9P c=1 sm=1 tr=0 ts=66ad16a5 p=iyFjHaP0AAAA:8 p=OWgV9yCm4QztHbpkgpYZ:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=i3vfLlAwMHkcVmgw6OwA:9 a=3ZKOabzyN94A:10 a=U9ie7CefYcOKp_vYtI7H:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=PvXPVFlxvdAkr7gdgZTe:22 :: 100.00
+
+--1722619557-eximdsn-1716461043
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sZw2E-00ATEV-2W
+	for servicioalcliente@serkoi.com;
+	Fri, 02 Aug 2024 10:25:57 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 45.134.142.73
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 45.134.142.73
+From:
+Message-Id: <E1sZw2E-00ATEV-2W@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 02 Aug 2024 10:25:46 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Fabien Redmon. 
+Correo: . 
+Telefono: 902-367-3165. 
+Mensaje: Hi there!
+
+Are you looking to maximize the impact of your YouTube videos? Introducing YTCopyCat, our innovative SaaS tool that converts your YouTube videos into various high-quality written content using advanced AI.
+What Can Our Tool Do for You?
+
+    Blog Articles: Turn your videos into blog posts.
+    Newsletters: Generate captivating newsletters effortlessly.
+    Video Summaries: Create concise summaries.
+    Tweets: Produce engaging tweets.
+    Custom Content: Use personalized prompts for specific needs.
+
+How It Works:
+
+    Paste your YouTube video link.
+    Our AI analyzes and extracts key content.
+    Choose your desired format.
+
+In just a few clicks, you’ll have top-notch content ready to publish or share. Save time and boost productivity with automated content creation.
+Why Choose YTCopyCat?
+
+    Time-Saving: Automate your content creation.
+    Versatile: Generate multiple content types from one video.
+    High Quality: Enjoy superior content with advanced AI.
+
+Special Offer:
+
+Try YTCopyCat for free and revolutionize your content strategy. Visit https://ytcopycat.com to learn more and start your free trial today. Don’t miss this chance to enhance your content creation!
+
+Cheers,
+Fabien
+contact@ytcopycat.com. 
+
+
+--1722619557-eximdsn-1716461043--

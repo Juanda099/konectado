@@ -1,0 +1,58 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id SNxECrOkF2RZWQIAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sun, 19 Mar 2023 17:11:31 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sun, 19 Mar 2023 17:11:31 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pe37b-000fS2-2L
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sun, 19 Mar 2023 17:11:31 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pe37W-000fOS-Cp@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1pe37b-000fS2-2L@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 19 Mar 2023 17:11:31 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pe37W-000fOS-Cp
+	for servicioalcliente@serkoi.com;
+	Sun, 19 Mar 2023 17:11:26 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 217.23.3.171
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 217.23.3.171
+From:
+Message-Id: <E1pe37W-000fOS-Cp@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 19 Mar 2023 17:11:26 -0700
+
+De: Elwood. 
+Correo: . 
+Telefono: 06345 95 00 99. 
+Mensaje: New Multifunction Anti-theft Waterproof Sling Bag
+
+The best ever SUPER Sling Bag: Drop-proof/Anti-theft/Scratch-resistant/USB Charging
+
+50% OFF for the next 24 Hours ONLY + FREE Worldwide Shipping for a LIMITED time
+
+Buy now: https://fashiondaily.shop
+
+Thanks and Best Regards, 
+
+Elwood
+Proditel. 
+

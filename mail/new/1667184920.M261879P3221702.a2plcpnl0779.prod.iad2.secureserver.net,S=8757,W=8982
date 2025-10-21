@@ -1,0 +1,225 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id Rn7NDhg5X2PGKDEAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sun, 30 Oct 2022 19:55:20 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sun, 30 Oct 2022 19:55:20 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	id 1opKxM-00DW6m-3g
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Sun, 30 Oct 2022 19:55:20 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1opKxL-00DW6M-LV@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1667184920-eximdsn-941826924
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1opKxM-00DW6m-3g@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 30 Oct 2022 19:55:20 -0700
+
+--1667184920-eximdsn-941826924
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 pKxLoFkINYVlN :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=RJJ1Xau+ c=1 sm=1 tr=0 ts=635f3918 p=KY3w8gh7AAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=Qawa6l4ZSaYA:10 a=lnOfybe9-toA:10 a=EBiwB6y7w_e7xy8AeNoA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=0xgLOgdONIp6ReWtfY7s:22 ::
+    100.00
+
+--1667184920-eximdsn-941826924
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 pKxLoFkINYVlN :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=RJJ1Xau+ c=1 sm=1 tr=0 ts=635f3918 p=KY3w8gh7AAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=Qawa6l4ZSaYA:10 a=lnOfybe9-toA:10 a=EBiwB6y7w_e7xy8AeNoA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=0xgLOgdONIp6ReWtfY7s:22 :: 100.00
+
+--1667184920-eximdsn-941826924
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1opKxL-00DW6M-LV
+	for servicioalcliente@serkoi.com; Sun, 30 Oct 2022 19:55:19 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 158.115.250.174
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 158.115.250.174
+From:
+Message-Id: <E1opKxL-00DW6M-LV@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 30 Oct 2022 19:55:19 -0700
+
+De: Joanne Olvera. 
+Correo: . 
+Telefono: (08) 9017 1996. 
+Mensaje: SUBJECT: Can You Really Lose Weight Without Exercise?
+
+Hi,
+
+Welcome back! Have you ever wondered if you really need to
+be plodding through your exercise program in order to get
+results?
+
+Do you dread your daily gym workouts and just wish you
+could say so long to them forever?
+
+If so, today's topic is for you. Most people understand
+that combining a good diet with an exercise program is
+going to be the fastest way to get good results.
+
+They know that both play key roles in bringing about
+success and are fine with that.
+
+But, what if you can't exercise due to injury, or you
+dislike exercise entirely? Then what? Can you forgo it and
+still reach your goals?
+
+Let's have a look at whether you can lose weight without
+exercise so that you can set this record straight for
+yourself once and for all.
+
+********
+
+If you want to learn more about intermittent fasting, a
+controversial weight-loss method that can speed up the
+time usually required to shed fat, go here now:
+
+===> https://bravooffer.com/Exipurefit
+
+********
+
+* What It Takes to Lose Weight
+
+First we need to outline what it takes to lose weight so
+that you know what's involved.
+
+In order to get your body to shed fat, you need to give it
+a reason to start burning up its own body tissues for
+fuel.
+
+The energy you take in has to be less than the energy you
+expend.
+
+To do this, provide less energy through your food intake
+than what it needs on a daily basis, or increase your
+exercise level so that you are burning off more calories
+than the total of what you eat.
+
+Those who use both workout and diet get a combination of
+both calorie deficits, attacking body fat from both
+angles.
+
+If you're someone who doesn't want to exercise, you can
+still achieve weight loss, but you will have to decrease
+your calorie intake from your diet far more to create the
+necessary deficit on its own.
+
+If you aren't burning many calories each day because you
+aren't active, it means you'll need a much more strict and
+intense diet plan to get results.
+
+But it is possible.
+
+* What It Takes to Lose Fat
+
+Now, what I want you to know here is that losing weight
+and losing fat are not always the same thing.
+
+When you are losing weight, you're losing any sort of
+tissue: muscle or body fat. Your goal should always be
+lose fat because losing muscle will just make you look
+softer, flabbier and make it harder to maintain your
+decreased weight over the long haul.
+
+The best way to maintain your muscle while dieting so that
+you ensure you lose body fat and not muscle mass is to
+exercise.
+
+While you can lose weight just through restricted eating
+if you diet very intensely, you will certainly be losing
+some muscle along with the body fat. If you add some
+exercise into it, even a minimal amount, you can help
+preserve the strength you have.
+
+All in all, it's easier to lose weight if you are burning
+up calories through movement, rather than just cutting
+back food intake.
+
+* Thinking about Health
+
+The next thing that you need to look at is your health.
+
+Physical activity has positive heath benefits, and there's
+absolutely no denying this.
+
+If you aren't very active, you are going to be at a higher
+risk of bone-related issues, heart disease, stroke,
+depression - the list of potential health effects goes on
+and on.
+
+Getting in some physical activity on a daily basis is
+always a wise move as far as your health is concerned;
+yet, most people overlook the many positive benefits of
+finding a form of exercise they enjoy, including meeting
+new people and relieving stress.
+
+Also, if you are exercising as you attempt to lose weight,
+you will be able to eat a few more calories with your diet
+and still get results. And if you consume more
+nutrient-dense foods, this serves to benefit you as well.
+
+If you aren't exercising and thus have to diet very
+intensely, it may mean that you are unable to meet all
+your vitamin and mineral requirements since you're taking
+in such little food. You'll definitely want to take a
+multi-vitamin and maybe other supplements too.
+
+* The Verdict
+
+Can you lose weight without exercising?
+
+Yes, you can, but you must remember that exercising
+produces better results in terms of completely
+transforming your body and helping you gain better overall
+health.
+
+Remember that exercising for weight loss doesn't have to
+involve intense, uncomfortable gym sessions.
+
+Light activity can be as easy as getting outside and going
+for a walk around the block. Something as simple as
+playing with your dog can increase chances of success and
+support your diet in helping you lose excess body fat.
+
+Those who make exercise more fun and enjoyable almost
+always see better results anyway, so do not discount this
+factor. Never make exercise feel like torture; there are
+far too many possible sports, workouts and fitness classes
+to choose from for you to settle on something you
+seriously dislike.
+
+Next up we'll go over how you might be sabotaging your
+current diet regimen and what you can pay attention to as
+a way to get back on the path to your target weight.
+
+Stay motivated,
+. 
+
+
+--1667184920-eximdsn-941826924--

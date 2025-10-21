@@ -1,0 +1,86 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id ECJLBQIRNGfvCgcA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 12 Nov 2024 19:37:54 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 12 Nov 2024 19:37:54 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tB3GU-0025Ms-06
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 12 Nov 2024 19:37:54 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tB3GO-0025Le-22@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1731465474-eximdsn-927219233
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tB3GU-0025Ms-06@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 12 Nov 2024 19:37:54 -0700
+
+--1731465474-eximdsn-927219233
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 B3GTtWsQxsNm1 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=ftsmZE4f c=1 sm=1 tr=0 ts=67341102 p=1vVXQdMiGiIqpTzUnutE:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=VlfZXiiP6vEA:10 a=UqCG9HQmAAAA:8 a=jMGglPuHoMywSA8EqLkA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1731465474-eximdsn-927219233
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 B3GTtWsQxsNm1 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=ftsmZE4f c=1 sm=1 tr=0 ts=67341102 p=1vVXQdMiGiIqpTzUnutE:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=VlfZXiiP6vEA:10 a=UqCG9HQmAAAA:8 a=jMGglPuHoMywSA8EqLkA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1731465474-eximdsn-927219233
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tB3GO-0025Le-22
+	for servicioalcliente@serkoi.com;
+	Tue, 12 Nov 2024 19:37:53 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 138.199.35.45
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 138.199.35.45
+From:
+Message-Id: <E1tB3GO-0025Le-22@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 12 Nov 2024 19:37:48 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Josefa Cowan. 
+Correo: . 
+Telefono: 887966698. 
+Mensaje: My name is James Broderick, and I am an attorney at Broderick & Associates LLP based in Canada. I am reaching out to discuss matters concerning your late relative payable on death.
+
+Please feel free to contact me at your earliest convenience at the email address provided below for more information regarding their payable on death policy. Trust me it is something worthwhile you would like to hear. 
+
+Thank you for your attention to this matter. Contact me through my email to share more information with you about the payable on death.  jamesbroderick62@outlook.com
+
+Best regards,
+James Broderick. 
+
+
+--1731465474-eximdsn-927219233--

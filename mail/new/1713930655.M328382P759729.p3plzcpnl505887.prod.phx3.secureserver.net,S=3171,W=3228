@@ -1,0 +1,57 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id AIvfEp+BKGaxlwsA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 23 Apr 2024 20:50:55 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 23 Apr 2024 20:50:55 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1rzTep-003Fc4-0p
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 23 Apr 2024 20:50:55 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1rzTek-003Fap-15@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rzTep-003Fc4-0p@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 23 Apr 2024 20:50:55 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1rzTek-003Fap-15
+	for servicioalcliente@serkoi.com;
+	Tue, 23 Apr 2024 20:50:50 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 185.137.164.20
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 185.137.164.20
+From:
+Message-Id: <E1rzTek-003Fap-15@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 23 Apr 2024 20:50:50 -0700
+
+De: Victoria Wendt. 
+Correo: . 
+Telefono: 3177425283. 
+Mensaje: Claim Your $32,222 SETC Tax Credit Before It’s Too Late!
+
+Are you self-employed, a gig worker, or run a sole proprietor business? Have you filed a 1099 form between 2019 and 2023? If you answered "yes," you may qualify for up to $32,222 with the SETC (Self-Employed Tax Credit) without the need to repay it.
+
+This is not a PPP (Paycheck Protection Program) loan, and it's completely repayable-free. Discover if you qualify before time runs out. The deadline to claim your tax credit is April 15, 2024.
+
+Click the link below to see if you qualify
+ https://aluzzion.com/go/setc
+
+What is the SETC?
+The Self-Employed Tax Credit (SETC) was established by Congress to offer financial relief to sole proprietors, 1099 contractors, freelancers, single-member LLCs, gig workers, and other self-employed individuals. This groundbreaking legislation was designed to mitigate the economic impact experienced by self-employed Americans due to government-ordered shutdowns, quarantine, illness, caregiving, or other events that reduced income. Don’t miss out on this opportunity – the deadline to claim your tax credit is April 15, 2024.. 
+

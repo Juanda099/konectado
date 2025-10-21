@@ -1,0 +1,109 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id uECmEJkm+2Zf1y4A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 30 Sep 2024 15:30:49 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 30 Sep 2024 15:30:49 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1svOun-00Ct2p-0i
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 30 Sep 2024 15:30:49 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1svOub-00Csww-0M@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1727735449-eximdsn-1137885780
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1svOun-00Ct2p-0i@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 30 Sep 2024 15:30:49 -0700
+
+--1727735449-eximdsn-1137885780
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 vOumsYEYLDpcJ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=E4UGprdl c=1 sm=1 tr=0 ts=66fb2699 p=B5alb14RAAAA:8 p=WRKUxyvADeGx5Vf6pSyZ:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=smrCSdiaAAAA:8 a=k5QgQuc-s6Ib5upfOFwA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=cwvxDTYVzKKSeG-HFk8L:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1727735449-eximdsn-1137885780
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 vOumsYEYLDpcJ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=E4UGprdl c=1 sm=1 tr=0 ts=66fb2699 p=B5alb14RAAAA:8 p=WRKUxyvADeGx5Vf6pSyZ:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=smrCSdiaAAAA:8 a=k5QgQuc-s6Ib5upfOFwA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=cwvxDTYVzKKSeG-HFk8L:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1727735449-eximdsn-1137885780
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1svOub-00Csww-0M
+	for servicioalcliente@serkoi.com;
+	Mon, 30 Sep 2024 15:30:48 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.211.115
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.211.115
+From:
+Message-Id: <E1svOub-00Csww-0M@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 30 Sep 2024 15:30:37 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Debra Brooks. 
+Correo: . 
+Telefono: (02) 6744 5668. 
+Mensaje: Hi,
+Imagine having access to the world's leading AI tools without the hassle of monthly fees.  With OneAi, you get all the premium AI technologies from a single powerful dashboard—no recurring charges required!
+
+Introducing OneAi: The Ultimate AI Dashboard
+
+With OneAi, you get instant access to:
+? ChatGPT 4.0 & ChatGPT 4 – The latest in conversational AI
+? Gemini Pro – Advanced multi-modal capabilities
+? DALL·E 3 – Stunning AI-generated images
+? Leonardo AI – Innovative design and creative solutions
+? Microsoft Copilot Pro – Boost productivity with AI assistance
+? Meta Llama 3 – Powerful language models
+? Stable Diff XL – Enhanced image synthesis
+? PaLM 2 – Next-level natural language processing
+
+All from a single, intuitive dashboard.  No more need to navigate between different apps or manage multiple subscriptions: https://www.trafficdollars.xyz/allai  .
+
+OneAi simplifies your AI experience and puts the power of leading-edge technology in your hands.
+
+Ready to take your AI game to the next level?
+
+Click here to get started with OneAi today: https://www.trafficdollars.xyz/allai  !
+
+Debra Brooks
+
+
+
+
+UNSUBSCRIBE: https://www.trafficdollars.xyz/unsubscribe/?d=proditelsas.com   
+Address: 2722 Sweetwood Drive
+Centennial, CO 80112. 
+
+
+--1727735449-eximdsn-1137885780--

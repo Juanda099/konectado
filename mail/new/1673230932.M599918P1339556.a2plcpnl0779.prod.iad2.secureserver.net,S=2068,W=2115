@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id KGH6IVR6u2OkcBQAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sun, 08 Jan 2023 19:22:12 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sun, 08 Jan 2023 19:22:12 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pEhng-005nEZ-Ey
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sun, 08 Jan 2023 19:22:12 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pEhnb-005nCN-RD@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1pEhng-005nEZ-Ey@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 08 Jan 2023 19:22:12 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pEhnb-005nCN-RD
+	for servicioalcliente@serkoi.com;
+	Sun, 08 Jan 2023 19:22:07 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 37.139.53.81
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 37.139.53.81
+From:
+Message-Id: <E1pEhnb-005nCN-RD@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 08 Jan 2023 19:22:07 -0700
+
+De: Idoffbeew. 
+Correo: . 
+Telefono: 89032685239. 
+Mensaje: Confíe su dólar al Robot y vea cómo crece a $100. http://go.hojagoak.com/0j35. 
+

@@ -1,0 +1,59 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id xkyQJsH1RmWyORcAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 04 Nov 2023 18:54:09 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 04 Nov 2023 18:54:09 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qzSL3-006Nxq-G7
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sat, 04 Nov 2023 18:54:09 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qzSKy-006Nrv-Py@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1qzSL3-006Nxq-G7@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 04 Nov 2023 18:54:09 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qzSKy-006Nrv-Py
+	for servicioalcliente@serkoi.com;
+	Sat, 04 Nov 2023 18:54:04 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 62.216.66.233
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 62.216.66.233
+From:
+Message-Id: <E1qzSKy-006Nrv-Py@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 04 Nov 2023 18:54:04 -0700
+
+De: Rich . 
+Correo: . 
+Telefono: 714-396-5516. 
+Mensaje: There's more investment capital available than you can imagine and much of it never gets placed.  Tired of running low or running out of cash just when you need it most? I have a permanent fix to this problem. 
+
+There's no need to be under-capitalized and run out of cash. Your credit, industry, balance sheet, assets, etc. are not a factor.  
+ 
+I'll help you get all the capital you need in record time. Join my FREE FORUM and talk to me directly. Learn how I raised tens of millions of dollars for my own companies. My system has worked for me many times and continues to provide cash for me to this day.  
+
+To access my FREE FORUM and start receiving all the capital you need, check this two-minute video I recorded for you:  https://bizfundingforyou.com
+
+See you there!
+
+Rich
+
+To opt out of future messages, click or tap here:  https://omnioptout.xyz?customer_domain=proditelsas.com. 
+

@@ -1,0 +1,97 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id uCrfFQohqGUQoxkAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Wed, 17 Jan 2024 11:48:42 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Wed, 17 Jan 2024 11:48:42 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rQAxu-0073Tw-0o
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Wed, 17 Jan 2024 11:48:42 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rQAxp-0073Ob-0l@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1705517322-eximdsn-568201796
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rQAxu-0073Tw-0o@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 17 Jan 2024 11:48:42 -0700
+
+--1705517322-eximdsn-568201796
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 QAy5rxhiaYBN6 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=OfQ7DQTY c=1 sm=1 tr=0 ts=65a82115 p=2WcLXbE-AAAA:20 p=84eHZzESAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=dEuoMetlWLkA:10 a=dcCftOdYH_iqAwgoOmMA:9 a=-FEs8UIgK8oA:10 a=N0MBS37_8d0HsOpddrSQ:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1705517322-eximdsn-568201796
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 QAy5rxhiaYBN6 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=OfQ7DQTY c=1 sm=1 tr=0 ts=65a82115 p=2WcLXbE-AAAA:20 p=84eHZzESAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=dEuoMetlWLkA:10 a=dcCftOdYH_iqAwgoOmMA:9 a=-FEs8UIgK8oA:10 a=N0MBS37_8d0HsOpddrSQ:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1705517322-eximdsn-568201796
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rQAxp-0073Ob-0l
+	for servicioalcliente@serkoi.com;
+	Wed, 17 Jan 2024 11:48:41 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.239.91.29
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.239.91.29
+From:
+Message-Id: <E1rQAxp-0073Ob-0l@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 17 Jan 2024 11:48:37 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Daniel. 
+Correo: . 
+Telefono: . 
+Mensaje: Hello!
+
+You're reading this message and I can make millions of people read your message where you promote your products or service the exact same way! We specialize in utilizing contact forms - a common feature found on numerous websites - to send your messages directly to your targeted recipients. Costs are much, much cheaper than regular advertising.
+
+What makes this method stand out? Here are a few key benefits:
+
+- Privacy-First Approach: We ensure that no personal data is compromised during the process, adhering strictly to privacy norms.
+- Enhanced Deliverability: Messages sent via feedback forms are less likely to be flagged as spam, as they are recognized as important communications.
+- Secure and Reliable: Our system uses forms designed to receive messages securely, ensuring that your communication is both safe and effective.
+
+As a token of our commitment to quality and to give you a taste of what we offer, we are delighted to provide you with a complimentary trial of our service. Experience the impact of sending up to 50,000 messages, absolutely free of charge.
+
+For those looking to expand their reach further, we offer an incredibly cost-effective package: send one million messages for just $99.
+
+Contact me at:
+
+Telegram: t.me/leadgenmarket1
+Skype Name: live:.cid.32a8cfbcf097b10d
+Whatsapp: https://wa.me/40753537389. 
+
+
+--1705517322-eximdsn-568201796--

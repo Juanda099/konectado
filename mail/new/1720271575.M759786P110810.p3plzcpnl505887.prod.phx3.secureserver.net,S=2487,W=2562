@@ -1,0 +1,75 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id cNZkLNdCiWbasAEA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 06 Jul 2024 06:12:55 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 06 Jul 2024 06:12:55 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sQ5Dj-000TC3-2A
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 06 Jul 2024 06:12:55 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sQ5DY-000T8W-37@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sQ5Dj-000TC3-2A@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 06 Jul 2024 06:12:55 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sQ5DY-000T8W-37
+	for servicioalcliente@serkoi.com;
+	Sat, 06 Jul 2024 06:12:44 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.223.157.82
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.223.157.82
+From:
+Message-Id: <E1sQ5DY-000T8W-37@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 06 Jul 2024 06:12:44 -0700
+
+De: Nick Smith. 
+Correo: . 
+Telefono: 6503748981. 
+Mensaje: I'm running 5 x national/global advertising campaigns for qualifying websites in July ... for free!
+
+Would you like one of the spots?
+
+Hit reply with a "Tell Me More!" and I'll send the details.
+
+Your Website: proditelsas.com
+
+Best wishes
+
+Nick Smith
+
+P.S. It really won't cost you anything! 
+
+
+
+
+
+
+
+
+
+
+
+
+Kemp House, 152-160 City Road, London. EC1V 2NX
+
+To Avoid Future Marketing Messages Click Here
+https://email-sending.net/?domain=proditelsas.com. 
+

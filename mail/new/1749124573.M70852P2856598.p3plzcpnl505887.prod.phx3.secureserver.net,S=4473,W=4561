@@ -1,0 +1,88 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 4BzrA92FQWiWlisA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 05 Jun 2025 04:56:13 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 05 Jun 2025 04:56:13 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.1)
+	id 1uN9Ce-0000000CDJ1-4BQY
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 05 Jun 2025 04:56:13 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uN9CV-0000000CDA9-3q3a@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1749124572-eximdsn-770140876
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1uN9Ce-0000000CDJ1-4BQY@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 05 Jun 2025 04:56:12 -0700
+
+--1749124572-eximdsn-770140876
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 N9Ceucd3hz6go :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=QNtoRhLL c=1 sm=1 tr=0 ts=684185dc p=2Eam4Z0yAAAA:20 p=vDUVJ9qKAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=6IFa9wvqVegA:10 a=x7bEGLp0ZPQA:10 a=wbmg-334JukA:10 a=pGLkceISAAAA:8 a=YWhvKBELAAAA:8 a=mmL5_QvhNU2JBqTIlb0A:9 a=3ZKOabzyN94A:10 a=3XB0PbmSJj[truncated]
+
+--1749124572-eximdsn-770140876
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 N9Ceucd3hz6go :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=QNtoRhLL c=1 sm=1 tr=0 ts=684185dc p=2Eam4Z0yAAAA:20 p=vDUVJ9qKAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=6IFa9wvqVegA:10 a=x7bEGLp0ZPQA:10 a=wbmg-334JukA:10 a=pGLkceISAAAA:8 a=YWhvKBELAAAA:8 a=mmL5_QvhNU2JBqTIlb0A:9 a=3ZKOabzyN94A:10 a=3XB0PbmSJj8A:10 a=4APffvNbmDgA:10 a=syULteaH9JgA:10 a=-FEs8UIgK8oA:10 a=wn0B9tHeFSp-EGyjOE_v:22 a=CQaq2btGtsEkZM-kaBIO:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=GqybZMVLkepjuo0u6330:22 :: 99.00
+
+--1749124572-eximdsn-770140876
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.1)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uN9CV-0000000CDA9-3q3a
+	for servicioalcliente@serkoi.com;
+	Thu, 05 Jun 2025 04:56:12 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:appdear2022@gmail.com
+Message-Id: <E1uN9CV-0000000CDA9-3q3a@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 05 Jun 2025 04:56:03 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Julianreads. 
+Correo: appdear2022@gmail.com. 
+Telefono: 88979947428. 
+Mensaje: You’re closer to ranking on Google—and getting steady, organic leads—than you think. 
+Most websites just need a few strategic fixes. Yours might be one of them. 
+I’ll audit your site for free and send over: 
+• What your ideal customers are actually searching for 
+• Why you’re not showing up (yet) 
+• A few simple tweaks to start driving more traffic 
+If it helps, awesome. If not, you still get the audit and the roadmap. 
+ 
+If this sounds useful, reach out however's easiest: 
+WhatsApp - https://wa.me/message/OGPUQ43M3XMXO1 
+Telegram - https://t.me/leoTavdg 
+Phone Number: 888 884 0887 
+Email: leo@goldenfleecemarketing.com. 
+
+
+--1749124572-eximdsn-770140876--

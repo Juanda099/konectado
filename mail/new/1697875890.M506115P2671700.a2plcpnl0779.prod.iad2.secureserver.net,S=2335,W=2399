@@ -1,0 +1,64 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id OGOwHbKHM2VUxCgAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 21 Oct 2023 01:11:30 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 21 Oct 2023 01:11:30 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qu750-00BDBN-Bv
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sat, 21 Oct 2023 01:11:30 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qu74u-00BD9H-UL@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1qu750-00BDBN-Bv@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 21 Oct 2023 01:11:30 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qu74u-00BD9H-UL
+	for servicioalcliente@serkoi.com;
+	Sat, 21 Oct 2023 01:11:24 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 173.234.151.63
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 173.234.151.63
+From:
+Message-Id: <E1qu74u-00BD9H-UL@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 21 Oct 2023 01:11:24 -0700
+
+De: Alexandra Taormina. 
+Correo: . 
+Telefono: . 
+Mensaje: Hi, 
+
+Seize Your Chance for Financial Freedom Now!
+
+Watch the video below to unlock the power of Rapid Profit Machine For FREE today!
+
+https://rapidincomeprofits.com
+
+Regards,
+
+
+
+
+
+If you do not want any further communications, you can opt out by visiting the link below
+https://aibotwizard.com/website-opt-out/?customer_domain=proditelsas.com
+
+. 
+

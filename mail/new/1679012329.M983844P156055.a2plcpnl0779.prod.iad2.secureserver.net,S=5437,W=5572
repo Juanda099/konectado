@@ -1,0 +1,135 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id CcYoOemxE2SXYQIAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 16 Mar 2023 17:18:49 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 16 Mar 2023 17:18:49 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pcxo1-000ejo-S4
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 16 Mar 2023 17:18:49 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pcxo1-000ej6-Bj@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1679012329-eximdsn-1194542614
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pcxo1-000ejo-S4@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 16 Mar 2023 17:18:49 -0700
+
+--1679012329-eximdsn-1194542614
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 cxo1pvzsHfgEG :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=I5KjBvsg c=1 sm=1 tr=0 ts=6413b1e9 p=xrYWt3aRISdZeUTf8N8A:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=k__wU0fu6RkA:10 a=KYGe9xcmAAAA:20 a=hX7dOZ2FCfYA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 a=QJP_uyZGC--W5qLDgR6m:22 ::
+    100.00
+
+--1679012329-eximdsn-1194542614
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 cxo1pvzsHfgEG :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=I5KjBvsg c=1 sm=1 tr=0 ts=6413b1e9 p=xrYWt3aRISdZeUTf8N8A:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=k__wU0fu6RkA:10 a=KYGe9xcmAAAA:20 a=hX7dOZ2FCfYA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 a=QJP_uyZGC--W5qLDgR6m:22 :: 100.00
+
+--1679012329-eximdsn-1194542614
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pcxo1-000ej6-Bj
+	for servicioalcliente@serkoi.com;
+	Thu, 16 Mar 2023 17:18:49 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 185.93.32.50
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 185.93.32.50
+From:
+Message-Id: <E1pcxo1-000ej6-Bj@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 16 Mar 2023 17:18:49 -0700
+
+De: Randi Hitt. 
+Correo: . 
+Telefono: 05.54.08.64.92. 
+Mensaje: Hey,
+
+If you still haven't checked out DFY Suite...
+
+...you're missing out BIG time. Why?
+
+Well, how does ''page 1 rankings in BOTH Google and YouTube in 30 minutes'' sound?
+
+DFY Suite case study ==> https://bit.ly/dfysuite40
+
+This Case Study video gives you an insider look at how to get 1st page rankings...
+
+You'll learn how to get as much targeted traffic from the search engines as you'd like.
+
+Of course the immense power of DFY Suite has a lot to do with these results.
+
+With "DFY Suite" you'll be able to:
+
+– rank your niche websites on page 1
+– rank your e-commerce websites on page 1
+– rank your videos on page 1
+– rank your local listings on page 1
+– rank your Amazon listings
+– rank ANY URL you'd like to get traffic for...
+
+AND you can also rank any of your client's websites... and charge them for it!
+
+But possibly the BEST thing about all of this is...
+
+DFY Suite is extremely easy-to-use:
+
+1) NO software to install
+2) NO need to go through any training
+3) NO previous SEO experience required
+4) NO need to create any social accounts
+5) NO content needed (besides your URL)
+6) NO proxies needed
+7) NO captchas required to solve
+... NONE of that stuff.
+
+This simplified the ENTIRE process so that anyone can tap into the power of Page 1 rankings... even if they suck at SEO.
+
+With "DFY Suite", page #1 rankings are literally just 4 simple steps away:
+
+Step #1: Log into the web-based portal
+Step #2: Enter your keywords
+Step #3: Enter the URL you want traffic for
+Step #4: Hit "Submit"
+
+That's it!
+
+Yes it's working in 2023 and the Case Study was done in 2023 Only.
+
+To your Success
+
+Aaron S.
+87 Silver Street, MI
+88668
+======
+Click here to Unsubscribe. 
+
+
+--1679012329-eximdsn-1194542614--

@@ -1,0 +1,57 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 8DRrOEzAs2jp4TUA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 30 Aug 2025 20:23:56 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 30 Aug 2025 20:23:56 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1usYfc-0000000EqXw-3exu
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 30 Aug 2025 20:23:56 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1usYfT-0000000EqWs-0Opr@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1usYfc-0000000EqXw-3exu@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 30 Aug 2025 20:23:56 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1usYfT-0000000EqWs-0Opr
+	for servicioalcliente@serkoi.com;
+	Sat, 30 Aug 2025 20:23:47 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1usYfT-0000000EqWs-0Opr@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 30 Aug 2025 20:23:47 -0700
+
+De: Nellie Bowker. 
+Correo: . 
+Telefono: 756107057. 
+Mensaje: Hi,
+
+We have a promotional offer for your website proditelsas.com.
+
+Why should you care? Because Book In A Day lets you turn your ideas into a polished, professional book in just hours—not months. No writing skills, no expensive editors, no formatting headaches. Simply follow the AI-driven, step-by-step system and you’re done! Publish your book, build authority, and start earning—effortlessly, swiftly, and stress-free.
+
+See it in action: http://smartexperts.pro/BookInADay
+
+You are receiving this message because we believe our offer may be relevant to you. 
+If you do not wish to receive further communications from us, please click here to UNSUBSCRIBE:
+https://smartexperts.pro/unsub?domain=proditelsas.com 
+Address: Address: 1464 Lewis Street Roselle, IL 60177
+Looking out for you, Michael Turner.. 
+

@@ -1,0 +1,59 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id IEWZBon4emSOUgcAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 03 Jun 2023 01:23:37 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 03 Jun 2023 01:23:37 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1q5MXw-0022Bm-Vm
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sat, 03 Jun 2023 01:23:37 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1q5MXs-00220L-69@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1q5MXw-0022Bm-Vm@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 03 Jun 2023 01:23:36 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1q5MXs-00220L-69
+	for servicioalcliente@serkoi.com;
+	Sat, 03 Jun 2023 01:23:32 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 181.214.173.48
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 181.214.173.48
+From:
+Message-Id: <E1q5MXs-00220L-69@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 03 Jun 2023 01:23:32 -0700
+
+De: Mike Carrington
+. 
+Correo: . 
+Telefono: 88158276621. 
+Mensaje: Hello 
+ 
+I have just took an in depth look on your  proditelsas.com for the ranking keywords and saw that your website could use an upgrade. 
+ 
+We will improve your ranks organically and safely, using state of the art AI and whitehat methods, while providing monthly reports and outstanding support. 
+ 
+More info: 
+https://www.hilkom-digital.de/cheap-seo-packages/ 
+ 
+Regards 
+Mike Carrington
+. 
+

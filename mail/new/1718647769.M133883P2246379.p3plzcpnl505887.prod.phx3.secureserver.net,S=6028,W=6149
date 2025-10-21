@@ -1,0 +1,121 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id IADjBtl7cGbrRiIA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 17 Jun 2024 11:09:29 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 17 Jun 2024 11:09:29 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sJGnJ-009kE5-0B
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 17 Jun 2024 11:09:29 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sJGn8-009kAG-1U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1718647769-eximdsn-759693099
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sJGnJ-009kE5-0B@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 17 Jun 2024 11:09:29 -0700
+
+--1718647769-eximdsn-759693099
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 JGnHsTWVBeOvk :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=C88iyhP+ c=1 sm=1 tr=0 ts=66707bd8 p=aA-YBVdhAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=fN7NXnQXExp88086UYAA:9 a=w724tkBpKfoA:10 a=-FEs8UIgK8oA:10 a=IdOHHfPP9pQnngZRAzgM:22 a=KqGf-7wxHxux4ac4JMCP:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1718647769-eximdsn-759693099
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 JGnHsTWVBeOvk :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=C88iyhP+ c=1 sm=1 tr=0 ts=66707bd8 p=aA-YBVdhAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=fN7NXnQXExp88086UYAA:9 a=w724tkBpKfoA:10 a=-FEs8UIgK8oA:10 a=IdOHHfPP9pQnngZRAzgM:22 a=KqGf-7wxHxux4ac4JMCP:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1718647769-eximdsn-759693099
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sJGn8-009kAG-1U
+	for servicioalcliente@serkoi.com;
+	Mon, 17 Jun 2024 11:09:27 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 208.115.205.5
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 208.115.205.5
+From:
+Message-Id: <E1sJGn8-009kAG-1U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 17 Jun 2024 11:09:18 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Syed Zain Zain. 
+Correo: . 
+Telefono: +923133850005. 
+Mensaje: At CyberStar.One, we don't just offer cyber services; we redefine them. In today's fast-paced digital landscape, security and innovation are paramount. That's why we've crafted a suite of cutting-edge solutions tailored to safeguard your digital assets while propelling your business towards unprecedented success.
+
+Our Offerings:
+https://cyberstar.one/
+
+Fortified Cybersecurity Solutions:
+
+Combat evolving threats with our state-of-the-art cybersecurity protocols.
+From penetration testing to threat intelligence, we provide comprehensive protection against cyber attacks.
+Dynamic Web Development:
+
+Elevate your online presence with bespoke web development services.
+Our team of experts crafts engaging, user-friendly websites optimized for performance and security.
+AI-Powered Data Analytics:
+
+Unlock the potential of your data with our advanced analytics solutions.
+Leverage AI algorithms to derive actionable insights and make data-driven decisions.
+Cloud Infrastructure Services:
+
+Embrace the scalability and flexibility of cloud computing with our tailored solutions.
+From migration to optimization, we streamline your journey to the cloud.
+Why Choose CyberStar.One?
+
+Innovation at Every Turn:
+
+We stay ahead of the curve, harnessing the latest technologies to drive innovation and efficiency.
+Customized Solutions:
+
+No two businesses are alike. That's why we tailor our services to meet your unique needs and objectives.
+Relentless Security:
+
+Your security is our priority. With CyberStar.One, you can rest assured knowing your digital assets are in safe hands.
+Expertise You Can Trust:
+
+Our team comprises seasoned professionals with a wealth of experience in cybersecurity, web development, data analytics, and cloud computing.
+Our Proposal:
+
+Partner with CyberStar.One, and unlock the full potential of your digital journey. From fortifying your defenses to driving innovation, we're committed to your success every step of the way. Let's embark on this transformative journey together.
+
+Contact us today to schedule a consultation and discover how CyberStar.One can propel your business to new heights in the digital age.
+
+CyberStar.One - Empowering Your Digital Future.
+Email US @ ceo@cyberstar.one We Deal All Kind Of IT Development and Cyber Services. 
+
+
+--1718647769-eximdsn-759693099--

@@ -1,0 +1,76 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id UOzYCLO6pGT56T0AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 04 Jul 2023 17:34:59 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 04 Jul 2023 17:34:59 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qGqTy-00H2KL-Tc
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 04 Jul 2023 17:34:59 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qGqTt-00H2JA-Qn@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1688517298-eximdsn-1492885858
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qGqTy-00H2KL-Tc@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 04 Jul 2023 17:34:58 -0700
+
+--1688517298-eximdsn-1492885858
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 GqTyqfOIoPeVg :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=EN7AkXVC c=1 sm=1 tr=0 ts=64a4bab2 p=E28GbiM4DgHdzZ5x0Nhh:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=DOckpsy2AAAA:8 a=F-uf7WzqAAAA:8 a=hCLz8Iwb_G45MZKp-qEA:9 a=Zot2EUUvSwEA:10 a=5tjtwWZt95gA:10 a=mj5JuqKouZBKa6flfkOw:22 a=Ax72tLxJmbnkO7j-OVzR:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1688517298-eximdsn-1492885858
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 GqTyqfOIoPeVg :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=EN7AkXVC c=1 sm=1 tr=0 ts=64a4bab2 p=E28GbiM4DgHdzZ5x0Nhh:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=DOckpsy2AAAA:8 a=F-uf7WzqAAAA:8 a=hCLz8Iwb_G45MZKp-qEA:9 a=Zot2EUUvSwEA:10 a=5tjtwWZt95gA:10 a=mj5JuqKouZBKa6flfkOw:22 a=Ax72tLxJmbnkO7j-OVzR:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1688517298-eximdsn-1492885858
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qGqTt-00H2JA-Qn
+	for servicioalcliente@serkoi.com;
+	Tue, 04 Jul 2023 17:34:58 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 193.56.113.27
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 193.56.113.27
+From:
+Message-Id: <E1qGqTt-00H2JA-Qn@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 04 Jul 2023 17:34:53 -0700
+
+De: BrandonHenia. 
+Correo: . 
+Telefono: 89125338653. 
+Mensaje: Unlock the Secrets of Passive Income Success: ChatGPT's $21,000/Month Game Changer http://historiaonline.org/wp-content/plugins/AND-AntiBounce/redirector.php?url=https%3A%2F%2Fonlinshopbest.sell.app%2Fproduct%2Fpassive-income-of-21000-per-month-with-chatgpt-is-easy-money%3F685999555. 
+
+
+--1688517298-eximdsn-1492885858--

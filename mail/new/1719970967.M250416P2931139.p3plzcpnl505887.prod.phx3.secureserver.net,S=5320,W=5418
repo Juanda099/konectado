@@ -1,0 +1,98 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id Zn04DpeshGbDuSwA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 02 Jul 2024 18:42:47 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 02 Jul 2024 18:42:47 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sOp1D-00CIWL-0Y
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 02 Jul 2024 18:42:47 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sOp10-00CIUE-2B@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1719970967-eximdsn-436508094
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sOp1D-00CIWL-0Y@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 02 Jul 2024 18:42:47 -0700
+
+--1719970967-eximdsn-436508094
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Op1DsgKHDRiDJ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=T6RHTOKQ c=1 sm=1 tr=0 ts=6684ac97 p=8vY3yy_TFegkbTUMSG4A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=4kmOji7k6h8A:10 a=E2pbGXyYAAAA:8 a=LYmYg38GAAAA:20 a=3Fkg8L_KAAAA:20 a=dcMARPj0aX4A:10 a=uWTzIy4Gno4A:10 a=00RMHgZK98Z-SyNhld_K:22 a=HdWHRjf2P74t_jrOiXA2:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1719970967-eximdsn-436508094
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Op1DsgKHDRiDJ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=T6RHTOKQ c=1 sm=1 tr=0 ts=6684ac97 p=8vY3yy_TFegkbTUMSG4A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=4kmOji7k6h8A:10 a=E2pbGXyYAAAA:8 a=LYmYg38GAAAA:20 a=3Fkg8L_KAAAA:20 a=dcMARPj0aX4A:10 a=uWTzIy4Gno4A:10 a=00RMHgZK98Z-SyNhld_K:22 a=HdWHRjf2P74t_jrOiXA2:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1719970967-eximdsn-436508094
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sOp10-00CIUE-2B
+	for servicioalcliente@serkoi.com;
+	Tue, 02 Jul 2024 18:42:47 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 154.29.233.52
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 154.29.233.52
+From:
+Message-Id: <E1sOp10-00CIUE-2B@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 02 Jul 2024 18:42:34 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: . 
+Correo: . 
+Telefono: 1234567. 
+Mensaje: I'm Jared Michaels, a Senior Business Consultant at Wiki Crafter. 
+
+As you know, Wikipedia is a widely recognized and renowned platform. It's regarded as one of the most influential sources of information presented globally. The listing frequently show up at the top of Google search results, making it a powerful tool for any individual, brand visibility, and credibility.
+
+Having a well-crafted Wikipedia page can greatly benefit your business or personal biography by:
+
+- Improving your search engine rankings,
+- Strengthening your reputation and credibility,
+- Offering a reliable source of information about your achievements and history,
+
+We specialize in Creating Wikipedia pages, Editing and updating pages on demand, and regularly monitoring, and maintaining them. We additionally offer PR services for individual or business branding.
+
+Our team of experts are dedicated to making sure your Wikipedia page is accurate, well-maintained, and adheres to Wikipedia's strict guidelines. We handle everything from page creation to ongoing updates, gathering information, and monitoring.
+
+If you are looking forward to have a professional Wikipedia page listed for yourself or your business, don't hesitate to send an email or contact me at jared@wikicrafter.com or just visit our website: https://bit.ly/4cmCbeA
+
+
+
+Unsubscribe here if you don't want to get these great offers: https://bit.ly/unsubscribecfl
+289 Post Farm Road, Geneva, NY, USA, 68102. 
+
+
+--1719970967-eximdsn-436508094--

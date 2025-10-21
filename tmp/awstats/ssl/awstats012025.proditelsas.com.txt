@@ -1,0 +1,1387 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202501 will be lost/reset.
+# Last config file used to build this data file was /home/z1h9uk8mq9i3/tmp/awstats/ssl/awstats.proditelsas.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2684                
+POS_VISITOR 25783               
+POS_DAY 29685               
+POS_DOMAIN 3388                
+POS_LOGIN 3832                
+POS_ROBOT 3987                
+POS_WORMS 4497                
+POS_EMAILSENDER 4628                
+POS_EMAILRECEIVER 4771                
+POS_SESSION 30392               
+POS_SIDER 30549               
+POS_FILETYPES 4906                
+POS_DOWNLOADS 5154                
+POS_OS 22416               
+POS_BROWSER 22613               
+POS_SCREENSIZE 23246               
+POS_UNKNOWNREFERER 23320               
+POS_UNKNOWNREFERERBROWSER 23726               
+POS_ORIGIN 23913               
+POS_SEREFERRALS 24050               
+POS_PAGEREFS 24213               
+POS_SEARCHWORDS 24419               
+POS_KEYWORDS 24571               
+POS_MISC 2348                
+POS_ERRORS 24630               
+POS_CLUSTER 3688                
+POS_SIDER_404 24755               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250201002657 13 3104 5889458340198
+FirstTime 0
+LastTime 20250131074223
+LastUpdate 20250201055935 13 0 12 0 0
+TotalVisits 102                 
+TotalUnique 98                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 99                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 3 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 8592 3 7 9140
+1 0 0 0 9 21 35656
+2 5 6 40951 7 50 132453
+3 2 2 8528 6 19 4264
+4 2 2 8528 13 42 58555
+5 11 11 46904 8 39 86981
+6 12 26 2326413 6 21 7850
+7 11 40 9176363 3 20 64274
+8 1 1 4264 2 4 52
+9 2 17 2304690 9 12 18076
+10 16 16 53908 8 30 14849
+11 15 973 37530 5 13 10777
+12 0 0 0 10 37 18006
+13 5 19 2323036 8 22 448980
+14 14 28 2328618 1 8 0
+15 2 2 20691 8 20 518666
+16 5 5 45431 4 13 13118
+17 3 3 12792 5 18 991817
+18 4 18 2292543 20 45 54913
+19 8 35 6917772 2 10 4072
+20 1 1 4264 4 35 61526
+21 2 2 16558 8 30 16207
+22 7 7 28489 6 18 10375
+23 2 2 8528 5 11 207568
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+us 60 70 326621
+nl 14 972 52077
+ro 13 13 48519
+co 8 107 20531164
+ru 8 8 42142
+cn 7 7 29848
+se 5 5 21320
+ar 3 22 6858264
+ca 3 3 12545
+no 3 3 38673
+de 2 2 7832
+eg 1 1 4264
+ir 1 1 4264
+au 1 1 4264
+in 1 1 4264
+ua 1 1 17038
+be 1 1 12294
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+AhrefsBot/ 38 150832 20250130013108 0
+bingbot/ 34 356121 20250129231012 0
+Applebot/ 26 575560 20250127004506 0
+MJ12bot/ 15 46243 20250111185425 0
+bot[\s_+:,\.\;\/\\-] 12 1433981 20250131174800 0
+no_user_agent 9 173539 20250127075755 0
+scrapy 4 17056 20250121164933 0
+Apache\-HttpClient/ 1 4264 20250101034621 0
+SemrushBot/ 1 4264 20250123043308 0
+baidu 1 4264 20250102011104 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+rar 318 0 0 0
+Unknown 8 0 0 0
+jpg 48 17592824 0 0
+txt 2 24594 0 0
+png 18 9442094 0 0
+gz 322 0 0 0
+html 82 424380 0 0
+php 42 177084 0 0
+css 24 22668 0 0
+zip 318 0 0 0
+js 36 331749 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 895
+/wz.tar.gz 3 0 0
+/wz.zip 3 0 0
+/wz.rar 3 0 0
+/444.rar 2 0 0
+/888.zip 2 0 0
+/10.tar.gz 2 0 0
+/sjk.tar.gz 2 0 0
+/new.zip 2 0 0
+/666.rar 2 0 0
+/gg.zip 2 0 0
+/00.rar 2 0 0
+/bb.rar 2 0 0
+/ftp.zip 2 0 0
+/b.rar 2 0 0
+/111111.zip 2 0 0
+/b.zip 2 0 0
+/b.tar.gz 2 0 0
+/333.tar.gz 2 0 0
+/555.tar.gz 2 0 0
+/%E7%A8%8B%E5%BA%8F.rar 2 0 0
+/shujuku.tar.gz 2 0 0
+/wangzhan.tar.gz 2 0 0
+/%E7%A8%8B%E5%BA%8F.tar.gz 2 0 0
+/000.rar 2 0 0
+/555.zip 2 0 0
+/website.rar 2 0 0
+/333.zip 2 0 0
+/sjk.zip 2 0 0
+/new.tar.gz 2 0 0
+/777.rar 2 0 0
+/999.rar 2 0 0
+/website.zip 2 0 0
+/888.tar.gz 2 0 0
+/gg.rar 2 0 0
+/ftp.tar.gz 2 0 0
+/00.zip 2 0 0
+/bb.zip 2 0 0
+/111111.tar.gz 2 0 0
+/000.zip 2 0 0
+/555.rar 2 0 0
+/ads.txt 2 0 24594
+/333.rar 2 0 0
+/10.zip 2 0 0
+/sjk.rar 2 0 0
+/666.tar.gz 2 0 0
+/777.zip 2 0 0
+/999.zip 2 0 0
+/444.tar.gz 2 0 0
+/gg.tar.gz 2 0 0
+/111111.rar 2 0 0
+/wangzhan.rar 2 0 0
+/444.zip 2 0 0
+/888.rar 2 0 0
+/777.tar.gz 2 0 0
+/10.rar 2 0 0
+/999.tar.gz 2 0 0
+/shujuku.zip 2 0 0
+/new.rar 2 0 0
+/666.zip 2 0 0
+/00.tar.gz 2 0 0
+/bb.tar.gz 2 0 0
+/ftp.rar 2 0 0
+/website.tar.gz 2 0 0
+/wangzhan.zip 2 0 0
+/ficha%20tecnica.pdf 2 0 915009
+/%E7%A8%8B%E5%BA%8F.zip 2 0 0
+/shujuku.rar 2 0 0
+/000.tar.gz 2 0 0
+/cache.zip 1 0 0
+/error.tar.gz 1 0 0
+/sqldata.tar.gz 1 0 0
+/email.zip 1 0 0
+/htdocs.zip 1 0 0
+/rar.tar.gz 1 0 0
+/aft.zip 1 0 0
+/config.tar.gz 1 0 0
+/shu.zip 1 0 0
+/14.tar.gz 1 0 0
+/cpanelproditelsascom.tar.gz 1 0 0
+/4.rar 1 0 0
+/2019.tar.gz 1 0 0
+/119.tar.gz 1 0 0
+/cpanelproditelsascom.rar 1 0 0
+/%E5%B7%A5%E5%85%B7.rar 1 0 0
+/contrato.pdf 1 0 424431
+/template.zip 1 0 0
+/hdocs.tar.gz 1 0 0
+/html.zip 1 0 0
+/admin.tar.gz 1 0 0
+/ffff.zip 1 0 0
+/database.rar 1 0 0
+/beifen.zip 1 0 0
+/files.tar.gz 1 0 0
+/upfile.tar.gz 1 0 0
+/disponibilidad.pdf 1 0 179400
+/web1.rar 1 0 0
+/data.tar.gz 1 0 0
+/11.tar.gz 1 0 0
+/proditelsas.com.rar 1 0 0
+/ssss.zip 1 0 0
+/1111.rar 1 0 0
+/www.tar.gz 1 0 0
+/44.zip 1 0 0
+/cpanel.zip 1 0 0
+/mail.zip 1 0 0
+/1234.zip 1 0 0
+/v1.zip 1 0 0
+/v.rar 1 0 0
+/datad.rar 1 0 0
+/oa.rar 1 0 0
+/114.tar.gz 1 0 0
+/2022.zip 1 0 0
+/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9%20(2).tar.gz 1 0 0
+/26.tar.gz 1 0 0
+/fourm.zip 1 0 0
+/m.rar 1 0 0
+/bbs.zip 1 0 0
+/mm.zip 1 0 0
+/%E6%9C%8D%E5%8A%A1%E7%AB%AF.tar.gz 1 0 0
+/520.rar 1 0 0
+/wwwroot.tar.gz 1 0 0
+/28.rar 1 0 0
+/%E7%89%88%E6%9C%AC.zip 1 0 0
+/databasebak.tar.gz 1 0 0
+/webroot.rar 1 0 0
+/99.rar 1 0 0
+/%E5%AE%89%E8%A3%85%E6%96%87%E4%BB%B6.zip 1 0 0
+/%E6%95%B0%E6%8D%AE%E5%BA%93.zip 1 0 0
+/yy.zip 1 0 0
+/pwd.tar.gz 1 0 0
+/bye.rar 1 0 0
+/good.zip 1 0 0
+/jj.tar.gz 1 0 0
+/4.zip 1 0 0
+/au.tar.gz 1 0 0
+/site.rar 1 0 0
+/ccc.tar.gz 1 0 0
+/phpcms.rar 1 0 0
+/5.5.rar 1 0 0
+/com.rar 1 0 0
+/proditelsas.zip 1 0 0
+/server.zip 1 0 0
+/%E5%AE%8C%E6%95%B4.zip 1 0 0
+/erptar.gz 1 0 0
+/password.zip 1 0 0
+/extend.rar 1 0 0
+/cccc.zip 1 0 0
+/crm5.zip 1 0 0
+/news.tar.gz 1 0 0
+/dnf.zip 1 0 0
+/4.tar.gz 1 0 0
+/ddd.zip 1 0 0
+/kf.rar 1 0 0
+/xxx.rar 1 0 0
+/v.zip 1 0 0
+/dede.rar 1 0 0
+/http.tar.gz 1 0 0
+/%E6%A8%A1%E6%9D%BF.rar 1 0 0
+/m.tar.gz 1 0 0
+/aa.tar.gz 1 0 0
+/pass.tar.gz 1 0 0
+/cpanelproditelsascom.zip 1 0 0
+/li.zip 1 0 0
+/111.rar 1 0 0
+/sb.tar.gz 1 0 0
+/wwww.tar.gz 1 0 0
+/66.tar.gz 1 0 0
+/web.rar 1 0 0
+/222.tar.gz 1 0 0
+/material.tar.gz 1 0 0
+/err_log.zip 1 0 0
+/12.rar 1 0 0
+/123.zip 1 0 0
+/5.6.tar.gz 1 0 0
+/include.rar 1 0 0
+/v.tar.gz 1 0 0
+/cc.zip 1 0 0
+/aaa.zip 1 0 0
+/27.zip 1 0 0
+/%E5%95%86%E5%9F%8E.zip 1 0 0
+/backupdata.tar.gz 1 0 0
+/m.zip 1 0 0
+/beian.rar 1 0 0
+/6.rar 1 0 0
+/pass.zip 1 0 0
+/fourm.tar.gz 1 0 0
+/55.tar.gz 1 0 0
+/31.tar.gz 1 0 0
+/wwww.zip 1 0 0
+/vip.zip 1 0 0
+/old.zip 1 0 0
+/http.zip 1 0 0
+/dd.zip 1 0 0
+/bak.rar 1 0 0
+/file.rar 1 0 0
+/f.tar.gz 1 0 0
+/2.zip 1 0 0
+/dev.rar 1 0 0
+/upload.zip 1 0 0
+/cq.zip 1 0 0
+/030.zip 1 0 0
+/321.zip 1 0 0
+/2.tar.gz 1 0 0
+/f.zip 1 0 0
+/%E5%A4%87%E4%BB%BD.zip 1 0 0
+/bbb.zip 1 0 0
+/%E6%9C%80%E6%96%B0.tar.gz 1 0 0
+/hdocs.zip 1 0 0
+/servertar.gz 1 0 0
+/100.tar.gz 1 0 0
+/ee.tar.gz 1 0 0
+/kk.zip 1 0 0
+/package.tar.gz 1 0 0
+/admin.zip 1 0 0
+/upfile.rar 1 0 0
+/eee.tar.gz 1 0 0
+/y.rar 1 0 0
+/sql.tar.gz 1 0 0
+/r.rar 1 0 0
+/good.tar.gz 1 0 0
+/files.zip 1 0 0
+/012.rar 1 0 0
+/hf.rar 1 0 0
+/cccc.tar.gz 1 0 0
+/email.tar.gz 1 0 0
+/err_log.rar 1 0 0
+/error.zip 1 0 0
+/cache.tar.gz 1 0 0
+/crm5.tar.gz 1 0 0
+/25.rar 1 0 0
+/news.zip 1 0 0
+/234.tar.gz 1 0 0
+/19.rar 1 0 0
+/sss.zip 1 0 0
+/include.zip 1 0 0
+/public.bf.tar.gz 1 0 0
+/23.tar.gz 1 0 0
+/c.rar 1 0 0
+/%E6%96%B0%E7%89%88%E6%9C%AC.zip 1 0 0
+/oo.rar 1 0 0
+/config.rar 1 0 0
+/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9%20(3).zip 1 0 0
+/mail.tar.gz 1 0 0
+/1234.tar.gz 1 0 0
+/scm.zip 1 0 0
+/2.rar 1 0 0
+/21.zip 1 0 0
+/shi.tar.gz 1 0 0
+/2022.tar.gz 1 0 0
+/data.zip 1 0 0
+/521.tar.gz 1 0 0
+/download.zip 1 0 0
+/ssss.tar.gz 1 0 0
+/6.zip 1 0 0
+/userlist.tar.gz 1 0 0
+/index.rar 1 0 0
+/logo.rar 1 0 0
+/%E6%B3%A8%E5%86%8C%E6%9C%BA.zip 1 0 0
+/6.tar.gz 1 0 0
+/f.rar 1 0 0
+/%E6%9B%B4%E6%96%B0.zip 1 0 0
+/jb.tar.gz 1 0 0
+/root.rar 1 0 0
+/vv.tar.gz 1 0 0
+/ss.rar 1 0 0
+/09.tar.gz 1 0 0
+/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%A4%87%E4%BB%BD.tar.gz 1 0 0
+/dz.zip 1 0 0
+/y.zip 1 0 0
+/2019.zip 1 0 0
+/bat.tar.gz 1 0 0
+/r.zip 1 0 0
+/phpcms.tar.gz 1 0 0
+/da.rar 1 0 0
+/%E7%AB%99%E7%82%B9.rar 1 0 0
+/%E6%9C%8D%E5%8A%A1%E5%99%A8.zip 1 0 0
+/c.tar.gz 1 0 0
+/24.zip 1 0 0
+/extend.tar.gz 1 0 0
+/20.zip 1 0 0
+/db.zip 1 0 0
+/sj.tar.gz 1 0 0
+/ffff.tar.gz 1 0 0
+/%E5%B7%A5%E5%85%B7.tar.gz 1 0 0
+/temp.rar 1 0 0
+/c.zip 1 0 0
+/shuju.rar 1 0 0
+/if.tar.gz 1 0 0
+/net.rar 1 0 0
+/r.tar.gz 1 0 0
+/webroot.zip 1 0 0
+/html.tar.gz 1 0 0
+/33.zip 1 0 0
+/dy.rar 1 0 0
+/y.tar.gz 1 0 0
+/copy.tar.gz 1 0 0
+/%E7%BD%91%E7%AB%99%E5%A4%87%E4%BB%BD.rar 1 0 0
+/22.tar.gz 1 0 0
+/cq.rar 1 0 0
+/x.tar.gz 1 0 0
+/%E6%95%B4%E7%AB%99.zip 1 0 0
+/php.rar 1 0 0
+/update.zip 1 0 0
+/o.zip 1 0 0
+/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3.tar.gz 1 0 0
+/i.zip 1 0 0
+/sss.tar.gz 1 0 0
+/%E6%95%B0%E6%8D%AE%E5%BA%93.rar 1 0 0
+/%E6%95%B0%E6%8D%AE.zip 1 0 0
+/234.zip 1 0 0
+/t.rar 1 0 0
+/o.tar.gz 1 0 0
+/77.tar.gz 1 0 0
+/i.tar.gz 1 0 0
+/master.zip 1 0 0
+/eee.zip 1 0 0
+/sql.zip 1 0 0
+/100.zip 1 0 0
+/uu.tar.gz 1 0 0
+/dedecms.rar 1 0 0
+/dd.rar 1 0 0
+/ftp1.zip 1 0 0
+/pic.rar 1 0 0
+/password.rar 1 0 0
+/x.zip 1 0 0
+/19.zip 1 0 0
+/media.zip 1 0 0
+/runtime.tar.gz 1 0 0
+/bbb.tar.gz 1 0 0
+/%E7%BD%91%E7%AB%99.tar.gz 1 0 0
+/25.zip 1 0 0
+/hf.zip 1 0 0
+/88.tar.gz 1 0 0
+/vendor.zip 1 0 0
+/030.tar.gz 1 0 0
+/oo.zip 1 0 0
+/zip.rar 1 0 0
+/han.rar 1 0 0
+/p.rar 1 0 0
+/system.zip 1 0 0
+/321.tar.gz 1 0 0
+/nn.tar.gz 1 0 0
+/kk.rar 1 0 0
+/bf.tar.gz 1 0 0
+/Release.rar 1 0 0
+/databak.tar.gz 1 0 0
+/1314.tar.gz 1 0 0
+/tt.tar.gz 1 0 0
+/old.tar.gz 1 0 0
+/vip.tar.gz 1 0 0
+/t.tar.gz 1 0 0
+/i.rar 1 0 0
+/o.rar 1 0 0
+/databackup.zip 1 0 0
+/18.tar.gz 1 0 0
+/123456.rar 1 0 0
+/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9.rar 1 0 0
+/cpanel.proditelsas.com.tar.gz 1 0 0
+/21.rar 1 0 0
+/x.rar 1 0 0
+/template.rar 1 0 0
+/install.rar 1 0 0
+/%E5%BC%95%E6%93%8E.zip 1 0 0
+/mssql.rar 1 0 0
+/app.rar 1 0 0
+/bat.zip 1 0 0
+/t.zip 1 0 0
+/database.zip 1 0 0
+/%E7%BD%91%E7%AB%99.rar 1 0 0
+/p.zip 1 0 0
+/ii.tar.gz 1 0 0
+/db.rar 1 0 0
+/abcd.zip 1 0 0
+/ll.tar.gz 1 0 0
+/application.rar 1 0 0
+/20.rar 1 0 0
+/ff.tar.gz 1 0 0
+/33.rar 1 0 0
+/%E6%9C%8D%E5%8A%A1%E5%99%A8.rar 1 0 0
+/dy.zip 1 0 0
+/xx.tar.gz 1 0 0
+/core.rar 1 0 0
+/12345.zip 1 0 0
+/user.tar.gz 1 0 0
+/webbak.zip 1 0 0
+/dz.rar 1 0 0
+/521.zip 1 0 0
+/rrrr.tar.gz 1 0 0
+/mysql.zip 1 0 0
+/about.zip 1 0 0
+/ss.zip 1 0 0
+/%E5%AE%8C%E6%95%B4.tar.gz 1 0 0
+/scm.tar.gz 1 0 0
+/backup.rar 1 0 0
+/p.tar.gz 1 0 0
+/hj.tar.gz 1 0 0
+/24.rar 1 0 0
+/shi.zip 1 0 0
+/host.tar.gz 1 0 0
+/zz.tar.gz 1 0 0
+/da.zip 1 0 0
+/weblog.zip 1 0 0
+/d.rar 1 0 0
+/user.zip 1 0 0
+/%E6%95%B4%E7%AB%99.tar.gz 1 0 0
+/%E6%9C%8D%E5%8A%A1%E5%99%A8.tar.gz 1 0 0
+/bbs.tar.gz 1 0 0
+/%E6%9B%B4%E6%96%B0.tar.gz 1 0 0
+/shop.rar 1 0 0
+/abcd.tar.gz 1 0 0
+/databackup.rar 1 0 0
+/download.rar 1 0 0
+/cpanel.proditelsas.com.zip 1 0 0
+/test.rar 1 0 0
+/media.tar.gz 1 0 0
+/114.zip 1 0 0
+/host.zip 1 0 0
+/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9%20(2).rar 1 0 0
+/install.zip 1 0 0
+/rrrr.zip 1 0 0
+/www.zip 1 0 0
+/hh.tar.gz 1 0 0
+/mm.rar 1 0 0
+/99.zip 1 0 0
+/0.zip 1 0 0
+/%E7%BD%91%E7%AB%99%E5%A4%87%E4%BB%BD.tar.gz 1 0 0
+/28.zip 1 0 0
+/123123.zip 1 0 0
+/shu.tar.gz 1 0 0
+/banben.zip 1 0 0
+/0.tar.gz 1 0 0
+/44.rar 1 0 0
+/proditelsas.tar.gz 1 0 0
+/119.zip 1 0 0
+/oa.zip 1 0 0
+/users.rar 1 0 0
+/aft.tar.gz 1 0 0
+/v1.rar 1 0 0
+/rar.zip 1 0 0
+/aaa.tar.gz 1 0 0
+/about.tar.gz 1 0 0
+/mysql.tar.gz 1 0 0
+/29.tar.gz 1 0 0
+/%E5%AE%89%E8%A3%85%E6%96%87%E4%BB%B6.rar 1 0 0
+/123.tar.gz 1 0 0
+/d.zip 1 0 0
+/5.6.zip 1 0 0
+/backup.tar.gz 1 0 0
+/1314.zip 1 0 0
+/222.zip 1 0 0
+/d.tar.gz 1 0 0
+/yy.rar 1 0 0
+/%E6%9C%80%E6%96%B0.zip 1 0 0
+/ddd.tar.gz 1 0 0
+/dedecms.zip 1 0 0
+/databasebak.zip 1 0 0
+/12345.tar.gz 1 0 0
+/rr.tar.gz 1 0 0
+/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%96%87%E4%BB%B6.zip 1 0 0
+/12.zip 1 0 0
+/bin.rar 1 0 0
+/dnf.tar.gz 1 0 0
+/0.rar 1 0 0
+/copy.zip 1 0 0
+/27.rar 1 0 0
+/%E7%BD%91%E7%AB%99%E5%A4%87%E4%BB%BD.zip 1 0 0
+/cc.rar 1 0 0
+/cpanel.proditelsas.com.rar 1 0 0
+/m2.tar.gz 1 0 0
+/2021.rar 1 0 0
+/%E5%AE%A2%E6%88%B7%E7%AB%AF.rar 1 0 0
+/ccc.zip 1 0 0
+/ftp1.tar.gz 1 0 0
+/kf.zip 1 0 0
+/Release.zip 1 0 0
+/123456.tar.gz 1 0 0
+/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9%20(3).tar.gz 1 0 0
+/pwd.zip 1 0 0
+/qq.tar.gz 1 0 0
+/ww.tar.gz 1 0 0
+/%E6%BA%90%E7%A0%81.zip 1 0 0
+/back.rar 1 0 0
+/li.rar 1 0 0
+/%E5%85%AD%E5%90%88.rar 1 0 0
+/upload.tar.gz 1 0 0
+/databackup.tar.gz 1 0 0
+/2022.rar 1 0 0
+/proditelsascom.tar.gz 1 0 0
+/beian.tar.gz 1 0 0
+/1234.rar 1 0 0
+/%E6%A8%A1%E6%9D%BF.tar.gz 1 0 0
+/mail.rar 1 0 0
+/fourm.rar 1 0 0
+/1111.zip 1 0 0
+/cq.tar.gz 1 0 0
+/ssss.rar 1 0 0
+/php.zip 1 0 0
+/a.rar 1 0 0
+/cpanel.rar 1 0 0
+/web1.zip 1 0 0
+/h.rar 1 0 0
+/234.rar 1 0 0
+/22.rar 1 0 0
+/wwwroot.zip 1 0 0
+/proditelsascom.rar 1 0 0
+/eee.rar 1 0 0
+/logo.tar.gz 1 0 0
+/sql.rar 1 0 0
+/dd.tar.gz 1 0 0
+/uu.rar 1 0 0
+/012.tar.gz 1 0 0
+/31.zip 1 0 0
+/application.tar.gz 1 0 0
+/datad.zip 1 0 0
+/55.zip 1 0 0
+/100.rar 1 0 0
+/root.tar.gz 1 0 0
+/77.rar 1 0 0
+/pic.zip 1 0 0
+/3.rar 1 0 0
+/23.zip 1 0 0
+/htdocs.rar 1 0 0
+/zip.zip 1 0 0
+/han.zip 1 0 0
+/88.rar 1 0 0
+/temp.tar.gz 1 0 0
+/%E6%95%B4%E7%AB%99.rar 1 0 0
+/bak.tar.gz 1 0 0
+/email.rar 1 0 0
+/9.rar 1 0 0
+/tt.rar 1 0 0
+/ffff.rar 1 0 0
+/dev.tar.gz 1 0 0
+/cache.rar 1 0 0
+/html.rar 1 0 0
+/%E6%95%B0%E6%8D%AE.rar 1 0 0
+/sqldata.zip 1 0 0
+/ee.zip 1 0 0
+/beifen.rar 1 0 0
+/nn.rar 1 0 0
+/%E6%BA%90%E7%A0%81.tar.gz 1 0 0
+/kk.tar.gz 1 0 0
+/bf.rar 1 0 0
+/h.zip 1 0 0
+/jb.zip 1 0 0
+/a.zip 1 0 0
+/net.tar.gz 1 0 0
+/18.rar 1 0 0
+/3.tar.gz 1 0 0
+/err_log.tar.gz 1 0 0
+/index.tar.gz 1 0 0
+/dede.zip 1 0 0
+/file.tar.gz 1 0 0
+/3.zip 1 0 0
+/%E7%BD%91%E7%AB%99.zip 1 0 0
+/app.zip 1 0 0
+/userlist.zip 1 0 0
+/a.tar.gz 1 0 0
+/h.tar.gz 1 0 0
+/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%96%87%E4%BB%B6.rar 1 0 0
+/package.rar 1 0 0
+/bat.rar 1 0 0
+/download.tar.gz 1 0 0
+/21.tar.gz 1 0 0
+/9.tar.gz 1 0 0
+/%E5%BC%95%E6%93%8E.rar 1 0 0
+/atencion.pdf 1 0 189201
+/xx.rar 1 0 0
+/%E6%B3%A8%E5%86%8C%E6%9C%BA.rar 1 0 0
+/33.tar.gz 1 0 0
+/ff.rar 1 0 0
+/site.zip 1 0 0
+/ll.rar 1 0 0
+/%E6%95%B0%E6%8D%AE%E5%A4%87%E4%BB%BD.zip 1 0 0
+/good.rar 1 0 0
+/sj.zip 1 0 0
+/%E6%9C%8D%E5%8A%A1%E7%AB%AF.rar 1 0 0
+/Decreto%201524%20de%202002.pdf 1 0 300904
+/db.tar.gz 1 0 0
+/20.tar.gz 1 0 0
+/if.zip 1 0 0
+/ii.rar 1 0 0
+/521.rar 1 0 0
+/shuju.tar.gz 1 0 0
+/server.rar 1 0 0
+/zz.rar 1 0 0
+/cccc.rar 1 0 0
+/%E5%A4%87%E4%BB%BD.tar.gz 1 0 0
+/24.tar.gz 1 0 0
+/%E7%AB%99%E7%82%B9.tar.gz 1 0 0
+/crm5.rar 1 0 0
+/hj.rar 1 0 0
+/phpcms.zip 1 0 0
+/09.zip 1 0 0
+/9.zip 1 0 0
+/vv.zip 1 0 0
+/shi.rar 1 0 0
+/extend.zip 1 0 0
+/dz.tar.gz 1 0 0
+/z.rar 1 0 0
+/l.tar.gz 1 0 0
+/template.tar.gz 1 0 0
+/error.rar 1 0 0
+/8.tar.gz 1 0 0
+/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3.zip 1 0 0
+/k.tar.gz 1 0 0
+/beifen.tar.gz 1 0 0
+/520.tar.gz 1 0 0
+/site.tar.gz 1 0 0
+/upfile.zip 1 0 0
+/include.tar.gz 1 0 0
+/admin.rar 1 0 0
+/14.zip 1 0 0
+/k.zip 1 0 0
+/htdocs.tar.gz 1 0 0
+/%E6%B3%A8%E5%86%8C%E6%9C%BA.tar.gz 1 0 0
+/2023tar.gz 1 0 0
+/114.rar 1 0 0
+/hdocs.rar 1 0 0
+/l.zip 1 0 0
+/news.rar 1 0 0
+/config.zip 1 0 0
+/files.rar 1 0 0
+/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3.rar 1 0 0
+/8.zip 1 0 0
+/package.zip 1 0 0
+/www.rar 1 0 0
+/proditelsas.com.zip 1 0 0
+/file.zip 1 0 0
+/http.rar 1 0 0
+/dede.tar.gz 1 0 0
+/wwww.rar 1 0 0
+/datad.tar.gz 1 0 0
+/hh.rar 1 0 0
+/mm.tar.gz 1 0 0
+/public.bf.zip 1 0 0
+/pass.rar 1 0 0
+/mdbtar.gz 1 0 0
+/v1.tar.gz 1 0 0
+/26.zip 1 0 0
+/119.rar 1 0 0
+/upload.rar 1 0 0
+/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9%20(3).rar 1 0 0
+/beian.zip 1 0 0
+/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%A4%87%E4%BB%BD.zip 1 0 0
+/11.zip 1 0 0
+/cpanel.tar.gz 1 0 0
+/rar.rar 1 0 0
+/44.tar.gz 1 0 0
+/1.rar 1 0 0
+/shuju.zip 1 0 0
+/%E6%96%B0%E7%89%88%E6%9C%AC.rar 1 0 0
+/server.tar.gz 1 0 0
+/webroot.tar.gz 1 0 0
+/2019.rar 1 0 0
+/%E5%85%AD%E5%90%88.zip 1 0 0
+/proditelsas.rar 1 0 0
+/%E6%BA%90%E7%A0%81.rar 1 0 0
+/29.rar 1 0 0
+/%E6%95%B0%E6%8D%AE%E5%A4%87%E4%BB%BD.rar 1 0 0
+/password.tar.gz 1 0 0
+/z.zip 1 0 0
+/5.6.rar 1 0 0
+/wwwroot.rar 1 0 0
+/8.rar 1 0 0
+/111.tar.gz 1 0 0
+/l.rar 1 0 0
+/z.tar.gz 1 0 0
+/222.rar 1 0 0
+/web.tar.gz 1 0 0
+/temp.zip 1 0 0
+/xxx.tar.gz 1 0 0
+/yy.tar.gz 1 0 0
+/au.zip 1 0 0
+/k.rar 1 0 0
+/jj.zip 1 0 0
+/%E5%AE%89%E8%A3%85%E6%96%87%E4%BB%B6.tar.gz 1 0 0
+/1111.tar.gz 1 0 0
+/cc.tar.gz 1 0 0
+/%E6%9C%80%E6%96%B0.rar 1 0 0
+/web1.tar.gz 1 0 0
+/bin.zip 1 0 0
+/data.rar 1 0 0
+/27.tar.gz 1 0 0
+/1.tar.gz 1 0 0
+/5.5.tar.gz 1 0 0
+/com.tar.gz 1 0 0
+/rr.rar 1 0 0
+/li.tar.gz 1 0 0
+/root.zip 1 0 0
+/aa.zip 1 0 0
+/1.zip 1 0 0
+/66.zip 1 0 0
+/ccc.rar 1 0 0
+/ww.rar 1 0 0
+/qq.rar 1 0 0
+/sb.zip 1 0 0
+/logo.zip 1 0 0
+/sqldata.rar 1 0 0
+/index.zip 1 0 0
+/pwd.rar 1 0 0
+/bye.tar.gz 1 0 0
+/material.zip 1 0 0
+/m2.rar 1 0 0
+/databak.zip 1 0 0
+/aft.rar 1 0 0
+/q.zip 1 0 0
+/14.rar 1 0 0
+/u.tar.gz 1 0 0
+/shu.rar 1 0 0
+/w.tar.gz 1 0 0
+/system.rar 1 0 0
+/%E7%89%88%E6%9C%AC.rar 1 0 0
+/vendor.rar 1 0 0
+/w.zip 1 0 0
+/media.rar 1 0 0
+/runtime.zip 1 0 0
+/%E6%95%B0%E6%8D%AE%E5%A4%87%E4%BB%BD.tar.gz 1 0 0
+/userlist.rar 1 0 0
+/u.zip 1 0 0
+/q.tar.gz 1 0 0
+/banben.tar.gz 1 0 0
+/26.rar 1 0 0
+/oa.tar.gz 1 0 0
+/e.zip 1 0 0
+/update.rar 1 0 0
+/11.rar 1 0 0
+/ftp1.rar 1 0 0
+/j.rar 1 0 0
+/bbs.rar 1 0 0
+/99.tar.gz 1 0 0
+/2021.tar.gz 1 0 0
+/28.tar.gz 1 0 0
+/7.rar 1 0 0
+/master.rar 1 0 0
+/520.zip 1 0 0
+/e.tar.gz 1 0 0
+/%E5%B7%A5%E5%85%B7.zip 1 0 0
+/backupdata.zip 1 0 0
+/back.tar.gz 1 0 0
+/users.tar.gz 1 0 0
+/123123.tar.gz 1 0 0
+/hh.zip 1 0 0
+/bye.zip 1 0 0
+/core.zip 1 0 0
+/about.rar 1 0 0
+/mysql.rar 1 0 0
+/databasebak.rar 1 0 0
+/webbak.rar 1 0 0
+/q.rar 1 0 0
+/jj.rar 1 0 0
+/abcd.rar 1 0 0
+/shop.tar.gz 1 0 0
+/au.rar 1 0 0
+/%E5%95%86%E5%9F%8E.rar 1 0 0
+/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9.tar.gz 1 0 0
+/u.rar 1 0 0
+/5.5.zip 1 0 0
+/com.zip 1 0 0
+/%E6%A8%A1%E6%9D%BF.zip 1 0 0
+/test.tar.gz 1 0 0
+/weblog.rar 1 0 0
+/12345.rar 1 0 0
+/proditelsascom.zip 1 0 0
+/29.zip 1 0 0
+/backup.zip 1 0 0
+/bin.tar.gz 1 0 0
+/dnf.rar 1 0 0
+/w.rar 1 0 0
+/66.rar 1 0 0
+/ww.zip 1 0 0
+/qq.zip 1 0 0
+/sb.rar 1 0 0
+/e.rar 1 0 0
+/%E5%AE%8C%E6%95%B4.rar 1 0 0
+/ddd.rar 1 0 0
+/xxx.zip 1 0 0
+/%E5%85%AD%E5%90%88.tar.gz 1 0 0
+/7.tar.gz 1 0 0
+/j.tar.gz 1 0 0
+/aa.rar 1 0 0
+/123456.zip 1 0 0
+/111.zip 1 0 0
+/m2.zip 1 0 0
+/kf.tar.gz 1 0 0
+/web.zip 1 0 0
+/mssql.zip 1 0 0
+/proditelsas.com.tar.gz 1 0 0
+/123.rar 1 0 0
+/7.zip 1 0 0
+/rr.zip 1 0 0
+/aaa.rar 1 0 0
+/12.tar.gz 1 0 0
+/j.zip 1 0 0
+/uu.zip 1 0 0
+/n.rar 1 0 0
+/master.tar.gz 1 0 0
+/%E5%BC%95%E6%93%8E.tar.gz 1 0 0
+/%E5%95%86%E5%9F%8E.tar.gz 1 0 0
+/old.rar 1 0 0
+/s.rar 1 0 0
+/vip.rar 1 0 0
+/bak.zip 1 0 0
+/123123.rar 1 0 0
+/%E7%89%88%E6%9C%AC.tar.gz 1 0 0
+/77.zip 1 0 0
+/users.zip 1 0 0
+/dev.zip 1 0 0
+/31.rar 1 0 0
+/55.rar 1 0 0
+/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%96%87%E4%BB%B6.tar.gz 1 0 0
+/030.rar 1 0 0
+/zip.tar.gz 1 0 0
+/han.tar.gz 1 0 0
+/321.rar 1 0 0
+/banben.rar 1 0 0
+/22.zip 1 0 0
+/update.tar.gz 1 0 0
+/%E6%9C%8D%E5%8A%A1%E7%AB%AF.zip 1 0 0
+/bbb.rar 1 0 0
+/tt.zip 1 0 0
+/shop.zip 1 0 0
+/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%A4%87%E4%BB%BD.rar 1 0 0
+/%E5%A4%87%E4%BB%BD.rar 1 0 0
+/pic.tar.gz 1 0 0
+/core.tar.gz 1 0 0
+/bf.zip 1 0 0
+/nn.zip 1 0 0
+/user.rar 1 0 0
+/install.tar.gz 1 0 0
+/012.zip 1 0 0
+/ee.rar 1 0 0
+/php.tar.gz 1 0 0
+/oo.tar.gz 1 0 0
+/rrrr.rar 1 0 0
+/23.rar 1 0 0
+/sss.rar 1 0 0
+/host.rar 1 0 0
+/vendor.tar.gz 1 0 0
+/25.tar.gz 1 0 0
+/%E5%AE%A2%E6%88%B7%E7%AB%AF.zip 1 0 0
+/19.tar.gz 1 0 0
+/test.zip 1 0 0
+/88.zip 1 0 0
+/system.tar.gz 1 0 0
+/%E6%95%B0%E6%8D%AE%E5%BA%93.tar.gz 1 0 0
+/hf.tar.gz 1 0 0
+/g.rar 1 0 0
+/material.rar 1 0 0
+/%E6%95%B0%E6%8D%AE.tar.gz 1 0 0
+/scm.rar 1 0 0
+/databak.rar 1 0 0
+/public.bf.rar 1 0 0
+/copy.rar 1 0 0
+/s.zip 1 0 0
+/database.tar.gz 1 0 0
+/n.zip 1 0 0
+/Release.tar.gz 1 0 0
+/%E5%AE%A2%E6%88%B7%E7%AB%AF.tar.gz 1 0 0
+/18.zip 1 0 0
+/back.zip 1 0 0
+/s.tar.gz 1 0 0
+/jb.rar 1 0 0
+/n.tar.gz 1 0 0
+/runtime.rar 1 0 0
+/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9.zip 1 0 0
+/%E7%AB%99%E7%82%B9.zip 1 0 0
+/2021.zip 1 0 0
+/mssql.tar.gz 1 0 0
+/hj.zip 1 0 0
+/app.tar.gz 1 0 0
+/dedecms.tar.gz 1 0 0
+/da.tar.gz 1 0 0
+/zz.zip 1 0 0
+/g.tar.gz 1 0 0
+/ss.tar.gz 1 0 0
+/vv.rar 1 0 0
+/%E6%9B%B4%E6%96%B0.rar 1 0 0
+/weblog.tar.gz 1 0 0
+/09.rar 1 0 0
+/g.zip 1 0 0
+/dy.tar.gz 1 0 0
+/backupdata.rar 1 0 0
+/ff.zip 1 0 0
+/%E6%96%B0%E7%89%88%E6%9C%AC.tar.gz 1 0 0
+/xx.zip 1 0 0
+/net.zip 1 0 0
+/ii.zip 1 0 0
+/if.rar 1 0 0
+/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9%20(2).zip 1 0 0
+/ll.zip 1 0 0
+/1314.rar 1 0 0
+/sj.rar 1 0 0
+/webbak.tar.gz 1 0 0
+/application.zip 1 0 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+android10 37 4
+linux 5 5
+android 3 3
+macosx15 13 13
+Unknown 1013 53
+win7 1 1
+androidnougat 11 3
+androidmarshmallow 1 1
+win10 134 49
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 29
+chrome129.0.0.0 3 3
+chrome132.0.0.0 30 2
+chrome110.0.0.0 2 2
+chrome91.0.4472.124 1 1
+netscape5.0 2 2
+chrome116.0.0.0 1 1
+firefox52.0 1 1
+chrome121.0.0.0 6 6
+Unknown 980 22
+chrome105.0.0.0 5 5
+chrome79.0.3945.130 4 4
+lynx 1 1
+chrome101.0.4951.54 1 1
+edge17 1 1
+chrome100.0.4896.75 4 4
+chrome130.0.0.0 10 10
+chrome83.0.4103.97 3 3
+chrome59.0.3071.125 11 3
+firefox133.0 1 1
+chrome107.0.0.0 1 1
+mozilla 32 30
+chrome69.0.3497.81 2 2
+chrome55.0.2883.87 1 1
+firefox123.0 1 1
+chrome74.0.3729.169 1 1
+chrome66.0.3359.117 1 1
+chrome124.0.0.0 12 12
+chrome131.0.0.0 99 9
+chrome79.0.3945.79 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible) 20250131074223
+python-requests/2.31.0 20250111115203
+Lynx/2.8.5rel.1_libwww-FM/2.14_SSL-MM/1.4.1_GNUTLS/0.8.12 20250107165957
+panscient.com 20250101144716
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250128214643
+python-requests/2.32.3 20250110195830
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+python-requests/2.31.0 20250111115203
+python-requests/2.32.3 20250110195830
+panscient.com 20250101144716
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 120 1080
+From1 0 0
+From2 2 2
+From3 3 3
+From4 7 133
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://chatgpt.com 2 2
+http://cpanel.proditelsas.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+301 4 976
+401 7 347
+422 3 8331
+302 2 2
+404 350 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 31
+/_profiler/phpinfo 1 -
+/sitemaps.xml 6 -
+/sitemap.txt 4 -
+/robots.txt 262 -
+/wp-content/plugins/pwnd/pwnd.php 1 www.google.com
+/jquery-1.11.3.min.js 4 -
+/xmlrpc.php 1 -
+/file.php 1 www.google.com
+/ 8 -
+/sitemap_index.xml 6 -
+/phpinfo.php 1 -
+/CHANGELOG.txt 1 -
+/sitemap.xml.gz 2 -
+/ads.txt 7 -
+/navbar.js 4 -
+/jquery.mousewheel.js 4 -
+/_fragment 1 -
+/style.php 4 www.google.com
+/s3cmd.ini 1 -
+//kit.fontawesome.com/be342632af.js 4 -
+/.aws/credentials 1 -
+/wp-content/plugins/include.php 2 www.google.com
+/jquery.easing.1.3.js 4 -
+/https://thontrius.space/ 1 -
+/wp-add.php 2 www.google.com
+/.git/config 3 -
+/misc/ajax.js 1 -
+/wp-content/themes/include.php 6 www.google.com
+/sitemap.xml 4 -
+/.env 2 -
+/administrator 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 99
+84.239.43.179 13 13 48519 20250101144716
+62.234.72.23 8 966 0 20250111114857
+138.124.90.50 3 3 38673 20250102165619
+194.26.192.251 3 3 38673 20250117130544
+190.27.36.219 3 32 9130669 20250121070701
+181.119.64.134 3 22 6858264 20250104190528
+165.232.59.48 2 2 5493 20250123102239
+77.74.177.114 2 2 8528 20250120220639
+181.53.13.48 2 30 4560198 20250130135436
+66.249.83.133 2 5 12294 20250104190528
+138.68.22.173 2 2 4704 20250123101504
+54.88.179.33 2 2 7832 20250119025539
+35.171.144.152 2 2 7832 20250119025538
+52.33.109.154 1 1 4264 20250122054539
+46.101.73.205 1 1 4876 20250123063446
+45.148.10.90 1 1 4264 20250124205153
+157.230.154.126 1 1 2606 20250123102543
+64.227.83.101 1 1 3934 20250123101236
+104.248.30.90 1 1 4264 20250109053500
+186.117.250.79 1 15 2280099 20250121063042
+138.197.129.220 1 1 2926 20250123221851
+35.233.67.221 1 1 4264 20250103112610
+165.232.152.71 1 1 4264 20250123103814
+138.197.145.130 1 1 4264 20250119052237
+64.227.183.76 1 1 4264 20250131074223
+192.104.34.34 1 1 17038 20250107151726
+159.223.236.129 1 1 4264 20250112073737
+46.4.61.110 1 1 3916 20250103180559
+182.131.0.15 1 1 4264 20250111182643
+157.245.32.9 1 1 4264 20250112035954
+66.249.83.131 0 2 32842 
+209.38.219.118 1 1 4264 20250111061522
+195.178.110.163 1 1 4264 20250123112439
+165.22.118.76 1 1 4264 20250127063030
+134.122.101.225 1 1 4264 20250117055742
+5.133.192.105 1 1 4264 20250109135302
+5.133.192.87 1 1 4264 20250122073122
+104.248.21.135 1 2 24591 20250128020834
+185.247.137.109 1 1 4264 20250126052848
+138.68.227.146 1 1 2216 20250123100848
+144.126.202.220 1 1 2857 20250123195917
+165.232.153.166 1 1 4264 20250123023043
+142.93.148.152 1 1 4264 20250129053245
+159.89.43.152 1 1 4264 20250102031840
+206.81.16.54 1 1 4264 20250110195830
+190.242.37.34 1 15 2280099 20250122093302
+34.220.168.53 1 1 4264 20250130060222
+156.255.19.18 1 1 4264 20250106073243
+157.230.159.117 1 1 2560 20250123101449
+188.166.173.115 1 1 4264 20250123060235
+209.38.99.207 1 1 4264 20250123042144
+5.133.192.167 1 1 4264 20250115223814
+138.68.20.11 1 1 4534 20250123100520
+138.197.164.3 1 1 4264 20250107060945
+165.232.154.181 1 1 2494 20250124163757
+195.140.176.177 1 1 17038 20250107072731
+34.221.189.237 1 1 4264 20250130060213
+125.82.242.152 1 1 4264 20250111171024
+64.227.113.97 1 1 4243 20250124224740
+137.184.232.105 1 1 3072 20250123071426
+218.104.149.98 1 1 4264 20250105234036
+147.182.146.34 1 2 24591 20250114091101
+167.71.107.19 1 1 4264 20250115073925
+185.247.137.141 1 1 12294 20250128112235
+35.205.7.80 1 1 4264 20250103112752
+139.59.87.70 1 1 4264 20250129225913
+159.89.129.92 1 1 4017 20250123102051
+64.23.205.237 1 1 4264 20250103064239
+66.249.83.134 1 4 7251 20250104190528
+138.68.168.175 1 1 4328 20250124004141
+54.255.243.97 1 1 4264 20250107165957
+164.92.210.242 1 1 4264 20250101063307
+137.184.108.139 1 1 4264 20250113064858
+37.27.6.118 1 1 4264 20250126055119
+123.160.233.118 1 1 4264 20250105234042
+138.68.19.159 1 1 3916 20250123103223
+179.1.122.34 1 15 2280099 20250114142822
+130.211.75.170 1 1 4264 20250103112753
+185.226.197.14 1 1 4264 20250119082149
+164.90.199.160 1 1 4264 20250115212016
+134.122.102.151 1 1 4264 20250121073511
+138.68.19.108 1 1 3916 20250123101815
+159.223.215.187 1 1 4264 20250105055546
+138.197.6.1 1 1 3062 20250125060947
+171.116.46.100 1 1 4264 20250104043335
+42.83.147.54 1 1 4264 20250112223323
+87.236.176.200 1 1 12294 20250128214643
+213.136.71.30 1 1 3916 20250101111622
+134.122.17.227 1 1 4264 20250125051203
+188.166.114.24 1 1 4264 20250125180428
+34.22.217.113 1 1 4264 20250103112611
+185.247.137.170 1 1 4264 20250106001511
+64.225.42.143 1 1 3916 20250123100544
+5.133.192.88 1 1 4264 20250103054415
+93.158.91.31 1 1 4264 20250128172318
+185.247.137.194 1 1 4264 20250120173341
+165.232.76.159 1 1 4264 20250126050448
+124.236.100.56 1 1 4264 20250109023515
+174.138.89.199 1 1 3653 20250124150056
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20250101 15 15 56699 3
+20250102 4 4 42937 2
+20250103 7 7 29500 7
+20250104 7 34 6914915 4
+20250105 3 3 12792 3
+20250106 3 3 12792 3
+20250107 4 4 42604 4
+20250108 2 2 7832 2
+20250109 3 3 12792 3
+20250110 1 1 4264 1
+20250111 11 969 12792 4
+20250112 3 3 12792 3
+20250113 1 1 4264 1
+20250114 2 17 2304690 2
+20250115 3 3 12792 3
+20250116 1 15 2280099 1
+20250117 4 4 42937 2
+20250119 4 4 16360 4
+20250120 2 2 8528 2
+20250121 5 48 11415032 3
+20250122 3 17 2288627 3
+20250123 22 22 76863 20
+20250124 5 5 18982 5
+20250125 3 3 11590 3
+20250126 3 3 12792 3
+20250127 1 1 4264 1
+20250128 4 5 53443 4
+20250129 2 2 8528 2
+20250130 3 17 2288627 3
+20250131 1 1 4264 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 98
+2mn-5mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 20
+/ 81 423032 80 76
+/index.php 7 28108 4 4
+/residenciales.php 6 17418 2 3
+/contactenos.php 5 32641 1 2
+/factores.php 4 14315 2 1
+/medidor.php 4 11131 2 2
+/informacion_crc.php 4 24232 2 4
+/caracteristicas.php 4 17001 2 2
+/control.php 3 12420 2 2
+/procedimientos.php 3 14286 2 2
+/corporativo.php 2 5532 2 2
+/erprar 1 0 0 0
+/mdbzip 1 0 0 0
+/serverzip 1 0 0 1
+/2023rar 1 0 0 0
+/2023zip 1 0 0 0
+/pqr/upload/ 1 1348 0 1
+/serverrar 1 0 0 0
+/mdbrar 1 0 1 0
+/erpzip 1 0 0 0
+END_SIDER

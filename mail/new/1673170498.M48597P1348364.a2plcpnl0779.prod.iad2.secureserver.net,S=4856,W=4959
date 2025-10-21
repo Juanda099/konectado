@@ -1,0 +1,103 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id eFbyL0GOumMMkxQAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sun, 08 Jan 2023 02:34:57 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sun, 08 Jan 2023 02:34:58 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pES4v-005ias-M8
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sun, 08 Jan 2023 02:34:57 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pES4q-005iYa-Pv@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1673170497-eximdsn-149410162
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pES4v-005ias-M8@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 08 Jan 2023 02:34:57 -0700
+
+--1673170497-eximdsn-149410162
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 ES4vphAhIjpWY :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=KO2cTnJo c=1 sm=1 tr=0 ts=63ba8e41 p=-_5ewXInAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=RvmDmJFTN0MA:10 a=QnTU7AOAsJcA:10 a=Z5QCDrxfeor2wvkKkH8A:9 a=CmRf42UGTfYA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1673170497-eximdsn-149410162
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 ES4vphAhIjpWY :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=KO2cTnJo c=1 sm=1 tr=0 ts=63ba8e41 p=-_5ewXInAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=RvmDmJFTN0MA:10 a=QnTU7AOAsJcA:10 a=Z5QCDrxfeor2wvkKkH8A:9 a=CmRf42UGTfYA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1673170497-eximdsn-149410162
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pES4q-005iYa-Pv
+	for servicioalcliente@serkoi.com;
+	Sun, 08 Jan 2023 02:34:57 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 69.46.64.216
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 69.46.64.216
+From:
+Message-Id: <E1pES4q-005iYa-Pv@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 08 Jan 2023 02:34:52 -0700
+
+De: James Brown. 
+Correo: . 
+Telefono: . 
+Mensaje: 
+Hello there and Happy New Year!
+
+My name is James Brown and I have been working with HR professionals to help businesses understand and take advantage of the employee retention credit.
+
+If you are looking for ways to retain your valuable employees and reduce your tax burden during these challenging times
+
+Our team can help you take advantage of the employee retention credit (ERC).
+
+It is a valuable tax credit that is designed to help businesses retain their employees and continue paying wages during the COVID-19 pandemic.
+
+ The ERC is equal to 50% of the qualified wages that an eligible employer pays to its employees, and the maximum credit for the full year is $26,000 per employee. 
+
+This means that your business can potentially receive a credit of up to $26,000 per employee for qualified wages paid during the year.
+
+If you apply today we'll be able to help you determine if your business is eligible for the ERC and assist you with the process of claiming the credit. 
+
+Don't miss out on this opportunity to get financial relief and retain your valuable employees. 
+
+Please Make Sure You Apply Today Before Midnight.
+
+
+https://snip.ly/ev277m
+
+
+Best Regards,
+
+James Brown. 
+
+
+--1673170497-eximdsn-149410162--

@@ -1,0 +1,63 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id oP9xJRFrcGjFeR8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 10 Jul 2025 18:38:25 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 10 Jul 2025 18:38:25 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1ua2iX-00000008kWW-2JY7
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 10 Jul 2025 18:38:25 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1ua2iM-00000008kUN-3yQ2@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1ua2iX-00000008kWW-2JY7@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 10 Jul 2025 18:38:25 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1ua2iM-00000008kUN-3yQ2
+	for servicioalcliente@serkoi.com;
+	Thu, 10 Jul 2025 18:38:14 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1ua2iM-00000008kUN-3yQ2@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 10 Jul 2025 18:38:14 -0700
+
+De: Jason Keller. 
+Correo: . 
+Telefono: 725-735-8820. 
+Mensaje: Hi there,
+
+I know running a business means unexpected expenses can pop up fast. If you ever need working capital — whether it’s to cover payroll, buy inventory, or seize a growth opportunity — we offer term-based funding with no credit checks or paperwork.
+
+Approvals take 30 seconds, and funds can be available next business day.
+
+Here’s a quick link if you’d like to check eligibility:expresscapitalcorp.com/approval
+
+
+Best,
+
+Jason Keller
+Small Business Funding Specialist
+Express Capital
+
+
+
+Unsubscribe anytime: expresscapitalcorp.com/unsubscribe
+. 
+

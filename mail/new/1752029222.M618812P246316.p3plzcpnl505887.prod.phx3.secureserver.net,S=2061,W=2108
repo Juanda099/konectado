@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id SLiuIybYbWgswgMA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 08 Jul 2025 19:47:02 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 08 Jul 2025 19:47:02 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uZKpq-00000003Ue4-27HP
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 08 Jul 2025 19:47:02 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uZKpe-00000003UR5-3ewU@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uZKpq-00000003Ue4-27HP@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 08 Jul 2025 19:47:02 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uZKpe-00000003UR5-3ewU
+	for servicioalcliente@serkoi.com;
+	Tue, 08 Jul 2025 19:46:50 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uZKpe-00000003UR5-3ewU@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 08 Jul 2025 19:46:50 -0700
+
+De: Lance Diaz. 
+Correo: . 
+Telefono: . 
+Mensaje: Want more targeted traffic to your website? Our AI solution delivers real results. Sign up for a 7-day free trial.
+
+https://cutt.ly/5rT4ctlL. 
+

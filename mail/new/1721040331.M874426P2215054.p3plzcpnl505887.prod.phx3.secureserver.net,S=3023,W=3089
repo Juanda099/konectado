@@ -1,0 +1,66 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id YOLtM8v9lGaOzCEA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 15 Jul 2024 03:45:31 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 15 Jul 2024 03:45:31 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sTJD1-009IUW-2b
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 15 Jul 2024 03:45:31 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sTJCr-009IJf-1v@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sTJD1-009IUW-2b@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 15 Jul 2024 03:45:31 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sTJCr-009IJf-1v
+	for servicioalcliente@serkoi.com;
+	Mon, 15 Jul 2024 03:45:21 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.239.40.233
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.239.40.233
+From:
+Message-Id: <E1sTJCr-009IJf-1v@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 15 Jul 2024 03:45:21 -0700
+
+De: Rebecca Rubino. 
+Correo: . 
+Telefono: 183181010. 
+Mensaje: We are excited to announce a limited-time offer for our valued customers! For a limited time, get a month-long supply of Freedom, Cleanse, Restore (FCR), and receive a second kit for 50% off the regular price.
+
+Use coupon code FCRBG50 at the checkout at https://bit.ly/3W2Y1Np to benefit from this amazing deal.
+
+Act fast, this offer expires on the 20th of this month!
+
+FCR is our premier gut health solution, created to cleanse and restore your digestive system effectively. With a exclusive blend of effective ingredients, FCR helps rid your body of harmful toxins and parasites, fostering a healthy gut environment. This leads to enhanced digestion, boosted energy levels, and general well-being.
+
+Don't miss out on this great opportunity to improve your gut health. Order now and experience the beneficial benefits of FCR!
+
+Best regards, 
+
+PCIWellness
+
+
+
+
+
+Unsubscribe by filling the form: https://bit.ly/pciunsubscribe
+81 Rue De La Mare Aux Carats, Montreuil, CENTRE, US, 93100. 
+

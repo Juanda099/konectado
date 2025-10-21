@@ -1,0 +1,60 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id ILLJNkZzTWe0wDMA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 02 Dec 2024 01:43:50 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 02 Dec 2024 01:43:50 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tI222-00EP0b-2l
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 02 Dec 2024 01:43:50 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tI21u-00EOzo-1g@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1tI222-00EP0b-2l@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 02 Dec 2024 01:43:50 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tI21u-00EOzo-1g
+	for servicioalcliente@serkoi.com;
+	Mon, 02 Dec 2024 01:43:42 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 198.23.133.155, 154.47.23.111
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 154.47.23.111
+From:
+Message-Id: <E1tI21u-00EOzo-1g@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 02 Dec 2024 01:43:42 -0700
+
+De: graphicdesign. 
+Correo: . 
+Telefono: . 
+Mensaje: Your website is the face of your business, and great design can make all the difference in attracting and retaining visitors. With decades of experience in graphic design, our talented team specializes in transforming websites into visually stunning and highly engaging platforms. 
+ 
+Our expert designers are proficient in both 2D and 3D design, offering: 
+ 
+-Custom graphics tailored to your brand identity 
+-Modern UI/UX enhancements for seamless navigation 
+-High-quality 3D visuals for an immersive user experience 
+-Fresh, attention-grabbing revisions to outdated designs 
+ 
+Whether you need a full redesign or just a refresh of your existing visuals, we have the expertise to make your website stand out in today’s competitive online landscape. 
+ 
+Your audience deserves a website that’s as remarkable as your business. Let us help you make it happen, have a look at our portfolio here: 
+ 
+https://novacodex.site/graphic_design.html. 
+

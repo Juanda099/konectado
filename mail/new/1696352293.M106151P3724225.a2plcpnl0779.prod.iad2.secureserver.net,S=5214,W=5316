@@ -1,0 +1,102 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id UM/yASVIHGXB0zgAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 03 Oct 2023 09:58:13 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 03 Oct 2023 09:58:13 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qniiq-00FdZ9-S1
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 03 Oct 2023 09:58:12 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qniig-00FdJM-0G@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1696352292-eximdsn-907581788
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qniiq-00FdZ9-S1@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 03 Oct 2023 09:58:12 -0700
+
+--1696352292-eximdsn-907581788
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 niiqqhjdpakr8 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=HIYFVKhv c=1 sm=1 tr=0 ts=651c4824 p=BLedT9rMAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=s9OucBad6m7kN5ojsMYA:9 a=JrDgEBtYHQwJEPj_LaQ4:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1696352292-eximdsn-907581788
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 niiqqhjdpakr8 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=HIYFVKhv c=1 sm=1 tr=0 ts=651c4824 p=BLedT9rMAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=s9OucBad6m7kN5ojsMYA:9 a=JrDgEBtYHQwJEPj_LaQ4:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1696352292-eximdsn-907581788
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qniig-00FdJM-0G
+	for servicioalcliente@serkoi.com;
+	Tue, 03 Oct 2023 09:58:09 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.241.94.14
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.241.94.14
+From:
+Message-Id: <E1qniig-00FdJM-0G@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 03 Oct 2023 09:58:02 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Amelia Suckley. 
+Correo: . 
+Telefono: (15) 3376-4722. 
+Mensaje: Hey there! Ì†ΩÌ±ã
+
+I hope you're doing great. My name is Amelia Suckley, and I'm reaching out on behalf of dti Publishing Corp. We have an exciting product that will change the way you prepare for your certification exams, ensuring you pass with confidence.
+
+Introducing CertBlaster - the ultimate solution for young software designers and IT professionals like you who are determined to succeed on their certification exams. Ì†ºÌøÜ
+
+With CertBlaster, you can access high-quality content, an extensive database of practice questions, and the most sophisticated exam simulation available. We provide engaging, informative, and exam-specific materials that have received a stellar 4-star rating on Trustpilot. ‚ú®
+
+For a limited time, you can save $10 when you sign up for CertBlaster. Simply use the special offer code "SAVE10" at checkout to take advantage of this fantastic deal. Ì†ΩÌ≤∏
+
+Ready to unlock your potential? Click the link below to visit our website and secure your spot:
+
+https://bit.ly/certblaster
+
+Remember, this offer won't last forever, so act fast to save $10 and prepare to conquer your certification exam with confidence. ‚è∞
+
+Thank you for considering CertBlaster, and we can't wait to support you on your journey to success. Ì†ºÌæâ
+
+Best regards,
+
+Amelia Suckley
+dti Publishing Corp.
+
+P.S. Read testimonials on our website to see how CertBlaster has helped countless IT professionals like yourself achieve their. 
+
+
+--1696352292-eximdsn-907581788--

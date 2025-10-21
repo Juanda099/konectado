@@ -1,0 +1,73 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id YJl1DrbGqmXMTyEAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Fri, 19 Jan 2024 12:00:06 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Fri, 19 Jan 2024 12:00:06 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rQu62-009AlV-0U
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Fri, 19 Jan 2024 12:00:06 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rQu5x-009AMh-0V@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rQu62-009AlV-0U@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 19 Jan 2024 12:00:06 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rQu5x-009AMh-0V
+	for servicioalcliente@serkoi.com;
+	Fri, 19 Jan 2024 12:00:01 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 107.175.246.165
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 107.175.246.165
+From:
+Message-Id: <E1rQu5x-009AMh-0V@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 19 Jan 2024 12:00:01 -0700
+
+De: Marquita Hollway. 
+Correo: . 
+Telefono: 920-483-8301. 
+Mensaje: Are you tired of juggling multiple tools and subscriptions to run your online business? 
+
+What if you could save at least $320 every month, and streamline your entire marketing strategy under one roof - for FREE, forever?
+
+Introducing the Worldâ€™s Easiest All-in-One Marketing Platform â€“ your ultimate solution for dominating the digital landscape without spending a dime on monthly subscriptions!
+
+í ¼í¼Ÿ Create Sales Funnels: Effortlessly design high-converting funnels to turn visitors into loyal customers.
+
+í ½í³§ Send Unlimited Emails: Reach out to your audience with unlimited email campaigns, ensuring your message always gets through.
+
+í ½í¶¥ï¸ Build Stunning Websites & Blogs: Establish a powerful online presence with our easy-to-use builders that require zero coding knowledge.
+
+í ½í´— Affiliate Management: Expand your reach with a robust affiliate system that grows your brand while you sleep.
+
+í ½í³š Create Online Courses: Share your expertise by crafting engaging courses, tapping into the lucrative e-learning market.
+
+
+See the Full Power of this Software at: => https://nexamet.com/free23
+
+
+With our platform, everything you need to scale up your business is just a click away. Say goodbye to costly subscriptions, complicated software, and the hassle of using different services for your marketing needs.
+
+This is not just another free trial offer â€“ this is a Free Lifetime Account, packed with premium features, all yours indefinitely. Why wait? Jumpstart your marketing game, foster incredible growth, and keep your wallet happy.
+
+í ½í´“ Sign Up Now and be part of a revolution that's setting thousands of businesses on the path to success. Grab your Free Lifetime Account and watch your business soar!
+
+Signup for Your Free Account Here => https://nexamet.com/free23. 
+

@@ -1,0 +1,105 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id OI0PDXxxDGVcHjcAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 21 Sep 2023 09:38:20 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 21 Sep 2023 09:38:20 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qjMh2-00FARt-3A
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 21 Sep 2023 09:38:20 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qjMgx-00FAQH-6W@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1695314300-eximdsn-735688443
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qjMh2-00FARt-3A@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 21 Sep 2023 09:38:20 -0700
+
+--1695314300-eximdsn-735688443
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 jMh1qQNAwwneO :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=eKjVzll1 c=1 sm=1 tr=0 ts=650c717c p=51VgFNdrWZMF2mxz6t8A:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=zNV7Rl7Rt7sA:10 a=WxNkWaPgAAAA:20 a=BgjnuyEls5QA:10 a=G8nyh27FsOOQNH5LyiuF:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1695314300-eximdsn-735688443
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 jMh1qQNAwwneO :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=eKjVzll1 c=1 sm=1 tr=0 ts=650c717c p=51VgFNdrWZMF2mxz6t8A:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=zNV7Rl7Rt7sA:10 a=WxNkWaPgAAAA:20 a=BgjnuyEls5QA:10 a=G8nyh27FsOOQNH5LyiuF:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1695314300-eximdsn-735688443
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qjMgx-00FAQH-6W
+	for servicioalcliente@serkoi.com;
+	Thu, 21 Sep 2023 09:38:19 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.81.59.248
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.81.59.248
+From:
+Message-Id: <E1qjMgx-00FAQH-6W@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 21 Sep 2023 09:38:15 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Grant Lira. 
+Correo: . 
+Telefono: (49) 8741-9113. 
+Mensaje: Hey,
+
+I would like to get you featured on a podcast with absolutely no cost.
+
+On top of that, I would also get you featured in an online article and create video content for social media from your podcast appearance all at no cost.
+
+Why am I doing this?
+
+Because I know once you see how our PR firm operates, you’ll want to work with us.
+
+Don’t take my word for it. Try it yourself at no cost to you. 
+
+We are doing this for the first 10 people who get back to us who qualify because it takes up a lot of our team's time.
+
+The only thing I ask is that you tell me if your business is NOT doing 7+ figures. 
+
+I reached out to you because I think you have a 7+ figure business. Most of the hosts that we have connections with are looking for 7+ figure businesses to interview. 
+
+I want to make sure we don’t lie to them so please let me know if you aren’t.
+
+So, if you qualify, check here to see how our process works for this and book a short call with one of our PR Strategists:
+
+https://bit.ly/empathy-firm
+
+Best,
+Grant
+. 
+
+
+--1695314300-eximdsn-735688443--

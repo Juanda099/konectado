@@ -1,0 +1,149 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id WP7jAZZA7mRAWh0AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 29 Aug 2023 12:01:42 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 29 Aug 2023 12:01:42 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qb3y9-008JK4-Ss
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 29 Aug 2023 12:01:41 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qb3y2-008JFH-Vm@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1693335701-eximdsn-247474165
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qb3y9-008JK4-Ss@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 29 Aug 2023 12:01:41 -0700
+
+--1693335701-eximdsn-247474165
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 b3y9qkI77R8ia :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=FaDxhry6 c=1 sm=1 tr=0 ts=64ee4095 p=i87NjLkwAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=UttIx32zK-AA:10 a=DT3RCT4R0kBjpQ8kK1MA:9 a=S8uiOcqAlIIA:10 a=6y7OcKIzWt_AxApjiFsO:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1693335701-eximdsn-247474165
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 b3y9qkI77R8ia :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=FaDxhry6 c=1 sm=1 tr=0 ts=64ee4095 p=i87NjLkwAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=UttIx32zK-AA:10 a=DT3RCT4R0kBjpQ8kK1MA:9 a=S8uiOcqAlIIA:10 a=6y7OcKIzWt_AxApjiFsO:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1693335701-eximdsn-247474165
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qb3y2-008JFH-Vm
+	for servicioalcliente@serkoi.com;
+	Tue, 29 Aug 2023 12:01:41 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 63.161.76.72
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 63.161.76.72
+From:
+Message-Id: <E1qb3y2-008JFH-Vm@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 29 Aug 2023 12:01:34 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Josh Johnson. 
+Correo: . 
+Telefono: 519-502-4930. 
+Mensaje: This is it! Your last chance to grab the revolutionary Human Avataars AI at the incredibly low price of $19 is slipping away. The countdown is on, and the offer ends TODAY.
+
+⏰ ACT NOW and secure your access for just $19 before the price goes up TONIGHT.
+
+Grab Human Avataars AI today Before Prices Jumps to $28 TONIGHT → bit.ly/HumanAvatarAI
+Coupon for EXTRA VIP 5 OFF: LASTCHANCEHUMANAI ($5 off Entire funnel)
+
+
+But that's not all! Tomorrow, the price jumps to $28. Yes, you read that right. Act today, and you'll lock in your membership at the current low price. Delay, and you'll be paying nearly double!
+
+
+Don't wait until it's too late. Click the link below and invest in your success:
+Grab Human Avataars AI today Before Prices Jumps to $28 TONIGHT → bit.ly/HumanAvatarAI
+
+
+What is Human Avataars AI?
+THIS IS LITERALLY World's First (GPT-4 Powered) A.I. Video Creator that Create Realistic Human-Like Avatar Videos In Seconds With Just a Single Keyword or Image without Mic, Studio, Camera or Actor.
+
+Human Avataars AI is jam-packed with the power features:
+✅ Create Image to Pro Video in Seconds
+✅ Without mics, cameras, studio or actors
+✅ Create human-like avatar videos in 37+ languages
+✅ Over 30+ multi-ethnicity avatars and characters
+✅ Create AI Video from your own Personal Image
+✅ Create Viral Celebrity Talking AI Videos
+✅ Create AI Text To 2D/3D Animated Videos 
+
+And much much more….
+
+
+==Here Full Scoop==>>> bit.ly/HumanAvatarAI
+
+
+If you Purchase from Our Link We Give You Best Bonuses  bit.ly/HumanAvatarAI
+
+
+1. MindPal AI OTO1 + Reseller
+First To Market ChatGPT Alternative Built With Superpowers to generate digital art & images, blog posts, marketing copy, sales emails, FB Ads, SEO content for you And Charge People For Using It…
+
+2. AiProfits OTO1 + Reseller
+Finally Cracked: Launch Your Very Own ChatGPT ChatBot with This Simple, Yet Powerful Cloud App
+
+3. FiverrProfitBuilder OTO1 + Reseller
+1-Click Software Creates Profitable Fiverr Affiliate Sites That Make Money 24/7 with Inbuilt Traffic Generation! Auto Loaded with the Top Fiverr Gigs on Trending Niches!
+
+4. Musikpay OTO 1 + Reseller
+The Brand-New Software Creates 100% Automated
+Music, Podcast & E- audio Affiliate Sites In Just 60 Secs!
+
+5. 3,000 Email Swipe Bank
+The swipe bank has every kind of email for your email marketing needs… Inside you have; Engagement email Follow email sequence Promotional Emails Newsletters Welcome emails Seasonal campaign emails and many more.
+And here are more
+
+VIP Bonus6: 350+ Premium SoundTracks
+VIP Bonus7: 100+ Full HD MP4 Video Backgrounds
+VIP Bonus8: From Zero to 100K a Month - Step By Step Training
+VIP Bonus9:Over 300 Million Business Database
+VIP Bonus10:100+ PROVEN TO-GO VIRAL VIDEOS Vault (Big Bonus)
+
+The clock is ticking, and the doors are closing. Join the ranks of satisfied users who are already transforming their business with Human Avataars AI.
+
+==> Grab Human Avataars AI today Before Prices Jumps to $28 TONIGHT → bit.ly/HumanAvatarAI
+
+
+Coupon for EXTRA VIP OFF: LASTCHANCEHUMANAI ($5 off Entire funnel)
+
+To Your Success,
+Josh
+
+P.S. Remember, this offer disappears in mere hours. Don't let regret be your companion – grab Human Avataars AI now for just $19!
+. 
+
+
+--1693335701-eximdsn-247474165--

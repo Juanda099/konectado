@@ -1,0 +1,119 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id KHU5EOyaCmIEgCgAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 14 Feb 2022 11:09:48 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 14 Feb 2022 11:09:48 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	id 1nJfnI-00BC2J-4t
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Mon, 14 Feb 2022 11:09:48 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1nJfnH-00BC18-MT@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1644862188-eximdsn-943506311
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1nJfnI-00BC2J-4t@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 14 Feb 2022 11:09:48 -0700
+
+--1644862188-eximdsn-943506311
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 JfnHnlMP1Yyjc :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Uvmmi88B c=1 sm=1 tr=0 ts=620a9aec p=xzM2_G-fAAAA:8 p=EQJQ2JtN-EkiJruCXmwA:9 p=6ZeTWu1C_EUA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=oGFeUVbbRNcA:10 a=RQWBEkqAPrgA:10 a=smrCSdiaAAAA:8 a=diZ488N4VzcA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=R5LvI2F2ZDXFC5kb1RPk:22 ::
+    100.00
+
+--1644862188-eximdsn-943506311
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 JfnHnlMP1Yyjc :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Uvmmi88B c=1 sm=1 tr=0 ts=620a9aec p=xzM2_G-fAAAA:8 p=EQJQ2JtN-EkiJruCXmwA:9 p=6ZeTWu1C_EUA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=oGFeUVbbRNcA:10 a=RQWBEkqAPrgA:10 a=smrCSdiaAAAA:8 a=diZ488N4VzcA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=R5LvI2F2ZDXFC5kb1RPk:22 :: 100.00
+
+--1644862188-eximdsn-943506311
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1nJfnH-00BC18-MT
+	for servicioalcliente@serkoi.com; Mon, 14 Feb 2022 11:09:47 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 107.150.70.151
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 107.150.70.151
+From:
+Message-Id: <E1nJfnH-00BC18-MT@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 14 Feb 2022 11:09:47 -0700
+
+De: Eric Jones. 
+Correo: . 
+Telefono: 555-555-1212. 
+Mensaje: Hey there, I just found your site, quick question…
+
+My name’s Eric, I found proditelsas.com after doing a quick search – you showed up near the top of the rankings, so whatever you’re doing for SEO, looks like it’s working well.
+
+So here’s my question – what happens AFTER someone lands on your site?  Anything?
+
+Research tells us at least 70% of the people who find your site, after a quick once-over, they disappear… forever.
+
+That means that all the work and effort you put into getting them to show up, goes down the tubes.
+
+Why would you want all that good work – and the great site you’ve built – go to waste?
+
+Because the odds are they’ll just skip over calling or even grabbing their phone, leaving you high and dry.
+
+But here’s a thought… what if you could make it super-simple for someone to raise their hand, say, “okay, let’s talk” without requiring them to even pull their cell phone from their pocket?
+  
+You can – thanks to revolutionary new software that can literally make that first call happen NOW.
+
+Talk With Web Visitor is a software widget that sits on your site, ready and waiting to capture any visitor’s Name, Email address and Phone Number.  It lets you know IMMEDIATELY – so that you can talk to that lead while they’re still there at your site.
+  
+You know, strike when the iron’s hot!
+
+CLICK HERE https://jumboleadmagnet.com to try out a Live Demo with Talk With Web Visitor now to see exactly how it works.
+
+When targeting leads, you HAVE to act fast – the difference between contacting someone within 5 minutes versus 30 minutes later is huge – like 100 times better!
+
+That’s why you should check out our new SMS Text With Lead feature as well… once you’ve captured the phone number of the website visitor, you can automatically kick off a text message (SMS) conversation with them. 
+ 
+Imagine how powerful this could be – even if they don’t take you up on your offer immediately, you can stay in touch with them using text messages to make new offers, provide links to great content, and build your credibility.
+
+Just this alone could be a game changer to make your website even more effective.
+
+Strike when  the iron’s hot!
+
+CLICK HERE https://jumboleadmagnet.com to learn more about everything Talk With Web Visitor can do for your business – you’ll be amazed.
+
+Thanks and keep up the great work!
+
+Eric
+PS: Talk With Web Visitor offers a FREE 14 days trial – you could be converting up to 100x more leads immediately!   
+It even includes International Long Distance Calling. 
+Stop wasting money chasing eyeballs that don’t turn into paying customers. 
+CLICK HERE https://jumboleadmagnet.com to try Talk With Web Visitor now.
+
+If you'd like to unsubscribe click here http://jumboleadmagnet.com/unsubscribe.aspx?d=proditelsas.com
+. 
+
+
+--1644862188-eximdsn-943506311--

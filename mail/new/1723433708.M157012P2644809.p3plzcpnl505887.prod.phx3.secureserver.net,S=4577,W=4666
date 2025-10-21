@@ -1,0 +1,89 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id UPqsCOyCuWZJWygA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 11 Aug 2024 20:35:08 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 11 Aug 2024 20:35:08 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sdLps-00B6Jx-0G
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 11 Aug 2024 20:35:08 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sdLpf-00B63W-2t@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1723433708-eximdsn-808295293
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sdLps-00B6Jx-0G@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 11 Aug 2024 20:35:08 -0700
+
+--1723433708-eximdsn-808295293
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 dLpssqx17ojts :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=O63yvw9W c=1 sm=1 tr=0 ts=66b982ec p=-bytG8bqC6MSJ8yCew0A:9 p=EqFFwsok8Z8ct3YQ0gap:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=Vc14F_5OAAAA:8 a=ugPMZD70YvC8l-tv-cNM:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=h1VEqfnn8O1bj__gizp8:22 ::
+    100.00
+
+--1723433708-eximdsn-808295293
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 dLpssqx17ojts :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=O63yvw9W c=1 sm=1 tr=0 ts=66b982ec p=-bytG8bqC6MSJ8yCew0A:9 p=EqFFwsok8Z8ct3YQ0gap:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=Vc14F_5OAAAA:8 a=ugPMZD70YvC8l-tv-cNM:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=h1VEqfnn8O1bj__gizp8:22 :: 100.00
+
+--1723433708-eximdsn-808295293
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sdLpf-00B63W-2t
+	for servicioalcliente@serkoi.com;
+	Sun, 11 Aug 2024 20:35:07 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 98.159.226.57
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 98.159.226.57
+From:
+Message-Id: <E1sdLpf-00B63W-2t@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 11 Aug 2024 20:34:55 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Leesa Dix. 
+Correo: . 
+Telefono: 3733185668. 
+Mensaje: Hi there, I apologize for using your contact form, 
+but I wasn't sure who the right person was to speak with in your company. 
+We have a patented application that creates Local Area pages that rank on 
+top of Google within weeks, we call it Local Magic.  Here is a link to the 
+product page https://www.mrmarketingres.com/local-magic/ . The product 
+leverages technology where these pages are managed dynamically by AI and 
+it is ideal for promoting any type of business that gets customers from Google.  Can I share a testimonial 
+from one of our clients in the same industry?  I'd prefer to do a short zoom to 
+illustrate their full case study if you have time for it? 
+You can reach me at marketing@mrmarketingres.com or 843-720-7301. And if this isn't a fit please feel free to email me and I'll be sure not to reach out again.  Thanks!
+. 
+
+
+--1723433708-eximdsn-808295293--

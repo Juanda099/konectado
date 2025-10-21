@@ -1,0 +1,140 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id SBsMMTIVVGS+4BEAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 04 May 2023 13:27:30 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 04 May 2023 13:27:31 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pufY2-004vBr-Cw
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 04 May 2023 13:27:30 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pufXs-004v9f-6P@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1683232050-eximdsn-1378237082
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pufY2-004vBr-Cw@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 04 May 2023 13:27:30 -0700
+
+--1683232050-eximdsn-1378237082
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 ufY1plu2PtQAt :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=QMuuBCHL c=1 sm=1 tr=0 ts=64541532 p=Ck7nGJfaaeGus-CED78A:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=P0xRbXHiH_UA:10 a=7QMtt-1JAAAA:8 a=5ZVTF8RY2NLlgb4Yx1la:22 a=KEWExG7RfUtO-SSZuyrK:22 a=nFFjNVGfoSlG1Vi7Lnti:22 ::
+    100.00
+
+--1683232050-eximdsn-1378237082
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 ufY1plu2PtQAt :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=QMuuBCHL c=1 sm=1 tr=0 ts=64541532 p=Ck7nGJfaaeGus-CED78A:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=P0xRbXHiH_UA:10 a=7QMtt-1JAAAA:8 a=5ZVTF8RY2NLlgb4Yx1la:22 a=KEWExG7RfUtO-SSZuyrK:22 a=nFFjNVGfoSlG1Vi7Lnti:22 :: 100.00
+
+--1683232050-eximdsn-1378237082
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pufXs-004v9f-6P
+	for servicioalcliente@serkoi.com;
+	Thu, 04 May 2023 13:27:25 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 154.37.93.33
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 154.37.93.33
+From:
+Message-Id: <E1pufXs-004v9f-6P@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 04 May 2023 13:27:20 -0700
+
+De: Darwin Slaughter. 
+Correo: . 
+Telefono: 077 3580 9057. 
+Mensaje: Do you have a Website?
+
+Are you struggling for Leads and Sales?
+
+You’re not the only one.
+
+So many Website owners struggle to convert their Visitors into Leads & Sales.
+
+There’s a simple way to fix this problem.
+
+You could use a Live Chat app on your Website and hire Chat Agents.
+
+But only if you’ve got deep pockets and you’re happy to fork out THOUSANDS of dollars for the quality you need.
+
+=====
+
+But what if you could automate Live Chat so it’s HUMAN-FREE?
+
+What if you could exploit NEW “AI” Technology to engage with your Visitors INSTANTLY.
+
+And AUTOMATICALLY convert them into Leads & Sales.
+
+WITHOUT spending THOUSANDS of dollars on Live Chat Agents.
+
+And WITHOUT hiring expensive coders.
+
+In fact, all you need to do to activate this LATEST “AI” Website Tech..
+
+..is to COPY & PASTE a single line of “Website Code”.
+
+==>https://redeyedeal.com/aibot
+
+======
+
+Join HUGE Fortune 500 companies like:
+
+Facebook Spotify Starbucks Staples The Wall Street Journal Pizza Hut Amtrak Disney H&M & Mastercard
+
+They all use similar “AI” Chat Technology to ConversioBot - the Internet’s #1 Chatbot for Website Owners.
+
+The founders of ConversioBot have used their highly sophisticated ChatBot to:
+
+- AUTOMATICALLY build a massive Email List of 11,643 Subscribers in just 7 Days
+
+- AUTOMATICALLY add 6,386 Sales in only 6 Months
+
+- AUTOMATICALLY explode their Conversion Rate by 198% in only 6 Hours.
+
+=====
+
+Now it’s your turn to get in on this exciting NEW Cloud-Based App.
+
+You can start using ConversioBot today by copying and pasting ONE line of “Automated Bot Code" to your Website.
+
+Watch this short video to find out how >> https://redeyedeal.com/aibot
+
+Regards,
+
+John
+
+P.S. This “AI” Technology works with: - Affiliate Review Sites - List-Building Pages - WordPress Blogs (it comes with a Plugin) - Sales Letters - eCommerce Websites - Local Business Sites - Webinar Registration Pages - Consultancy Websites - Freelance Websites
+
+Almost ANY Website you can think of..
+
+==> This could be happening on your Website TODAY.. https://redeyedeal.com/aibot. 
+
+
+--1683232050-eximdsn-1378237082--

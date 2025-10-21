@@ -1,0 +1,94 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 2MxrJuT8OmhncigA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 31 May 2025 05:58:12 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 31 May 2025 05:58:12 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.1)
+	id 1uLLmu-0000000BPm8-2K4f
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 31 May 2025 05:58:12 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uLLmo-0000000BPkA-2FIx@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1748696292-eximdsn-911856710
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1uLLmu-0000000BPm8-2K4f@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 31 May 2025 05:58:12 -0700
+
+--1748696292-eximdsn-911856710
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 LLmuuoeJbstPa :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=cLngskeN c=1 sm=1 tr=0 ts=683afce4 p=yoJZhNNR5hLzAmbz1TYA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=dt9VzEwgFbYA:10 a=x7bEGLp0ZPQA:10 a=5oYs9nDOirQA:10 a=AdxIt5V_AAAA:8 a=pGLkceISAAAA:8 a=Uz9EnhuHEG25YKoRyM-d:22 a=cJFT3WjU1ADwohfzKi4H:22 a=5ZVTF8RY2NLl[truncated]
+
+--1748696292-eximdsn-911856710
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 LLmuuoeJbstPa :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=cLngskeN c=1 sm=1 tr=0 ts=683afce4 p=yoJZhNNR5hLzAmbz1TYA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=dt9VzEwgFbYA:10 a=x7bEGLp0ZPQA:10 a=5oYs9nDOirQA:10 a=AdxIt5V_AAAA:8 a=pGLkceISAAAA:8 a=Uz9EnhuHEG25YKoRyM-d:22 a=cJFT3WjU1ADwohfzKi4H:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1748696292-eximdsn-911856710
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.1)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uLLmo-0000000BPkA-2FIx
+	for servicioalcliente@serkoi.com;
+	Sat, 31 May 2025 05:58:12 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:josephRib@gmail.com
+Message-Id: <E1uLLmo-0000000BPkA-2FIx@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 31 May 2025 05:58:06 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: JosephTug. 
+Correo: josephRib@gmail.com. 
+Telefono: 87773711398. 
+Mensaje: URGENT NOTIFICATION: 
+ 
+Our industry analysis reveals that 97% of websites have CATASTROPHIC SEO errors. 
+ 
+Imagine: your target audience is searching for your services, but they're ONLY finding YOUR COMPETITORS. RIGHT NOW. 
+ 
+Every day of inaction means: 
+ 
+Burning through your ad budget 
+Flushing potential revenue down the drain 
+Strengthening your competitors 
+ 
+STOP THE BLEEDING: Click here for a FREE audit + expert consultation: https://boostmysite.net/ 
+ 
+Your website should be a SALES MACHINE, not a Black Hole for your money! 
+ 
+The time to act is NOW or NEVER. While you're reading this, your competitors have already fixed their errors and are snapping up YOUR customers. 
+ 
+The Boostmysite.net Team. 
+
+
+--1748696292-eximdsn-911856710--

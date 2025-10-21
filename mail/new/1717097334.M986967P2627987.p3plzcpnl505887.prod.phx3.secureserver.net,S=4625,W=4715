@@ -1,0 +1,90 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id YLqmOXbTWGaTGSgA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 30 May 2024 12:28:54 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 30 May 2024 12:28:54 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sClSI-00BWNX-2s
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 30 May 2024 12:28:54 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sClS6-00BWIj-2R@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1717097334-eximdsn-1995620301
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sClSI-00BWNX-2s@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 30 May 2024 12:28:54 -0700
+
+--1717097334-eximdsn-1995620301
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 ClSHswmNIbM2q :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=T7ZHTOKQ c=1 sm=1 tr=0 ts=6658d376 p=RFDaamjjAAAA:20 p=TIhSfsOxo9cA:10 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=j3GKuRL1AAAA:20 a=Hda58ts0LaPmiQGB-UcA:9 a=3ZKOabzyN94A:10 a=6_O0oJE32PEA:10 a=zZCYzV9kfG8A:10 a=ijk25rsGgO2nVMu46R6E:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1717097334-eximdsn-1995620301
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 ClSHswmNIbM2q :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=T7ZHTOKQ c=1 sm=1 tr=0 ts=6658d376 p=RFDaamjjAAAA:20 p=TIhSfsOxo9cA:10 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=j3GKuRL1AAAA:20 a=Hda58ts0LaPmiQGB-UcA:9 a=3ZKOabzyN94A:10 a=6_O0oJE32PEA:10 a=zZCYzV9kfG8A:10 a=ijk25rsGgO2nVMu46R6E:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1717097334-eximdsn-1995620301
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sClS6-00BWIj-2R
+	for servicioalcliente@serkoi.com;
+	Thu, 30 May 2024 12:28:53 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.239.43.248
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.239.43.248
+From:
+Message-Id: <E1sClS6-00BWIj-2R@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 30 May 2024 12:28:42 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Chanel Challis. 
+Correo: . 
+Telefono: 212236495. 
+Mensaje: Transform Your Marketing with USA B2B Contact Data! Business names, emails, websites, phones, social media and linkedIn links, and more.
+
+Why limit your business potential? Access over 5 million business contact details throughout the USA for only USD49. With over 7,900 niche-targeted databases, you’ll have every tool you need to connect with the right companies.
+
+At just $0.00001 per contact, our freshly collected 20GB data from this year guarantees you have the most current information to boost your marketing efforts.
+
+Experience the change yourself—get a free sample now: https://bit.ly/usab2bCFL
+
+
+
+Unsubscribe here if you don't want to get these great offers: https://bit.ly/cflunsubs
+Spinatsch 138, Montricher, NA, Switzerland, 1147. 
+
+
+--1717097334-eximdsn-1995620301--

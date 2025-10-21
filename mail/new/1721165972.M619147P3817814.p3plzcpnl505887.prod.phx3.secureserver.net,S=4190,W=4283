@@ -1,0 +1,93 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id gJcoJJTolmZWQToA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 16 Jul 2024 14:39:32 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 16 Jul 2024 14:39:32 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sTptU-00G3Fv-1j
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 16 Jul 2024 14:39:32 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sTptP-00G33t-0t@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1721165972-eximdsn-1796363478
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sTptU-00G3Fv-1j@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 16 Jul 2024 14:39:32 -0700
+
+--1721165972-eximdsn-1796363478
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 TptUsyMlQP0G4 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=CoR0cW4D c=1 sm=1 tr=0 ts=6696e894 p=q_XzoJuS4_j2BVEqtRUA:9 p=Qm8Hz0Yx7UbgVDh1kq3z:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=4kmOji7k6h8A:10 a=D_173ciWAAAA:8 a=rjivk1549ctftFzPsmKI:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1721165972-eximdsn-1796363478
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 TptUsyMlQP0G4 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=CoR0cW4D c=1 sm=1 tr=0 ts=6696e894 p=q_XzoJuS4_j2BVEqtRUA:9 p=Qm8Hz0Yx7UbgVDh1kq3z:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=4kmOji7k6h8A:10 a=D_173ciWAAAA:8 a=rjivk1549ctftFzPsmKI:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1721165972-eximdsn-1796363478
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sTptP-00G33t-0t
+	for servicioalcliente@serkoi.com;
+	Tue, 16 Jul 2024 14:39:32 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 45.13.191.68
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 45.13.191.68
+From:
+Message-Id: <E1sTptP-00G33t-0t@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 16 Jul 2024 14:39:27 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Orlando Mosby. 
+Correo: . 
+Telefono: 521406339. 
+Mensaje:  Rising business expenses are taking a toll on small business owners.
+
+You are not alone. It's affecting every industry.
+
+One way to give yourself some breathing room is to obtain enough working capital to bridge you through the tough times. 
+
+Get a no obligation working capital quote in less than 2 minutes. 
+
+++ This Offer Only For Businesses In The USA ++
+
+Get in touch with me below for more info
+
+Elizabeth Miller
+elizabeth.miller@helloratesfastfunding.com
+https://www.helloratesfastfunding.com. 
+
+
+--1721165972-eximdsn-1796363478--

@@ -1,0 +1,98 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id aB0DBJK4VGfOSA0A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 07 Dec 2024 14:05:22 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 07 Dec 2024 14:05:22 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tK1zO-003eY3-01
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 07 Dec 2024 14:05:22 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tK1zG-003eWT-0t@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1733605521-eximdsn-2084733303
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tK1zO-003eY3-01@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 07 Dec 2024 14:05:22 -0700
+
+--1733605521-eximdsn-2084733303
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 K1zNtFSiciu1n :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=UsGZN/wB c=1 sm=1 tr=0 ts=6754b891 p=6sZ9rQ9Emz8fOsrKFIEA:9 p=NFuy2Pr_nGgA:10 p=2_oi5NLNiZFya1G97rIY:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=RZcAm9yDv7YA:10 a=smrCSdiaAAAA:8 a=pGLkceISAAAA:8 a=3ZKOabzyN94A:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1733605521-eximdsn-2084733303
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 K1zNtFSiciu1n :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=UsGZN/wB c=1 sm=1 tr=0 ts=6754b891 p=6sZ9rQ9Emz8fOsrKFIEA:9 p=NFuy2Pr_nGgA:10 p=2_oi5NLNiZFya1G97rIY:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=RZcAm9yDv7YA:10 a=smrCSdiaAAAA:8 a=pGLkceISAAAA:8 a=3ZKOabzyN94A:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1733605521-eximdsn-2084733303
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tK1zG-003eWT-0t
+	for servicioalcliente@serkoi.com;
+	Sat, 07 Dec 2024 14:05:21 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 107.175.196.110
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 107.175.196.110
+From:
+Message-Id: <E1tK1zG-003eWT-0t@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 07 Dec 2024 14:05:14 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Salina Lind. 
+Correo: . 
+Telefono: 887726477. 
+Mensaje: Hi proditelsas.com owner,
+
+I hope you’re doing well.
+
+I’m reaching out from Virgo T3. We are looking to purchase backlinks from high-quality websites like yours, and after reviewing your site, we believe there’s a great opportunity for us to collaborate.
+
+We are willing to pay for placing a link on your website that points to one of our high-quality resources. The payment will be based on the metrics of your site, and we are happy to discuss the terms further to ensure it works for both of us.
+
+Here are the details:
+
+Link Type: Contextual Backlink, within a blog post, etc.
+Payment: We will compensate you based on your site's metrics (e.g., traffic, DA, etc.).
+Content: We will provide a nicely written/ High quality copyscape passed content.
+If you're interested, please let me know, and we can discuss the details and arrange payment accordingly.
+
+Looking forward to hearing from you! Email me at virgot.3@gmail.com
+
+Best regards,
+Sam
+virgot.3@gmail.com. 
+
+
+--1733605521-eximdsn-2084733303--

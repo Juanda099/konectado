@@ -1,0 +1,48 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id kOotG5mze2a/sAsA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 25 Jun 2024 23:22:17 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 25 Jun 2024 23:22:17 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sMM2r-003DYn-1G
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 25 Jun 2024 23:22:17 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sMM2m-003DXj-18@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sMM2r-003DYn-1G@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 25 Jun 2024 23:22:17 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sMM2m-003DXj-18
+	for servicioalcliente@serkoi.com;
+	Tue, 25 Jun 2024 23:22:12 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.19.82.118
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.19.82.118
+From:
+Message-Id: <E1sMM2m-003DXj-18@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 25 Jun 2024 23:22:12 -0700
+
+De: Bob . 
+Correo: . 
+Telefono: 3102918931. 
+Mensaje: Hi, I did a free marketing video for your website, is this a good place to send it?
+Please fill out your info here if so: https://freevideoservice.com/. 
+

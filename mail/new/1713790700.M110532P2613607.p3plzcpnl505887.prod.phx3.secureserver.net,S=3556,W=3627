@@ -1,0 +1,71 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id mKZNBexeJmZn4ScA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 22 Apr 2024 05:58:20 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 22 Apr 2024 05:58:20 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1rytFU-00B4KM-06
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 22 Apr 2024 05:58:20 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1rytFP-00B4JH-06@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rytFU-00B4KM-06@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 22 Apr 2024 05:58:20 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1rytFP-00B4JH-06
+	for servicioalcliente@serkoi.com;
+	Mon, 22 Apr 2024 05:58:15 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 223.204.220.252
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 223.204.220.252
+From:
+Message-Id: <E1rytFP-00B4JH-06@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 22 Apr 2024 05:58:15 -0700
+
+De: . 
+Correo: . 
+Telefono: 1. 
+Mensaje: Hi guys
+
+Are you struggling at proditelsas.com to generate leads and to grow your business? You're not alone. Many businesses face obstacles when it comes to reaching potential customers and driving conversions. But fear not, because we have the solution!
+
+At Contact Form Leads, we focus in contact form marketing - a effective strategy for connecting with your audience and producing high-quality leads. Our platform makes it simple for you to reach out to potential customers straight through their contact forms, bypassing traditional advertising methods and capturing their attention where it matters most.
+
+Pricing
+- 100k submissions (USA or Worldwide): $9
+- 1M submissions: $47
+- 2M submissions $89
+
+With our comprehensive suite of tools and services, you can streamline your outreach efforts, target specific demographics and industries, and track the performance of your campaigns with ease. Our platform is designed to help you overcome the obstacles of lead generation and realize your business goals with confidence.
+
+Ready to supercharge your marketing efforts and unlock a world of opportunities? Sign up for Contact Form Leads today and start generating leads like never before!
+
+Best
+Naomi Brooks
+https://contactformleads.com/?refid=1134
+
+
+Should you require any further support, just let me know!
+
+Unsubscribe here if you don't want to get these offers: https://docs.google.com/forms/d/e/1FAIpQLSdx-LI-ETiB-g37_ijIRHfBNhu__c-Go1dyOyZ_zU_pgeYTEg/viewform?usp=sf_link
+Jancko Douwamastraat 3, Ogdensburg, NY, US, 8602 Bk
+. 
+

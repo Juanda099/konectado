@@ -1,0 +1,81 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id ADEqCWeIZGcJOzgA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 19 Dec 2024 13:56:07 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 19 Dec 2024 13:56:07 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tONZ1-00FVKw-0C
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 19 Dec 2024 13:56:07 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tONYk-00FV5a-1b@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1734641767-eximdsn-1571232798
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tONZ1-00FVKw-0C@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 19 Dec 2024 13:56:07 -0700
+
+--1734641767-eximdsn-1571232798
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 ONZ1tXIMwJdTK :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=RrI/LDmK c=1 sm=1 tr=0 ts=67648867 p=CFNEJXYnAAAA:8 p=P4wxJVjbsqsA:10 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=RZcAm9yDv7YA:10 a=smrCSdiaAAAA:8 a=TtBMcEBlstM7mZeLH1QA:9 a=3ZKOabzyN94A:10 a=DG8RdKPbU5QA:10 a=27SxaIuBhY5rPlt89Ii3:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1734641767-eximdsn-1571232798
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 ONZ1tXIMwJdTK :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=RrI/LDmK c=1 sm=1 tr=0 ts=67648867 p=CFNEJXYnAAAA:8 p=P4wxJVjbsqsA:10 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=RZcAm9yDv7YA:10 a=smrCSdiaAAAA:8 a=TtBMcEBlstM7mZeLH1QA:9 a=3ZKOabzyN94A:10 a=DG8RdKPbU5QA:10 a=27SxaIuBhY5rPlt89Ii3:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1734641767-eximdsn-1571232798
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tONYk-00FV5a-1b
+	for servicioalcliente@serkoi.com;
+	Thu, 19 Dec 2024 13:56:06 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tONYk-00FV5a-1b@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 19 Dec 2024 13:55:50 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Rex Winkler. 
+Correo: . 
+Telefono: 550117799. 
+Mensaje: 
+Did you know that your website proditelsas.com may not be achieve maximum traffic? With our advanced AI traffic system, you might be able to reach thousands of additional visitors each day.
+
+We’re offering a no-obligation complimentary 4,000 targeted visitors to demonstrate what’s possible. Once you see the difference, our scalable options deliver up to 250,000. Let us help you turn missed opportunities into meaningful traffic growth. Get more information here: https://shorten.so/6FYM4
+. 
+
+
+--1734641767-eximdsn-1571232798--

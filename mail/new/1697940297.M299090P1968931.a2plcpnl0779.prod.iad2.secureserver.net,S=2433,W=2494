@@ -1,0 +1,61 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id qFWcEEmDNGUjCx4AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 21 Oct 2023 19:04:57 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 21 Oct 2023 19:04:57 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1quNpp-008GIW-5G
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sat, 21 Oct 2023 19:04:57 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1quNpi-008GG3-Qq@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1quNpp-008GIW-5G@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 21 Oct 2023 19:04:57 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1quNpi-008GG3-Qq
+	for servicioalcliente@serkoi.com;
+	Sat, 21 Oct 2023 19:04:50 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 37.19.223.122
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 37.19.223.122
+From:
+Message-Id: <E1quNpi-008GG3-Qq@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 21 Oct 2023 19:04:50 -0700
+
+De: Mike Black
+. 
+Correo: . 
+Telefono: 82584855253. 
+Mensaje: Hi there 
+ 
+Just checked your proditelsas.com baclink profile, I noticed a moderate percentage of toxic links pointing to your website 
+ 
+We will investigate each link for its toxicity and perform a professional clean up for you free of charge. 
+ 
+Start recovering your ranks today: 
+https://www.hilkom-digital.de/professional-linksprofile-clean-up-service/ 
+ 
+ 
+Regards 
+Mike Black
+Hilkom Digital SEO Experts 
+https://www.hilkom-digital.de/. 
+

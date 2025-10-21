@@ -1,0 +1,85 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id EPBdHxGvq2fszBoA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 11 Feb 2025 13:12:01 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 11 Feb 2025 13:12:01 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1thwbx-007Ogi-1P
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 11 Feb 2025 13:12:01 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1thwbq-007OaS-1F@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1739304721-eximdsn-239780722
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1thwbx-007Ogi-1P@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 11 Feb 2025 13:12:01 -0700
+
+--1739304721-eximdsn-239780722
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 hwbxtOI6OzFT9 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=MPGamNZl c=1 sm=1 tr=0 ts=67abaf11 p=cjNSgd6zhTWmCB0Hou0A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=T2h4t0Lz3GQA:10 a=ecH-j9NJAAAA:8 a=dNGps9ZPDeG6OrKe3a8w:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1739304721-eximdsn-239780722
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 hwbxtOI6OzFT9 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=MPGamNZl c=1 sm=1 tr=0 ts=67abaf11 p=cjNSgd6zhTWmCB0Hou0A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=T2h4t0Lz3GQA:10 a=ecH-j9NJAAAA:8 a=dNGps9ZPDeG6OrKe3a8w:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1739304721-eximdsn-239780722
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1thwbq-007OaS-1F
+	for servicioalcliente@serkoi.com;
+	Tue, 11 Feb 2025 13:12:01 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1thwbq-007OaS-1F@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 11 Feb 2025 13:11:54 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Katherin Ormond. 
+Correo: . 
+Telefono: 6270518264. 
+Mensaje: Want to get your message in front of millions of potential customers? Our service can help. By sending your ad text to website contact forms, your message will be read just like you're reading this one. And with one flat rate, you can reach a massive audience without any per click costs. Start growing your business today.
+
+ Feel free to contact me using the details below if you want to learn more about my approach.
+
+Regards,
+Katherin Ormond
+Email: Katherin.Ormond@uniqueadvertising.pro
+Website: http://ly5mhq.advertiseviaforms.my
+. 
+
+
+--1739304721-eximdsn-239780722--

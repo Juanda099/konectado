@@ -1,0 +1,97 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 8Hh5GHmNJWbxjQIA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 21 Apr 2024 15:04:41 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 21 Apr 2024 15:04:41 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1ryfIf-000iRs-18
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 21 Apr 2024 15:04:41 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1ryfIa-000iQx-2b@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1713737081-eximdsn-1197672871
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ryfIf-000iRs-18@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 21 Apr 2024 15:04:41 -0700
+
+--1713737081-eximdsn-1197672871
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 yfIfr0bvLoU6u :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=dtQQCEg4 c=1 sm=1 tr=0 ts=66258d79 p=drnkjNyOAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=raytVjVEu-sA:10 a=H0md6jp-7FjkD54k1V8A:9 a=g0NnjQRSVIQAzjrYaDSZ:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1713737081-eximdsn-1197672871
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 yfIfr0bvLoU6u :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=dtQQCEg4 c=1 sm=1 tr=0 ts=66258d79 p=drnkjNyOAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=raytVjVEu-sA:10 a=H0md6jp-7FjkD54k1V8A:9 a=g0NnjQRSVIQAzjrYaDSZ:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1713737081-eximdsn-1197672871
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1ryfIa-000iQx-2b
+	for servicioalcliente@serkoi.com;
+	Sun, 21 Apr 2024 15:04:41 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 165.140.116.229
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 165.140.116.229
+From:
+Message-Id: <E1ryfIa-000iQx-2b@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 21 Apr 2024 15:04:36 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Freda Gutierrez. 
+Correo: . 
+Telefono: 408174047. 
+Mensaje: Hello there!
+
+I hope this email finds you well!
+
+I couldn't help but notice that your website could be getting more traffic. Don't worry; I've got just the solution to skyrocket your online presence!
+
+I recently stumbled upon an incredible opportunity tailored specifically for small businesses like yours:  https://tinyurl.com/bigmoney10off
+
+And here's the best part - I've secured an exclusive 10% discount just for you! Simply use the code "BigMoney" at checkout to claim your savings.
+ 
+This offer is too good to pass up. Imagine the possibilities for your business once you implement the strategies outlined in this ebook!
+
+Don't miss out on this opportunity to take your business to new heights. Grab your copy today and watch your website soar!
+
+Warm regards!
+
+PS: Remember, this exclusive discount won't last forever. Act now to secure your savings and unlock the full potential of your website!
+
+Check it now: https://tinyurl.com/bigmoney10off. 
+
+
+--1713737081-eximdsn-1197672871--

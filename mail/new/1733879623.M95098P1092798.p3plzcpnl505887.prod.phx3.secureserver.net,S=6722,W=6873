@@ -1,0 +1,151 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id KF0CBUfnWGe+rBAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 10 Dec 2024 18:13:43 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 10 Dec 2024 18:13:43 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tLBIN-004fPP-03
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 10 Dec 2024 18:13:43 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tLBIB-004fJe-3A@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1733879623-eximdsn-506339976
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tLBIN-004fPP-03@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 10 Dec 2024 18:13:43 -0700
+
+--1733879623-eximdsn-506339976
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 LBIMthpl0085c :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Qtik3Uyd c=1 sm=1 tr=0 ts=6758e746 p=J_6GPAh8AAAA:8 p=M8ncCQSCAPLfykO1pfdx:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=RZcAm9yDv7YA:10 a=smrCSdiaAAAA:8 a=9vf1OctQ1gfVwq6mBXsA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=Rs6WJNaaI7vqF0WlzYVz:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1733879623-eximdsn-506339976
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 LBIMthpl0085c :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Qtik3Uyd c=1 sm=1 tr=0 ts=6758e746 p=J_6GPAh8AAAA:8 p=M8ncCQSCAPLfykO1pfdx:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=RZcAm9yDv7YA:10 a=smrCSdiaAAAA:8 a=9vf1OctQ1gfVwq6mBXsA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=Rs6WJNaaI7vqF0WlzYVz:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1733879623-eximdsn-506339976
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tLBIB-004fJe-3A
+	for servicioalcliente@serkoi.com;
+	Tue, 10 Dec 2024 18:13:42 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.153.181
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.153.181
+From:
+Message-Id: <E1tLBIB-004fJe-3A@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 10 Dec 2024 18:13:31 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Kyla Cardenas. 
+Correo: . 
+Telefono: 470 1063. 
+Mensaje: 
+Audiobook is now the BIG goldmine, and people are making huge profits with it on a daily basis…
+
+Sadly, creating and selling them can be tough and super-expensive.
+
+But I have got good news for you…
+
+Meet Vox AI
+
+The World’s First ChatGPT4-Powered AI App That Turns Any "Text, URL, Website, Article, Keyword, Blog, Document or PDF" into High-Quality Audiobooks or Podcast In 660 Different Voices & 80 Languages…
+
+>> Click Here To See The Live Demo: https://www.increasetraffic.shop/voxai 
+
+With Vox AI, you can generate content on any topic using “Siri-Like” voice command & turn it to Audiobooks, Podcasts, or Voiceovers for VSL, TV Commercial, Webinars, Sales Videos, etc
+
+...   Publish To The Built-In Marketplace with 2.3M active users, Sell & Receive Instant Payments Via Multiple Methods, including Paypal, Stripe, Cards, and Bank Accounts…
+
+>> Click Here to Get Instant Access to Vox AI and Sell On Automation: https://www.increasetraffic.shop/voxai .
+
+Coupon Code - VOX5OFF (strictly for the first 12 people)
+
+Even if you are a newbie with zero knowledge… VoxAI is your best shot.
+
+You can easily Activate VoxAI in 3 simple steps & start your audiobook empire:
+
+Step 1: Login - Login to VoxAI Cloud-Bases App
+
+Step 2: Generate- Enter a Keyword, article, PDF, or even a URL… and VoxAI will turn them into a Full Audiobook or Podcast
+
+Step 3: Publish- publish your audiobooks on our built-in marketplace with 2.3 million active users.
+
+Step 4: Start Profiting as soon as you are done
+
+It is as simple as that.
+
+>> Get Lifetime Access Here: https://www.increasetraffic.shop/voxai 
+
+With Vox AI, you can…
+
+
+Create Your First Audiobook Within 2 Minutes
+Turn Any Article, Website, Url, PDF or Blog Into Audiobook, Podcast, VSL, Audio/Music Track…
+Create A Podcast With Human Voice Without Recording
+Choose From 660 Real Human Voices
+Create Voices In 80+ Different Languages
+Comes With 50+ Built-In AI Features That Will Make Your Life 100x Easier
+We Don’t Even Write Scripts, We Let AI Do It For Us.
+Publish Your AudioBook To Our Marketplace With 2.3 Million Active User
+Publish your AudioBook Or Podcast To (Spotify, Audible, Scribe)
+No Complicated Setup - Get Up And Running In 2 Minutes
+
+…All these, and many more without Paying Any Monthly Fee
+
+>> Click Here To Get Earlybird Access (Ends In 2 Hours From Now): https://www.increasetraffic.shop/voxai 
+
+Coupon Code - VOX5OFF (strictly for the first 12 people)
+
+
+And if you are lucky enough to be among the first 12 people, you will also get VIP access to my bonuses 
+
+>> Click here to get Lifetime access to VoxAI and start profiting from day one: https://www.increasetraffic.shop/voxai .
+
+Fair Warning - Go In Now To Avoid Paying Monthly Fee Later
+
+Kyla Cardenas
+
+
+
+
+UNSUBSCRIBE: https://www.increasetraffic.shop/unsubscribe/?d=proditelsas.com 
+Address: 1952 Hillcrest Lane
+Irvine, CA 92714
+. 
+
+
+--1733879623-eximdsn-506339976--

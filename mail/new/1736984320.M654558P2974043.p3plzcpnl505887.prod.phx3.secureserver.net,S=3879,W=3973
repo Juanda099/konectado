@@ -1,0 +1,94 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id KE76JQBHiGdbYS0A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 15 Jan 2025 16:38:40 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 15 Jan 2025 16:38:40 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tYCy8-00Cfco-1p
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 15 Jan 2025 16:38:40 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tYCy4-00Cfb9-0P@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1736984320-eximdsn-494710716
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tYCy8-00Cfco-1p@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 15 Jan 2025 16:38:40 -0700
+
+--1736984320-eximdsn-494710716
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 YCy8tpJLdAtiX :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Tf1stQQh c=1 sm=1 tr=0 ts=67884700 p=Ncma8SVjrhLdjx41uS0A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=UqCG9HQmAAAA:8 a=3ZKOabzyN94A:10 a=aSuwX8K3qSIA:10 a=zgiPjhLxNE0A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1736984320-eximdsn-494710716
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 YCy8tpJLdAtiX :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Tf1stQQh c=1 sm=1 tr=0 ts=67884700 p=Ncma8SVjrhLdjx41uS0A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=UqCG9HQmAAAA:8 a=3ZKOabzyN94A:10 a=aSuwX8K3qSIA:10 a=zgiPjhLxNE0A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1736984320-eximdsn-494710716
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tYCy4-00Cfb9-0P
+	for servicioalcliente@serkoi.com;
+	Wed, 15 Jan 2025 16:38:40 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tYCy4-00Cfb9-0P@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 15 Jan 2025 16:38:36 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Dana. 
+Correo: . 
+Telefono: 639683755. 
+Mensaje: Hi, This is Dana. I am a bookkeeper. I have expertise in Quickbooks, Wave, Xero, Freshbooks and Sage. I can categorize your transactions of incomes/expenses and can handle reconciliations of your different payment accounts like paypal, wise, business accounts etc. My rates are USD 20 per hour. 
+
+Reply me on bizassistance008@outlook.com to discuss further.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+
+--1736984320-eximdsn-494710716--

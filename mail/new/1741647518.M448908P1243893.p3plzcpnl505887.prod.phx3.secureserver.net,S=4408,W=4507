@@ -1,0 +1,99 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 6KiHGZ5uz2f1+hIA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 10 Mar 2025 15:58:38 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 10 Mar 2025 15:58:38 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1trm50-005Ut3-19
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 10 Mar 2025 15:58:38 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1trm4u-005UnG-12@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1741647518-eximdsn-1384462620
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1trm50-005Ut3-19@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 10 Mar 2025 15:58:38 -0700
+
+--1741647518-eximdsn-1384462620
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 rm50tTFbPviHt :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=FJ/hx/os c=1 sm=1 tr=0 ts=67cf6e9e p=iLWZ2E_OAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=Vs1iUdzkB0EA:10 a=IVWB-bgmoAxKxHdcunQA:9 a=3ZKOabzyN94A:10 a=P7kBwbCTx8Yzrb__yBjS:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1741647518-eximdsn-1384462620
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 rm50tTFbPviHt :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=FJ/hx/os c=1 sm=1 tr=0 ts=67cf6e9e p=iLWZ2E_OAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=Vs1iUdzkB0EA:10 a=IVWB-bgmoAxKxHdcunQA:9 a=3ZKOabzyN94A:10 a=P7kBwbCTx8Yzrb__yBjS:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1741647518-eximdsn-1384462620
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1trm4u-005UnG-12
+	for servicioalcliente@serkoi.com;
+	Mon, 10 Mar 2025 15:58:38 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1trm4u-005UnG-12@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 10 Mar 2025 15:58:32 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Osvaldo William. 
+Correo: . 
+Telefono: 8178383175. 
+Mensaje: Hey Proditelsas,
+
+I just stumbled upon something that should not be possibleâ€¦ but it is.
+
+Thereâ€™s a secret website thatâ€™s quietly paying people $49 again and again for doing something so simple, it almost feels illegal.
+
+What is it?
+
+â†’ Just upload a simple PDFâ€¦ and you get PAID. í ¾í´¯
+No selling. No social media. No writing. No headaches.
+
+The craziest part? You donâ€™t even need to create these PDFs yourself!
+
+My friend Glynn and his students have been using this method to quietly rake in hundreds per day, while everyone else is busy chasing the latest social media fads.
+
+Now, for a limited time, theyâ€™re revealing the exact system that turns PDFs into pure profit.
+
+í ½íº€ Click here to watch how it works before itâ€™s gone >> https://pdf-profit-machine.blogspot.com
+
+This is hands-down the easiest online income stream of 2025. Donâ€™t miss it!
+
+To Your Success, 
+[Osvaldo William]. 
+
+
+--1741647518-eximdsn-1384462620--

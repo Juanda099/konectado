@@ -1,0 +1,129 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id CJMtD3Z4YmepPhYA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 18 Dec 2024 00:23:34 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 18 Dec 2024 00:23:34 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tNoP8-0069YD-0c
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 18 Dec 2024 00:23:34 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tNoOu-0069IW-2x@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1734506614-eximdsn-1489840359
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tNoP8-0069YD-0c@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 18 Dec 2024 00:23:34 -0700
+
+--1734506614-eximdsn-1489840359
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 NoP8tUTf6ziwv :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Moqo63ae c=1 sm=1 tr=0 ts=67627876 p=ifcfOZSfXopnNBkvE3cA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=RZcAm9yDv7YA:10 a=WfbHnZbdAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=IfkkEA1PoG1LQijzXGxd:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1734506614-eximdsn-1489840359
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 NoP8tUTf6ziwv :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Moqo63ae c=1 sm=1 tr=0 ts=67627876 p=ifcfOZSfXopnNBkvE3cA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=RZcAm9yDv7YA:10 a=WfbHnZbdAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=IfkkEA1PoG1LQijzXGxd:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1734506614-eximdsn-1489840359
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tNoOu-0069IW-2x
+	for servicioalcliente@serkoi.com;
+	Wed, 18 Dec 2024 00:23:34 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tNoOu-0069IW-2x@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 18 Dec 2024 00:23:20 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Tamara Fugate. 
+Correo: . 
+Telefono: 070 0230 3734. 
+Mensaje: 
+The time, effort, and money needed to launch a profitable online business feel like mountains too high to climb.
+
+What if I told you thereâ€™s now a way to bypass all that hassle and get started in minutes?
+
+Enter EBBuddyâ€”a game-changing, AI-powered app that takes all the hard work out of the equation.
+
+With EBBuddy, you can create a fully functional online ebook store in just a few clicks: https://www.greatbusi.info/ebbuddy .
+
+No coding, no designing, no endless hours spent figuring things out.
+
+Itâ€™s beginner-friendly, lightning-fast, and ready to help you start earning right away.
+
+Hereâ€™s what makes EBBuddy so powerful:
+
+Preloaded Store: Instantly get access to 10,000+ ebooks in the most popular genres.
+
+AI Ebook Maker: Create and sell your own ebooks in seconds with just a few clicks.
+
+Seamless Payment Integration: Easily connect PayPal, Stripe, and more to start collecting payments.
+
+Unlimited Sales: Sell as many ebooks as you want with no restrictions.
+
+Discount Coupons: Create unlimited coupon codes to boost your sales.
+
+100% Beginner-Friendly: No skills or experience needed to get started.
+
+Stop dreaming about making money online and take action today.
+
+Click here to get instant access to EBBuddy now: https://www.greatbusi.info/ebbuddy !
+
+í ½í±‰ Start Your Ebook Business Today 
+
+Donâ€™t wait for the perfect momentâ€”it doesnâ€™t exist.       The right time to start your online business is now.
+
+EBBuddy makes it easier than ever to launch your own ebook store and tap into the booming digital market.
+
+With a 30-day money-back guarantee and an exclusive 30 reseller license bonus for early action-takers, thereâ€™s zero risk in giving it a try.
+
+So why wait?
+
+Click below and turn your dream of running an online business into reality today: https://www.greatbusi.info/ebbuddy !
+
+Claim Your Spot Now Before This Offer Ends!
+
+
+Tamara Fugate
+
+
+
+UNSUBSCRIBE: https://www.greatbusi.info/unsubscribe/?d=proditelsas.com  
+Address: 3284 Thrash Trail
+Longview, TX 75601. 
+
+
+--1734506614-eximdsn-1489840359--

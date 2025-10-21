@@ -1,0 +1,88 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 8HSFJPARHGcGkw0A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 25 Oct 2024 14:47:28 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 25 Oct 2024 14:47:28 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1t4S9Y-003mSy-1T
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 25 Oct 2024 14:47:28 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1t4S9D-003mOl-0B@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1729892848-eximdsn-780667539
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t4S9Y-003mSy-1T@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 25 Oct 2024 14:47:28 -0700
+
+--1729892848-eximdsn-780667539
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 4S9YtZCpgewK9 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=TOyOSEla c=1 sm=1 tr=0 ts=671c11f0 p=2OyfdQKWefueP60qnqKg:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=DrKs9E0sAAAA:20 a=zL8FPWgCV2dEKIwrEtgA:9 a=3ZKOabzyN94A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1729892848-eximdsn-780667539
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 4S9YtZCpgewK9 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=TOyOSEla c=1 sm=1 tr=0 ts=671c11f0 p=2OyfdQKWefueP60qnqKg:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=DrKs9E0sAAAA:20 a=zL8FPWgCV2dEKIwrEtgA:9 a=3ZKOabzyN94A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1729892848-eximdsn-780667539
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1t4S9D-003mOl-0B
+	for servicioalcliente@serkoi.com;
+	Fri, 25 Oct 2024 14:47:28 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 37.218.214.209
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 37.218.214.209
+From:
+Message-Id: <E1t4S9D-003mOl-0B@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 25 Oct 2024 14:47:07 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Miranda m. 
+Correo: . 
+Telefono: 3336035572. 
+Mensaje: Hey,
+Noticed that your site isn’t ranking on the first page of Google. Are you currently doing anything to address that?
+I specialize in helping website like yours rank on the first page within 90 days through proven SEO strategies—or you don’t pay.
+We just helped Nile Cruisers get to the first search result when someone searches for “cruise in newyork”
+Check out my Fiverr profile for more details: https://bit.ly/monthlyseo-miranda
+Let me know if you’d like to discuss further!
+
+Best,
+Miranda
+SEO Expert. 
+
+
+--1729892848-eximdsn-780667539--

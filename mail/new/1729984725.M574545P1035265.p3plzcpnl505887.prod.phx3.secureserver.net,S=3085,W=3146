@@ -1,0 +1,61 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id CEgMIdV4HWcBzA8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 26 Oct 2024 16:18:45 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 26 Oct 2024 16:18:45 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1t4q3R-004M2q-1X
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 26 Oct 2024 16:18:45 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1t4q3G-004M09-1K@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1t4q3R-004M2q-1X@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 26 Oct 2024 16:18:45 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1t4q3G-004M09-1K
+	for servicioalcliente@serkoi.com;
+	Sat, 26 Oct 2024 16:18:34 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.143.250.50
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.143.250.50
+From:
+Message-Id: <E1t4q3G-004M09-1K@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 26 Oct 2024 16:18:34 -0700
+
+De: Ryder Thibeault. 
+Correo: . 
+Telefono: +13522173320. 
+Mensaje: hi, I found your website on Google Maps and I have to mention that its not really set up properly. I think you’re missing out on a ton of leads by not running a few simple tweaks that could really help. Good news, I created a course that’ll get you set up in just one and a half hours.
+
+I also saw that your page seo could use some attention. Here's the deal , if you grab my course on configuring Google Maps for 27 bucks, I’ll throw in a detailed SEO report made for your website at no extra charge. It s a perfect opportunity, you fix the maps and the SEO at the same time.
+
+When you purchase the course, just hit reply on the confirmation email and say “Hey I want the SEO analysis for my site: [yourwebsite.com] ” I will get that to you in two to three days.
+
+Get the course here: www.unlimitedclientengine.com
+
+PS: My actual phone number doesnt end with a zero, it ends with a seven. This is just to check if you finished reading my message. 
+
+JP, at
+Unlimited Client Engine
++1 (352) 217 3320
+www.unlimitedclientsengine.com
+. 
+

@@ -1,0 +1,136 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id AEzJDbgwFWRuNRsAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Fri, 17 Mar 2023 20:32:08 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Fri, 17 Mar 2023 20:32:08 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pdNIe-007UGe-3X
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Fri, 17 Mar 2023 20:32:08 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pdNIY-007U5l-Vk@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1679110328-eximdsn-737333434
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pdNIe-007UGe-3X@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 17 Mar 2023 20:32:08 -0700
+
+--1679110328-eximdsn-737333434
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 dNIep1qqHy0IM :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=DbjR6NhW c=1 sm=1 tr=0 ts=641530b8 p=mNq-vwxjAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=k__wU0fu6RkA:10 a=Ue-3a1qzrzT8yoXOP1QA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=T490zlSRdlj8Y2eklEMU:22 a=UrrLb6Jc4kiDdaXsUzPz:22 ::
+    100.00
+
+--1679110328-eximdsn-737333434
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 dNIep1qqHy0IM :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=DbjR6NhW c=1 sm=1 tr=0 ts=641530b8 p=mNq-vwxjAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=k__wU0fu6RkA:10 a=Ue-3a1qzrzT8yoXOP1QA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=T490zlSRdlj8Y2eklEMU:22 a=UrrLb6Jc4kiDdaXsUzPz:22 :: 100.00
+
+--1679110328-eximdsn-737333434
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pdNIY-007U5l-Vk
+	for servicioalcliente@serkoi.com;
+	Fri, 17 Mar 2023 20:32:07 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.82.110.181
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.82.110.181
+From:
+Message-Id: <E1pdNIY-007U5l-Vk@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 17 Mar 2023 20:32:02 -0700
+
+De: Esperanza Leech. 
+Correo: . 
+Telefono: . 
+Mensaje: Hey,
+
+Did you know that you're just ONE click away from the opportunity to win a whopping $10,000 CASH? That's right, we're giving YOU the chance to score some serious moolah with our FREE sweepstakes, and entering couldn't be simpler! Ì†æÌ¥ë
+
+Imagine what you could do with that kind of cash... a dream vacation, a home renovation, or even just the peace of mind of having a little extra financial security. Ì†ΩÌ≤≠Ì†ºÌøùÔ∏èÌ†ºÌø°
+
+Here's how you can enter:
+
+1Ô∏è‚É£ Click on this EXCLUSIVE link:  www.mdmfreesweeps.com  (it takes less than 30 seconds!)
+2Ô∏è‚É£ Fill in your basic information (we promise to keep it safe and secure)
+3Ô∏è‚É£ Hit the "Submit" button and you're in! Ì†ºÌæâ
+
+But act fast, because this incredible opportunity won't last forever! You've only got until 3/31/23 to enter and stand a chance at winning the $10,000 prize.
+
+Remember, you've got to be in it to win it, and with absolutely nothing to lose, why not give it a shot? Your future self might just thank you for taking a chance today. Ì†ΩÌπå
+
+Still on the fence? Consider this:
+
+‚úÖ It's 100% FREE to enter ‚Äì no purchase necessary
+‚úÖ It only takes 30 seconds to complete your entry
+‚úÖ You can share the excitement with friends and family
+
+So, what are you waiting for? Click the link below to enter our $10,000 sweepstakes NOW:
+
+Ì†ΩÌ±â www.mdmfreesweeps.com Ì†ΩÌ±à
+
+Good luck, and we hope to be sending you a BIG check very soon! Ì†ºÌΩÄÌ†ΩÌ≤∏
+
+To your success,
+
+Esperanza Leech
+My Daily Moment, LLC
+
+
+P.S. Don't let this chance slip away! Enter now and secure your shot at that life-changing $10,000 prize. There's no time like the present ‚Äì click here: www.mdmfreesweeps.com Ì†ΩÌ∫Ä
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To unsubscribe from any future martketing messages, please reply with "UNSUBSCRIBE" in the subject line:
+
+1207 Delaware Ave, SUITE 349
+. 
+
+
+--1679110328-eximdsn-737333434--

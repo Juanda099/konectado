@@ -1,0 +1,94 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 8NQXClKvL2d3xDYA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 09 Nov 2024 11:52:02 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 09 Nov 2024 11:52:02 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1t9qZ0-00FNc5-0K
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 09 Nov 2024 11:52:02 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1t9qYv-00FNRh-0R@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1731178322-eximdsn-1888503253
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t9qZ0-00FNc5-0K@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 09 Nov 2024 11:52:02 -0700
+
+--1731178322-eximdsn-1888503253
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 9qYztCIAHy41A :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=B+tD0PtM c=1 sm=1 tr=0 ts=672faf52 p=xBhNcKoIbcJTG0Tq3v_a:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=VlfZXiiP6vEA:10 a=UqCG9HQmAAAA:8 a=elp9WpHv8g0P9YpdGrwA:9 a=3ZKOabzyN94A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1731178322-eximdsn-1888503253
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 9qYztCIAHy41A :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=B+tD0PtM c=1 sm=1 tr=0 ts=672faf52 p=xBhNcKoIbcJTG0Tq3v_a:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=VlfZXiiP6vEA:10 a=UqCG9HQmAAAA:8 a=elp9WpHv8g0P9YpdGrwA:9 a=3ZKOabzyN94A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1731178322-eximdsn-1888503253
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1t9qYv-00FNRh-0R
+	for servicioalcliente@serkoi.com;
+	Sat, 09 Nov 2024 11:52:01 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 138.199.59.53
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 138.199.59.53
+From:
+Message-Id: <E1t9qYv-00FNRh-0R@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 09 Nov 2024 11:51:57 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Sam. 
+Correo: . 
+Telefono: 629904533. 
+Mensaje: My name is Sam. I provide data entry services starting from $6 USD per hour. I can handle any computer-related task that is repetitive in nature, such as entering data into software, collecting data, bookkeeping, copy-paste work, uploading content to websites, and following your business processes. I can also transcribe handwritten or scanned documents, update and maintain customer databases, cleanse and validate data, enter survey results and feedback, manage and update inventories, process invoices and receipts, create and update spreadsheets, input product details into e-commerce platforms, digitize paper records, manage email lists and contact information, perform data mining and extraction from websites, compile and organize data from various sources. You can outsource your entire business process to me, where tasks can be done remotely using a computer. I can learn your process and work on any software accordingly. 
+
+Reach out to me at Hireonline556600@outlook.com if you have any requirements and we can take a quick call
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+
+--1731178322-eximdsn-1888503253--

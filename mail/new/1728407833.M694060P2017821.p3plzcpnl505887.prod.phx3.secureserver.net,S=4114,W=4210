@@ -1,0 +1,96 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 8C80KRlpBWcdyh4A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 08 Oct 2024 10:17:13 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 08 Oct 2024 10:17:13 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1syDph-008Tfc-22
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 08 Oct 2024 10:17:13 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1syDpR-008TNL-0g@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1728407833-eximdsn-1833006413
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1syDph-008Tfc-22@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 08 Oct 2024 10:17:13 -0700
+
+--1728407833-eximdsn-1833006413
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 yDphssmjythvh :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=W9LzVgWk c=1 sm=1 tr=0 ts=67056919 p=5p8xtQFOAAAA:8 p=Z9-Wk_PG1YUeq-UpmZkA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=Qr0TBZJ3P-lduzo34GPT:22 a=qP4i5zTepnTHIQvxhUzO:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1728407833-eximdsn-1833006413
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 yDphssmjythvh :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=W9LzVgWk c=1 sm=1 tr=0 ts=67056919 p=5p8xtQFOAAAA:8 p=Z9-Wk_PG1YUeq-UpmZkA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=Qr0TBZJ3P-lduzo34GPT:22 a=qP4i5zTepnTHIQvxhUzO:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1728407833-eximdsn-1833006413
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1syDpR-008TNL-0g
+	for servicioalcliente@serkoi.com;
+	Tue, 08 Oct 2024 10:17:13 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 185.54.231.67
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 185.54.231.67
+From:
+Message-Id: <E1syDpR-008TNL-0g@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 08 Oct 2024 10:16:57 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Binil Muthu. 
+Correo: . 
+Telefono: +1 2184164973. 
+Mensaje: Hi,
+
+We are offering the following services
+
+Video Editing & Animation
+Website Design & Development 
+Graphic Design 
+SEO & Content writing
+Digital Marketing
+Admin Support Services
+Email/Chat Customer Support
+
+
+Let's chat about how we can help you achieve your marketing goals. Feel free to share more details about your project, and we'll provide a personalized solution.
+
+Best regards,
+Binil Muthu
+CEO of brownsofts.com. 
+
+
+--1728407833-eximdsn-1833006413--

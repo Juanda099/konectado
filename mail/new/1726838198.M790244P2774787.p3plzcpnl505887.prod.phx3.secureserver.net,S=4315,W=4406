@@ -1,0 +1,91 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id KFLtLrZ17WYDVyoA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 20 Sep 2024 06:16:38 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 20 Sep 2024 06:16:38 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1srdV0-00BeSw-2L
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 20 Sep 2024 06:16:38 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1srdUm-00BeDK-1J@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1726838198-eximdsn-1983069751
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1srdV0-00BeSw-2L@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 20 Sep 2024 06:16:38 -0700
+
+--1726838198-eximdsn-1983069751
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 rdV0sjzwgDpcJ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=E4UGprdl c=1 sm=1 tr=0 ts=66ed75b6 p=XdUR5hlTO2Fakm8iSFgA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=oJ8BkQBJAAAA:8 a=zgiPjhLxNE0A:10 a=IINThOlISvQhCq9rX22Y:22 a=MlqYAUU6v30A04NNkfvc:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1726838198-eximdsn-1983069751
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 rdV0sjzwgDpcJ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=E4UGprdl c=1 sm=1 tr=0 ts=66ed75b6 p=XdUR5hlTO2Fakm8iSFgA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=oJ8BkQBJAAAA:8 a=zgiPjhLxNE0A:10 a=IINThOlISvQhCq9rX22Y:22 a=MlqYAUU6v30A04NNkfvc:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1726838198-eximdsn-1983069751
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1srdUm-00BeDK-1J
+	for servicioalcliente@serkoi.com;
+	Fri, 20 Sep 2024 06:16:38 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 84.17.47.104
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 84.17.47.104
+From:
+Message-Id: <E1srdUm-00BeDK-1J@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 20 Sep 2024 06:16:24 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Husam Orabi. 
+Correo: . 
+Telefono: 84936182819. 
+Mensaje: Hello, 
+ 
+I am Husam Orabi, Qatari Investors Group's chief business development and delivery officer. We offer loans and credit facilities at a small interest rate for ten years and a moratorium of up to two years. 
+We also finance profit-oriented projects and businesses. We understand that each business is unique, so let us know what you need for your business, and we will tailor our financing to suit your specific requirements. 
+ 
+Regards, 
+ 
+Husam Orabi 
+CHIEF BUSINESS DEVELOPMENT & DELIVERY OFFICER 
+ 
+Mobile: +971524239312 
+Whatsapp: +971524239312 
+husam@qatarinvestors-group.com. 
+
+
+--1726838198-eximdsn-1983069751--

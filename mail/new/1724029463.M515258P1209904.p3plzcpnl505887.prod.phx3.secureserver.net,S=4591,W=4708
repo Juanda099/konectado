@@ -1,0 +1,117 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id QOfwHReawmYwdhIA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 18 Aug 2024 18:04:23 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 18 Aug 2024 18:04:23 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sfqop-0054kU-1P
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 18 Aug 2024 18:04:23 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sfqod-0054i0-1U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1724029463-eximdsn-516892203
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sfqop-0054kU-1P@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 18 Aug 2024 18:04:23 -0700
+
+--1724029463-eximdsn-516892203
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 fqopsjf4gyykd :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Qfqtvdbv c=1 sm=1 tr=0 ts=66c29a17 p=8cCDjZ-2AAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=2l6TJDT3AAAA:8 a=sd2WS4MgwNiNiHKLvWoA:9 a=QsrFa7f7dCRzTmPvmoR_:22 a=FZOdLoyxEykclgwQ9gd_:22 a=FS6ca8Crnar_1wlNRrMM:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1724029463-eximdsn-516892203
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 fqopsjf4gyykd :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Qfqtvdbv c=1 sm=1 tr=0 ts=66c29a17 p=8cCDjZ-2AAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=2l6TJDT3AAAA:8 a=sd2WS4MgwNiNiHKLvWoA:9 a=QsrFa7f7dCRzTmPvmoR_:22 a=FZOdLoyxEykclgwQ9gd_:22 a=FS6ca8Crnar_1wlNRrMM:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1724029463-eximdsn-516892203
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sfqod-0054i0-1U
+	for servicioalcliente@serkoi.com;
+	Sun, 18 Aug 2024 18:04:23 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 195.138.126.174
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 195.138.126.174
+From:
+Message-Id: <E1sfqod-0054i0-1U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 18 Aug 2024 18:04:11 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Tressa Winn. 
+Correo: . 
+Telefono: 07051 56 25 89. 
+Mensaje: Please read this carefully if you are interested in growing your business.
+
+I'm looking to work with 5-10 businesses where we will create quality online marketing content for your business for free. This information will be used on the biggest and best
+
+traffic sources companies like amazon, Walmart, eBay and many local businesses have successfully used.
+
+In exchange we are looking for a testimonial and a referral if you like what happens. 
+
+Checkout the site below to learn about this unique service.
+
+https://capstonemediamash.clientcabin.com
+
+Please do not wait, the last time we did something like this the spots were taken quickly.
+
+Send a message to: eric@capstonemediamash.com
+
+Subject: I'm interested
+Message: the name of your local business with your contact information.
+
+Thanks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+
+--1724029463-eximdsn-516892203--

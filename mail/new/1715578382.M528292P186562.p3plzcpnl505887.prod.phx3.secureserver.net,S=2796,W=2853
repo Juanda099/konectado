@@ -1,0 +1,57 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id ALk8Hg6mQWbC2AIA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 12 May 2024 22:33:02 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 12 May 2024 22:33:02 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1s6OJ4-001Ivl-1O
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 12 May 2024 22:33:02 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1s6OJ0-001Ije-0J@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1s6OJ4-001Ivl-1O@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 12 May 2024 22:33:02 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1s6OJ0-001Ije-0J
+	for servicioalcliente@serkoi.com;
+	Sun, 12 May 2024 22:32:58 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 45.130.202.37
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 45.130.202.37
+From:
+Message-Id: <E1s6OJ0-001Ije-0J@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 12 May 2024 22:32:58 -0700
+
+De: Tina Coats. 
+Correo: . 
+Telefono: 890271148. 
+Mensaje: > Sorry to be a bother, but I was informed that you have either a Residential or Business debt to pay off.
+>
+> When this is true, we at Cancel1Mortgage.info guarantee your debt will be paid off/Discharged/Extinguished in 14 days when you follow our Client Instructions.
+>
+> Please visit Cancel1Mortgage.info today and order your debt removal securities Processing now which is 100% legal and ordered by courts to be debt payment.
+>
+> Thank you for your business and for extinguishing your debt through Cancel1Mortgage.info when you decide to use our very successful registered Promissory Note securities to pay off your debt in 14 days Guaranteed.
+>
+> You may also contact me, David Young de God, through SKYPE with dayglobal..
+>
+> Thank you again for reading... 
+

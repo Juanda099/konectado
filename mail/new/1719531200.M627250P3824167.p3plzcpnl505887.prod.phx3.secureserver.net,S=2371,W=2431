@@ -1,0 +1,60 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id kCg7JcD2fWYnWjoA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 27 Jun 2024 16:33:20 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 27 Jun 2024 16:33:20 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sMycC-00G2rm-1n
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 27 Jun 2024 16:33:20 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sMyc2-00G2pa-32@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sMycC-00G2rm-1n@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 27 Jun 2024 16:33:20 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sMyc2-00G2pa-32
+	for servicioalcliente@serkoi.com;
+	Thu, 27 Jun 2024 16:33:10 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 103.175.99.1
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 103.175.99.1
+From:
+Message-Id: <E1sMyc2-00G2pa-32@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 27 Jun 2024 16:33:10 -0700
+
+De: addictionrecovery. 
+Correo: . 
+Telefono: . 
+Mensaje: Struggling with addiction? You're not alone. 
+ 
+Get a personalized treatment plan for lasting recovery. 
+ 
+-Compassionate care 
+-Individualized programs 
+-Evidence-based methods 
+-Holistic approach 
+ 
+Start your journey to a healthier you. 
+ 
+Confidentiality assured, click for more information now: 
+ 
+https://novacodex.site/addiction.html. 
+

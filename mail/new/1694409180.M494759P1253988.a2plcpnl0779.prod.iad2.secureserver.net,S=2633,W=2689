@@ -1,0 +1,56 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id HfG0G9yh/mRkIhMAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sun, 10 Sep 2023 22:13:00 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sun, 10 Sep 2023 22:13:00 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qfZEK-005GDO-AA
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sun, 10 Sep 2023 22:13:00 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qfZEF-005G9D-7T@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1qfZEK-005GDO-AA@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 10 Sep 2023 22:13:00 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qfZEF-005G9D-7T
+	for servicioalcliente@serkoi.com;
+	Sun, 10 Sep 2023 22:12:55 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 123.138.214.150
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 123.138.214.150
+From:
+Message-Id: <E1qfZEF-005G9D-7T@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 10 Sep 2023 22:12:55 -0700
+
+De: Lashay Steel. 
+Correo: . 
+Telefono: 077 2030 4940. 
+Mensaje: Are you ready to take control of your financial future and explore the world of online income generation? If so, we have an exciting opportunity tailored just for you!
+
+Don’t miss out: https://rdar.li/freewebinar
+
+In today's digital age, the avenues for creating sustainable income streams from the comfort of your own home are more accessible than ever before. Whether you're looking to supplement your current earnings or transition to a fully remote income, this seminar is designed to provide you with invaluable insights and strategies.
+It is 100% free you have nothing to lose and money to gain.
+
+https://rdar.li/freewebinar
+
+. 
+

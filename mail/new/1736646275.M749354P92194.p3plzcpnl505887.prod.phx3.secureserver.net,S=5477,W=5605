@@ -1,0 +1,128 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id MN+NK4Meg2ciaAEA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 11 Jan 2025 18:44:35 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 11 Jan 2025 18:44:35 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tWn1n-000RyT-2A
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 11 Jan 2025 18:44:35 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tWn1d-000Rig-19@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1736646275-eximdsn-202317247
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tWn1n-000RyT-2A@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 11 Jan 2025 18:44:35 -0700
+
+--1736646275-eximdsn-202317247
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Wn1ntnarm4Jd3 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=cIsaskeN c=1 sm=1 tr=0 ts=67831e83 p=J_6GPAh8AAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=JttUxviWGSPImvJDVToA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=Rs6WJNaaI7vqF0WlzYVz:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1736646275-eximdsn-202317247
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Wn1ntnarm4Jd3 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=cIsaskeN c=1 sm=1 tr=0 ts=67831e83 p=J_6GPAh8AAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=JttUxviWGSPImvJDVToA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=Rs6WJNaaI7vqF0WlzYVz:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1736646275-eximdsn-202317247
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tWn1d-000Rig-19
+	for servicioalcliente@serkoi.com;
+	Sat, 11 Jan 2025 18:44:35 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tWn1d-000Rig-19@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 11 Jan 2025 18:44:25 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Mary Gamble. 
+Correo: . 
+Telefono: 070 3794 8599. 
+Mensaje: Hey proditelsas.com,
+
+Think about the influencers you see daily‚Äîmillions of views, endless sponsorships, and a lifestyle most people only dream of.
+
+Now imagine this: You could have all that‚Ä¶ without showing your face or spending a dime on ads.
+
+With LucidFluencerAI, the future of influencer marketing is now at your fingertips:
+
+Ì†ºÌºü Create Influencers Instantly: Build lifelike virtual personalities in just a few clicks.
+
+Ì†ºÌºü Go Viral Effortlessly: Generate content that captivates and drives engagement.
+
+Ì†ºÌºü Earn 24/7: Your influencers work around the clock, promoting, selling, and growing your business. (Of course, you can also drive tons of traffic to your website)
+
+Plus, you‚Äôll receive $4,785 worth of bonuses when you act today:
+
+Ì†ºÌæÅ Viral Content Blueprint ‚Äì Learn how to make your content trend: https://www.increasetraffic.shop/lucidfluencera .
+
+Ì†ºÌæÅ Influencer Deal Vault ‚Äì Direct access to big-brand sponsorships.
+
+Ì†ºÌæÅ Zero-to-Hero Workshop ‚Äì Quick-start training for instant results.
+
+Ì†ºÌæÅ Profit Accelerator Guide ‚Äì Monetization secrets for maximum profit.
+
+Ì†ºÌæÅ AI-Driven Trend Finder Tool ‚Äì Stay ahead of market trends.
+
+Why wait?  This isn‚Äôt just about creating influencers‚Äîit‚Äôs about creating freedom:
+
+Freedom from exhausting jobs.
+
+Freedom to make money on your terms.
+
+Freedom to live the life you‚Äôve always dreamed of.
+
+‚è≥ But remember, this opportunity won‚Äôt last forever.  Licenses are limited, and time is ticking.
+
+Ì†ΩÌ±â Take control of your future now.
+
+Click Here to Start Your Journey: https://www.increasetraffic.shop/lucidfluencera !
+
+Your success story is waiting, proditelsas.com.  Let‚Äôs make it happen!
+
+To your bright future,
+
+Mary Gamble
+
+
+
+UNSUBSCRIBE: https://www.increasetraffic.shop/unsubscribe/?d=proditelsas.com 
+Address: 3502 College Street
+Atlanta, GA 30340
+. 
+
+
+--1736646275-eximdsn-202317247--

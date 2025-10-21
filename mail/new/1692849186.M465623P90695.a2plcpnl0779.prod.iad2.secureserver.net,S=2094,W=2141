@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id sKqYGyLU5mRHYgEAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Wed, 23 Aug 2023 20:53:06 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Wed, 23 Aug 2023 20:53:06 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qZ1P8-000Ns1-At
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Wed, 23 Aug 2023 20:53:06 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qZ1P3-000Neo-7h@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1qZ1P8-000Ns1-At@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 23 Aug 2023 20:53:06 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qZ1P3-000Neo-7h
+	for servicioalcliente@serkoi.com;
+	Wed, 23 Aug 2023 20:53:01 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 46.246.122.110
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 46.246.122.110
+From:
+Message-Id: <E1qZ1P3-000Neo-7h@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 23 Aug 2023 20:53:01 -0700
+
+De: JeromeSIz. 
+Correo: . 
+Telefono: 87548462718. 
+Mensaje: More than 1,000,000 potential customers for your business http://best-smm-8642.oha-chatbot.xyz/product. 
+

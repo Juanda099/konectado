@@ -1,0 +1,62 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id /amdEUFIW2Q8vyAAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Wed, 10 May 2023 00:31:13 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Wed, 10 May 2023 00:31:13 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pweI5-0090IV-4e
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Wed, 10 May 2023 00:31:13 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pweI0-0090Hd-BA@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1pweI5-0090IV-4e@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 10 May 2023 00:31:13 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pweI0-0090Hd-BA
+	for servicioalcliente@serkoi.com;
+	Wed, 10 May 2023 00:31:08 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 84.17.60.13
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 84.17.60.13
+From:
+Message-Id: <E1pweI0-0090Hd-BA@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 10 May 2023 00:31:08 -0700
+
+De: Mike James
+. 
+Correo: . 
+Telefono: 82333548924. 
+Mensaje: Greetings 
+ 
+I have just took an in depth look on your  proditelsas.com for the current onsite SEO status and saw that your website has a handful of issues which should be addressed. 
+ 
+No matter what you are offering or selling, having a poor optimized site, full of bugs and errors, will never help your ranks. 
+ 
+Let us fix your wordpress site errors today and get your ranks reach their full potential 
+ 
+More info: 
+https://www.digital-x-press.com/product/wordpress-seo-audit-and-fix-service/ 
+ 
+ 
+Regards 
+Mike James
+. 
+

@@ -1,0 +1,95 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id kESPMi93AGjGHAwA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 16 Apr 2025 20:36:15 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 16 Apr 2025 20:36:15 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1u5G2x-003e6Z-2U
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 16 Apr 2025 20:36:15 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1u5G2l-003duh-26@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1744860975-eximdsn-1823955161
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1u5G2x-003e6Z-2U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 16 Apr 2025 20:36:15 -0700
+
+--1744860975-eximdsn-1823955161
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 5G2xuGqDdGQzw :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Js4LrN4C c=1 sm=1 tr=0 ts=6800772f p=9D4-zZpJAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=qCY23Ui108OPCsAaF6MA:9 a=3ZKOabzyN94A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1744860975-eximdsn-1823955161
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 5G2xuGqDdGQzw :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Js4LrN4C c=1 sm=1 tr=0 ts=6800772f p=9D4-zZpJAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=qCY23Ui108OPCsAaF6MA:9 a=3ZKOabzyN94A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1744860975-eximdsn-1823955161
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1u5G2l-003duh-26
+	for servicioalcliente@serkoi.com;
+	Wed, 16 Apr 2025 20:36:15 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1u5G2l-003duh-26@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 16 Apr 2025 20:36:03 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Claudine Fleming. 
+Correo: . 
+Telefono: 12345678. 
+Mensaje: Hi,
+
+Your brand deserves to stand out, and we’re here to help.
+
+At Global Wide PR, we specialize in connecting businesses with top media platforms to increase visibility and credibility. As a gesture to get started, we’re offering a free article on Digital Journal—a great way to showcase your business to a wider audience.
+
+For those looking to maximize exposure, we can also feature your brand on affiliates of FOX, NBC, CBS, ABC, and 300+ other sites for just $297. These placements can help you build trust and attract new customers.
+
+To take advantage of this opportunity, click the link below to sign up on our site, and we’ll get back to you ASAP:
+https://bit.ly/gwidepressrelease
+
+Looking forward to helping your brand shine!
+
+Best regards,
+Claudine
+Global Wide PR
+
+
+We respect that you may wish to unsubscribe. To unsubscribe from our list, please complete the unsubscribe form with your website address: bit. ly/unsubscribemeurl. 
+
+
+--1744860975-eximdsn-1823955161--

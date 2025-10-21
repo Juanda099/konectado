@@ -1,0 +1,109 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id QCYTDowCmWfvTTkA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 28 Jan 2025 09:15:08 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 28 Jan 2025 09:15:08 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tcoF2-00FxOe-0Y
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 28 Jan 2025 09:15:08 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tcoEn-00Fx5J-1l@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1738080908-eximdsn-638454194
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tcoF2-00FxOe-0Y@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 28 Jan 2025 09:15:08 -0700
+
+--1738080908-eximdsn-638454194
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 coF1tqgky7Al7 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=YYtH5xRf c=1 sm=1 tr=0 ts=6799028c p=T974I8yXAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=U9ElBzHjhAQ_-IiVdIsA:9 a=3ZKOabzyN94A:10 a=N6-I8Ea9CUgA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1738080908-eximdsn-638454194
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 coF1tqgky7Al7 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=YYtH5xRf c=1 sm=1 tr=0 ts=6799028c p=T974I8yXAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=U9ElBzHjhAQ_-IiVdIsA:9 a=3ZKOabzyN94A:10 a=N6-I8Ea9CUgA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1738080908-eximdsn-638454194
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tcoEn-00Fx5J-1l
+	for servicioalcliente@serkoi.com;
+	Tue, 28 Jan 2025 09:15:07 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tcoEn-00Fx5J-1l@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 28 Jan 2025 09:14:53 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Denny Poe. 
+Correo: . 
+Telefono: 740032287. 
+Mensaje: Hello!
+
+
+
+Are you ready to experience the magic of love? í ¼í¼Ÿ Discover a world of magic and enchantment at [We Love Spells](https://bit.ly/3wxgcBO).
+
+
+
+Imagine a place where happiness is abundant and personal growth is part of the journey. Our expert, Belinda, a master spell caster, combines her mastery in spell work and Wiccan arts to offer magical solutions to life's love complexities.
+
+
+
+Why wait for love to find you? Your path to a fulfilling love life is just a click away. When you choose our services, you'll receive a full update of your spell, including:
+
+
+- **Materials included**
+- **Mantras recited**
+- **Photographs of the ritual**
+- **A quick video**
+
+
+
+Join us in this enchanting world and see how Belinda's spells can brighten your relationships.
+
+
+**Curious to learn more?
+** [Click here to explore our spells](https://bit.ly/3wxgcBO) and take the first step toward the love you deserve.
+
+**Best regards,
+**
+
+*The We Love Spells Team*
+. 
+
+
+--1738080908-eximdsn-638454194--

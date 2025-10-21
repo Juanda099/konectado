@@ -1,0 +1,81 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id ulcQMnL1hGbdajkA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 02 Jul 2024 23:53:38 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 02 Jul 2024 23:53:38 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sOts2-00Fmtz-2T
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 02 Jul 2024 23:53:38 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sOtro-00FmcX-0I@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1719989618-eximdsn-1277282908
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sOts2-00Fmtz-2T@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 02 Jul 2024 23:53:38 -0700
+
+--1719989618-eximdsn-1277282908
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Ots2suj3nP0G4 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=CoR0cW4D c=1 sm=1 tr=0 ts=6684f572 p=wdt_bAEOAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=4kmOji7k6h8A:10 a=yjDej3UDOzOyKX-iDrkA:9 a=3ZKOabzyN94A:10 a=aeuXFvzKnbQA:10 a=IawXvI9lP1MA:10 a=c4E1Utok8y0A:10 a=ZZgnsCBwdd4A:10 a=cb8nXEM10HwA:10 a=X5YitoijTLEA:10 a=iqHzOOfzW75cOUY5ybsW:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1719989618-eximdsn-1277282908
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Ots2suj3nP0G4 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=CoR0cW4D c=1 sm=1 tr=0 ts=6684f572 p=wdt_bAEOAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=4kmOji7k6h8A:10 a=yjDej3UDOzOyKX-iDrkA:9 a=3ZKOabzyN94A:10 a=aeuXFvzKnbQA:10 a=IawXvI9lP1MA:10 a=c4E1Utok8y0A:10 a=ZZgnsCBwdd4A:10 a=cb8nXEM10HwA:10 a=X5YitoijTLEA:10 a=iqHzOOfzW75cOUY5ybsW:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1719989618-eximdsn-1277282908
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sOtro-00FmcX-0I
+	for servicioalcliente@serkoi.com;
+	Tue, 02 Jul 2024 23:53:38 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 103.170.66.33
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 103.170.66.33
+From:
+Message-Id: <E1sOtro-00FmcX-0I@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 02 Jul 2024 23:53:24 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Waldo Herzog. 
+Correo: . 
+Telefono: 42244877. 
+Mensaje: Outsource Developer ɑt Half thе cost ߋf ｙοu are paying сurrently, schedule ɑn interview now and enjoy the fіrst 40 hߋurs free ѡithout ɑny commitment.
+
+https://bit.ly/3V61jPo. 
+
+
+--1719989618-eximdsn-1277282908--

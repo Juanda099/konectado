@@ -1,0 +1,108 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id IMpuBizQl2YQDSgA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 17 Jul 2024 07:07:40 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 17 Jul 2024 07:07:40 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sU5Jk-00B1NW-08
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 17 Jul 2024 07:07:40 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sU5JZ-00B19Z-2H@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1721225260-eximdsn-1218365067
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sU5Jk-00B1NW-08@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 17 Jul 2024 07:07:40 -0700
+
+--1721225260-eximdsn-1218365067
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 U5Jjse7nYbTdx :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Y/AzsQeN c=1 sm=1 tr=0 ts=6697d02c p=aSMq5W43AAAA:20 p=-udUi3PW1UrLUU1lveoH:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=4kmOji7k6h8A:10 a=gMRBpm44NGXCv_Jgr6cA:9 a=3ZKOabzyN94A:10 a=xis5EnIvHfMA:10 a=zY0JdQc1-4EAyPf5TuXT:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1721225260-eximdsn-1218365067
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 U5Jjse7nYbTdx :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Y/AzsQeN c=1 sm=1 tr=0 ts=6697d02c p=aSMq5W43AAAA:20 p=-udUi3PW1UrLUU1lveoH:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=4kmOji7k6h8A:10 a=gMRBpm44NGXCv_Jgr6cA:9 a=3ZKOabzyN94A:10 a=xis5EnIvHfMA:10 a=zY0JdQc1-4EAyPf5TuXT:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1721225260-eximdsn-1218365067
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sU5JZ-00B19Z-2H
+	for servicioalcliente@serkoi.com;
+	Wed, 17 Jul 2024 07:07:39 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 102.212.97.171
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 102.212.97.171
+From:
+Message-Id: <E1sU5JZ-00B19Z-2H@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 17 Jul 2024 07:07:29 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Marjorie Mcdade. 
+Correo: . 
+Telefono: 6525586225. 
+Mensaje: Dear Esteemed Client,
+
+
+I hope this email finds you well.
+
+
+
+I am pleased to introduce you Foxy Beauty, your one-stop shop for high-quality beauty products. We specialize in providing superior Botox - Botulinum Toxin A, in stock online and available worldwide.
+
+At Foxy Beauty, we focus on your beauty needs by offering superior products that ensure exceptional results. 
+Whether you're seeking to enhance your natural beauty or maintain a youthful appearance, our Botox products are designed to meet your expectations.
+
+
+Visit our website today and browse our range of Botox products: https://bit.ly/foxybotox
+
+
+We eagerly await serving you and supporting you achieve your beauty goals.
+
+
+
+Warm regards,
+
+
+Paola
+
+Founder, Foxy Beauty
+
+
+
+P.S. Don't miss out on our special offers and latest updates – subscribe to our newsletter!. 
+
+
+--1721225260-eximdsn-1218365067--

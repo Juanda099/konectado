@@ -1,0 +1,55 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id UAB0O81We2aCWzgA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 25 Jun 2024 16:46:21 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 25 Jun 2024 16:46:22 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sMFrh-00FVKe-2s
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 25 Jun 2024 16:46:21 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sMFrZ-00FVFo-1l@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sMFrh-00FVKe-2s@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 25 Jun 2024 16:46:21 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sMFrZ-00FVFo-1l
+	for servicioalcliente@serkoi.com;
+	Tue, 25 Jun 2024 16:46:13 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 8.218.0.227
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 8.218.0.227
+From:
+Message-Id: <E1sMFrZ-00FVFo-1l@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 25 Jun 2024 16:46:13 -0700
+
+De: businesspayments. 
+Correo: . 
+Telefono: . 
+Mensaje: Struggling with manual payments for your business? Plooto automates everything, giving you back control. 
+ 
+-Pay & get paid in one place. 
+-Secure transactions & easy team approvals. 
+-Seamless accounting integrations. 
+ 
+Happy customers, happy business. Start your free trial today, Click: 
+ 
+https://novacodex.site/business_payment_processing.html. 
+

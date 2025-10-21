@@ -1,0 +1,113 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id AD27L+SRxWPNBQsAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 16 Jan 2023 11:05:24 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 16 Jan 2023 11:05:24 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pHTrI-003SYG-La
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Mon, 16 Jan 2023 11:05:24 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pHTrD-003SLj-Ts@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1673892324-eximdsn-1230877548
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pHTrI-003SYG-La@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 16 Jan 2023 11:05:24 -0700
+
+--1673892324-eximdsn-1230877548
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 HTrIpqcIRjpWY :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=KO2cTnJo c=1 sm=1 tr=0 ts=63c591e4 p=mxy3Mts5AAAA:20 p=QucnEHw8AAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=RvmDmJFTN0MA:10 a=PpWx761hbs4A:10 a=smrCSdiaAAAA:8 a=RlRS7SAFM8QH8QnIUtwA:9 a=ZzbmaqamitcA:10 a=4MpQm0tEjmUA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=nPvndD2DkK_aTRqImhJO:22 a=M9ZHoLuYIHMl9pbmgCZa:22 ::
+    100.00
+
+--1673892324-eximdsn-1230877548
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 HTrIpqcIRjpWY :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=KO2cTnJo c=1 sm=1 tr=0 ts=63c591e4 p=mxy3Mts5AAAA:20 p=QucnEHw8AAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=RvmDmJFTN0MA:10 a=PpWx761hbs4A:10 a=smrCSdiaAAAA:8 a=RlRS7SAFM8QH8QnIUtwA:9 a=ZzbmaqamitcA:10 a=4MpQm0tEjmUA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=nPvndD2DkK_aTRqImhJO:22 a=M9ZHoLuYIHMl9pbmgCZa:22 :: 100.00
+
+--1673892324-eximdsn-1230877548
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pHTrD-003SLj-Ts
+	for servicioalcliente@serkoi.com;
+	Mon, 16 Jan 2023 11:05:24 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.80.138.33
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.80.138.33
+From:
+Message-Id: <E1pHTrD-003SLj-Ts@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 16 Jan 2023 11:05:19 -0700
+
+De: Jordan Kennedy. 
+Correo: . 
+Telefono: +1-332-900-4889. 
+Mensaje: I hope this message finds you well. I wanted to reach out to you specifically because I believe you would be interested in using JasperAI for your marketing efforts. 
+
+JasperAI is a cutting-edge artificial intelligence platform that can greatly enhance your marketing strategies and decision making.
+
+With JasperAI, you can gain valuable insights from your marketing data, automate repetitive tasks, and create more effective campaigns.
+
+It can help you with customer segmentation, personalization, and prediction. It can also analyze your customer data and behavior, giving you a deeper understanding of your target audience, and allowing you to develop more targeted and effective marketing campaigns. 
+
+Additionally, JasperAI can help you automate repetitive tasks, such as data entry and analysis, freeing up more time for you to focus on strategy and creativity.
+
+Click here to start your free trial now, https://cutt.ly/G2N7V3a
+
+__
+
+Thank you for your time!
+Jordan Kennedy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you would  like to opt-out of communication with us, visit:
+https://urloptout.com/optout1/?site=proditelsas.com
+. 
+
+
+--1673892324-eximdsn-1230877548--

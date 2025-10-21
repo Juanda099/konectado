@@ -1,0 +1,121 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id eI3JHF7TfWcytwgA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 07 Jan 2025 18:22:38 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 07 Jan 2025 18:22:38 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tVKmM-002U0A-1M
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 07 Jan 2025 18:22:38 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tVKmB-002TlI-1n@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1736299358-eximdsn-2075319339
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tVKmM-002U0A-1M@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 07 Jan 2025 18:22:38 -0700
+
+--1736299358-eximdsn-2075319339
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 VKmMt5DLN4Jd3 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=cIsaskeN c=1 sm=1 tr=0 ts=677dd35e p=xRIiZs02AAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=Ixd2ZWewCXZLZVFzjmAA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=Vma-n8-gZlgtiTj8ucXI:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1736299358-eximdsn-2075319339
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 VKmMt5DLN4Jd3 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=cIsaskeN c=1 sm=1 tr=0 ts=677dd35e p=xRIiZs02AAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=Ixd2ZWewCXZLZVFzjmAA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=Vma-n8-gZlgtiTj8ucXI:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1736299358-eximdsn-2075319339
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tVKmB-002TlI-1n
+	for servicioalcliente@serkoi.com;
+	Tue, 07 Jan 2025 18:22:38 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tVKmB-002TlI-1n@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 07 Jan 2025 18:22:27 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Ricardo Ashley. 
+Correo: . 
+Telefono: 077 4926 3882. 
+Mensaje: 
+Imagine having a tool that helps you create professional, high-quality video courses in minutes, without any technical skills or expertise.
+
+Now picture these courses attracting students, driving traffic, and generating revenue—completely automated.
+
+Today’s your chance to turn that vision into reality with CourseReelAI Max, the revolutionary platform transforming the way online courses are created and sold.
+
+: https://www.moredollar.info/coursereelai 
+
+CourseReelAI Max solves major course creation challenges by eliminating the need for costly equipment, lengthy planning, or professional editing skills.
+
+It enables you to create AI-driven courses that are engaging, polished, and ready to sell—no experience required.
+
+With CourseReelAI Max, you gain:
+
+⭐ AI-recommended course topics and chapters tailored to your niche.
+⭐ Automated content creation for each chapter, including slides and voiceovers.
+⭐ Stunning promo videos, quizzes, PDFs, and ebooks to enhance your courses.
+⭐ High-converting landing pages and persuasive sales copy for marketing.
+⭐ Dynamic features like Custom Voice Integration and Talking Head avatars.
+
+Here’s just a glimpse of what you can achieve with CourseReelAI Max:
+
+✅ Repurpose blog posts or scripts into professional video courses.
+✅ Publish profitable courses on platforms like Udemy or Teachable.
+✅ Create video sales letters that captivate and convert.
+✅ Build review videos for YouTube or affiliate promotions.
+✅ Develop marketing videos for local businesses.
+✅ Scale your content library with up to 50 videos per week.
+✅ Offer multilingual courses to reach a global audience.
+
+❌ No need for video editing skills—CourseReelAI Max does the heavy lifting.
+❌ No need for costly software—get it all in one intuitive platform.
+❌ No need for hours of work—create an entire course in minutes!
+
+: https://www.moredollar.info/coursereelai 
+
+Don’t wait, proditelsas.com!       This limited-time offer won’t last long.       Start creating your video course empire today and claim your exclusive bonuses.
+
+Ricardo Ashley
+
+UNSUBSCRIBE: https://www.moredollar.info/unsubscribe/?d=proditelsas.com 
+Address: 1371 Rebecca Street
+Schaumburg, IL 60173
+. 
+
+
+--1736299358-eximdsn-2075319339--

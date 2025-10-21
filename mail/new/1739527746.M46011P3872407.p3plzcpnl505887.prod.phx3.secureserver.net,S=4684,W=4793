@@ -1,0 +1,109 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id CDkNAkIWr2eXFjsA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 14 Feb 2025 03:09:06 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 14 Feb 2025 03:09:06 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tisd7-00GdV0-38
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 14 Feb 2025 03:09:06 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tiscw-00GdD7-33@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1739527745-eximdsn-1889011116
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tisd7-00GdV0-38@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 14 Feb 2025 03:09:05 -0700
+
+--1739527745-eximdsn-1889011116
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 isd7tSOdat1bh :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Q4wo452a c=1 sm=1 tr=0 ts=67af1641 p=5YcFx-EL5Bn7l5J7Xg8A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=T2h4t0Lz3GQA:10 a=WfbHnZbdAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=IfkkEA1PoG1LQijzXGxd:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1739527745-eximdsn-1889011116
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 isd7tSOdat1bh :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Q4wo452a c=1 sm=1 tr=0 ts=67af1641 p=5YcFx-EL5Bn7l5J7Xg8A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=T2h4t0Lz3GQA:10 a=WfbHnZbdAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=IfkkEA1PoG1LQijzXGxd:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1739527745-eximdsn-1889011116
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tiscw-00GdD7-33
+	for servicioalcliente@serkoi.com;
+	Fri, 14 Feb 2025 03:09:05 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tiscw-00GdD7-33@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 14 Feb 2025 03:08:54 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Roland Pearson. 
+Correo: . 
+Telefono: 3153821779. 
+Mensaje: 
+Smart people are jumping on AI automation nowâ€”and making serious money.
+
+Hereâ€™s what they know that others donâ€™t:
+
+âœ… Businesses NEED automationâ€”and theyâ€™ll pay you to set it up for them: https://www.greatbusi.info/aibotstudio .
+AI chatbots handle sales, leads & supportâ€”with zero human input.
+
+âœ… AI Bot Studio makes launching bots effortlessâ€”even if youâ€™ve never done it before.
+
+í ½íº¨ But hereâ€™s the real problemâ€¦
+
+If you donâ€™t get in now, youâ€™ll be stuck watching others dominate this space while you try to catch up later.
+
+Donâ€™t make that mistake.
+
+í ½í´— Grab your AI Bot Studio bundle deal before itâ€™s gone:
+
+í ½í±‰ Click here to claim yours: https://www.greatbusi.info/aibotstudio 
+
+To Your Success,
+
+Roland Pearson
+
+P.S. This special bundle offer wonâ€™t last long.  Once itâ€™s gone, so is your chance to grab the commercial license & start profiting from AI automationâ€”donâ€™t miss out.
+
+
+
+
+
+UNSUBSCRIBE: https://www.greatbusi.info/unsubscribe/?d=proditelsas.com 
+Address: 3049 Cook Hill Road
+Wallingford, CT 06492. 
+
+
+--1739527745-eximdsn-1889011116--

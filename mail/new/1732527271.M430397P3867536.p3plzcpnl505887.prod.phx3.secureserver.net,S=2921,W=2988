@@ -1,0 +1,67 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id WCSnGKdERGeQAzsA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 25 Nov 2024 02:34:31 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 25 Nov 2024 02:34:31 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tFVUF-00GV0b-17
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 25 Nov 2024 02:34:31 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tFVU6-00GUqu-3D@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1tFVUF-00GV0b-17@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 25 Nov 2024 02:34:31 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tFVU6-00GUqu-3D
+	for servicioalcliente@serkoi.com;
+	Mon, 25 Nov 2024 02:34:23 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 209.97.173.185
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 209.97.173.185
+From:
+Message-Id: <E1tFVU6-00GUqu-3D@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 25 Nov 2024 02:34:22 -0700
+
+De: virtualassistant. 
+Correo: . 
+Telefono: . 
+Mensaje: Are you feeling overwhelmed by the demands of your business? Do you find yourself juggling too many tasks and not enough hours in the day? Imagine having a dedicated professional who can handle your time-consuming tasks, freeing you to focus on what truly matters. Our virtual assistants are experienced in a wide range of services, including: 
+ 
+-Web design 
+-SEO 
+-Ad management 
+-Social media management 
+-Graphic design 
+-Customer and lead management 
+-Technical setup help 
+-And much more! 
+ 
+Why Choose a Virtual Assistant? 
+ 
+-Increased Productivity: Delegate tasks and boost your efficiency. 
+-Cost-Effective: Save money on hiring full-time staff. 
+-Flexibility: Access support whenever and wherever you need it. 
+-Expertise: Benefit from our team's decades of experience. 
+ 
+Let us help you achieve your goals, learn more, click: 
+ 
+https://novacodex.site/virtual_assistant.html. 
+

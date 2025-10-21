@@ -1,0 +1,79 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id iH5mNJRRLmRIWC8AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Wed, 05 Apr 2023 21:59:00 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Wed, 05 Apr 2023 21:59:00 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pkHi8-00D1Ad-Na
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Wed, 05 Apr 2023 21:59:00 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pkHi3-00D173-UC@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1pkHi8-00D1Ad-Na@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 05 Apr 2023 21:59:00 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pkHi3-00D173-UC
+	for servicioalcliente@serkoi.com;
+	Wed, 05 Apr 2023 21:58:55 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 194.36.96.32
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 194.36.96.32
+From:
+Message-Id: <E1pkHi3-00D173-UC@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 05 Apr 2023 21:58:55 -0700
+
+De: Eric Jones. 
+Correo: . 
+Telefono: 555-555-1212. 
+Mensaje: Hello proditelsas.com Webmaster! my name’s Eric and I just ran across your website at proditelsas.com...
+
+I found it after a quick search, so your SEO’s working out…
+
+Content looks pretty good…
+
+One thing’s missing though…
+
+A QUICK, EASY way to connect with you NOW.
+
+Because studies show that a web lead like me will only hang out a few seconds – 7 out of 10 disappear almost instantly, Surf Surf Surf… then gone forever.
+
+I have the solution:
+
+Web Visitors Into Leads is a software widget that’s works on your site, ready to capture any visitor’s Name, Email address and Phone Number.  You’ll know immediately they’re interested and you can call them directly to TALK with them - literally while they’re still on the web looking at your site.
+
+CLICK HERE https://advanceleadgeneration.com to try out a Live Demo with Web Visitors Into Leads now to see exactly how it works and even give it a try… it could be huge for your business.
+
+Plus, now that you’ve got that phone number, with our new SMS Text With Lead feature, you can automatically start a text (SMS) conversation pronto… which is so powerful, because connecting with someone within the first 5 minutes is 100 times more effective than waiting 30 minutes or more later.
+
+The new text messaging feature lets you follow up regularly with new offers, content links, even just follow up notes to build a relationship.
+
+Everything I’ve just described is extremely simple to implement, cost-effective, and profitable.
+ 
+CLICK HERE https://advanceleadgeneration.com to discover what Web Visitors Into Leads can do for your business, potentially converting up to 100X more eyeballs into leads today!
+
+Eric
+PS: Web Visitors Into Leads offers a FREE 14 days trial – and it even includes International Long Distance Calling. 
+You have customers waiting to talk with you right now… don’t keep them waiting. 
+CLICK HERE https://advanceleadgeneration.com to try Web Visitors Into Leads now.
+
+If you'd like to unsubscribe click here http://advanceleadgeneration.com/unsubscribe.aspx?d=proditelsas.com
+. 
+

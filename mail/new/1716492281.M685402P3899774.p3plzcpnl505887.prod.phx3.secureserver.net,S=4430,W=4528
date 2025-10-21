@@ -1,0 +1,98 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id QCMzKPmXT2Z+gTsA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 23 May 2024 12:24:41 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 23 May 2024 12:24:41 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sAE3N-00GnzI-1x
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 23 May 2024 12:24:41 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sAE3E-00Gnqr-1b@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1716492281-eximdsn-1734275580
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sAE3N-00GnzI-1x@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 23 May 2024 12:24:41 -0700
+
+--1716492281-eximdsn-1734275580
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 AE3NsnpC6Er7D :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=JaR3rlKV c=1 sm=1 tr=0 ts=664f97f9 p=Li410DoyZAw37Hp5cKyK:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=m1DMjxuzAAAA:8 a=-1eQv67wmkiKaICaHqsA:9 a=3ZKOabzyN94A:10 a=zgiPjhLxNE0A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=o_HOHbEvdghtDIca4bTI:22 a=Y_yVCB3uyNS7CubfYiDr:22 ::
+    100.00
+
+--1716492281-eximdsn-1734275580
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 AE3NsnpC6Er7D :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=JaR3rlKV c=1 sm=1 tr=0 ts=664f97f9 p=Li410DoyZAw37Hp5cKyK:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=m1DMjxuzAAAA:8 a=-1eQv67wmkiKaICaHqsA:9 a=3ZKOabzyN94A:10 a=zgiPjhLxNE0A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=o_HOHbEvdghtDIca4bTI:22 a=Y_yVCB3uyNS7CubfYiDr:22 :: 100.00
+
+--1716492281-eximdsn-1734275580
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sAE3E-00Gnqr-1b
+	for servicioalcliente@serkoi.com;
+	Thu, 23 May 2024 12:24:41 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 191.102.135.173
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 191.102.135.173
+From:
+Message-Id: <E1sAE3E-00Gnqr-1b@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 23 May 2024 12:24:32 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Jennifer Hayes. 
+Correo: . 
+Telefono: 725-605-9094. 
+Mensaje: I hope you are doing well, and business is Great!
+
+However, if you need working capital to further grow and expand your business, we may be a perfect fit for you and here’s why. 
+
+Our loans are NOT based on your personal credit, and NO collateral is required.
+
+We are a Direct Lender who can approve your loan today, and fund as early as Tomorrow.
+
+We offer loans from 5k to 500k with flexible payments and great terms.
+
+Just click on the link to INSTANTLY see how much you qualify for https://cashflowexpress.biz 
+
+Applying does NOT affect your credit!
+
+
+All the best,
+
+Jennifer Hayes
+
+Cash Flow Express. 
+
+
+--1716492281-eximdsn-1734275580--

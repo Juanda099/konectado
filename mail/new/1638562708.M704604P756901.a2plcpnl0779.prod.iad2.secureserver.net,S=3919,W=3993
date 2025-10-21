@@ -1,0 +1,74 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id GM9VJ5R7qmGljAsAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Fri, 03 Dec 2021 13:18:28 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Fri, 03 Dec 2021 13:18:28 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	id 1mtF0m-003COK-HF
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Fri, 03 Dec 2021 13:18:28 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1mtF0m-003CNt-4U@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1638562708-eximdsn-664460907
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mtF0m-003COK-HF@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 03 Dec 2021 13:18:28 -0700
+
+--1638562708-eximdsn-664460907
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 tF0mmJ5CHtcYz :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=cJwlDnSN c=1 sm=1 tr=0 ts=61aa7b94 p=0KxL1Lqt61AA:10 p=1qnydsEGVZAA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=Xonp9wSYbIYA:10 a=vNFNZZkJ8twA:10 a=IOMw9HtfNCkA:10 a=pGLkceISAAAA:8 a=UAwyB_QAuWVPCAL6zRAA:9 a=ls1GCqiPrycA:10 a=YdzJXACgaSQA:10 a=Eo-qV8HThvItaHRRDd-S:22 ::
+    99.00
+
+--1638562708-eximdsn-664460907
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 tF0mmJ5CHtcYz :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=cJwlDnSN c=1 sm=1 tr=0 ts=61aa7b94 p=0KxL1Lqt61AA:10 p=1qnydsEGVZAA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=Xonp9wSYbIYA:10 a=vNFNZZkJ8twA:10 a=IOMw9HtfNCkA:10 a=pGLkceISAAAA:8 a=UAwyB_QAuWVPCAL6zRAA:9 a=ls1GCqiPrycA:10 a=YdzJXACgaSQA:10 a=Eo-qV8HThvItaHRRDd-S:22 :: 99.00
+
+--1638562708-eximdsn-664460907
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1mtF0m-003CNt-4U
+	for servicioalcliente@serkoi.com; Fri, 03 Dec 2021 13:18:28 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 5.62.23.6
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 5.62.23.6
+From:
+Message-Id: <E1mtF0m-003CNt-4U@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 03 Dec 2021 13:18:28 -0700
+
+De: Kit McLaughlin. 
+Correo: . 
+Telefono: 0911 96 39 67. 
+Mensaje: What I would like to do is promote your site and you don't pay unless I get results for you. Can we jump on a call so I can explain how I'll do this for you? Email me here: jinatreadwellsr10@gmail.com. 
+
+
+--1638562708-eximdsn-664460907--

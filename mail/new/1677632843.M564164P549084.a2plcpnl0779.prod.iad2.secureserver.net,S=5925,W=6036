@@ -1,0 +1,111 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id cOXoIEul/mPcYAgAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 28 Feb 2023 18:07:23 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 28 Feb 2023 18:07:23 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pXAwF-002WCA-FL
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 28 Feb 2023 18:07:23 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pXAwA-002WAx-6T@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1677632843-eximdsn-2052962703
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pXAwF-002WCA-FL@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 28 Feb 2023 18:07:23 -0700
+
+--1677632843-eximdsn-2052962703
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 XAwFpXOawelrp :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Z7EqXldA c=1 sm=1 tr=0 ts=63fea54b p=k_bvpK_fAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=m04uMKEZRckA:10 a=pGLkceISAAAA:8 a=uI40oCTCUAPDQOQbFuEA:9 a=T8SRbJrsqP0A:10 a=G_-5vaTa5JcA:10 a=k7bKwbOFKfJbUGqDiANV:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ojY6t75NoBaAYhEbZHAJ:22 a=gmBUQmQ1v4TNhijbxsra:22 ::
+    100.00
+
+--1677632843-eximdsn-2052962703
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 XAwFpXOawelrp :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Z7EqXldA c=1 sm=1 tr=0 ts=63fea54b p=k_bvpK_fAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=m04uMKEZRckA:10 a=pGLkceISAAAA:8 a=uI40oCTCUAPDQOQbFuEA:9 a=T8SRbJrsqP0A:10 a=G_-5vaTa5JcA:10 a=k7bKwbOFKfJbUGqDiANV:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ojY6t75NoBaAYhEbZHAJ:22 a=gmBUQmQ1v4TNhijbxsra:22 :: 100.00
+
+--1677632843-eximdsn-2052962703
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pXAwA-002WAx-6T
+	for servicioalcliente@serkoi.com;
+	Tue, 28 Feb 2023 18:07:23 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 154.28.75.48
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 154.28.75.48
+From:
+Message-Id: <E1pXAwA-002WAx-6T@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 28 Feb 2023 18:07:18 -0700
+
+De: Stephanie Ransom. 
+Correo: . 
+Telefono: 0271-3257023. 
+Mensaje: Hello,
+
+As someone who cares deeply about supporting employers, I believe that when we invest in our employees' well-being, we all benefit. That's why I'm excited to introduce our latest program that offers comprehensive accident insurance to protect your employees from unexpected hospital costs.
+
+With coverage of up to $5000 per accident, our program provides the financial security and peace of mind your employees need to focus on their recovery and get back to work. Whether it's a fall, a biking incident, or a playground injury, our accident insurance ensures that your employees and their families won't be burdened by unexpected medical bills.
+
+At just $29 for individuals and $69 for families, this program is a cost-effective way to show your employees that you prioritize their health and safety. You can choose to cover the cost yourself, split it with your employees, or let them cover it entirely. Signing up is easy and takes only 20 minutes.
+
+One of the best things about our program is that it can be used to cover a deductible if your employees have health insurance, providing even more value and support when they need it most.
+
+By offering accident insurance, you demonstrate that you care about your employees' well-being and are committed to providing a supportive, caring workplace. This, in turn, can help boost employee morale and foster a stronger company culture.
+
+At YourSuccess, we've partnered with a leading company to design this program, so you can feel confident that your employees are getting the best possible coverage. If you have any questions or want to get started, please don't hesitate to give us a call at 702-213-5945 or email us at teamyoursuccess@gmail.com.
+
+Thank you for considering our program. We're excited about the opportunity to work with you and support your employees.
+
+Best regards,
+
+Stephanie
+
+
+
+
+
+
+
+
+
+
+
+
+to opt-out of future marketing go here https://www.contactformoptout.com/ MAKE SURE TO PUT YOUR WEBSITE IN! 
+Address
+Opt-out
+1050 e flamingo road se 107 1101
+Las Vegas NV, 89119. 
+
+
+--1677632843-eximdsn-2052962703--

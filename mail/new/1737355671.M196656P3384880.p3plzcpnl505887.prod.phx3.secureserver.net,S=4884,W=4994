@@ -1,0 +1,110 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 0PcTC5fxjWcwpjMA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 19 Jan 2025 23:47:51 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 19 Jan 2025 23:47:51 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tZlZf-00ERsf-0P
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 19 Jan 2025 23:47:51 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tZlZU-00ERgZ-0q@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1737355671-eximdsn-2027018479
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tZlZf-00ERsf-0P@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 19 Jan 2025 23:47:51 -0700
+
+--1737355671-eximdsn-2027018479
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 ZlZftaiMMAtiX :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Tf1stQQh c=1 sm=1 tr=0 ts=678df197 p=M-488HUcAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=Epdh-dzqGwJ5BcmmdsgA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=FfDA6-JPvLTYfqfzrkE6:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1737355671-eximdsn-2027018479
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 ZlZftaiMMAtiX :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Tf1stQQh c=1 sm=1 tr=0 ts=678df197 p=M-488HUcAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=Epdh-dzqGwJ5BcmmdsgA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=FfDA6-JPvLTYfqfzrkE6:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1737355671-eximdsn-2027018479
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tZlZU-00ERgZ-0q
+	for servicioalcliente@serkoi.com;
+	Sun, 19 Jan 2025 23:47:51 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tZlZU-00ERgZ-0q@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 19 Jan 2025 23:47:40 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Jennifer Marcil. 
+Correo: . 
+Telefono: 22-27-86-00. 
+Mensaje: Hey proditelsas.com,
+
+Ever have a killer app idea but coding seems like climbing Mount Everest?    ‍♀️
+
+Well, ditch the ropes!    This AI-powered app builder takes your website URL, blog, keywords, or even just your BRAINWAVE and turns it into a fully functional Android & iOS app in less than a minute (seriously!): https://www.dollartip.info/openappai20 .
+
+No coding.    No developer fees.    Just pure app-building magic.    ✨
+
+Here's the lowdown:
+
+Website to App?    Boom!    Your content transforms into a sleek app.
+
+Idea to App?    You got it!    Brainstorm your vision and let the AI do the work.
+
+1500+ Pro Templates?    Design your app in style, no graphic design degree required.
+
+App Store Ready?    Publish to Google Play & Apple App Store in a flash!
+
+Plus, you can handle payments, send push notifications, and manage users – all within the platform.
+
+Stop dreaming, start building.
+
+This AI tool is your shortcut to app stardom.    Check it out and see your idea come to life: https://www.dollartip.info/openappai20 
+
+Don't wait – claim your app's spot on the store before someone else does!
+
+Jennifer Marcil
+
+
+
+
+UNSUBSCRIBE: https://www.dollartip.info/unsubscribe/?d=proditelsas.com 
+Address: 1867 Edgewood Road
+Memphis, TN 38110. 
+
+
+--1737355671-eximdsn-2027018479--

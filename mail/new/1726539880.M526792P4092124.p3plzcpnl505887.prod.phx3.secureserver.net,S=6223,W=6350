@@ -1,0 +1,127 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 7qWiHmjo6GbccD4A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 16 Sep 2024 19:24:40 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 16 Sep 2024 19:24:40 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sqNtQ-00HAXu-1O
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 16 Sep 2024 19:24:40 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sqNtH-00HAOh-1j@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1726539880-eximdsn-292619581
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sqNtQ-00HAXu-1O@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 16 Sep 2024 19:24:40 -0700
+
+--1726539880-eximdsn-292619581
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 qNtQs5aZgSfra :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Ws7gMsfv c=1 sm=1 tr=0 ts=66e8e868 p=tfA_TzRyAAAA:8 p=3v0bEWyZZzwU3AL3RKsA:9 p=I5DdFKVUJeifMW8dxs1G:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=1hLqZxhoj7b8J0iEYjPs:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1726539880-eximdsn-292619581
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 qNtQs5aZgSfra :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Ws7gMsfv c=1 sm=1 tr=0 ts=66e8e868 p=tfA_TzRyAAAA:8 p=3v0bEWyZZzwU3AL3RKsA:9 p=I5DdFKVUJeifMW8dxs1G:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=1hLqZxhoj7b8J0iEYjPs:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1726539880-eximdsn-292619581
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sqNtH-00HAOh-1j
+	for servicioalcliente@serkoi.com;
+	Mon, 16 Sep 2024 19:24:40 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.175.127
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.175.127
+From:
+Message-Id: <E1sqNtH-00HAOh-1j@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 16 Sep 2024 19:24:31 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Nathan Johnson. 
+Correo: . 
+Telefono: 03.37.15.69.68. 
+Mensaje: Hey ,
+
+Are you tired of the lengthy process and technical barriers that come with building mobile apps?  Say goodbye to coding woes because we've got something groundbreaking for you!
+
+Introducing OpenApp AI - the world's first AI-powered, no-coding 'Android & iOS' mobile app builder.  Our platform is set to revolutionize the way you create apps.  
+
+With OpenApp AI, you can transform any website URL, your ideas, keywords, blogs, pages, and e-commerce stores into fully functional Android & iOS mobile apps in less than 60 seconds!
+
+==> Watch OpenApp AI Demo In Action: https://www.earnmillions.xyz/aiapp  
+
+Generate highly advanced Mobile apps and upload them on different app stores Like Google-Play & Apple App Store…
+
+... To easily make huge profits weekly, monthly and annually on complete autopilot...
+
+Here's what makes OpenApp AI a game-changer:
+Create Unlimited Android & IOS Mobile Apps Using Al
+Transform Any Website Url, Keywords, Blogs, Pages & Ecom Store into A Fully Functional Stunning Mobile Apps
+Built-in 1500+ Professional Templates: Create Personal Or Business Mobile Apps For Any Niche Using Al
+Payment Integration, accept payments in your app through Payment Gateways
+Publish Your App on Google-Play and Apple store In Less Than 60 Seconds
+Send Push Notifications To Your App Users And Get Up To 98% Open Rate.
+Send Unlimited Emails & SMS Directly To Your Users
+Add Unlimited Custom Domains & Subdomains Without Any Restrictions.
+Built-In Interactive elementsa to add Coupon, Loyalty Program, Appointment and event booking,
+Convert existing website URL into Android/iOS App
+Generate native android and iOS apps
+Built-in App Monetization
+Lifetime Access With No Recurring Monthly Payments
+
+Access OpenApp AI Now and Build Your Dream Mobile App in Seconds with OpenApp AI: https://www.earnmillions.xyz/aiapp  
+
+Along with this,
+You’re also getting premium bonuses during the launch exclusive deal… 
+
+So,
+Stop thinking & grab your copy at the launch exclusive discounted price
+
+Get OpenApp AI With Exclusive Bonuses Here: https://www.earnmillions.xyz/aiapp  
+
+To Your Success,
+
+Nathan Johnson
+
+
+P.S- There is nothing like this available in the market at such a discounted price.  So, grab your copy before time runs out.
+
+UNSUBSCRIBE: https://www.earnmillions.xyz/unsubscribe/?d=proditelsas.com  
+Address: 387 Dovetail Estates
+Fay, OK 73646. 
+
+
+--1726539880-eximdsn-292619581--

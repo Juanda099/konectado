@@ -1,0 +1,119 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 8ELVHyavPmev9DAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 20 Nov 2024 20:55:18 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 20 Nov 2024 20:55:18 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tDyHm-00Dsi4-1X
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 20 Nov 2024 20:55:18 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tDyHb-00DseS-0N@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1732161318-eximdsn-625709365
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tDyHm-00Dsi4-1X@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 20 Nov 2024 20:55:18 -0700
+
+--1732161318-eximdsn-625709365
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 DyHltZ40tS4Zd :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=OcliDgTY c=1 sm=1 tr=0 ts=673eaf26 p=W0T2oIpN9PiFKWC6ZUuK:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=VlfZXiiP6vEA:10 a=Zd4pRW0nAAAA:8 a=smrCSdiaAAAA:8 a=B1g5UvfNe91fV7JN02QA:9 a=3ZKOabzyN94A:10 a=SVJntaqM230A:10 a=Cb6nRPa5jPn1rBTtxhP6:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=DaZ4D1_w3M7mDB2tr41Z:22 ::
+    100.00
+
+--1732161318-eximdsn-625709365
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 DyHltZ40tS4Zd :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=OcliDgTY c=1 sm=1 tr=0 ts=673eaf26 p=W0T2oIpN9PiFKWC6ZUuK:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=VlfZXiiP6vEA:10 a=Zd4pRW0nAAAA:8 a=smrCSdiaAAAA:8 a=B1g5UvfNe91fV7JN02QA:9 a=3ZKOabzyN94A:10 a=SVJntaqM230A:10 a=Cb6nRPa5jPn1rBTtxhP6:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=DaZ4D1_w3M7mDB2tr41Z:22 :: 100.00
+
+--1732161318-eximdsn-625709365
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tDyHb-00DseS-0N
+	for servicioalcliente@serkoi.com;
+	Wed, 20 Nov 2024 20:55:17 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 84.247.105.38
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 84.247.105.38
+From:
+Message-Id: <E1tDyHb-00DseS-0N@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 20 Nov 2024 20:55:07 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Eric Jones. 
+Correo: . 
+Telefono: 555-555-1212. 
+Mensaje: Hi proditelsas.com Administrator!
+
+Cool website!
+
+My name’s Eric, and I just found your site - proditelsas.com - while surfing the net. You showed up at the top of the search results, so I checked you out. Looks like what you’re doing is pretty cool.
+ 
+But if you don’t mind me asking – after someone like me stumbles across proditelsas.com, what usually happens?
+
+Is your site generating leads for your business? 
+ 
+I’m guessing some, but I also bet you’d like more… studies show that 7 out 10 who land on a site wind up leaving without a trace.
+
+Not good.
+
+Here’s a thought – what if there was an easy way for every visitor to “raise their hand” to get a phone call from you INSTANTLY… the second they hit your site and said, call me now.
+
+You can –
+  
+Web Visitors Into Leads is a software widget that’s works on your site, ready to capture any visitor’s Name, Email address and Phone Number.  It lets you know IMMEDIATELY – so that you can talk to that lead while they’re literally looking over your site.
+
+CLICK HERE https://rushleadgeneration.com to try out a Live Demo with Web Visitors Into Leads now to see exactly how it works.
+
+Time is money when it comes to connecting with leads – the difference between contacting someone within 5 minutes versus 30 minutes later can be huge – like 100 times better!
+
+That’s why we built out our new SMS Text With Lead feature… because once you’ve captured the visitor’s phone number, you can automatically start a text message (SMS) conversation.
+  
+Think about the possibilities – even if you don’t close a deal then and there, you can follow up with text messages for new offers, content links, even just how you doing? notes to build a relationship.
+
+Wouldn’t that be cool?
+
+CLICK HERE https://rushleadgeneration.com to discover what Web Visitors Into Leads can do for your business.
+
+You could be converting up to 100X more leads today!
+Eric
+
+PS: Web Visitors Into Leads offers a FREE 14 days trial – and it even includes International Long Distance Calling. 
+You have customers waiting to talk with you right now… don’t keep them waiting. 
+CLICK HERE https://rushleadgeneration.com to try Web Visitors Into Leads now.
+
+If you'd like to unsubscribe click here https://rushleadgeneration.com/unsubscribe.aspx?d=proditelsas.com
+. 
+
+
+--1732161318-eximdsn-625709365--

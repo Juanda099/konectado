@@ -1,0 +1,100 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id eBPvIHQnn2bd5DoA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 22 Jul 2024 20:45:56 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 22 Jul 2024 20:45:56 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sW6TM-00GC90-1Z
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 22 Jul 2024 20:45:56 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sW6T6-00GC5s-0A@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1721706356-eximdsn-2124016055
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sW6TM-00GC90-1Z@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 22 Jul 2024 20:45:56 -0700
+
+--1721706356-eximdsn-2124016055
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 W6TMsbSSZprLK :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=fZlmyFQF c=1 sm=1 tr=0 ts=669f2774 p=zZCPvBJeAAAA:8 p=2envgauTVg6jPMpiAJM9:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=4kmOji7k6h8A:10 a=pGLkceISAAAA:8 a=D_YFWNOLAAAA:8 a=tuTgI0B-xDqiVUBQ6-AA:9 a=KxGY5V8u19QA:10 a=iwuwXAeGhR8A:10 a=pFPePLqzRC7QO_ksvE11:22 a=4jILLvDa26PAIOCPl4Fv:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=lg8BaoS248dga2UjDioW:22 ::
+    100.00
+
+--1721706356-eximdsn-2124016055
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 W6TMsbSSZprLK :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=fZlmyFQF c=1 sm=1 tr=0 ts=669f2774 p=zZCPvBJeAAAA:8 p=2envgauTVg6jPMpiAJM9:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=4kmOji7k6h8A:10 a=pGLkceISAAAA:8 a=D_YFWNOLAAAA:8 a=tuTgI0B-xDqiVUBQ6-AA:9 a=KxGY5V8u19QA:10 a=iwuwXAeGhR8A:10 a=pFPePLqzRC7QO_ksvE11:22 a=4jILLvDa26PAIOCPl4Fv:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=lg8BaoS248dga2UjDioW:22 :: 100.00
+
+--1721706356-eximdsn-2124016055
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sW6T6-00GC5s-0A
+	for servicioalcliente@serkoi.com;
+	Mon, 22 Jul 2024 20:45:56 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 5.254.18.147
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 5.254.18.147
+From:
+Message-Id: <E1sW6T6-00GC5s-0A@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 22 Jul 2024 20:45:40 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Oman Sturgess. 
+Correo: . 
+Telefono: 070 2572 2093. 
+Mensaje: Hello,
+
+Securing the funding to drive growth and realize ideas is a major challenge for startups and established businesses alike. At Cateus Investment Company (CIC), we specialize in tailored financing solutions to meet these needs.
+
+We offer:
+
+Debt Financing: Competitive 3% annual interest rate with no early repayment penalties.
+Equity Financing: Venture capital funding with a 10% equity stake, providing essential resources for expansion while maintaining control.
+We are committed to providing flexible options to suit your specific requirements. Please share your pitch deck or executive summary so we can understand your business better and determine the best investment structure.
+
+Looking forward to discussing this further.
+
+Best regards,
+Oman Rook
+
+Executive Investment Consultant/Director
+Cateus Investment Company (CIC)
+2401 AlMoayyed Tower, Seef District Manama,
+Kingdom of Bahrain
+Phone: +973-17-585338
+Email: oman.rook@cateusgroup.org, cateusgroup@gmail.com
+Website: https://cateusinvestmentgroup.com. 
+
+
+--1721706356-eximdsn-2124016055--

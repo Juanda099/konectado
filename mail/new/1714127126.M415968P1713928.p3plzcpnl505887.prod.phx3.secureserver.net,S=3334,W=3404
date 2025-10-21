@@ -1,0 +1,70 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id OKYxGBaBK2YIJxoA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 26 Apr 2024 03:25:26 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 26 Apr 2024 03:25:26 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1s0Ili-007CLj-15
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 26 Apr 2024 03:25:26 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1s0IlY-007CJc-1F@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1s0Ili-007CLj-15@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 26 Apr 2024 03:25:26 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1s0IlY-007CJc-1F
+	for servicioalcliente@serkoi.com;
+	Fri, 26 Apr 2024 03:25:16 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 65.109.33.246
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 65.109.33.246
+From:
+Message-Id: <E1s0IlY-007CJc-1F@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 26 Apr 2024 03:25:16 -0700
+
+De: Ken Wentworth. 
+Correo: . 
+Telefono: 1. 
+Mensaje: I’m Mr. Biz®️, aka Ken Wentworth from Mr. Biz Solutions. 
+
+I’m glad to see your company is surviving these challenging economic times. Yet, have you considered how a part-time CFO can unlock even greater potential? You get the advantage of many years of proven experience for only a fraction of the cost.
+
+Sure, controllers and tax accountants handle the daily grind, but a CFO provides a strategic roadmap to a successful future. We become a key player in driving growth and helping you avoid pitfalls.
+
+Here are a few recent examples of companies like yours that we have helped achieve amazing results:
+- Net income up by a whopping 389% (28-year old business)
+- Revenue up 64% (16-year old business)
+- Free cash increased 1,007%: cash flow problems vanished (18-year old business)
+- Book value of company almost tripled (31-year old business)
+
+We can show you how our financial leadership expertise can make a difference.
+
+Schedule a free 30-minute consultation here: www.MrBizThrive.com 
+
+Believe & Achieve,
+Ken Wentworth, aka Mr. Biz®️
+https://mrbizsolutions.com 
+
+
+Unsubscribe here if you don't want to get these fantastic offers: https://docs.google.com/forms/d/e/1FAIpQLSdx-LI-ETiB-g37_ijIRHfBNhu__c-Go1dyOyZ_zU_pgeYTEg/viewform?usp=sf_link
+70 S. Sandusky, OH 43015, United States (US)
+. 
+

@@ -1,0 +1,98 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id gCOIM4F9m2ePPzMA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 30 Jan 2025 06:24:17 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 30 Jan 2025 06:24:17 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tdUWn-00E5mF-2Z
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 30 Jan 2025 06:24:17 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tdUWb-00E5ij-1N@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1738243457-eximdsn-416333975
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tdUWn-00E5mF-2Z@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 30 Jan 2025 06:24:17 -0700
+
+--1738243457-eximdsn-416333975
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 dUWntxHU0D9OF :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=C6YTyRP+ c=1 sm=1 tr=0 ts=679b7d81 p=CP563NQENq5gTDtZtAsA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=qRgBJNX7AAAA:8 a=3ZKOabzyN94A:10 a=S4eFLHoOr4TEoXbopjKR:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1738243457-eximdsn-416333975
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 dUWntxHU0D9OF :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=C6YTyRP+ c=1 sm=1 tr=0 ts=679b7d81 p=CP563NQENq5gTDtZtAsA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=qRgBJNX7AAAA:8 a=3ZKOabzyN94A:10 a=S4eFLHoOr4TEoXbopjKR:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1738243457-eximdsn-416333975
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tdUWb-00E5ij-1N
+	for servicioalcliente@serkoi.com;
+	Thu, 30 Jan 2025 06:24:17 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tdUWb-00E5ij-1N@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 30 Jan 2025 06:24:05 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Elmer Moose. 
+Correo: . 
+Telefono: 2120395290. 
+Mensaje: Hello dear Entrepreneur,
+
+Have you ever faced these challenges?
+‚ùå Customers abandon requests due to slow responses.
+‚ùå Your support team is overwhelmed with repetitive queries.
+‚ùå Leads leave without sharing contact details.
+‚ùå Competitors offer a smoother, more automated experience.
+
+Ì†ΩÌ∫Ä The Solution: Botsify ‚Äì Your Smart Virtual Assistant
+Ì†ΩÌ¥• Unlike competitors that limit conversations with credits, Botsify offers unlimited chats‚Äîno restrictions!
+
+Why Botsify?
+‚úÖ 24/7 Instant Support ‚Äì Automate replies and free up your team.
+‚úÖ Lead Generation & Qualification ‚Äì Convert visitors into customers effortlessly.
+‚úÖ Omnichannel Integration ‚Äì Website, WhatsApp, Messenger, Instagram & more.
+‚úÖ AI-Powered & Multilingual ‚Äì Personalized responses in 100+ languages.
+
+Ì†ΩÌ≤° Try Botsify free for 14 days and boost your customer engagement now!
+Ì†ΩÌ≥å Start Your Free Trial : https://app.botsify.com/register?referral=AInKnRTAQ8 
+
+Best regards,
+. 
+
+
+--1738243457-eximdsn-416333975--

@@ -1,0 +1,55 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id sJZaGEJu5mjw+j8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 08 Oct 2025 06:59:30 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 08 Oct 2025 06:59:30 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1v6UhW-000000002SI-1KEx
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 08 Oct 2025 06:59:30 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1v6UhO-000000002P1-1dK6@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1v6UhW-000000002SI-1KEx@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 08 Oct 2025 06:59:30 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1v6UhO-000000002P1-1dK6
+	for servicioalcliente@serkoi.com;
+	Wed, 08 Oct 2025 06:59:22 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1v6UhO-000000002P1-1dK6@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 08 Oct 2025 06:59:22 -0700
+
+De: Sophie Evans. 
+Correo: . 
+Telefono: 476118791. 
+Mensaje: 
+Good Day,
+Just wondering: Is your IT protection ready for your next growth phase? í ½í±‰ https://swiy.co/growth-ready
+
+Regards
+Charlotte Brown
+
+
+
+Opt-out: https://swiy.co/opt-out2
+. 
+

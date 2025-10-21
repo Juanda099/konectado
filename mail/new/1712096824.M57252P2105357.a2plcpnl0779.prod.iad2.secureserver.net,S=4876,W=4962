@@ -1,0 +1,86 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id +MqMADiGDGYNICAAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 02 Apr 2024 15:27:04 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 02 Apr 2024 15:27:04 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rrmat-008pxM-2o
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 02 Apr 2024 15:27:03 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rrmao-008pkx-25@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1712096823-eximdsn-365966987
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rrmat-008pxM-2o@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 02 Apr 2024 15:27:03 -0700
+
+--1712096823-eximdsn-365966987
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 rmbrrLn1aXQyx :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=TKqOSEla c=1 sm=1 tr=0 ts=660c8673 p=uXj3YDjoyeTSgPtx7sMA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=raytVjVEu-sA:10 a=xQ3VuzviCBmQmYu0LanT:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1712096823-eximdsn-365966987
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 rmbrrLn1aXQyx :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=TKqOSEla c=1 sm=1 tr=0 ts=660c8673 p=uXj3YDjoyeTSgPtx7sMA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=raytVjVEu-sA:10 a=xQ3VuzviCBmQmYu0LanT:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1712096823-eximdsn-365966987
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rrmao-008pkx-25
+	for servicioalcliente@serkoi.com;
+	Tue, 02 Apr 2024 15:27:03 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.106.24.42
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.106.24.42
+From:
+Message-Id: <E1rrmao-008pkx-25@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 02 Apr 2024 15:26:58 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Bruce William. 
+Correo: . 
+Telefono: 2364930506. 
+Mensaje: Imagine a world where traditional social media marketing is a thing of the past, and your journey at the forefront of innovation begins today. 
+Welcome to the era of AI Marketing, where boundaries are limitless and your business's potential is amplified. With our cutting-edge AI Tools and comprehensive Training, wave goodbye to outdated strategies and hello to a future of success. Envision the possibilities of earning $10,000.00 or more every month, transforming your financial landscape forever. 
+Our exclusive suite of AI resources is your golden ticket to an empire of prosperity. This isn't just about staying ahead; it's about redefining the game and setting unparalleled benchmarks. 
+Picture a community of trailblazers, all empowered by AI, sharing a common goal of monumental achievement. Every giant leap starts with a small step, and yours begins with a simple 'YES'. Seize this moment to embrace the revolution, redefine possibilities, and sculpt your legacy in the AI Marketing domain. 
+
+Comment 'YES' for exclusive access to AI Success, and embark on a journey where your dreams aren't just dreams, but vivid realities waiting to unfold.
+
+There is literally nothing holding you back from starting today. The KEYS to AI Marketing are in you grasp.. 
+
+
+--1712096823-eximdsn-365966987--

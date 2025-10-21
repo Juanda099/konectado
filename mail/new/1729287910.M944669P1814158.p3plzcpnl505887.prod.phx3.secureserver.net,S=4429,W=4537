@@ -1,0 +1,108 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id AOSEN+bWEmeOrhsA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 18 Oct 2024 14:45:10 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 18 Oct 2024 14:45:10 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1t1umU-007ctl-2n
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 18 Oct 2024 14:45:10 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1t1umM-007ch2-15@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1729287910-eximdsn-1653273238
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t1umU-007ctl-2n@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 18 Oct 2024 14:45:10 -0700
+
+--1729287910-eximdsn-1653273238
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 1umUt5MHDOdXJ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=cLQrsUeN c=1 sm=1 tr=0 ts=6712d6e6 p=_ES_4DlyCG9ROntW_0ok:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=QIQGHasYAAAA:8 a=DlSUbWOx-ALM8KiIQKcA:9 a=0RIsTbJTBnMWx3Pnh4dCnYoOjT8=:19 a=3ZKOabzyN94A:10 a=zgiPjhLxNE0A:10 a=7FeZBM781ouiJ-rRc8Pr:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ALvm4BB8bxeQMyr-U49L:22 ::
+    100.00
+
+--1729287910-eximdsn-1653273238
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 1umUt5MHDOdXJ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=cLQrsUeN c=1 sm=1 tr=0 ts=6712d6e6 p=_ES_4DlyCG9ROntW_0ok:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=QIQGHasYAAAA:8 a=DlSUbWOx-ALM8KiIQKcA:9 a=0RIsTbJTBnMWx3Pnh4dCnYoOjT8=:19 a=3ZKOabzyN94A:10 a=zgiPjhLxNE0A:10 a=7FeZBM781ouiJ-rRc8Pr:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ALvm4BB8bxeQMyr-U49L:22 :: 100.00
+
+--1729287910-eximdsn-1653273238
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1t1umM-007ch2-15
+	for servicioalcliente@serkoi.com;
+	Fri, 18 Oct 2024 14:45:10 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 207.244.118.56
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 207.244.118.56
+From:
+Message-Id: <E1t1umM-007ch2-15@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 18 Oct 2024 14:45:02 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Emily Richards. 
+Correo: . 
+Telefono: 725-520-5699. 
+Mensaje: Ready to take your business to the next level? Get the funding you need with our unsecured 
+
+business loans of up to $500k!
+
+
+
+Forget about collateral or personal guarantees—we don’t even check your credit!
+
+
+
+Act now and visit www.nextdayworkingcapital.com/approval to see how we can fuel your growth. 
+
+Get your instant funding decision today!
+
+
+
+
+
+
+
+
+
+This is an Advertisement.
+To unsubscribe visit www.nextdayworkingcapital.com/unsubscribe 
+
+or write to:
+Next Day Working Capital
+3343 Peachtree Rd NE Ste 145-410
+Atlanta, GA 30326
+. 
+
+
+--1729287910-eximdsn-1653273238--

@@ -1,0 +1,85 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id oFYCFkv5VGKUCzMAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 11 Apr 2022 21:00:11 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 11 Apr 2022 21:00:11 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	id 1ne7hL-00E5Cv-7i
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Mon, 11 Apr 2022 21:00:11 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1ne7hJ-00E5C0-KP@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1649736011-eximdsn-626525352
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ne7hL-00E5Cv-7i@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 11 Apr 2022 21:00:11 -0700
+
+--1649736011-eximdsn-626525352
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 e7hKn9Oh2caEN :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=cKQlDnSN c=1 sm=1 tr=0 ts=6254f94b p=tMdsKdbwkE17mQcoMhEA:9 p=vGpTwaDmJ-8A:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=z0gMJWrwH1QA:10 a=GR1KMiOcJ9kA:10 a=pGLkceISAAAA:8 a=Hy4Jr1sX4sgA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=D5R-2GmYa7bhf8upl_el:22 ::
+    100.00
+
+--1649736011-eximdsn-626525352
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 e7hKn9Oh2caEN :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=cKQlDnSN c=1 sm=1 tr=0 ts=6254f94b p=tMdsKdbwkE17mQcoMhEA:9 p=vGpTwaDmJ-8A:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=z0gMJWrwH1QA:10 a=GR1KMiOcJ9kA:10 a=pGLkceISAAAA:8 a=Hy4Jr1sX4sgA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=D5R-2GmYa7bhf8upl_el:22 :: 100.00
+
+--1649736011-eximdsn-626525352
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1ne7hJ-00E5C0-KP
+	for servicioalcliente@serkoi.com; Mon, 11 Apr 2022 21:00:09 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 151.106.8.38
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 151.106.8.38
+From:
+Message-Id: <E1ne7hJ-00E5C0-KP@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 11 Apr 2022 21:00:09 -0700
+
+De: Micheallah. 
+Correo: . 
+Telefono: 81818664393. 
+Mensaje: Привет, мы маленькая, но гордая студия из Украины. Конкретно, из Донецка. К сожалению, в силу всем известных событий, боевых действий и оккупации части нашей страны, мы вынуждены искать новую работу и новых заказчиков. 
+Мы предлагаем обновить или разработать сайт, провести SEO, настроить кампанию в Google Ads и вести любые иные аспекты вашей online activity. Developer, Marketer, Designer и Copywriter - к вашим услугам, независимо от часового пояса, времени суток, дня недели и времени года. 
+Обладая квалификацией создания English-speaking resources мы работаем с теми, кому рабочие вопросы удобно решать, в том числе, на русском языке. Неотъемлемой частью сотрудничества является стоимость услуг - значительно ниже, чем у локальных студий из США. Поддержите нас пожалуйста, нам нужна только работа! 
+Summary: 
+- SEO и выход в Top-10 Google Search. 
+- Booking and ordering with CRM integration. 
+- Google Ads. 
+Please call us: 
+WhatsApp: +380 71 484 1135 
+Signal: +380 71 484 1135 
+Email: artweb.agency@gmail.com 
+С уважением, Антон Пугач.. 
+
+
+--1649736011-eximdsn-626525352--

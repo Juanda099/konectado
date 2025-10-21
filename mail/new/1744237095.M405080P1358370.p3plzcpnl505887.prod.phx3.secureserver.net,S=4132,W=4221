@@ -1,0 +1,89 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id OIt6Fyfy9mciuhQA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 09 Apr 2025 15:18:15 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 09 Apr 2025 15:18:15 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1u2dkN-005kJ7-13
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 09 Apr 2025 15:18:15 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1u2dkB-005kC0-0S@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1744237095-eximdsn-952796665
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1u2dkN-005kJ7-13@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 09 Apr 2025 15:18:15 -0700
+
+--1744237095-eximdsn-952796665
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 2dkNujTvhUSOX :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=E6Y3pbdl c=1 sm=1 tr=0 ts=67f6f227 p=amhY0POWAAAA:8 p=MQ90k9h80SS2JXlTRukA:9 p=GC3qDNXooHwA:10 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=pGLkceISAAAA:8 a=zgiPjhLxNE0A:10 a=-9nN2znfCZcX3TzTVJ0k:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1744237095-eximdsn-952796665
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 2dkNujTvhUSOX :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=E6Y3pbdl c=1 sm=1 tr=0 ts=67f6f227 p=amhY0POWAAAA:8 p=MQ90k9h80SS2JXlTRukA:9 p=GC3qDNXooHwA:10 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=pGLkceISAAAA:8 a=zgiPjhLxNE0A:10 a=-9nN2znfCZcX3TzTVJ0k:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1744237095-eximdsn-952796665
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1u2dkB-005kC0-0S
+	for servicioalcliente@serkoi.com;
+	Wed, 09 Apr 2025 15:18:15 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1u2dkB-005kC0-0S@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 09 Apr 2025 15:18:03 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Tuyet Shell. 
+Correo: . 
+Telefono: 932 56 496. 
+Mensaje: FYI, I came across you guys and was checking out your website. It's good! But I did find a couple of issues that are holding you down in Google search results. 
+
+If you'd like, I am happy to make you a quick website video audit walking you through those fixes... no strings attached.
+
+No worries if you are not interested, but I just wanted to offer.
+
+Let me know if I can do that for you. 
+
+My email: globalpanther@gmail.com
+
+If you want you can check some of the recent results that we were able to achieve recently https://ourseoresults.wordpress.com/
+
+Samantha Val. 
+
+
+--1744237095-eximdsn-952796665--

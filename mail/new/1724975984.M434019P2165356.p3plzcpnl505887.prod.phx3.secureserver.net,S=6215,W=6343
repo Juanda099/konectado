@@ -1,0 +1,128 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id gJQsGXAL0WZsCiEA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 29 Aug 2024 16:59:44 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 29 Aug 2024 16:59:44 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sjp3I-0095iD-1A
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 29 Aug 2024 16:59:44 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sjp37-0095fd-19@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1724975984-eximdsn-1378942183
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sjp3I-0095iD-1A@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 29 Aug 2024 16:59:44 -0700
+
+--1724975984-eximdsn-1378942183
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 jp3IsKF06UT3J :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=VPwWnMPX c=1 sm=1 tr=0 ts=66d10b70 p=tfA_TzRyAAAA:8 p=KrG22EANH0tXf1wJ8u-r:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=smrCSdiaAAAA:8 a=6rpr5tvZdCn2Se-B7g0A:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=1hLqZxhoj7b8J0iEYjPs:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1724975984-eximdsn-1378942183
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 jp3IsKF06UT3J :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=VPwWnMPX c=1 sm=1 tr=0 ts=66d10b70 p=tfA_TzRyAAAA:8 p=KrG22EANH0tXf1wJ8u-r:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=smrCSdiaAAAA:8 a=6rpr5tvZdCn2Se-B7g0A:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=1hLqZxhoj7b8J0iEYjPs:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1724975984-eximdsn-1378942183
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sjp37-0095fd-19
+	for servicioalcliente@serkoi.com;
+	Thu, 29 Aug 2024 16:59:44 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.146.52
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.146.52
+From:
+Message-Id: <E1sjp37-0095fd-19@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 29 Aug 2024 16:59:33 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Lyda Powers. 
+Correo: . 
+Telefono: 026 443 12 23. 
+Mensaje: 
+Exciting news!   The wait is finally over – OpenApp AI is now LIVE
+The first-ever AI-powered, no-coding 'Android & iOS' mobile app builder.
+Game-changing technology allows you to transform any your ideas, keywords, website URL, blogs, pages, and e-commerce stores into stunning Real Android & iOS mobile apps in less than 60 seconds!
+
+===>Access OpenApp AI + All Bonus (Early Bird Launch Discount): https://www.earnmillions.xyz/appios 
+
+Generate highly advanced Mobile apps and upload them on different app stores Like Google-Play & Apple App Store…
+...  To easily make huge profits weekly, monthly and annually on complete autopilot...
+
+Here's why OpenApp AI is a game-changer:
+Create Unlimited Android & IOS Mobile Apps Using Al
+Transform Any Website Url, Keywords, Blogs, Pages & Ecom Store into A Fully Functional Stunning Mobile Apps
+Built-in 1500+ Professional Templates: Create Personal Or Business Mobile Apps For Any Niche Using Al
+Publish Your App on Google-Play and Apple store In Less Than 60 Seconds
+Payment Integration, accept payments in your app through Payment Gateways
+Send Push Notifications To Your App Users And Get Up To 98% Open Rate.
+Send Unlimited Emails & SMS Directly To Your Users
+Add Unlimited Custom Domains & Subdomains Without Any Restrictions.
+Built-In Interactive elementsa to add Coupon, Loyalty Program, Appointment and event booking,
+Convert existing website URL into Android/iOS App
+Generate native android and iOS apps
+Built-in App Monetization
+Lifetime Access With No Recurring Monthly Payments
+
+
+Ready to take the leap into the future of app development?   Try OpenApp AI today and experience the simplicity of turning your dreams into reality.
+
+==> Watch OpenApp AI Demo In Action: https://www.earnmillions.xyz/appios 
+
+Don't let coding complexities hold you back.   Join the ranks of successful app creators with OpenApp AI.
+
+Oops, did I forget to mention…
+You’re also getting exclusive bonuses worth $....   that will make this deal an unforgettable affair. 
+
+But these are available for a very limited time.
+So, don’t you dare miss out on this.
+
+
+===>Access OpenApp AI + All Bonus (Early Bird Launch Discount): https://www.earnmillions.xyz/appios 
+
+
+Best regards,
+Lyda Powers
+
+
+UNSUBSCRIBE: https://www.earnmillions.xyz/unsubscribe/?d=proditelsas.com  
+Address: 1028 Patterson Fork Road
+Chicago, IL 60606
+. 
+
+
+--1724975984-eximdsn-1378942183--

@@ -1,0 +1,120 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id SK9TKGzgEGQdBiAAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 14 Mar 2023 14:00:28 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 14 Mar 2023 14:00:28 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pcBky-008tho-J0
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 14 Mar 2023 14:00:28 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pcBkt-008tfK-WD@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1678827628-eximdsn-2109314382
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pcBky-008tho-J0@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 14 Mar 2023 14:00:28 -0700
+
+--1678827628-eximdsn-2109314382
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 cBkypbJtUy0IM :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=DbjR6NhW c=1 sm=1 tr=0 ts=6410e06c p=DuN_re4gAAAA:20 p=BJSdTVn5JBIA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=k__wU0fu6RkA:10 a=AtXPFFcpgIHK2EqIxykA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 a=RuCCYmuUzOv3Lo91PUX3:22 ::
+    100.00
+
+--1678827628-eximdsn-2109314382
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 cBkypbJtUy0IM :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=DbjR6NhW c=1 sm=1 tr=0 ts=6410e06c p=DuN_re4gAAAA:20 p=BJSdTVn5JBIA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=k__wU0fu6RkA:10 a=AtXPFFcpgIHK2EqIxykA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 a=RuCCYmuUzOv3Lo91PUX3:22 :: 100.00
+
+--1678827628-eximdsn-2109314382
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pcBkt-008tfK-WD
+	for servicioalcliente@serkoi.com;
+	Tue, 14 Mar 2023 14:00:28 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 156.239.55.183
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 156.239.55.183
+From:
+Message-Id: <E1pcBkt-008tfK-WD@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 14 Mar 2023 14:00:23 -0700
+
+De: Ashely Hixson. 
+Correo: . 
+Telefono: (02) 6718 4448. 
+Mensaje: Hello,
+ 
+Yaay! BrainBox is Finally Live!!!
+
+You can now launch your own “ChatGPT-Like” AI Chatbot and get access to it's 50+ superpower Advanced Features that automates everything you could ever need for your success in the online space without running bankrupt.
+
+Effortlessly launch your own ChatGPT Like AI Chatbot - Zero Monthly Fee, Zero Coding! (Earlybirds and 11 fastest fingers only!)
+
+Henceforth, you will stop working tirelessly like a pendulum and quit spending enormously for freelancers and expensive third-party platforms for their pesky tasks.
+
+It doesn't matter your rank in the online space, whether you're a pro marketer or a beginner. Once your AI Chatbot is up and running, you are good to go! 
+
+With this Unique tool in your hands, You will unlock the success-secret of the top affiliates and 500 fortune companies just by simply describing what you need either through voice commands or typing...
+…without experiencing a single downtime or paying outrageously monthly..  and trust me your result is ready within a twinkle of an eye!
+
+Sounds great right?
+
+No Bluffing, No Xtra Payment! 
+
+This is 50X better than the popular ChatGPT. As easy as it is, You can customize your chatbot's appearance, voice, and personality to match your brand and your audience's preferences even if you don't have tech or design experience. 
+ 
+And with the powerful analytics dashboard, you can track your chatbot's performance, monitor user feedback, and optimize your chatbot's features and responses over time.
+
+The sweetest of all is,
+
+It comes equipped with a built-in buyers generator that will fetch out for you thousands of hungry buyers in every corner of the universe day by day to pay for your chatbot services and ultimately bring in for you $5k-$10K per month in side-income on complete autopilot.
+
+Isn’t this mind-blowing?
+
+See there’s more benefits for you with this Brand New Innovation... you just need to go in and see them all for yourself… and they will be all yours today for a very low one time fee and enjoy for your lifetime. 
+
+No upgrading ​fee, No reselling fee, ​​No Upsells required! 
+
+Watch Live Video how this is powerful >>> https://bit.ly/brainboox
+
+Cheers
+
+
+Thanks
+
+Yudh D
+34 Chula Road, TX
+86760
+=====
+Click here to Unsubscribe. 
+
+
+--1678827628-eximdsn-2109314382--

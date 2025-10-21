@@ -1,0 +1,106 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id cP1CO7Waymcw+iUA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 07 Mar 2025 00:05:25 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 07 Mar 2025 00:05:26 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tqRlt-00BBAK-2z
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 07 Mar 2025 00:05:25 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tqRll-00BB8H-0S@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1741331125-eximdsn-663629285
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tqRlt-00BBAK-2z@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 07 Mar 2025 00:05:25 -0700
+
+--1741331125-eximdsn-663629285
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 qRlttZHVC2xrs :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=WtzRMcfv c=1 sm=1 tr=0 ts=67ca9ab5 p=UqmxThiPmpZ5Xl87pB8A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=Vs1iUdzkB0EA:10 a=HpzmFC3PAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=PmXiIH4RHP-f5CiJp5SQ:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    96.00
+
+--1741331125-eximdsn-663629285
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 qRlttZHVC2xrs :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=WtzRMcfv c=1 sm=1 tr=0 ts=67ca9ab5 p=UqmxThiPmpZ5Xl87pB8A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=Vs1iUdzkB0EA:10 a=HpzmFC3PAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=PmXiIH4RHP-f5CiJp5SQ:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 96.00
+
+--1741331125-eximdsn-663629285
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tqRll-00BB8H-0S
+	for servicioalcliente@serkoi.com;
+	Fri, 07 Mar 2025 00:05:25 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tqRll-00BB8H-0S@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 07 Mar 2025 00:05:17 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Roger Hummer. 
+Correo: . 
+Telefono: (07) 5334 0799. 
+Mensaje: Hey ,
+
+Big changes are happening in the online world, and most businesses have no idea what’s coming.   Privacy laws like GDPR, CCPA, and Google Consent Mode V2 are now being strictly enforced.   If a business isn’t compliant, it risks losing ad revenue, getting fined, or even being shut down.
+
+This is where Complyfi comes in—a one-click, done-for-you compliance solution that protects businesses and keeps them legally safe.   But here’s the real opportunity: You can offer Complyfi as a service and generate a steady stream of income: https://www.getmoreopportunities.info/complyfi .
+
+Here’s why this is a massive money-making opportunity:
+
+✅ Every business needs compliance – It’s not optional anymore.
+
+✅ Sell it as a high-value service – Businesses will pay to avoid penalties.
+
+✅ Easy to implement, no tech skills needed – Just set it up and charge for access.
+
+✅ Offer it as a recurring service – Generate predictable, ongoing revenue.
+
+Instead of sending businesses to expensive monthly subscription tools, you can provide them with a better solution at a fraction of the cost—and keep all the profits.
+
+Todd Gross will show you exactly how to capitalize on this compliance shift, package it as a service, and turn it into a long-term revenue stream 
+������ : https://www.getmoreopportunities.info/complyfi 
+
+Don’t wait until it’s too late—this is your chance to position yourself as the go-to compliance expert while the competition is still asleep. 
+
+
+Roger Hummer
+
+ 
+UNSUBSCRIBE: https://www.getmoreopportunities.info/unsubscribe/?d=proditelsas.com 
+Address: 235 Primrose Lane
+Madison, WI 53705. 
+
+
+--1741331125-eximdsn-663629285--

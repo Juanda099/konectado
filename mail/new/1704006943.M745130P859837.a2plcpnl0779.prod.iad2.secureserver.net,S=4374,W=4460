@@ -1,0 +1,86 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id EpwVKx8VkWW9Hg0AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sun, 31 Dec 2023 00:15:43 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sun, 31 Dec 2023 00:15:43 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rJq2x-003bgF-1r
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sun, 31 Dec 2023 00:15:43 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rJq2s-003bfc-0l@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1704006943-eximdsn-1428861855
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rJq2x-003bgF-1r@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 31 Dec 2023 00:15:43 -0700
+
+--1704006943-eximdsn-1428861855
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Jq3Gr50ub5LBq :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=J4NsrirS c=1 sm=1 tr=0 ts=65911532 p=mDvtkeveAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=e2cXIFwxEfEA:10 a=YvHP-nHGpGNoCEKV0jwA:9 a=QMzLxJMsvVUA:10 a=OGnv4vTQYnB2LbB82LEZ:22 a=ON4nB5BJBgYhMFTxmA83:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1704006943-eximdsn-1428861855
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Jq3Gr50ub5LBq :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=J4NsrirS c=1 sm=1 tr=0 ts=65911532 p=mDvtkeveAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=e2cXIFwxEfEA:10 a=YvHP-nHGpGNoCEKV0jwA:9 a=QMzLxJMsvVUA:10 a=OGnv4vTQYnB2LbB82LEZ:22 a=ON4nB5BJBgYhMFTxmA83:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1704006943-eximdsn-1428861855
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rJq2s-003bfc-0l
+	for servicioalcliente@serkoi.com;
+	Sun, 31 Dec 2023 00:15:43 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 45.146.54.9
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 45.146.54.9
+From:
+Message-Id: <E1rJq2s-003bfc-0l@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 31 Dec 2023 00:15:38 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Dorthy Fairchild. 
+Correo: . 
+Telefono: 66 484 82 77. 
+Mensaje: Boost your website's visibility with our classified ad blasting service! We'll promote your links on 2,000+ classified ad pages, 500+ blogs, and 150+ social sites in the US and Canada. Our manual submission ensures targeted exposure, and you can track and optimize your ad's performance. Reach a broader audience and enhance your website's SEO today!
+
+For details, shoot me an email or Skype me at my contact info below.
+
+P. Stewart
+Skype: live:.cid.ad0ee8f191cd36b4
+Email: ps75-722@gomail2.xyz
+. 
+
+
+--1704006943-eximdsn-1428861855--

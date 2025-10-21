@@ -1,0 +1,87 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id WC2zNWKXU2TuaTQAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 04 May 2023 04:30:42 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 04 May 2023 04:30:44 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1puXAY-00EQpi-Fi
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 04 May 2023 04:30:42 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1puXAO-00EQXe-B6@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1puXAY-00EQpi-Fi@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 04 May 2023 04:30:42 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1puXAO-00EQXe-B6
+	for servicioalcliente@serkoi.com;
+	Thu, 04 May 2023 04:30:32 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 191.96.20.143
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 191.96.20.143
+From:
+Message-Id: <E1puXAO-00EQXe-B6@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 04 May 2023 04:30:32 -0700
+
+De: Eric Jones. 
+Correo: . 
+Telefono: 555-555-1212. 
+Mensaje: Dear proditelsas.com Administrator!
+
+Cool website!
+
+My name’s Eric, and I just found your site - proditelsas.com - while surfing the net. You showed up at the top of the search results, so I checked you out. Looks like what you’re doing is pretty cool.
+ 
+But if you don’t mind me asking – after someone like me stumbles across proditelsas.com, what usually happens?
+
+Is your site generating leads for your business? 
+ 
+I’m guessing some, but I also bet you’d like more… studies show that 7 out 10 who land on a site wind up leaving without a trace.
+
+Not good.
+
+Here’s a thought – what if there was an easy way for every visitor to “raise their hand” to get a phone call from you INSTANTLY… the second they hit your site and said, “call me now.”
+
+You can –
+  
+Web Visitors Into Leads is a software widget that’s works on your site, ready to capture any visitor’s Name, Email address and Phone Number.  It lets you know IMMEDIATELY – so that you can talk to that lead while they’re literally looking over your site.
+
+CLICK HERE http://advanceleadgeneration.com to try out a Live Demo with Web Visitors Into Leads now to see exactly how it works.
+
+Time is money when it comes to connecting with leads – the difference between contacting someone within 5 minutes versus 30 minutes later can be huge – like 100 times better!
+
+That’s why we built out our new SMS Text With Lead feature… because once you’ve captured the visitor’s phone number, you can automatically start a text message (SMS) conversation.
+  
+Think about the possibilities – even if you don’t close a deal then and there, you can follow up with text messages for new offers, content links, even just “how you doing?” notes to build a relationship.
+
+Wouldn’t that be cool?
+
+CLICK HERE http://advanceleadgeneration.com to discover what Web Visitors Into Leads can do for your business.
+
+You could be converting up to 100X more leads today!
+Eric
+
+PS: Web Visitors Into Leads offers a FREE 14 days trial – and it even includes International Long Distance Calling. 
+You have customers waiting to talk with you right now… don’t keep them waiting. 
+CLICK HERE http://advanceleadgeneration.com to try Web Visitors Into Leads now.
+
+If you'd like to unsubscribe click here http://advanceleadgeneration.com/unsubscribe.aspx?d=proditelsas.com
+. 
+

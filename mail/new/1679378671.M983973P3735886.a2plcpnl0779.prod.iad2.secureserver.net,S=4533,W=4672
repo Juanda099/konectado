@@ -1,0 +1,139 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id uH0OOe9IGWROATkAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 20 Mar 2023 23:04:31 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 20 Mar 2023 23:04:31 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1peV6l-00Fh2s-RA
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Mon, 20 Mar 2023 23:04:31 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1peV6g-00FgyY-Ra@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1679378671-eximdsn-529660937
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1peV6l-00Fh2s-RA@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 20 Mar 2023 23:04:31 -0700
+
+--1679378671-eximdsn-529660937
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 eV6lpSkwpfgEG :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=I5KjBvsg c=1 sm=1 tr=0 ts=641948ef p=KNIx_RkYAAAA:8 p=XVEFRpEmAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=k__wU0fu6RkA:10 a=smrCSdiaAAAA:8 a=mK9OFQBFbfGzICGKc-sA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=Np0RfMTfcZzX9cJ6A8MS:22 a=bMEUSUqv0pbNcq2Z_7_v:22 a=y5sVf_D8qEkV7B6LZBhh:22 a=M9ZHoLuYIHMl9pbmgCZa:22 ::
+    100.00
+
+--1679378671-eximdsn-529660937
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 eV6lpSkwpfgEG :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=I5KjBvsg c=1 sm=1 tr=0 ts=641948ef p=KNIx_RkYAAAA:8 p=XVEFRpEmAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=k__wU0fu6RkA:10 a=smrCSdiaAAAA:8 a=mK9OFQBFbfGzICGKc-sA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=Np0RfMTfcZzX9cJ6A8MS:22 a=bMEUSUqv0pbNcq2Z_7_v:22 a=y5sVf_D8qEkV7B6LZBhh:22 a=M9ZHoLuYIHMl9pbmgCZa:22 :: 100.00
+
+--1679378671-eximdsn-529660937
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1peV6g-00FgyY-Ra
+	for servicioalcliente@serkoi.com;
+	Mon, 20 Mar 2023 23:04:31 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 37.72.186.174
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 37.72.186.174
+From:
+Message-Id: <E1peV6g-00FgyY-Ra@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 20 Mar 2023 23:04:26 -0700
+
+De: Bill Cavana. 
+Correo: . 
+Telefono: 069 98 25 45. 
+Mensaje: HI,
+
+Running an agency can be a daunting task, especially when you're dealing with manual tasks and fragmented tools. 
+
+HighLevel Pro SaaS Plan eliminates these hassles by providing an all-in-one platform that simplifies lead capture, appointment scheduling, and follow-ups. 
+
+Say goodbye to the tedious tasks and hello to streamlined operations with HighLevel Pro. 
+
+Sign up for our 14-day free trial and see how it can transform your agency.
+
+Click the link to get started
+
+savemytimebizhub.com
+
+
+Regards,
+
+Bill
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+224 Westwood Cir., Dalton, GA  30721
+Unsubscribe:
+optoutforever.com/?site=proditelsas.com
+. 
+
+
+--1679378671-eximdsn-529660937--

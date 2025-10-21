@@ -1,0 +1,90 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 6CyoEF/XRmYrGTUA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 16 May 2024 21:04:47 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 16 May 2024 21:04:47 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1s7opr-00EnGJ-0h
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 16 May 2024 21:04:47 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1s7opa-00EjPc-1Y@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1715918687-eximdsn-67465184
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1s7opr-00EnGJ-0h@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 16 May 2024 21:04:47 -0700
+
+--1715918687-eximdsn-67465184
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 7oprsHLFONgnR :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=E8sGprdl c=1 sm=1 tr=0 ts=6646d75f p=gD8iGHXpAAAA:20 p=yiO0UOeWAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=TiQqhhxV8cPdZdfc0tUA:9 a=3ZKOabzyN94A:10 a=1KUHndHOfXoA:10 a=0lgtpPvCYYIA:10 a=i1LqzOL1BJHA1RKuowIK:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1715918687-eximdsn-67465184
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 7oprsHLFONgnR :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=E8sGprdl c=1 sm=1 tr=0 ts=6646d75f p=gD8iGHXpAAAA:20 p=yiO0UOeWAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=TiQqhhxV8cPdZdfc0tUA:9 a=3ZKOabzyN94A:10 a=1KUHndHOfXoA:10 a=0lgtpPvCYYIA:10 a=i1LqzOL1BJHA1RKuowIK:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1715918687-eximdsn-67465184
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1s7opa-00EjPc-1Y
+	for servicioalcliente@serkoi.com;
+	Thu, 16 May 2024 21:04:47 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 206.232.13.133
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 206.232.13.133
+From:
+Message-Id: <E1s7opa-00EjPc-1Y@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 16 May 2024 21:04:30 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Leona Heysen. 
+Correo: . 
+Telefono: . 
+Mensaje: Get started and experience the results!
+
+Are you trying to grow your business reach without overspending? Our bulk message submission service is the best solution. For just 47 dollars, you can have your message submitted to a million businesses through their website contact forms. This is an great way to increase your visibility, drive more traffic to your site, and potentially gain new customers.
+
+Picture the impact of having your message reach a vast network of businesses, all for the cost of a single ad campaign. Whether you’re promoting a new product, offering a service, or just looking to increase brand awareness, this service can help you achieve your goals.
+
+Visit: https://bit.ly/bulkforms
+
+
+
+Unsubscribe here if you don't want to get these great newsletters: https://form.jotform.com/241362853020447
+Schachermairdorf 30, Vorau, BURGENLAND, Austria, 4724. 
+
+
+--1715918687-eximdsn-67465184--

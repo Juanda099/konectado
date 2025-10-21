@@ -1,0 +1,103 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id YBTCMvUbgmfBchMA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 11 Jan 2025 00:21:25 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 11 Jan 2025 00:21:25 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tWVoD-005Mqg-2W
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 11 Jan 2025 00:21:25 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tWVo2-005MoS-2u@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1736580085-eximdsn-192166454
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tWVoD-005Mqg-2W@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 11 Jan 2025 00:21:25 -0700
+
+--1736580085-eximdsn-192166454
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 WVoDtgcp5nSjh :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=F92tdrhN c=1 sm=1 tr=0 ts=67821bf5 p=gjCJhEfIAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=8AYZlHQ3RD7_V6g_-7MA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=lZEUJAQODnKXUOvq1D6u:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1736580085-eximdsn-192166454
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 WVoDtgcp5nSjh :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=F92tdrhN c=1 sm=1 tr=0 ts=67821bf5 p=gjCJhEfIAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=8AYZlHQ3RD7_V6g_-7MA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=lZEUJAQODnKXUOvq1D6u:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1736580085-eximdsn-192166454
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tWVo2-005MoS-2u
+	for servicioalcliente@serkoi.com;
+	Sat, 11 Jan 2025 00:21:25 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tWVo2-005MoS-2u@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 11 Jan 2025 00:21:14 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Ronald Holland. 
+Correo: . 
+Telefono: 0374 0975342. 
+Mensaje: Hey ,
+
+Let’s be honest—most people are out there trying a dozen things, hoping that one of them will finally work. But when was the last time one of those “opportunities” actually paid off?
+
+If you’re still searching, that means what you’ve been doing so far isn’t working. So why not try something different—something that’s proven to deliver real, consistent results?
+
+My friend Sean Donahoe has helped thousands of people get off the hamster wheel and onto a real path to success. His Yellow Brick Formula doesn’t rely on gimmicks or luck; it’s built on a solid, step-by-step system that works. And for the next five days, he’s going to teach you exactly how to use it to make a difference in your own life: https://www.growthmarketingnow.info/yellowbrickformula.
+
+Just look at what others have achieved:
+
+126% returns in two weeks
+422% profits in two days
+2,772% growth in 48 hours
+This isn’t just theory—these are real results from real people who wanted something better. And the best part? Sean’s method lets you practice this skill without risking a dime, so you can see exactly how it works before committing anything.
+
+So here’s my question: if what you’re doing right now isn’t getting you where you want to be, isn’t it time to make a change?
+
+[Click here to secure your spot] in the sprint: https://www.growthmarketingnow.info/yellowbrickformula . This could be exactly what you’ve been waiting for.
+
+To your success,
+Ronald Holland
+
+UNSUBSCRIBE: https://www.growthmarketingnow.info/unsubscribe/?d=proditelsas.com 
+Address: 1539 Lords Way
+Rutherford, TN 38369
+
+. 
+
+
+--1736580085-eximdsn-192166454--

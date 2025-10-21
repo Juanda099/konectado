@@ -1,0 +1,109 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id mnIyKJf9VWdR1QkA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 08 Dec 2024 13:12:07 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 08 Dec 2024 13:12:07 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tKNdP-002hdz-1x
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 08 Dec 2024 13:12:07 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tKNdD-002hOq-1P@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1733688727-eximdsn-938207673
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tKNdP-002hdz-1x@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 08 Dec 2024 13:12:07 -0700
+
+--1733688727-eximdsn-938207673
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 KNdPtkB2US4Zd :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=OcliDgTY c=1 sm=1 tr=0 ts=6755fd97 p=V_MCovwj7KZg5zfKFjGk:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=RZcAm9yDv7YA:10 a=U2Plp-BDAAAA:8 a=smrCSdiaAAAA:8 a=ZYZ4QG7IGlxmjGkrVc4A:9 a=3ZKOabzyN94A:10 a=E3JengKWPXIA:10 a=4qW6d3AUPwk9vKO5kFe-:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1733688727-eximdsn-938207673
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 KNdPtkB2US4Zd :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=OcliDgTY c=1 sm=1 tr=0 ts=6755fd97 p=V_MCovwj7KZg5zfKFjGk:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=RZcAm9yDv7YA:10 a=U2Plp-BDAAAA:8 a=smrCSdiaAAAA:8 a=ZYZ4QG7IGlxmjGkrVc4A:9 a=3ZKOabzyN94A:10 a=E3JengKWPXIA:10 a=4qW6d3AUPwk9vKO5kFe-:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1733688727-eximdsn-938207673
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tKNdD-002hOq-1P
+	for servicioalcliente@serkoi.com;
+	Sun, 08 Dec 2024 13:12:07 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 5.252.162.219
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 5.252.162.219
+From:
+Message-Id: <E1tKNdD-002hOq-1P@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 08 Dec 2024 13:11:55 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Shantell Forte. 
+Correo: . 
+Telefono: . 
+Mensaje: Hi to Proditelsas Owner,
+
+My name is Shantell, I discovered Proditelsas after doing a concise search – your site surfaced close to the summit of the search results, so all that you’re doing for SEO seems like it’s working well.
+
+So I've got my question – specifically what happens AFTER somebody arrives on your website? Anything at all?
+
+Statistics reveals at least 70 percent of the individuals who find your website, following a quick review, they depart… forever.
+
+This suggests that all the energy and commitment you dedicated into getting them to arrive slips down the tubes.
+
+Why exactly would you wish all valuable effort – and the remarkable website you’ve created – go to waste?
+
+As the likelihood are they’ll just avoid calling or even pulling out their mobile phone, leaving you in the lurch.
+
+However, here’s a suggestion… what if you could make it very easy for a visitor to raise their hand and say, okay, let’s discuss without needing them to even pull out their phone from their bag, thanks to cutting-edge new software that can make that first connection NOW.
+
+Web Visitors Into Leads is a application that sits on your page, ready and waiting to gather any visitor’s Contact Name, Email address, and Phone Number. It alerts you right away – so that you can talk to that lead while they’re still there, strike when the iron’s hot!
+
+Visit https://advanceleadgeneration.com to experience a Live Demo with Web Visitors Into Leads to understand precisely how it works. When targeting leads, you need to respond swiftly – the difference between contacting someone within 5 minutes versus 30 minutes later is significant – like 100 times more effective!
+
+That’s why you should explore our new SMS Text With Lead option… once you’ve captured the phone number of the site user, you can immediately kick off a text message (SMS) conversation with them.
+
+Imagine how effective this could be – even if they don’t take you up on your proposal, you can stay in touch with them through texts messages to present additional suggestions, or provide access to interesting content, and build your credibility. This alone could significantly improve your website's effectiveness – strike when the time is right!
+
+Go to https://advanceleadgeneration.com to learn more about everything Web Visitors Into Leads can offer your business – you’ll be impressed, and keep up the great work!
+
+Shantell Forte
+PS: Web Visitors Into Leads provides a 14-day test phase – you might be converting up to 100x more leads quickly! Visit https://advanceleadgeneration.com to explore Web Visitors Into Leads.
+
+Now, if you'd prefer to opt-out here https://advanceleadgeneration.com/unsubscribe.aspx?d=proditelsas.com
+. 
+
+
+--1733688727-eximdsn-938207673--

@@ -1,0 +1,131 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id S5o1BEXLkGfQ5TcA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 22 Jan 2025 03:41:09 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 22 Jan 2025 03:41:09 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1taYAX-00FMzQ-00
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 22 Jan 2025 03:41:09 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1taYAL-00FLXq-36@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1737542468-eximdsn-991787772
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1taYAX-00FMzQ-00@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 22 Jan 2025 03:41:09 -0700
+
+--1737542468-eximdsn-991787772
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 aYAWtEtdHoCMQ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=HPQ5Fptv c=1 sm=1 tr=0 ts=6790cb44 p=gjCJhEfIAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=liHwWwN-CgLVl5ipCyIA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=lZEUJAQODnKXUOvq1D6u:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1737542468-eximdsn-991787772
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 aYAWtEtdHoCMQ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=HPQ5Fptv c=1 sm=1 tr=0 ts=6790cb44 p=gjCJhEfIAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=liHwWwN-CgLVl5ipCyIA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=lZEUJAQODnKXUOvq1D6u:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1737542468-eximdsn-991787772
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1taYAL-00FLXq-36
+	for servicioalcliente@serkoi.com;
+	Wed, 22 Jan 2025 03:41:08 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1taYAL-00FLXq-36@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 22 Jan 2025 03:40:57 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Elsie Coon. 
+Correo: . 
+Telefono: 0356 6317232. 
+Mensaje: Dear proditelsas.com,
+
+By now, youâ€™ve probably heard about the massive growth in the AI industry. From content creation to visual design, tools like ChatGPT, MidJourney, and DALL-E 3 are shaping the future.
+
+Hereâ€™s the catch: The quality of results depends entirely on the quality of prompts.
+
+Unfortunately, crafting effective prompts isnâ€™t easy. Many creators spend countless hours perfecting themâ€”or pay freelancers $50â€“$150 per prompt.
+
+If youâ€™re not leveraging the power of AI prompts yet, youâ€™re leaving money on the table.
+
+What if you could skip the trial and error, save the cost of hiring freelancers, and start profiting from AI prompts instantly?
+
+Meet PromptBuddyâ€”the revolutionary AI-powered app thatâ€™s transforming the way creators, freelancers, and entrepreneurs profit in the AI economy.
+
+With PromptBuddy, you can create, scale, and sell high-performing prompts in just minutes: https://www.growthmarketingnow.info/promptbuddys  .
+
+Why should you consider PromptBuddy today?
+
+Create Advanced Prompts with Ease: Enter a simple keyword, and PromptBuddy generates tailored prompts for ChatGPT, MidJourney, or DALL-E 3 instantly.
+
+Preloaded with 80,000+ Prompts: No need to start from scratchâ€”start selling ready-made prompts immediately.
+
+Automated Store Setup: Build a fully functional store in under 60 seconds without any technical skills.
+
+Bulk Prompt Generator: Scale your offerings by creating multiple niche-specific prompts effortlessly.
+
+Seamless Monetization: Connect your PayPal, Stripe, or bank account to collect payments instantly.
+
+Mobile-Optimized Store: Your AI prompt store looks great on any device.
+
+í ½í±‰ Click here to discover how PromptBuddy can change your business: https://www.growthmarketingnow.info/promptbuddys  !
+
+Exclusive Bonus for Early Buyers: Be among the first 100 buyers and receive a 30 Reseller License (worth $1,997) to sell PromptBuddy as your own product and 
+keep 100% of the profits.
+
+AI prompts are in high demand, and this is your opportunity to take the lead in a fast-growing market.
+
+The tools and strategies you need to create, scale, and sell high-quality prompts are all in one place. But the early-bird bonuses and special pricing wonâ€™t last long.
+
+í ½í±‰ Get PromptBuddy Now and Start Profiting from the AI Revolution: https://www.growthmarketingnow.info/promptbuddys  !
+
+To your success,
+Elsie Coon
+
+
+
+P.S. Remember, youâ€™re fully protected by a 30-day risk-free guarantee. This is your chance to explore PromptBuddy without any risk and start building your AI-driven business. Click here to get started today!
+
+
+
+
+UNSUBSCRIBE: https://www.growthmarketingnow.info/unsubscribe/?d=proditelsas.com 
+Address: 144 Rockford Road
+Reno, NV 89501
+. 
+
+
+--1737542468-eximdsn-991787772--

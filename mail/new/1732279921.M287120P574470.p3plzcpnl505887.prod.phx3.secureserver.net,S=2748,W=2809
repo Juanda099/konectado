@@ -1,0 +1,61 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id kARCEHF+QGcGxAgA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 22 Nov 2024 05:52:01 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 22 Nov 2024 05:52:01 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tET8j-002T0L-0c
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 22 Nov 2024 05:52:01 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tET8Y-002StP-1M@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1tET8j-002T0L-0c@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 22 Nov 2024 05:52:01 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tET8Y-002StP-1M
+	for servicioalcliente@serkoi.com;
+	Fri, 22 Nov 2024 05:51:50 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 80.92.204.64
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 80.92.204.64
+From:
+Message-Id: <E1tET8Y-002StP-1M@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 22 Nov 2024 05:51:50 -0700
+
+De: b2bleads. 
+Correo: . 
+Telefono: . 
+Mensaje: Are you looking to grow your business or professional services with cost-effective, high-quality leads? 
+ 
+We specialize in generating responsive B2B leads for industries like: 
+ 
+-Business loans 
+-Web design & SEO services 
+-Business insurance 
+-Real estate 
+-And any other B2B sector! 
+ 
+Our proven marketing funnel—responsible for millions in sales over the last decade—connects you with thousands of business and website owners, helping you close more deals faster. Best of all, we offer some of the lowest prices in the industry, making it easier than ever to scale your business affordably. 
+ 
+Don’t miss this opportunity to reach more clients and grow your revenue, click: 
+ 
+https://novacodex.site/b2b_leads.html. 
+

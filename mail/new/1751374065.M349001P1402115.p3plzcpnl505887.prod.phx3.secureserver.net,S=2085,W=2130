@@ -1,0 +1,45 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id sGFsE/HYY2gDZRUA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 01 Jul 2025 05:47:45 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 01 Jul 2025 05:47:45 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uWaOn-000000063fV-0xkT
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 01 Jul 2025 05:47:45 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uWaOb-000000063YB-0KMc@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uWaOn-000000063fV-0xkT@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 01 Jul 2025 05:47:45 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uWaOb-000000063YB-0KMc
+	for servicioalcliente@serkoi.com;
+	Tue, 01 Jul 2025 05:47:33 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uWaOb-000000063YB-0KMc@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 01 Jul 2025 05:47:33 -0700
+
+De: Lorraine Bigham. 
+Correo: . 
+Telefono: 4113294. 
+Mensaje: Struggling with low website leads for Proditelsas? This short video shows how our AI can boost your traffic: https://www.youtube.com/watch?v=0vQRdhaE2j8. 
+

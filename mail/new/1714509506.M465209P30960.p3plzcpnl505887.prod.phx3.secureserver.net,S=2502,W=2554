@@ -1,0 +1,52 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 0IgEG8JWMWbweAAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 30 Apr 2024 13:38:26 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 30 Apr 2024 13:38:26 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1s1uF8-0008lV-1H
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 30 Apr 2024 13:38:26 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1s1uF3-0008km-2u@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1s1uF8-0008lV-1H@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 30 Apr 2024 13:38:26 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1s1uF3-0008km-2u
+	for servicioalcliente@serkoi.com;
+	Tue, 30 Apr 2024 13:38:21 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.110.169.212
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.110.169.212
+From:
+Message-Id: <E1s1uF3-0008km-2u@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 30 Apr 2024 13:38:21 -0700
+
+De: Maria  Ross . 
+Correo: . 
+Telefono: . 
+Mensaje: Hi,
+Real estate investors use business credit to purchase properties. How? They open $400k to $800k credits with 0% interest for 12-16 months. You might not need that amount, but do you need cash for investments, studying, or starting up? Learn for free.
+https://courses.savvyzones.com/will-roundtree-credit-mastery-course3
+
+Sincerely.
+-To unsubscribe, please reply "unsubscribe" at unsubscribe.wisebases@gmail.com (please provide the website that forwarded this message)-. 
+

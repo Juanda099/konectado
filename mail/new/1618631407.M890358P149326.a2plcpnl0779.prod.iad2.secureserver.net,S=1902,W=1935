@@ -1,0 +1,33 @@
+Return-Path: <noreply@a2plcpnl0779.prod.iad2.secureserver.net>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id KOqkL+9aemBORwIAoisFWw
+	(envelope-from <noreply@a2plcpnl0779.prod.iad2.secureserver.net>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Fri, 16 Apr 2021 20:50:07 -0700
+Return-path: <noreply@a2plcpnl0779.prod.iad2.secureserver.net>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Fri, 16 Apr 2021 20:50:07 -0700
+Received: from root by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.93)
+	(envelope-from <noreply@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1lXbyB-000z5i-Mv
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Fri, 16 Apr 2021 20:50:07 -0700
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Subject: [Installatron] Proditel SAS backup failed
+Date: Fri, 16 Apr 2021 21:50:07 -0600
+From: noreply@a2plcpnl0779.prod.iad2.secureserver.net
+Message-ID: <7151de85df3a909acbbc9fb962b0f952@a2plcpnl0779.prod.iad2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.54
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+The backup process for Proditel SAS located at http://www.proditelsas.com has failed and the details of the failure have been logged.
+
+Technical error:
+Error: The selected version, or a version between it and the installed version, does not support upgrading. Check the application's website to see if a &quot;migration&quot; tool is available. (version 5.4.5, status disabled-local)
+
+
+End of report.
+

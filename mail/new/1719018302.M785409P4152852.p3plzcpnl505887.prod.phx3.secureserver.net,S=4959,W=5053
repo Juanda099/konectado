@@ -1,0 +1,94 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id YHrbKz4jdmYUXj8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 21 Jun 2024 18:05:02 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 21 Jun 2024 18:05:02 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sKpBe-00HRHL-27
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 21 Jun 2024 18:05:02 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sKpBa-00HQn9-0W@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1719018302-eximdsn-1584140950
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sKpBe-00HRHL-27@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 21 Jun 2024 18:05:02 -0700
+
+--1719018302-eximdsn-1584140950
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 KpBesXnuDMCzw :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=D4qMKeRj c=1 sm=1 tr=0 ts=6676233e p=AfyXuz1HTmJqC4EdkQ0A:9 p=kCQtYzXsOJcA:10 p=Qx-q73Zf1QODhyj7A2Ww:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=pGLkceISAAAA:8 a=bgU3XtjZLhIA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=547XO22XojkssF0tQs8p:22 ::
+    100.00
+
+--1719018302-eximdsn-1584140950
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 KpBesXnuDMCzw :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=D4qMKeRj c=1 sm=1 tr=0 ts=6676233e p=AfyXuz1HTmJqC4EdkQ0A:9 p=kCQtYzXsOJcA:10 p=Qx-q73Zf1QODhyj7A2Ww:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=pGLkceISAAAA:8 a=bgU3XtjZLhIA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=547XO22XojkssF0tQs8p:22 :: 100.00
+
+--1719018302-eximdsn-1584140950
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sKpBa-00HQn9-0W
+	for servicioalcliente@serkoi.com;
+	Fri, 21 Jun 2024 18:05:02 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 84.17.60.137
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 84.17.60.137
+From:
+Message-Id: <E1sKpBa-00HQn9-0W@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 21 Jun 2024 18:04:58 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Philip Norman. 
+Correo: . 
+Telefono: 89848113448. 
+Mensaje: Greetings, 
+ 
+I hope this message finds you well. My name is Philip Norman, and I am a seasoned loan broker with an impeccable track record of facilitating fast, flexible, and competitive loan solutions for a diverse range of clients. I am reaching out to offer my expertise and services in helping you secure the financial resources you need to achieve your business objectives. 
+ 
+Whatever is the amount or specific needs, whether for investment, operational needs, trading , Real Estate or Infrastructure we guarantee rapid loan approval and disbursement processes with flexible repayment terms tailored to your cash flow and business cycles, offering the most competitive interest rates in the market. 
+ 
+I would be delighted to discuss your specific needs and explore how we can work together to achieve your financial goals. Please let me know a convenient time for a consultation, or feel free to reach out directly at +44 7706280570. 
+ 
+Thank you for considering this proposal. I look forward to the opportunity to assist you in securing the financing necessary to drive your business forward. 
+ 
+Warm regards, 
+ 
+Mr. Philip Norman 
+Email: Philipnorman192@gmail.com 
+ 
+Senior Loan Broker. 
+
+
+--1719018302-eximdsn-1584140950--

@@ -1,0 +1,96 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id iDrSEHf3X2Yr0A0A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 04 Jun 2024 22:28:23 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 04 Jun 2024 22:28:23 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sEjCB-004HAf-0i
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 04 Jun 2024 22:28:23 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sEjC1-004Gzm-0Q@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1717565303-eximdsn-1509310368
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sEjCB-004HAf-0i@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 04 Jun 2024 22:28:23 -0700
+
+--1717565303-eximdsn-1509310368
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 EjCBsCF9TbM2q :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=T7ZHTOKQ c=1 sm=1 tr=0 ts=665ff777 p=gh5NN7YnAAAA:20 p=uVF-X2wJioEA:10 p=guZdz7xhxkBX2BZhSgrG:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=pGLkceISAAAA:8 a=IwBJU1c4JpBLT_F0_OkA:9 a=E9f3OXWaiEoA:10 a=ntlk9g818VgA:10 a=lGIjCFiULkYA:10 a=CdBsuFns6wHTFmEad6PP:22 a=2zUPnjrB6G5aZOmq55eb:22 a=zY0JdQc1-4EAyPf5TuXT:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1717565303-eximdsn-1509310368
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 EjCBsCF9TbM2q :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=T7ZHTOKQ c=1 sm=1 tr=0 ts=665ff777 p=gh5NN7YnAAAA:20 p=uVF-X2wJioEA:10 p=guZdz7xhxkBX2BZhSgrG:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=pGLkceISAAAA:8 a=IwBJU1c4JpBLT_F0_OkA:9 a=E9f3OXWaiEoA:10 a=ntlk9g818VgA:10 a=lGIjCFiULkYA:10 a=CdBsuFns6wHTFmEad6PP:22 a=2zUPnjrB6G5aZOmq55eb:22 a=zY0JdQc1-4EAyPf5TuXT:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1717565303-eximdsn-1509310368
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sEjC1-004Gzm-0Q
+	for servicioalcliente@serkoi.com;
+	Tue, 04 Jun 2024 22:28:23 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 45.43.83.178
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 45.43.83.178
+From:
+Message-Id: <E1sEjC1-004Gzm-0Q@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 04 Jun 2024 22:28:13 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: . 
+Correo: . 
+Telefono: 4105047939. 
+Mensaje: Hi,
+
+I am exploring new intern opportunities within your esteemed company. My name is Chidozie Nnagbo, a recent graduate from Montclair State University with a B.Sc. in Business and IT, specializing in Business Intelligence, Digital Marketing, and Web Analytics.
+
+My experience in data visualization using Tableau and my commitment to using technology to enhance business outcomes make me an ideal candidate to join your team. I am eager to apply my knowledge and skills to your organization's success.
+
+You can view my resume here: https://snip.ly/Dozie-Resume and see examples of my writing and e-commerce content here: https://snip.ly/Dozie-Content. I look forward to discussing how my experience and skills align with your needs.
+
+If this email has not reached the appropriate person, please forward it to the relevant individual who can consider my application.
+
+Thank you for your time and consideration.
+
+Best regards,
+Chidozie Nnagbo
+410 504 7939
+chidozie.nnagbo@gmail.com
+
+If you wish to opt out further communications, please respond to this email. Best regards, Chidozie Nnagbo (410) 504-7939 chidozie.nnagbo@gmail.com. 
+
+
+--1717565303-eximdsn-1509310368--

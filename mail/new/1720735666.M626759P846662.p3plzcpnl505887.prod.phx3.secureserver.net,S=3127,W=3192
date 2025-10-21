@@ -1,0 +1,65 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 0CsWJbJXkGZG6wwA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 11 Jul 2024 15:07:46 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 11 Jul 2024 15:07:46 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sS1x4-003d19-1j
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 11 Jul 2024 15:07:46 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sS1ws-003cyO-2X@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sS1x4-003d19-1j@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 11 Jul 2024 15:07:46 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sS1ws-003cyO-2X
+	for servicioalcliente@serkoi.com;
+	Thu, 11 Jul 2024 15:07:34 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 149.88.19.15
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 149.88.19.15
+From:
+Message-Id: <E1sS1ws-003cyO-2X@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 11 Jul 2024 15:07:34 -0700
+
+De: Keeley Connell. 
+Correo: . 
+Telefono: 06-53305347. 
+Mensaje: Hi,
+
+Building a successful ecommerce website can be overwhelming. Are you struggling to get your online store off the ground?
+Low traffic, poor conversions, and complex platform choices can make it feel impossible to succeed. It’s frustrating when your hard work doesn’t translate into sales and growth.
+Download our FREE eBook: "100 Checkpoints for a Successful Ecommerce Website." This comprehensive guide is designed to help you overcome these challenges and transform your ecommerce site into a thriving business.
+
+Here's what you'll get:
+
+ Target Audience,  UserFriendly Design, Compelling Product Descriptions, Simplified Checkout,  SEO Tips, Digital Marketing Strategies, Customer Service, Security Compliance &  Growth Planning.  
+Ready to conquer your ecommerce challenges? Download Your Free eBook Now!  
+
+https://alwaysdigital.co/f1/?proditelsas.com
+
+We’re here to support your journey to ecommerce success. If you have any questions or need further assistance, feel free to reach out.
+
+To your success,
+Sam Miller
+
+P.S. Limited time offer – grab your free eBook today!. 
+

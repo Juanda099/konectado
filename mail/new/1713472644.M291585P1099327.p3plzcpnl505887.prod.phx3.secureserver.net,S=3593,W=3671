@@ -1,0 +1,78 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id IPuSEISEIWY/xhAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 18 Apr 2024 13:37:24 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 18 Apr 2024 13:37:24 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1rxYVY-004eJP-0i
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 18 Apr 2024 13:37:24 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1rxYVT-004eIb-2C@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rxYVY-004eJP-0i@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 18 Apr 2024 13:37:24 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1rxYVT-004eIb-2C
+	for servicioalcliente@serkoi.com;
+	Thu, 18 Apr 2024 13:37:19 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 147.45.50.20
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 147.45.50.20
+From:
+Message-Id: <E1rxYVT-004eIb-2C@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 18 Apr 2024 13:37:19 -0700
+
+De: Delia Kinross. 
+Correo: . 
+Telefono: 026 599 61 90. 
+Mensaje: Hi,
+
+I hope this email finds you well. I wanted to reach out to you today to discuss logo products and apparel for your business.
+
+Quick question: Who would be the best contact to discuss your company logo products and apparel such as:
+
+-Printed T-shirts
+-Logo mugs
+-Branded water bottles
+-Custom USB flash drives
+-Logo pens
+-plus 300,000 other products for your business
+
+https://proditelsas.marketingeee.com/
+
+With over two decades of experience in the promotional products industry, our company is dedicated to helping businesses like yours leave a lasting impression.
+
+Our wide range of custom-branded merchandise is designed to elevate your brand, foster customer loyalty, and drive sales.
+
+From captivating trade show giveaways to thoughtful employee incentive programs and impressive corporate gifts, we have the expertise to create unique promotional items tailored to your specific needs. Our team of promo product specialists will guide you through the entire process, from selecting the perfect items for your business to designing and creating custom logos that speak to your brand identity.
+
+As your one-stop-shop for branded merchandise, we ensure top-quality finished products are delivered right to your doorstep, making the process seamless and hassle-free.
+
+Let's connect and explore how our promotional products can enhance your brand awareness and fuel business growth. 
+
+
+Thank you for your time, and we look forward to hearing from you soon.
+
+Best regards,
+Creative Specialist
+Branded Products
+https://proditelsas.marketingeee.com/. 
+

@@ -1,0 +1,100 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id sG86FKHYU2NxZScAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 22 Oct 2022 04:48:49 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 22 Oct 2022 04:48:49 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	id 1omCzf-00AtGI-2G
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Sat, 22 Oct 2022 04:48:47 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1omCzb-00AtF3-Fj@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1666439327-eximdsn-772395527
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1omCzf-00AtGI-2G@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 22 Oct 2022 04:48:47 -0700
+
+--1666439327-eximdsn-772395527
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 mCzeowurm4oIf :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=JYp672GV c=1 sm=1 tr=0 ts=6353d89f p=iYVg_UANLhUA:10 p=6hELcxeHAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=Qawa6l4ZSaYA:10 a=er6GCr3_1hA4Pmd52P0A:9 a=jFHTKbxUXSkA:10 a=-FEs8UIgK8oA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=EcYkK_4Fq_8-shyvYhTt:22 ::
+    100.00
+
+--1666439327-eximdsn-772395527
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 mCzeowurm4oIf :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=JYp672GV c=1 sm=1 tr=0 ts=6353d89f p=iYVg_UANLhUA:10 p=6hELcxeHAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=Qawa6l4ZSaYA:10 a=er6GCr3_1hA4Pmd52P0A:9 a=jFHTKbxUXSkA:10 a=-FEs8UIgK8oA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=EcYkK_4Fq_8-shyvYhTt:22 :: 100.00
+
+--1666439327-eximdsn-772395527
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1omCzb-00AtF3-Fj
+	for servicioalcliente@serkoi.com; Sat, 22 Oct 2022 04:48:43 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.95.18.124
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.95.18.124
+From:
+Message-Id: <E1omCzb-00AtF3-Fj@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 22 Oct 2022 04:48:43 -0700
+
+De: Jacob Mandossian. 
+Correo: . 
+Telefono: 820-346-8381. 
+Mensaje: Hi my name is Jacob, I saw you were a business with your own website.
+
+Here I have for you MUST SEE online business owner's "Insider Info"…
+
+…where Everything You Thought You Knew About Answering Your Phone for Customers is Wrong!
+
+You can check out why right here: https://www.localbiz.news/why-everything-you-know-about-the-phone-is-wrong
+… or just reply to this email.
+
+Please hurry, before it’s too late. I promise it’s worth your while.
+
+Time is running out, and this could be the ONE THING you read this year to change your business and your life forever.
+
+-Jacob Mandossian
+US Local Biz News
+
+
+
+
+
+
+
+
+
+
+unsubscribe 
+https://localbiz.news/opt-out. 
+
+
+--1666439327-eximdsn-772395527--

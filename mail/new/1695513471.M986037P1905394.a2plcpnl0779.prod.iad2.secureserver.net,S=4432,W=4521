@@ -1,0 +1,89 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 0PAPOX97D2XyEh0AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 23 Sep 2023 16:57:51 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 23 Sep 2023 16:57:51 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qkCVT-00816I-Qc
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sat, 23 Sep 2023 16:57:51 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qkCVO-00814w-TL@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1695513471-eximdsn-540152060
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qkCVT-00816I-Qc@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 23 Sep 2023 16:57:51 -0700
+
+--1695513471-eximdsn-540152060
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 kCVTqluzKdPud :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=W5P+Fzak c=1 sm=1 tr=0 ts=650f7b7f p=fP8OFsgIAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=zNV7Rl7Rt7sA:10 a=7yxw8juOWfXFVY1Eu98A:9 a=oY6JHmfgnSJBvfnT4TVR:22 a=1R7P2nqWWkenmYcwMpEE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1695513471-eximdsn-540152060
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 kCVTqluzKdPud :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=W5P+Fzak c=1 sm=1 tr=0 ts=650f7b7f p=fP8OFsgIAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=zNV7Rl7Rt7sA:10 a=7yxw8juOWfXFVY1Eu98A:9 a=oY6JHmfgnSJBvfnT4TVR:22 a=1R7P2nqWWkenmYcwMpEE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1695513471-eximdsn-540152060
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qkCVO-00814w-TL
+	for servicioalcliente@serkoi.com;
+	Sat, 23 Sep 2023 16:57:51 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.105.1.228
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.105.1.228
+From:
+Message-Id: <E1qkCVO-00814w-TL@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 23 Sep 2023 16:57:46 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Flora Jewett. 
+Correo: . 
+Telefono: 411 01 553. 
+Mensaje: Hi,
+
+I hope this email finds you well. I wanted to follow up on our conversation about aireact.net and the potential benefits it could have for your business.
+
+As a reminder, aireact.net is a powerful banner automation software that allows you to create professional ads and social media content with the help of AI. It's an all-in-one solution for your advertising needs, and it can help you generate more leads and sales for your business.
+
+I believe that aireact.net could be a game changer for your business, and I'd love to set up a call to discuss it further. Let me know if you're interested, and we can schedule a time that works for you.
+
+Best regards
+
+. 
+
+
+--1695513471-eximdsn-540152060--

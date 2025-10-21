@@ -1,0 +1,94 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id wLv2BeRK82bh2hAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 24 Sep 2024 16:27:32 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 24 Sep 2024 16:27:32 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1stEwO-004ekc-05
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 24 Sep 2024 16:27:32 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1stEwC-004eEh-2C@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1727220452-eximdsn-818899948
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1stEwO-004ekc-05@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 24 Sep 2024 16:27:32 -0700
+
+--1727220452-eximdsn-818899948
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 tEwNsW6i9DpcJ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=E4UGprdl c=1 sm=1 tr=0 ts=66f34ae4 p=wYcrqztBUd8C7CxDAdYA:9 p=vtNmBueNAh9L-QqUvzsw:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=jD5AGA__AAAA:20 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1727220452-eximdsn-818899948
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 tEwNsW6i9DpcJ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=E4UGprdl c=1 sm=1 tr=0 ts=66f34ae4 p=wYcrqztBUd8C7CxDAdYA:9 p=vtNmBueNAh9L-QqUvzsw:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=jD5AGA__AAAA:20 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1727220452-eximdsn-818899948
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1stEwC-004eEh-2C
+	for servicioalcliente@serkoi.com;
+	Tue, 24 Sep 2024 16:27:31 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 139.171.125.94
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 139.171.125.94
+From:
+Message-Id: <E1stEwC-004eEh-2C@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 24 Sep 2024 16:27:20 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Randy M. 
+Correo: . 
+Telefono: 3052338533. 
+Mensaje: Hi there,
+I stumbled on your website the other day. Noticed a few things that might help it show up better in searches:
+Your pages load a bit slow on mobile. 
+Some of your images don't have descriptions
+A few of your pages are missing titles
+These are pretty common stuff. Easy to fix too.
+If you want to know more, we could chat:
+https://bit.ly/freeconsultation-Randy
+No worries if not. Just thought I'd mention it.
+
+Take care,
+Randy
+
+
+
+. 
+
+
+--1727220452-eximdsn-818899948--

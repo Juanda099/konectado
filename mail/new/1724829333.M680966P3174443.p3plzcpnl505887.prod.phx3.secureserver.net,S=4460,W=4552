@@ -1,0 +1,92 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id SGfiJ5XOzmYrcDAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 28 Aug 2024 00:15:33 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 28 Aug 2024 00:15:33 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sjCtx-00DYvt-1x
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 28 Aug 2024 00:15:33 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sjCtq-00DYgx-31@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1724829333-eximdsn-156547250
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sjCtx-00DYvt-1x@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 28 Aug 2024 00:15:33 -0700
+
+--1724829333-eximdsn-156547250
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 jCtxseCMkYxvc :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=c99gQg9l c=1 sm=1 tr=0 ts=66cece95 p=_Ojzm4spAAAA:20 p=3EYkqhCmIbaOv4nJygiF:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=3QGZnZ3BF54ueNooVj4A:9 a=3ZKOabzyN94A:10 a=OqkRoZzy1RkA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1724829333-eximdsn-156547250
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 jCtxseCMkYxvc :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=c99gQg9l c=1 sm=1 tr=0 ts=66cece95 p=_Ojzm4spAAAA:20 p=3EYkqhCmIbaOv4nJygiF:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=3QGZnZ3BF54ueNooVj4A:9 a=3ZKOabzyN94A:10 a=OqkRoZzy1RkA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1724829333-eximdsn-156547250
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sjCtq-00DYgx-31
+	for servicioalcliente@serkoi.com;
+	Wed, 28 Aug 2024 00:15:33 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.245.242.165
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.245.242.165
+From:
+Message-Id: <E1sjCtq-00DYgx-31@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 28 Aug 2024 00:15:26 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Ravi Nicholson. 
+Correo: . 
+Telefono: 3482911521. 
+Mensaje: Hi,
+My name is Alastair D. i, owner of Webomaze Australia. You have finally found an SEO Company that GETS RESULTS. The proof is my 24,800+ reviews out of which 98.6% are 5-STAR REVIEWS.
+
+ I recently grew my client’s organic search traffi with high google search ranking  by 166% in 4 months. We’re an SEO Company with a difference.Our focus is Customer Delight.
+
+And we do everything to make it a great experience of working with us. We are in touch with you at every stage of the project. Even after we deliver the project, I will support you with any query you have. 
+
+
+Contact me today and get a FREE SEO AUDIT for your website
+
+Click here to start ====> http://tinyurl.com/7ejfvwut
+
+
+. 
+
+
+--1724829333-eximdsn-156547250--

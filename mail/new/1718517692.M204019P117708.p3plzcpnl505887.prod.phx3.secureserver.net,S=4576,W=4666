@@ -1,0 +1,90 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id yNdkCrx/bmbMywEA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 15 Jun 2024 23:01:32 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 15 Jun 2024 23:01:32 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sIixI-000jLj-0M
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 15 Jun 2024 23:01:32 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sIiwx-000jAZ-1i@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1718517692-eximdsn-1655055000
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sIixI-000jLj-0M@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 15 Jun 2024 23:01:32 -0700
+
+--1718517692-eximdsn-1655055000
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 IixBsHn8VeOvk :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=C88iyhP+ c=1 sm=1 tr=0 ts=666e7fbb p=9BIJHf7oAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=RFDaamjjAAAA:20 a=Sznpa0UklpFAFtLeG6EA:9 a=3ZKOabzyN94A:10 a=TIhSfsOxo9cA:10 a=CXUx2vBxei5_HzA0BkC1:22 a=V9SzmBXc7sWNSSvjWDyn:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1718517692-eximdsn-1655055000
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 IixBsHn8VeOvk :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=C88iyhP+ c=1 sm=1 tr=0 ts=666e7fbb p=9BIJHf7oAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=RFDaamjjAAAA:20 a=Sznpa0UklpFAFtLeG6EA:9 a=3ZKOabzyN94A:10 a=TIhSfsOxo9cA:10 a=CXUx2vBxei5_HzA0BkC1:22 a=V9SzmBXc7sWNSSvjWDyn:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1718517692-eximdsn-1655055000
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sIiwx-000jAZ-1i
+	for servicioalcliente@serkoi.com;
+	Sat, 15 Jun 2024 23:01:22 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.239.13.6
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.239.13.6
+From:
+Message-Id: <E1sIiwx-000jAZ-1i@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 15 Jun 2024 23:01:11 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Sheldon Maes. 
+Correo: . 
+Telefono: 3142474318. 
+Mensaje: Expand Your Business Horizons with USA B2B Contact Lists! Business names, emails, websites, phones, social media and linkedIn links.
+
+Get immediate entry to more than 5 million business contacts from across the USA, categorized into 7,900 niche-targeted databases. All of this for just 49 usd—that's $0.00001 per contact!
+
+Our data is freshly scraped this year, providing you with the most up-to-date and accurate information available. Enhance your B2B marketing and increase your marketing effectiveness today.
+
+Get a free sample and begin: https://bit.ly/usab2bCFL
+
+
+
+Unsubscribe here if you don't want to get these fantastic deals: https://bynd.li/unsubscribe
+Rua Jose Do Patrocinio 1975, Contagem, MG, Brazil, 32185-150. 
+
+
+--1718517692-eximdsn-1655055000--

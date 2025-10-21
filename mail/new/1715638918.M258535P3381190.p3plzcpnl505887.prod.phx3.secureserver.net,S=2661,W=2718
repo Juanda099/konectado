@@ -1,0 +1,57 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id mHNeDoaSQmbGlzMA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 13 May 2024 15:21:58 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 13 May 2024 15:21:58 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1s6e3S-00EEe4-0Z
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 13 May 2024 15:21:58 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1s6e3J-00EEbP-0s@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1s6e3S-00EEe4-0Z@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 13 May 2024 15:21:58 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1s6e3J-00EEbP-0s
+	for servicioalcliente@serkoi.com;
+	Mon, 13 May 2024 15:21:49 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.239.35.86
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.239.35.86
+From:
+Message-Id: <E1s6e3J-00EEbP-0s@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 13 May 2024 15:21:49 -0700
+
+De: Mireya Pfeffer. 
+Correo: . 
+Telefono: 1. 
+Mensaje: Hire skilled coders within just 1 hour for a wide range of technologies including React, React JS, Flutter, Python, Angular, Laravel, Node.js, PHP, MEAN stack, Full stack, Android, Java, .NET, AI, ML and many more.
+
+Conduct your own tech-evaluation evaluations and tests before Hiring quality resources from our bench pool. Developers working remotely in YOUR time-zone.
+
+With 40% More Affordable & 0% Coder Pulling out. Commence your 40 Hours Safe Trial Today.
+
+https://bit.ly/3UWNFzw
+
+
+Unsubscribe here if you don't want to get these awesome deals: https://form.jotform.com/241333524965458
+Scheidweg 54, Salamanca, NY, USA, 3503. 
+

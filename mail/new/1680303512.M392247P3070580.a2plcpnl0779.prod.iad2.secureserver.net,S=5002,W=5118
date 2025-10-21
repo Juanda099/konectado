@@ -1,0 +1,116 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id IB/yFJhlJ2R02i4AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Fri, 31 Mar 2023 15:58:32 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Fri, 31 Mar 2023 15:58:32 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1piNhY-00Cszt-7D
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Fri, 31 Mar 2023 15:58:32 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1piNhS-00Csrt-Fi@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1680303512-eximdsn-1898299136
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1piNhY-00Cszt-7D@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 31 Mar 2023 15:58:32 -0700
+
+--1680303512-eximdsn-1898299136
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 iNhYpKlX2FHyz :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=C/kviyD+ c=1 sm=1 tr=0 ts=64276598 p=-4fyYIqgAAAA:20 p=KGPsZp_SDHAA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=k__wU0fu6RkA:10 a=iqTnZYbVuOgWfFx8LdMA:9 a=HYFGluPj2m8A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 a=MEiINCl4jJy9cvsn1YVx:22 ::
+    100.00
+
+--1680303512-eximdsn-1898299136
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 iNhYpKlX2FHyz :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=C/kviyD+ c=1 sm=1 tr=0 ts=64276598 p=-4fyYIqgAAAA:20 p=KGPsZp_SDHAA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=k__wU0fu6RkA:10 a=iqTnZYbVuOgWfFx8LdMA:9 a=HYFGluPj2m8A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 a=MEiINCl4jJy9cvsn1YVx:22 :: 100.00
+
+--1680303512-eximdsn-1898299136
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1piNhS-00Csrt-Fi
+	for servicioalcliente@serkoi.com;
+	Fri, 31 Mar 2023 15:58:31 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 45.199.137.178
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 45.199.137.178
+From:
+Message-Id: <E1piNhS-00Csrt-Fi@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 31 Mar 2023 15:58:26 -0700
+
+De: Arlene Weis. 
+Correo: . 
+Telefono: 616-361-4928. 
+Mensaje: Hey, 
+
+If youâ€™re not using short videos in your marketing youâ€™re missing out on a huge chunk of traffic. 
+
+People are consuming dozens of these quick, entertaining pieces of content, they just canâ€™t get enough. 
+
+And content creators are being rewarded heavily for keeping their viewers engaged with shorts. 
+
+The best part is, thanks to A.I., anyone can create viral short videos that get 10s of 1000s of views every month. 
+
+This is perfect if you want to:
+
+í ½í±‰ Promote affiliate offers
+í ½í±‰ Drive traffic to your blog
+í ½í±‰ Grow your email list
+í ½í±‰ Fill webinar seats
+í ½í±‰ Get more leads for your business
+
+And so much more. 
+
+People are already calling this the Beginnerâ€™s GoldMine.
+
+Even complete newbies are jumping in and seeing results right away. 
+
+By the end of the year there will be two types of people online:
+
+í ½í±‰ Those who create short videos that get millions of views
+í ½í±‰ And those who only watch  short videos for entertainment
+
+Get started now...
+Watch S.AI in action >>> https://bit.ly/shortsaii
+
+By this time next year, youâ€™ll most likely have a 6 figure Youtube channel of your own..
+
+Regards
+
+Ryan M
+88 Wall Street, TX
+88775
+====-
+Click here to unsubscribe. 
+
+
+--1680303512-eximdsn-1898299136--

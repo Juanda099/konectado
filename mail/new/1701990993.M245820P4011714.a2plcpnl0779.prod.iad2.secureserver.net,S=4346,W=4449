@@ -1,0 +1,103 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id GHZoDlFScmXCNj0AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 07 Dec 2023 16:16:33 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 07 Dec 2023 16:16:33 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rBNbd-00GqCf-0O
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 07 Dec 2023 16:16:33 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rBNbX-00Gq2s-0p@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1701990993-eximdsn-942272110
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rBNbd-00GqCf-0O@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 07 Dec 2023 16:16:33 -0700
+
+--1701990993-eximdsn-942272110
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 BNbcrvoZZUs7h :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=d6wzizvE c=1 sm=1 tr=0 ts=65725251 p=9TowXNUKAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=e2cXIFwxEfEA:10 a=Bn5ybVUNAAAA:8 a=_56jRu10EwqKP9yKUJQA:9 a=-FEs8UIgK8oA:10 a=rHjXi7PSo7D01LsOIqDJ:22 a=Kc8HOyp4ttBEu8qLoQrR:22 a=uKPqbvf5WTMmrmz9CdAG:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=B887l78179mOJoXYf9-n:22 ::
+    100.00
+
+--1701990993-eximdsn-942272110
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 BNbcrvoZZUs7h :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=d6wzizvE c=1 sm=1 tr=0 ts=65725251 p=9TowXNUKAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=e2cXIFwxEfEA:10 a=Bn5ybVUNAAAA:8 a=_56jRu10EwqKP9yKUJQA:9 a=-FEs8UIgK8oA:10 a=rHjXi7PSo7D01LsOIqDJ:22 a=Kc8HOyp4ttBEu8qLoQrR:22 a=uKPqbvf5WTMmrmz9CdAG:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=B887l78179mOJoXYf9-n:22 :: 100.00
+
+--1701990993-eximdsn-942272110
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rBNbX-00Gq2s-0p
+	for servicioalcliente@serkoi.com;
+	Thu, 07 Dec 2023 16:16:32 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 38.76.88.42
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 38.76.88.42
+From:
+Message-Id: <E1rBNbX-00Gq2s-0p@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 07 Dec 2023 16:16:27 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Wendy Graham. 
+Correo: . 
+Telefono: 800-590-4883. 
+Mensaje: Hi, 
+
+We have some new technology that we are using to get qualified leads.
+
+We are looking to test the technology with different businesses in different industries.
+
+So we are giving away 20 leads absolutely FREE!!
+
+If you are interested in receiving FREE leads, please CLICK the link below.
+
+
+https://freeleadstodays.com/
+
+Thank you,
+Wendy Graham
+
+ 
+ 
+
+Unsubscribe
+
+https://www.optouttoday.us/
+
+
+. 
+
+
+--1701990993-eximdsn-942272110--

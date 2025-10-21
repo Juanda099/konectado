@@ -1,0 +1,60 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id sJ3OAUO1u2j7Li0A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 05 Sep 2025 21:14:59 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 05 Sep 2025 21:14:59 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uukKI-0000000DUF9-3zon
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 05 Sep 2025 21:14:59 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uukKD-0000000DUDt-1iVx@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uukKI-0000000DUF9-3zon@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 05 Sep 2025 21:14:58 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uukKD-0000000DUDt-1iVx
+	for servicioalcliente@serkoi.com;
+	Fri, 05 Sep 2025 21:14:53 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:Amelia
+From:Amelia@p3plzcpnl505887.prod.phx3.secureserver.net
+Message-Id: <E1uukKD-0000000DUDt-1iVx@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 05 Sep 2025 21:14:53 -0700
+
+De: . 
+Correo: Amelia. 
+Telefono: 2319435977. 
+Mensaje: Hello,  
+
+At Express Capital, we provide business financing programs designed to help businesses grow.  
+
+For short-term challenges, we offer working capital up to $250,000, with approvals in minutes and funding in the next business day. For long-term investments, we provide 3â€“5 year term loans with rates starting at 6%. And for flexibility, we approve flexible credit lines, giving you funds you can draw on whenever needed.  
+
+All approvals are managed without brokers, so you always know exactly who youâ€™re working with.  
+
+Apply today by completing our quick approval form:  
+https://expresscapitalcorp.com/approval
+
+Regards,  
+Sophia Taylor  
+Underwriter, Express Capital
+. 
+

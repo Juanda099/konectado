@@ -1,0 +1,99 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id bSfCKWT1+mPuTisAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 25 Feb 2023 23:00:04 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 25 Feb 2023 23:00:04 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pWA4q-00Bup7-J9
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sat, 25 Feb 2023 23:00:04 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pWA4j-00BuUK-E1@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1677391204-eximdsn-528834155
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pWA4q-00Bup7-J9@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 25 Feb 2023 23:00:04 -0700
+
+--1677391204-eximdsn-528834155
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 WA4qpS6Day0IM :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=DbjR6NhW c=1 sm=1 tr=0 ts=63faf564 p=U8tZLFbmAAAA:20 p=2QSPlO8VZ2qs9mh8hBMA:9 p=eG16gCZBPmoA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=m04uMKEZRckA:10 a=HoGLiMRxkh4A:10 a=ZT_8zCgGubuJgGonBfBE:22 a=cRymzntWGNw4VfDC-DiA:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1677391204-eximdsn-528834155
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 WA4qpS6Day0IM :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=DbjR6NhW c=1 sm=1 tr=0 ts=63faf564 p=U8tZLFbmAAAA:20 p=2QSPlO8VZ2qs9mh8hBMA:9 p=eG16gCZBPmoA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=m04uMKEZRckA:10 a=HoGLiMRxkh4A:10 a=ZT_8zCgGubuJgGonBfBE:22 a=cRymzntWGNw4VfDC-DiA:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1677391204-eximdsn-528834155
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pWA4j-00BuUK-E1
+	for servicioalcliente@serkoi.com;
+	Sat, 25 Feb 2023 23:00:04 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 50.114.111.35
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 50.114.111.35
+From:
+Message-Id: <E1pWA4j-00BuUK-E1@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 25 Feb 2023 22:59:57 -0700
+
+De: Caren Osmond. 
+Correo: . 
+Telefono: 952-746-2191. 
+Mensaje: Hello,
+
+Are you tired of creating ad creatives that just don't convert? Are you looking for a solution that can save you time and money while generating high-converting ads? Look no further than this New AI TOOL!
+
+AI-powered ad creation tool that can help you create high-converting ad creatives in a fraction of the time it would take you to do it manually. With this AI Tool, you can easily generate ads for social media platforms, Google Ads, and more.
+
+Not only does it save you time and money, but it also increases your ROI. The AI algorithms behind this AI Tool are designed to analyze your target audience, identify what works, and create ads that are optimized for conversions. You can trust this tool to help you get the results you're looking for.
+
+This new AI Tool is perfect for advertisers and marketing agencies who want to take their ad creatives to the next level. With this tool, you'll be able to:
+
+► Create ads quickly and easily
+► Optimize your ads for conversions
+► Save time and money
+► Increase your ROI
+
+Don't miss out on this opportunity to revolutionize your ad creatives with FREE 7 Days trial and learn how it can help you achieve your marketing goals.
+
+Get your Free Trial here >>> https://bit.ly/adwithai
+
+Best regards
+Michale R.
+99 Broke St. MY
+===============
+Click here to Unsubscribe. 
+
+
+--1677391204-eximdsn-528834155--

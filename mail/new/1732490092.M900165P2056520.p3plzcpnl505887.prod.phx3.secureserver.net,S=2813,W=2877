@@ -1,0 +1,64 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id uJ/NNGyzQ2dIYR8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 24 Nov 2024 16:14:52 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 24 Nov 2024 16:14:52 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tFLoa-008g2k-2d
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 24 Nov 2024 16:14:52 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tFLoS-008g20-1U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1tFLoa-008g2k-2d@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 24 Nov 2024 16:14:52 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tFLoS-008g20-1U
+	for servicioalcliente@serkoi.com;
+	Sun, 24 Nov 2024 16:14:44 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.207.38.204
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.207.38.204
+From:
+Message-Id: <E1tFLoS-008g20-1U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 24 Nov 2024 16:14:44 -0700
+
+De: Jodi Tanaka. 
+Correo: . 
+Telefono: 3304843774. 
+Mensaje: Hi
+
+Want to quickly boost productivity and free up time in your business? AI For Entrepreneurs is your FREE step-by-step guide to implementing artificial intelligence into your operations—whether you’re a start-up or an established business.
+
+This 34-page eBook covers:
++ How to get started with AI, even as a beginner
++ Best practices from industry experts
++ Tips to use AI effectively and take your business to the next level
+
+https://aibusinessmastery.info/freeguide
+
+Discover how AI can revolutionize your business operations and help you achieve more, faster. Don't wait—download your guide today!
+
+Best regards,
+Michael Robert
+AI Business Mastery
+
+P.S. With AI For Entrepreneurs, you'll learn how to unlock AI's power and see immediate results. Sign up Free now!. 
+

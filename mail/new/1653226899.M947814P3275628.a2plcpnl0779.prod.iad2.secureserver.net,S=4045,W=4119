@@ -1,0 +1,74 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id YMlxN5M9imJs+zEAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sun, 22 May 2022 06:41:39 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sun, 22 May 2022 06:41:39 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	id 1nslpz-00DnJA-Pr
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Sun, 22 May 2022 06:41:39 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1nslpz-00DnIe-GL@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1653226899-eximdsn-250916574
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1nslpz-00DnJA-Pr@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 22 May 2022 06:41:39 -0700
+
+--1653226899-eximdsn-250916574
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 slpznDuhaMx8G :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=c9hu/Txl c=1 sm=1 tr=0 ts=628a3d93 p=zA6cGqMxNB0A:10 p=6JO0JgUyAAAA:8 p=O8TuFFxhzG0A:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=oZkIemNP1mAA:10 a=sxiQl5c4puuN_rFuQxgA:9 a=D8H4bWiJGtFWUoFAfKj/bpVjoms=:19 a=_AhgRyE4V1wA:10 a=qMzUQFvKoHEA:10 a=MROs0cHJnLUA:10 a=LD_FjD5faxIA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=BlqYQMFJfHT8ExzjUbvd:22 ::
+    100.00
+
+--1653226899-eximdsn-250916574
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 slpznDuhaMx8G :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=c9hu/Txl c=1 sm=1 tr=0 ts=628a3d93 p=zA6cGqMxNB0A:10 p=6JO0JgUyAAAA:8 p=O8TuFFxhzG0A:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=oZkIemNP1mAA:10 a=sxiQl5c4puuN_rFuQxgA:9 a=D8H4bWiJGtFWUoFAfKj/bpVjoms=:19 a=_AhgRyE4V1wA:10 a=qMzUQFvKoHEA:10 a=MROs0cHJnLUA:10 a=LD_FjD5faxIA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=BlqYQMFJfHT8ExzjUbvd:22 :: 100.00
+
+--1653226899-eximdsn-250916574
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1nslpz-00DnIe-GL
+	for servicioalcliente@serkoi.com; Sun, 22 May 2022 06:41:39 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 77.51.27.234
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 77.51.27.234
+From:
+Message-Id: <E1nslpz-00DnIe-GL@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 22 May 2022 06:41:39 -0700
+
+De: Henrygop. 
+Correo: . 
+Telefono: 89037687913. 
+Mensaje: ¡Gana dinero, no guerra! Robot financiero es lo que necesitas. https://gop.bookeat.es/gotodate/promo . 
+
+
+--1653226899-eximdsn-250916574--

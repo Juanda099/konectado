@@ -1,0 +1,125 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id AFdZDt/a1GP2NxcAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 28 Jan 2023 01:20:47 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 28 Jan 2023 01:20:47 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pLgS7-006Tq8-39
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sat, 28 Jan 2023 01:20:47 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pLgS2-006ToS-4g@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1674894047-eximdsn-1317711505
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pLgS7-006Tq8-39@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 28 Jan 2023 01:20:47 -0700
+
+--1674894047-eximdsn-1317711505
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 LgS7pjCz6y0IM :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=DbjR6NhW c=1 sm=1 tr=0 ts=63d4dadf p=ydvD969gAAAA:20 p=QucnEHw8AAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=RvmDmJFTN0MA:10 a=N0JkjV0ia0cA:10 a=smrCSdiaAAAA:8 a=uSXd0oDNyZzfWuVUh7sA:9 a=ZzbmaqamitcA:10 a=nlv5qD5D3IcA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=nPvndD2DkK_aTRqImhJO:22 a=M9ZHoLuYIHMl9pbmgCZa:22 ::
+    100.00
+
+--1674894047-eximdsn-1317711505
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 LgS7pjCz6y0IM :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=DbjR6NhW c=1 sm=1 tr=0 ts=63d4dadf p=ydvD969gAAAA:20 p=QucnEHw8AAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=RvmDmJFTN0MA:10 a=N0JkjV0ia0cA:10 a=smrCSdiaAAAA:8 a=uSXd0oDNyZzfWuVUh7sA:9 a=ZzbmaqamitcA:10 a=nlv5qD5D3IcA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=nPvndD2DkK_aTRqImhJO:22 a=M9ZHoLuYIHMl9pbmgCZa:22 :: 100.00
+
+--1674894047-eximdsn-1317711505
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pLgS2-006ToS-4g
+	for servicioalcliente@serkoi.com;
+	Sat, 28 Jan 2023 01:20:46 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.241.117.133
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.241.117.133
+From:
+Message-Id: <E1pLgS2-006ToS-4g@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 28 Jan 2023 01:20:42 -0700
+
+De: Steven Ross. 
+Correo: . 
+Telefono: +1-332-900-4889. 
+Mensaje: If you are currently working full-time or own a business, but you’re looking for a way out, read this email.
+
+Nobody deserves to work 9-5 plus overtime to only make a few pennies.
+
+With the never-ending rise of inflation, the recession looming, and more companies than ever before laying off their employees, it’s time to take control of your own destiny.
+
+Not to mention taxes.
+
+It’s probably not the best idea to leave your financial freedom up to someone else.
+
+With just a few hours per week, you can start creating stability on your own.
+
+Imagine skipping out of bed in the morning because you’re excited about “going to work.”
+
+But this time, you just walk into the other room, turn on your computer, refresh the browser, and look at how much you made while you were sleeping.
+
+To get started, click the link below to watch my introduction video.
+
+If you like what you see and you’re still interested, you can sign up to watch a longer, more in-depth video instantly.
+
+By the way, to watch these videos, it’s best to be sitting at a computer.
+
+Check out this exclusive video series here: https://cutt.ly/S9E7kOo
+
+
+Best wishes,
+Steven Ross
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you would  like to opt-out of communication with us, visit:
+https://urloptout.com/optout1/?site=proditelsas.com
+. 
+
+
+--1674894047-eximdsn-1317711505--

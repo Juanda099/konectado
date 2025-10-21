@@ -1,0 +1,94 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id AOELLAnLgGd82RgA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 10 Jan 2025 00:23:53 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 10 Jan 2025 00:23:53 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tW9N3-006qWI-2C
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 10 Jan 2025 00:23:53 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tW9Ms-006qUm-2b@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1736493833-eximdsn-1035368329
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tW9N3-006qWI-2C@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 10 Jan 2025 00:23:53 -0700
+
+--1736493833-eximdsn-1035368329
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 W9N3tuIMi45Jo :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=AP+dYgXq c=1 sm=1 tr=0 ts=6780cb09 p=sK5Lw4ABAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=MdFZbO2Y1xfhsWMMnnMA:9 a=3ZKOabzyN94A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1736493833-eximdsn-1035368329
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 W9N3tuIMi45Jo :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=AP+dYgXq c=1 sm=1 tr=0 ts=6780cb09 p=sK5Lw4ABAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=MdFZbO2Y1xfhsWMMnnMA:9 a=3ZKOabzyN94A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1736493833-eximdsn-1035368329
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tW9Ms-006qUm-2b
+	for servicioalcliente@serkoi.com;
+	Fri, 10 Jan 2025 00:23:53 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tW9Ms-006qUm-2b@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 10 Jan 2025 00:23:42 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Harper Foster. 
+Correo: . 
+Telefono: 6139410659. 
+Mensaje: Excited about a new, green journey on the water? Our Inflatable Cruising Island, debuting on crowdsourcing platforms this February, is your gateway to zero-emission fun. It’s not just a floating island—it’s a step into the next generation of water recreation, powered by clean, solar energy.
+
+Check it out: https://bit.ly/inflatable-island
+
+Here’s what distinguishes our Inflatable Floating Islands apart: 
+• Motor-compatible design with a mount for electric motors 
+- Overhead solar panel charging system for sustainable, clean power 
+- Built-in canopy for protection and ease 
+- Padded seating and handy cup holders 
+- Durable, puncture-resistant construction 
+
+Picture yourself gliding effortlessly across the lake, using the sun, with no engine noise and no emissions. Whether you’re navigating sandbars, seeking that perfect fishing spot, or simply relaxing under the canopy, our Inflatable Floating Islands deliver luxury, innovation, and a commitment to protecting the planet.
+
+Ready to join the future of water recreation? Visit https://bit.ly/inflatable-island and drop us a line to get notified about our crowdfunding launch this February. Sign up for our newsletter today for special early bird rewards and be among the first to experience this innovative approach of sustainable water fun!
+
+
+
+Should you wish to stop getting emails from us anymore, kindly respond to this message with the phrase: "No, thank you".. 
+
+
+--1736493833-eximdsn-1035368329--

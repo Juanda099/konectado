@@ -1,0 +1,102 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 4DBYFOcXCWfTtBAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 11 Oct 2024 05:19:51 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 11 Oct 2024 05:19:51 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1szEcZ-004c25-0t
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 11 Oct 2024 05:19:51 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1szEcQ-004c0k-1J@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1728649191-eximdsn-906512412
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1szEcZ-004c25-0t@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 11 Oct 2024 05:19:51 -0700
+
+--1728649191-eximdsn-906512412
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 zEcYsXF7zJPWF :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=YunERJYX c=1 sm=1 tr=0 ts=670917e7 p=pCzyGomEiaeitQwwNy0A:9 p=bf-NUwXC_S6YCcXd-3TH:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=zXW5x511AAAA:8 a=3ZKOabzyN94A:10 a=puCWflsz5dWcPktBMNzU:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1728649191-eximdsn-906512412
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 zEcYsXF7zJPWF :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=YunERJYX c=1 sm=1 tr=0 ts=670917e7 p=pCzyGomEiaeitQwwNy0A:9 p=bf-NUwXC_S6YCcXd-3TH:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=zXW5x511AAAA:8 a=3ZKOabzyN94A:10 a=puCWflsz5dWcPktBMNzU:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1728649191-eximdsn-906512412
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1szEcQ-004c0k-1J
+	for servicioalcliente@serkoi.com;
+	Fri, 11 Oct 2024 05:19:50 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 98.159.224.43
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 98.159.224.43
+From:
+Message-Id: <E1szEcQ-004c0k-1J@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 11 Oct 2024 05:19:42 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Zac Eubanks. 
+Correo: . 
+Telefono: 7906277166. 
+Mensaje: Are you a BBB holdout, that refuses to be pressured into using their antiquated business model and questionable business practices?
+
+Yeah us too……It's why we built Vetted….. 
+
+The Vetted Business Credential Reports Platform allows you to host and 1 click share:
+
++ Your Business License, Insurance & Bond
++ Your Business & Professional Certifications & Accreditations
++ Your Industry, Local & Trade Affiliations
++ Your Trust Badges, Awards, & Associations Memberships
++ Much more!
+
+See how Vetted can SUPERCHARGE your business with a No RISK 30 DAY FREE TRIAL  
+See link in my profile to learn more or to get started.
+
+Warmly,
+
+Jennifer Corbitt
+Vetted Business Report Specialist
+295 Seven Farms Drive Suite C-201
+Charleston, SC 29492
+Jennifer.Corbitt@Vettedprobusinessusa.com
+https://www.VettedProBusinessUSA.com
+. 
+
+
+--1728649191-eximdsn-906512412--

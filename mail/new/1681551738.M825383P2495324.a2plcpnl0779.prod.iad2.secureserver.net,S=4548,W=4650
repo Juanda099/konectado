@@ -1,0 +1,102 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id CBt7L3pxOmRcEyYAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 15 Apr 2023 02:42:18 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 15 Apr 2023 02:42:18 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pncQE-00ATbV-Ln
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sat, 15 Apr 2023 02:42:18 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pncQ8-00ATZs-Qa@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1681551738-eximdsn-832374829
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pncQE-00ATbV-Ln@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 15 Apr 2023 02:42:18 -0700
+
+--1681551738-eximdsn-832374829
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 ncQDpA6xLtQAt :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=QMuuBCHL c=1 sm=1 tr=0 ts=643a717a p=sMhBgkeWAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=dKHAf1wccvYA:10 a=gPlsfo9mReL8TMhEEhkA:9 a=KRpT5uV7i_sA:10 a=G8wYfX2nT4cA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 a=b-c_ExbdZWQIinkQ-kIw:22 ::
+    100.00
+
+--1681551738-eximdsn-832374829
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 ncQDpA6xLtQAt :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=QMuuBCHL c=1 sm=1 tr=0 ts=643a717a p=sMhBgkeWAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=dKHAf1wccvYA:10 a=gPlsfo9mReL8TMhEEhkA:9 a=KRpT5uV7i_sA:10 a=G8wYfX2nT4cA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 a=b-c_ExbdZWQIinkQ-kIw:22 :: 100.00
+
+--1681551738-eximdsn-832374829
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pncQ8-00ATZs-Qa
+	for servicioalcliente@serkoi.com;
+	Sat, 15 Apr 2023 02:42:17 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.83.81.164
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.83.81.164
+From:
+Message-Id: <E1pncQ8-00ATZs-Qa@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 15 Apr 2023 02:42:12 -0700
+
+De: Thad Gauthier. 
+Correo: . 
+Telefono: 404-273-7083. 
+Mensaje: Dear friend,
+
+Your astral energy is skyrocketing this week due to the intense activity of the Sun in Virgo
+
+In other words, it’s the perfect time to improve your life
+
+That’s why I’m here with possibly the #1 most important secret to YOUR total success…
+
+It’s not what you think…
+
+…but it’s so important that you really need to see it
+
+>>CLICK HERE TO WATCH IT NOW<<
+http://bit.ly/3L0gAO9
+
+In fact, it’s the complete opposite of what almost everyone believes...
+
+…but without this, it’s impossible to attract MONEY, PARTNERS and OPPORTUNITIES into your life
+
+Life is a lot of work without it!
+
+In this video, I’ll share this secret with you…
+
+…and show you how to use it right away
+
+CLICK HERE TO WATCH IT NOW
+http://bit.ly/3L0gAO9. 
+
+
+--1681551738-eximdsn-832374829--

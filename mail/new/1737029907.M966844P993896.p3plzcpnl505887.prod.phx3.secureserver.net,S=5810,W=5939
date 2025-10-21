@@ -1,0 +1,129 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 6AbiOBP5iGdoKg8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 16 Jan 2025 05:18:27 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 16 Jan 2025 05:18:27 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tYOpP-004HQw-2m
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 16 Jan 2025 05:18:27 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tYOpD-004HOE-1z@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1737029907-eximdsn-835072388
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tYOpP-004HQw-2m@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 16 Jan 2025 05:18:27 -0700
+
+--1737029907-eximdsn-835072388
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 YOpPtv7wHAtiX :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Tf1stQQh c=1 sm=1 tr=0 ts=6788f913 p=yzv3oAy7AAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=D3AD8STxlml4gzf0Nb4A:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=6CUbmu8wzR5cHnZd1JIn:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1737029907-eximdsn-835072388
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 YOpPtv7wHAtiX :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Tf1stQQh c=1 sm=1 tr=0 ts=6788f913 p=yzv3oAy7AAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=D3AD8STxlml4gzf0Nb4A:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=6CUbmu8wzR5cHnZd1JIn:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1737029907-eximdsn-835072388
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tYOpD-004HOE-1z
+	for servicioalcliente@serkoi.com;
+	Thu, 16 Jan 2025 05:18:27 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tYOpD-004HOE-1z@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 16 Jan 2025 05:18:15 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Bruce Thomas. 
+Correo: . 
+Telefono: 079 0122 6695. 
+Mensaje: Hey proditelsas.com,
+
+It‚Äôs officially time to join the ranks of those making thousands of dollars a month.
+
+The cart for AIfluencers is now open, and this is your chance to tap into a booming opportunity that‚Äôs turning complete beginners into success stories!
+
+These people didn‚Äôt have:
+
+‚ùå Expensive tools.
+‚ùå Years of experience.
+‚ùå Big budgets.
+
+What they DID have was the power of AI Influencers.
+
+With AIfluencers, you can:
+
+Ì†ΩÌ¥• Create stunning AI-powered influencers in minutes.
+Ì†ΩÌ¥• Monetize effortlessly with sponsorships, affiliate marketing, and chat subscriptions: https://www.getprofitnow.info/aifluencer  .
+Ì†ΩÌ¥• Generate viral content like images, videos, and reels that drive massive engagement.
+Ì†ΩÌ¥• Lease your influencers to brands or businesses for consistent passive income.
+
+Here‚Äôs why AIfluencers works for everyone, even complete newbies:
+
+You don‚Äôt need an existing social media following to get started.
+You don‚Äôt need costly photoshoots or professional equipment.
+You don‚Äôt need to spend hours managing your influencers‚Äîthey‚Äôre powered by AI!
+Imagine having an AI influencer that promotes website/products, drives traffic, and boosts sales for you automatically.     It‚Äôs like having a marketing team working around the clock, without the overhead: https://www.getprofitnow.info/aifluencer  .
+
+The best part?
+
+There are countless ways to profit with AIfluencers, including:
+
+Ì†ΩÌ≤º Creating sponsored posts for brands.
+Ì†ºÌæ• Producing viral reels and short videos.
+Ì†ΩÌ≥à Driving traffic to website and affiliate offers.
+Ì†æÌ¥ù Supporting coaches, consultants, and local businesses.
+Ì†ΩÌ≤∞ Monetizing chat subscriptions and exclusive content.
+
+GRAB AIFLUENCERS NOW: https://www.getprofitnow.info/aifluencer  !  
+
+This is your chance to turn your creativity into consistent income and step into the future of influencer marketing.     But act fast‚Äîthe cart won‚Äôt stay open for long!
+
+Start your AI influencer empire today, and who knows?     You could be the next success story we feature.
+
+
+Bruce Thomas
+
+
+
+UNSUBSCRIBE: https://www.getprofitnow.info/unsubscribe/?d=proditelsas.com 
+Address: 1805 Woodstock Drive
+Pomona, CA 91766
+. 
+
+
+--1737029907-eximdsn-835072388--

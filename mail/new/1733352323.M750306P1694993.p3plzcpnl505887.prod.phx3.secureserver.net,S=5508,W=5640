@@ -1,0 +1,132 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id wAXXK4PbUGcR3RkA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 04 Dec 2024 15:45:23 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 04 Dec 2024 15:45:23 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tIy7X-0077gO-2B
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 04 Dec 2024 15:45:23 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tIy7L-0077ds-0x@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1733352323-eximdsn-2008748999
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tIy7X-0077gO-2B@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 04 Dec 2024 15:45:23 -0700
+
+--1733352323-eximdsn-2008748999
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Iy7Xtrz8meSnR :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=MYWWu4/f c=1 sm=1 tr=0 ts=6750db83 p=gNn3LsEkncfFILY2DKRm:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=RZcAm9yDv7YA:10 a=WfbHnZbdAAAA:8 a=smrCSdiaAAAA:8 a=o8YzAIQJ6NdEH7lp8QcA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=IfkkEA1PoG1LQijzXGxd:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1733352323-eximdsn-2008748999
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Iy7Xtrz8meSnR :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=MYWWu4/f c=1 sm=1 tr=0 ts=6750db83 p=gNn3LsEkncfFILY2DKRm:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=RZcAm9yDv7YA:10 a=WfbHnZbdAAAA:8 a=smrCSdiaAAAA:8 a=o8YzAIQJ6NdEH7lp8QcA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=IfkkEA1PoG1LQijzXGxd:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1733352323-eximdsn-2008748999
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tIy7L-0077ds-0x
+	for servicioalcliente@serkoi.com;
+	Wed, 04 Dec 2024 15:45:22 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.211.164
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.211.164
+From:
+Message-Id: <E1tIy7L-0077ds-0x@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 04 Dec 2024 15:45:11 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Ricardo Mendivil. 
+Correo: . 
+Telefono: . 
+Mensaje: If you have ever used ChatGPT
+
+It will shock you to know that  ChatGPT acts only on outdated 2021 data (contents, designs, funnels nor does it creates a website )
+
+That's why smart marketers don't use it again...
+
+But here is a 100x perfect solution. <<< No Monthly Fee: https://www.greatbusi.info/aipilot 
+
+AI Pilot is the first AI assistant with 85+ Chatbots that works for you.
+
+Anything generated is Fresh from scratch… Not used by anyone.
+
+And this is why making 6 to 7 figures in your business will be super easy
+
+Here are some of AI Pilot Features;
+
+Generates Content, Codes and Chatbots
+Generates Social Proofs
+Create Websites, Landing Page and Designs
+Generates AI Flipbooks
+Generates Human-like Voiceovers
+Interactive Element
+Create Funnels
+Generates Business Cards
+
+Generates 3D Models and Videos
+And Much More.
+
+>>Click here to secure your access to this ever-green app, AI Pilot: https://www.greatbusi.info/aipilot 
+
+It’s time for you to stop spending money on hiring freelancers without making a profit.
+
+Even if you don’t know shit about marketing AI Pilot is the best place to start to profit HUGE consistently.
+
+>>See Proof here: https://www.greatbusi.info/aipilot 
+
+The best part is;
+
+You can customize the AI Pilot App to transform your thoughts into reality,
+
+And this will catapult your business to the next level…
+
+We are making over $542.43 per day with this system … you too can.
+
+>>Click here to secure your access to this ever-green app, AI Pilot: https://www.greatbusi.info/aipilot 
+
+Ricardo Mendivil
+
+
+
+UNSUBSCRIBE: https://www.greatbusi.info/unsubscribe/?d=proditelsas.com  
+Address: 2153 Spirit Drive
+Hastings, FL 32145
+. 
+
+
+--1733352323-eximdsn-2008748999--

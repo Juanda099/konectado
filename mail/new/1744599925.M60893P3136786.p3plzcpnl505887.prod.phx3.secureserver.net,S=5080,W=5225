@@ -1,0 +1,145 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id gMFqA3V7/GcS3S8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 13 Apr 2025 20:05:25 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 13 Apr 2025 20:05:25 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1u4A8S-00DFOa-38
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 13 Apr 2025 20:05:25 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1u4A8M-00DFKD-2U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1744599924-eximdsn-674920049
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1u4A8S-00DFOa-38@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 13 Apr 2025 20:05:24 -0700
+
+--1744599924-eximdsn-674920049
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 4A8SuZYInGQzw :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Js4LrN4C c=1 sm=1 tr=0 ts=67fc7b74 p=l2uLO-N1AAAA:8 p=R2vP2QJQX7C8l7CAMtEA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=SDYOAaE-SIro4epZ_f_O:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1744599924-eximdsn-674920049
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 4A8SuZYInGQzw :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Js4LrN4C c=1 sm=1 tr=0 ts=67fc7b74 p=l2uLO-N1AAAA:8 p=R2vP2QJQX7C8l7CAMtEA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=SDYOAaE-SIro4epZ_f_O:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1744599924-eximdsn-674920049
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1u4A8M-00DFKD-2U
+	for servicioalcliente@serkoi.com;
+	Sun, 13 Apr 2025 20:05:24 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1u4A8M-00DFKD-2U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 13 Apr 2025 20:05:18 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Dorine Tennant. 
+Correo: . 
+Telefono: 5622089322. 
+Mensaje: Hi Proditelsas,
+
+These short, simple and lame video
+quizzes are breaking the internet..
+
+- 1M views on a DOG CARE quiz
+- 3.6M views on a GK quiz
+- 4.5M views on a MOVIE quiz
+- 1.1M views on MAKEUP quiz
+- 921k views on a M0NEY quiz
+
+Want to create 100s of these 
+Viral "AI Quiz Videos" in minutes 
+with just few clicks & generate millions 
+of visitors/m - WITH NO tech skills,
+NO subs, NO followers, NO ads, 
+NO SEO.. ???
+
+==> Unlock *AI Video Quizzes* Now
+=> https://viral-quiz-ai.blogspot.com
+
+THE BACKSTORY!!
+
+My friend Ram have been EXPLOITING
+Youtube Shorts & Instagram Reels to 
+generate viral, organic traffic for
+past 12 months...
+
+But then he found something 
+BIGGER & BETTER..
+
+He started using the **SECRET 
+3E + Proprietary AI Tech** to create 
+stunning, engaging, addictive video 
+quizzes..
+
+And with it, he started getting MILLIONS 
+of visitors/m, sales, commissions and 
+followers WITHOUT any effort or money.
+
+=> https://viral-quiz-ai.blogspot.com
+
+With this revolutionary platform, you 
+can create 100s of these viral quiz 
+videos with zero effort in just minutes
+and go viral on YouTube, Instagram,
+TikTok and more..
+
+You get 10x more sales, reach, followers, 
+and engagement... 
+
+LITERALLY handful of people know
+about it, 99.95% of marketers have no 
+idea how to use it, how to make money 
+with it..
+
+But now you can become one of them.. 
+Get the Viral Video Quiz app + learn 
+all his methods, strategies and hacks 
+for just one LOW one-time price.
+
+=> Get ViralQuiz AI For A Low One-Time 
+Price Now 
+=> https://viral-quiz-ai.blogspot.com
+
+Don't miss out on this opportunity. 
+
+Best,
+[Dorine Tennant]. 
+
+
+--1744599924-eximdsn-674920049--

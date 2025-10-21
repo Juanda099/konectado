@@ -1,0 +1,122 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id qJtNN5LdBWgLRzAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 20 Apr 2025 22:54:26 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 20 Apr 2025 22:54:26 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1u6k6s-00EG8D-2k
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 20 Apr 2025 22:54:26 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1u6k6h-00EG5f-2u@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1745214866-eximdsn-1610819137
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1u6k6s-00EG8D-2k@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 20 Apr 2025 22:54:26 -0700
+
+--1745214866-eximdsn-1610819137
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 6k6suhJyaTg1g :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=cObgskeN c=1 sm=1 tr=0 ts=6805dd92 p=agKu4XbyZcrTBmf7G5UA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=FZe4IdtlAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=IDExwFCc2qN6fL7Blqvf:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=eRqfMJ_doTx4AiIZxv_-:22 ::
+    100.00
+
+--1745214866-eximdsn-1610819137
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 6k6suhJyaTg1g :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=cObgskeN c=1 sm=1 tr=0 ts=6805dd92 p=agKu4XbyZcrTBmf7G5UA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=FZe4IdtlAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=IDExwFCc2qN6fL7Blqvf:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=eRqfMJ_doTx4AiIZxv_-:22 :: 100.00
+
+--1745214866-eximdsn-1610819137
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1u6k6h-00EG5f-2u
+	for servicioalcliente@serkoi.com;
+	Sun, 20 Apr 2025 22:54:26 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1u6k6h-00EG5f-2u@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 20 Apr 2025 22:54:15 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Charles Runyan. 
+Correo: . 
+Telefono: 215-507-0391. 
+Mensaje: Hey ,
+
+Wish there was an easier way to turn your expertise into real, profitable income?
+EduZign is here to change the game.
+
+Check it out: https://www.goldtip.shop/eduzign 
+
+EduZign is the all-in-one platform that lets you create, host, and sell video courses effortlessly – without the tech headaches or endless hours of content creation.
+Here’s what EduZign can help you do:
+
+→ Build Your Own Academy: Launch a complete online course platform, mobile-friendly and ready to scale.
+
+→ Skip Content Creation Hassles: With 2,000+ pre-made video & eBook courses, you can start selling instantly.
+
+→ Grow Your Audience: Engage students with interactive features, quizzes, and live chat.
+
+→ Boost Revenue Streams: Create courses for your own brand or offer your skills to clients with our commercial license.
+
+→ Simplify Payments: Accept multiple payment options like PayPal, Stripe, and more.
+
+→ Expand Globally: Reach a wider audience with multilingual support and mobile-friendly designs.
+
+All this in just 3 easy steps…
+
+Step 1: CREATE – Use EduZign’s AI to auto-generate course content, titles, and descriptions or start with the ready-to-sell courses.
+
+Step 2: CUSTOMIZE – Design your academy with professional themes, add branding, and include interactive features.
+
+Step 3: PROFIT – Start selling courses to students worldwide and track your revenue in real time.
+
+See EduZign in action here: https://www.goldtip.shop/eduzign 
+
+Excited?   Then don’t wait!
+
+Prices are set to increase soon, so grab your access now at the launch price and start building your online course empire.
+
+Get access to EduZign NOW: https://www.goldtip.shop/eduzign 
+
+To your success,
+
+Charles Runyan
+
+
+UNSUBSCRIBE: https://www.goldtip.shop/unsubscribe/?d=proditelsas.com 
+3265 Jones Avenue
+Winston Salem, NC 27101. 
+
+
+--1745214866-eximdsn-1610819137--

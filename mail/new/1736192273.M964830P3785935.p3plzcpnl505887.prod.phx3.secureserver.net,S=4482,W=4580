@@ -1,0 +1,98 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 6OaTOBExfGfPxDkA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 06 Jan 2025 12:37:53 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 06 Jan 2025 12:37:53 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tUsvB-00FyiU-2r
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 06 Jan 2025 12:37:53 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tUsv5-00FyhV-07@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1736192273-eximdsn-575908050
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tUsvB-00FyiU-2r@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 06 Jan 2025 12:37:53 -0700
+
+--1736192273-eximdsn-575908050
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 UsvBt0fWPP5lZ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=MNmamNZl c=1 sm=1 tr=0 ts=677c3111 p=Kn-I9CtmAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=wq2A40ZowE0pYZ-G0t4A:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=Q33WG4i_u_oKJVVlANm7:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1736192273-eximdsn-575908050
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 UsvBt0fWPP5lZ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=MNmamNZl c=1 sm=1 tr=0 ts=677c3111 p=Kn-I9CtmAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=wq2A40ZowE0pYZ-G0t4A:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=Q33WG4i_u_oKJVVlANm7:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1736192273-eximdsn-575908050
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tUsv5-00FyhV-07
+	for servicioalcliente@serkoi.com;
+	Mon, 06 Jan 2025 12:37:53 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tUsv5-00FyhV-07@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 06 Jan 2025 12:37:47 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Meagan McAnulty. 
+Correo: . 
+Telefono: 318081868. 
+Mensaje: Hey there, I came across your website and was impressed—great work!
+
+I know your time is valuable, so I’ll be brief.
+
+AI is essential for business growth, and many owners struggle to know where to start—that’s why I’m here to help.
+
+We’ve created two guides called AI For Entrepreneurs and Smarter with AI, normally priced at $29 each, and we're offering it to you for free. Inside, you’ll discover:
+
+    + How to quickly increase your business/website revenue.
+    + A simple framework for incorporating AI into your business.
+    + Proven strategies to boost productivity and save time.
+    + Expert tips to get results, whether you're just starting or well-established.
+
+Remember, this is absolutely free and will cost you nothing! 
+
+Would you like a free copy?
+
+Get yor guide here: http://aibusinessmastery.pro
+
+I’m confident it’ll be a game-changer for you, and I’d love to hear how it works for your business!
+
+Best regards. 
+
+
+--1736192273-eximdsn-575908050--

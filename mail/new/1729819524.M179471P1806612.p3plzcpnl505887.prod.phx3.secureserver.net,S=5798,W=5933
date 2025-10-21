@@ -1,0 +1,135 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id Of/XCYTzGmcUkRsA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 24 Oct 2024 18:25:24 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 24 Oct 2024 18:25:24 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1t494u-007Zya-0I
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 24 Oct 2024 18:25:24 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1t494f-007Zna-1r@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1729819524-eximdsn-1489284363
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t494u-007Zya-0I@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 24 Oct 2024 18:25:24 -0700
+
+--1729819524-eximdsn-1489284363
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 494utTKA2UNgL :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=SPKJV/vH c=1 sm=1 tr=0 ts=671af384 p=J_6GPAh8AAAA:8 p=oCpioLji6kK9FMsTVstv:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=smrCSdiaAAAA:8 a=JFMDTij0b7suYIMhRbwA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=Rs6WJNaaI7vqF0WlzYVz:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1729819524-eximdsn-1489284363
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 494utTKA2UNgL :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=SPKJV/vH c=1 sm=1 tr=0 ts=671af384 p=J_6GPAh8AAAA:8 p=oCpioLji6kK9FMsTVstv:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=smrCSdiaAAAA:8 a=JFMDTij0b7suYIMhRbwA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=Rs6WJNaaI7vqF0WlzYVz:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1729819524-eximdsn-1489284363
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1t494f-007Zna-1r
+	for servicioalcliente@serkoi.com;
+	Thu, 24 Oct 2024 18:25:23 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.151.83
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.151.83
+From:
+Message-Id: <E1t494f-007Zna-1r@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 24 Oct 2024 18:25:09 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Steven Potter. 
+Correo: . 
+Telefono: (12) 2196-3710. 
+Mensaje: Hey,
+
+Imagine accessing the world’s leading AI platforms—ChatGPT 4, Gemini Pro, DALL·E 3, Leonardo AI, Microsoft Copilot Pro, Meta Llama 3, Stable Diffusion XL, and PaLM 2—all from a single dashboard without paying any monthly fees.
+
+Welcome to One AI: https://www.increasetraffic.shop/allai  !
+
+Artificial intelligence is transforming the way businesses operate, offering incredible capabilities like AI-generated images, videos, and sales copy at lightning speed. But accessing these powerful tools often comes with a hefty price tag.
+
+Consider this:
+ChatGPT 4: $29/month
+Gemini Pro: $33/month
+DALL·E 3: $49/month
+Leonardo AI: $54/month
+Microsoft Copilot Pro: $79/month
+Meta Llama 3: $35/month
+Stable Diffusion XL: $89/month
+PaLM 2: $97/month
+
+That's a staggering $12,717 annually just to keep up with the AI revolution.
+
+But what if there was a better way?
+
+Introducing One AI:
+
+All-in-One Platform: Access all top-tier AI apps from a single, easy-to-use dashboard.
+
+Cost-Free: No monthly fees—ever - : https://www.increasetraffic.shop/allai  !
+
+Complete Control: Use these powerful tools to elevate your business, create world-class content, and more.
+
+Why One AI is a game-changer:
+
+Create stunning 4K HD AI images with DALL·E.
+
+Generate ultra-HD videos and realistic paintings using Leonardo AI.
+
+Write high-demand programming code with Microsoft Copilot Pro.
+
+Translate any language and get answers to complex questions with Meta Llama 3.
+
+And much more, all with the click of a button.
+
+Ready to experience the future of AI?
+
+Unlock One AI Now: https://www.increasetraffic.shop/allai  
+
+Don’t miss your chance to transform your workflow and access the world's best AI tools without the cost. Act now to secure your spot and start your journey to AI mastery.
+
+Best regards,
+Steven Potter
+
+
+
+
+UNSUBSCRIBE: https://www.increasetraffic.shop/unsubscribe/?d=proditelsas.com   
+Address: 3752 Pearlman Avenue
+Billerica, MA 01821. 
+
+
+--1729819524-eximdsn-1489284363--

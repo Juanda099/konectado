@@ -1,0 +1,471 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id uJxCLDk6pmdLnyMA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 07 Feb 2025 09:52:09 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 07 Feb 2025 09:52:09 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tgRaL-009vIM-29
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 07 Feb 2025 09:52:09 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tgRaC-009uxK-2z@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1738947129-eximdsn-216642380
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tgRaL-009vIM-29@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 07 Feb 2025 09:52:09 -0700
+
+--1738947129-eximdsn-216642380
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 gRaLtp6Pl7Al7 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=YYtH5xRf c=1 sm=1 tr=0 ts=67a63a39 p=tRnzBrz9HvuLezmhMWYA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=T2h4t0Lz3GQA:10 a=smrCSdiaAAAA:8 a=pGLkceISAAAA:8 a=3ZKOabzyN94A:10 a=RaAw-xBDQgAA:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1738947129-eximdsn-216642380
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 gRaLtp6Pl7Al7 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=YYtH5xRf c=1 sm=1 tr=0 ts=67a63a39 p=tRnzBrz9HvuLezmhMWYA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=T2h4t0Lz3GQA:10 a=smrCSdiaAAAA:8 a=pGLkceISAAAA:8 a=3ZKOabzyN94A:10 a=RaAw-xBDQgAA:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1738947129-eximdsn-216642380
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tgRaC-009uxK-2z
+	for servicioalcliente@serkoi.com;
+	Fri, 07 Feb 2025 09:52:09 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tgRaC-009uxK-2z@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 07 Feb 2025 09:52:00 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Otto Nevarez. 
+Correo: . 
+Telefono: 3137149820. 
+Mensaje: Follow-Up Message: IT Specialist Available for Full-Time Remote Opportunity
+
+Hi proditelsas.com,
+
+I hope you're having a great day. I wanted to reconnect regarding my previous inquiry about the full-time remote IT role with your Proditelsas company. I'm highly motivated to join your team and would love to discuss how my skills could help drive your organization's success.
+
+I realize that the job market is highly competitive, but I am fully dedicated to offering my expertise in a way that supports and enhances your team. I am flexible with my salary expectations, as my primary focus is to demonstrate my abilities and contribute meaningfully to your company's growth. Additionally, I’m open to working in any time zone remotely and can adapt to the hours that best suit your needs.
+
+My name is Shaheen Iqbal, a dedicated professional from Pakistan with an MCS in Computer Science. Over the years, I have built a strong foundation in IT and mastered several programming languages, allowing me to excel in a broad range of technical and creative tasks.
+
+With my versatile skill set and experience, I am confident that I can make an immediate, positive impact. My background includes:
+
+	•	Expertise in website management, social media marketing, graphic design, video editing, Microsoft Office tasks, and email management.
+	•	Live chat query handling, data analysis, and multitasking across multiple projects with precision.
+	•	Strong technical proficiency in various programming languages.
+	•	Fluency in English, Urdu, and Punjabi, and the ability to use Google Translate for communication in other languages.
+
+I am available to start right away and am eager to show my commitment through hard work and dedication.
+
+Please feel free to reach out to me at shaheeniqbalonlineworking@gmail.com so we can explore how I can be a valuable asset to your team. I look forward to hearing from you.
+
+
+Very Amzing
+Facebook, Twitter, Instagram, Linkedin, , Youtube
+
+Best regards,
+Otto, Nevarez
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Proditel
+http://proditelsas.com/contactenos.php, proditelsas.com, proditelsas.com, http://proditelsas.com
+Proditelsas
+FacebookID, TwitterID, InstagramID, LinkedinID, PinterestID, YoutubeID
+
+Italy, xjdsgfjsgdjgf PE,376468327hjggjsd Civitaquana,sdfsmdfdsttt^%&%&## 65010,dgjfhsjg456464())*) Via Domenico Morelli 38, 3137149820hgjgj45646YRR^&%&%
+. 
+
+
+--1738947129-eximdsn-216642380--

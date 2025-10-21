@@ -1,0 +1,53 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id eFF7AQtEmGc6TRgA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 27 Jan 2025 19:42:19 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 27 Jan 2025 19:42:19 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tcbYQ-006gz2-36
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 27 Jan 2025 19:42:18 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tcbYK-006gxJ-0h@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1tcbYQ-006gz2-36@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 27 Jan 2025 19:42:18 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tcbYK-006gxJ-0h
+	for servicioalcliente@serkoi.com;
+	Mon, 27 Jan 2025 19:42:12 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tcbYK-006gxJ-0h@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 27 Jan 2025 19:42:12 -0700
+
+De: Winston Barfield. 
+Correo: . 
+Telefono: 6573191200. 
+Mensaje: Don't waste your time with ineffective advertising. Let us help you reach millions of potential customers with just one flat rate. By sending your ad text through website contact forms, your message will be read just like you're reading this one. Plus, there are never any per click costs.
+
+ Interested? Get in touch via the contact details below.
+
+Regards,
+Winston Barfield
+Email: Winston.Barfield@uniqueadvertising.pro
+Website: http://kgjsxu.marketing-with-contactforms.top
+. 
+

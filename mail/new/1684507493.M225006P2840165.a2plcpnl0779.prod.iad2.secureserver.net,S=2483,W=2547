@@ -1,0 +1,64 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id YE1kDGWLZ2RlVisAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Fri, 19 May 2023 07:44:53 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Fri, 19 May 2023 07:44:53 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1q01Lh-00BvIj-40
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Fri, 19 May 2023 07:44:53 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1q01Lc-00BvHp-Bk@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1q01Lh-00BvIj-40@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 19 May 2023 07:44:53 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1q01Lc-00BvHp-Bk
+	for servicioalcliente@serkoi.com;
+	Fri, 19 May 2023 07:44:48 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.230.212.42
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.230.212.42
+From:
+Message-Id: <E1q01Lc-00BvHp-Bk@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 19 May 2023 07:44:48 -0700
+
+De: Sherman Springfield. 
+Correo: . 
+Telefono: . 
+Mensaje: Have you been using ChatGPT for creating content?
+
+The key to using this new technology is all in the prompts.
+
+There is a new free tool that has over 2,600+ prompts to do things like:
+ - Write a 100% Unique SEO Optimized article
+ - Write engaging ads for your business
+ - Write and ENTIRE Book for you all with one keyword
+ - And so many more...
+
+I can send you the tool, if you'd like, it's totally free.
+
+If you are interested, just go to:
+
+ https://seocitrus.com/freetool
+
+Hope this helps!
+. 
+

@@ -1,0 +1,92 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 6kfTFYcHMmVMaxMAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 19 Oct 2023 21:52:23 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 19 Oct 2023 21:52:23 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qthUl-005L4W-7Y
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 19 Oct 2023 21:52:23 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qthUg-005L2T-7p@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1697777543-eximdsn-966292306
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qthUl-005L4W-7Y@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 19 Oct 2023 21:52:23 -0700
+
+--1697777543-eximdsn-966292306
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 thUkqmzGmkE45 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=e/3AC4l/ c=1 sm=1 tr=0 ts=65320787 p=IG6DAxVCAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=jJrOw3FHAAAA:8 a=YReWYeIa-exmD_T597wA:9 a=-szanIAbzvYA:10 a=zGlHrSWtykwA:10 a=-FEs8UIgK8oA:10 a=KSHm_D768Miir6qAHCgk:22 a=FhPABpzuuMpfne1QT-wt:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1697777543-eximdsn-966292306
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 thUkqmzGmkE45 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=e/3AC4l/ c=1 sm=1 tr=0 ts=65320787 p=IG6DAxVCAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=jJrOw3FHAAAA:8 a=YReWYeIa-exmD_T597wA:9 a=-szanIAbzvYA:10 a=zGlHrSWtykwA:10 a=-FEs8UIgK8oA:10 a=KSHm_D768Miir6qAHCgk:22 a=FhPABpzuuMpfne1QT-wt:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1697777543-eximdsn-966292306
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qthUg-005L2T-7p
+	for servicioalcliente@serkoi.com;
+	Thu, 19 Oct 2023 21:52:22 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 31.131.11.166
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 31.131.11.166
+From:
+Message-Id: <E1qthUg-005L2T-7p@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 19 Oct 2023 21:52:18 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De:  Byerly. 
+Correo: . 
+Telefono: 613-284-1855. 
+Mensaje: Hi, I looked at what you are doing on your website and decided to reach out.
+
+Would you be open to a successful collaboration where we add between $1 million and $10 million 
+in annual profits to your business within the next 12 months without any additional marketing, getting new employees, or increasing time and energy input?
+
+We have successfully helped over 37,000 businesses like yours .
+
+Want more information on this? https://youtu.be/2020DY5EPH0
+
+Want help with this? You can speak to a team member here:https://www.nationaldiversified.org/calendar
+
+Warm regards,
+Daniel Udezi, MD, MBA.
+Nattionaldiversified[.]com. 
+
+
+--1697777543-eximdsn-966292306--

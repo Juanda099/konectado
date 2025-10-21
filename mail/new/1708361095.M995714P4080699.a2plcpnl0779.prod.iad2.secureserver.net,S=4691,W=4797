@@ -1,0 +1,106 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id wC+ONoeF02U7RD4AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 19 Feb 2024 09:44:55 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 19 Feb 2024 09:44:55 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rc6lD-00H81b-2Y
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Mon, 19 Feb 2024 09:44:55 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rc6l8-00H7w8-24@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1708361095-eximdsn-1239242504
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rc6lD-00H81b-2Y@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 19 Feb 2024 09:44:55 -0700
+
+--1708361095-eximdsn-1239242504
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 c6lfrPZ7hZi6l :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=H814wPYi c=1 sm=1 tr=0 ts=65d385a3 p=g79HRX5FT4fSGZW5AWQA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=k7vzHIieQBIA:10 a=VNI-FIlAAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=EUfH9Jx7T-EUzhHgtbU4:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=LAmjqU_Z1v3ZT_b_ajM5:22 ::
+    100.00
+
+--1708361095-eximdsn-1239242504
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 c6lfrPZ7hZi6l :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=H814wPYi c=1 sm=1 tr=0 ts=65d385a3 p=g79HRX5FT4fSGZW5AWQA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=k7vzHIieQBIA:10 a=VNI-FIlAAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=EUfH9Jx7T-EUzhHgtbU4:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=LAmjqU_Z1v3ZT_b_ajM5:22 :: 100.00
+
+--1708361095-eximdsn-1239242504
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rc6l8-00H7w8-24
+	for servicioalcliente@serkoi.com;
+	Mon, 19 Feb 2024 09:44:55 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 45.131.103.164
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 45.131.103.164
+From:
+Message-Id: <E1rc6l8-00H7w8-24@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 19 Feb 2024 09:44:50 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Dorian. 
+Correo: . 
+Telefono: 0495 44 83 20. 
+Mensaje: Hope this finds you well,
+
+Fact: Roughly 68% of the population never experiences tinnitus, no matter if they have been exposed to loud workplaces or other ear-harmful environments. 
+
+This has drawn the attention of a small group of European researchers who have recently published their astounding discoveries...
+
+Check here: https://compressl.ink/tinnituscure
+
+They have found the nucleic acid which makes some immune to developing tinnitus and how everybody can activate it in a matter of months, possibly even weeks...
+
+This is fresh-out-of-the-box info that you won't find anywhere else but in their short documentary.
+
+Check now here: https://compressl.ink/tinnituscure
+
+
+How to stop weird sounds in 3 easy steps.
+
+Stay healthy,
+
+Dorian
+
+
+If you'd like to unsubscribe click here https://compressl.ink/website-opt-out/
+
+333 Summer Street, Delaware. Privacy Policy. Anti-spam Policy.
+
+©2024 Compressl.Ink, Inc.
+. 
+
+
+--1708361095-eximdsn-1239242504--

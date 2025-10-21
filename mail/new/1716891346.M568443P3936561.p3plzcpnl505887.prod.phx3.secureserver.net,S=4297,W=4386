@@ -1,0 +1,89 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id yFGdINKuVWYxETwA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 28 May 2024 03:15:46 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 28 May 2024 03:15:46 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sBtru-00Gcmt-1X
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 28 May 2024 03:15:46 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sBtrk-00GckN-0P@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1716891346-eximdsn-205586479
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sBtru-00Gcmt-1X@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 28 May 2024 03:15:46 -0700
+
+--1716891346-eximdsn-205586479
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Btrus50Sj4JLV :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Uu6oNPwB c=1 sm=1 tr=0 ts=6655aed2 p=3dAUetgDAAAA:20 p=j3GKuRL1AAAA:20 p=6_O0oJE32PEA:10 p=ysPwh6NLQ4a1ekYYWsHO:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=t1W2wmFevQdMqol7908A:9 a=ParPXf8AOVAA:10 a=IawXvI9lP1MA:10 a=0lgtpPvCYYIA:10 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1716891346-eximdsn-205586479
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Btrus50Sj4JLV :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Uu6oNPwB c=1 sm=1 tr=0 ts=6655aed2 p=3dAUetgDAAAA:20 p=j3GKuRL1AAAA:20 p=6_O0oJE32PEA:10 p=ysPwh6NLQ4a1ekYYWsHO:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=t1W2wmFevQdMqol7908A:9 a=ParPXf8AOVAA:10 a=IawXvI9lP1MA:10 a=0lgtpPvCYYIA:10 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1716891346-eximdsn-205586479
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sBtrk-00GckN-0P
+	for servicioalcliente@serkoi.com;
+	Tue, 28 May 2024 03:15:46 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 64.137.93.76
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 64.137.93.76
+From:
+Message-Id: <E1sBtrk-00GckN-0P@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 28 May 2024 03:15:36 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Lashunda Shank. 
+Correo: . 
+Telefono: 240615766. 
+Mensaje: Deliver your message to numerous of email inboxes starting at 9$. We will deliver your message to countless  website contact forms. Ensuring all messages land in the inbox.
+
+It will generate potential customers, site visits, buyers, brand awareness.
+
+Check out https://bit.ly/cfleads
+
+
+
+Unsubscribe here if you don't want to get these amazing newsletters: https://bit.ly/cflunsubs
+54 Edgewater Close, Parma, NSW, Australia, 2540
+. 
+
+
+--1716891346-eximdsn-205586479--

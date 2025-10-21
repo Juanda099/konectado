@@ -1,0 +1,108 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id yGtiNzJH82a6jQ8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 24 Sep 2024 16:11:46 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 24 Sep 2024 16:11:46 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1stEh8-004IEY-2k
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 24 Sep 2024 16:11:46 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1stEgw-004HoR-1e@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1727219506-eximdsn-939848396
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1stEh8-004IEY-2k@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 24 Sep 2024 16:11:46 -0700
+
+--1727219506-eximdsn-939848396
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 tEh8sxDP1qxYJ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=bqmHB1ai c=1 sm=1 tr=0 ts=66f34732 p=mWkyVzl-uW99XvSymg_f:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=F2SntN24AAAA:8 a=vGtanHIgAAAA:20 a=-pqKX1rGkEpZ9ufxg8kA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=3S6ozNnR9uLvRLorrby9:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1727219506-eximdsn-939848396
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 tEh8sxDP1qxYJ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=bqmHB1ai c=1 sm=1 tr=0 ts=66f34732 p=mWkyVzl-uW99XvSymg_f:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=F2SntN24AAAA:8 a=vGtanHIgAAAA:20 a=-pqKX1rGkEpZ9ufxg8kA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=3S6ozNnR9uLvRLorrby9:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1727219506-eximdsn-939848396
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1stEgw-004HoR-1e
+	for servicioalcliente@serkoi.com;
+	Tue, 24 Sep 2024 16:11:46 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 37.19.223.117
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 37.19.223.117
+From:
+Message-Id: <E1stEgw-004HoR-1e@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 24 Sep 2024 16:11:34 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Hans Martinez
+. 
+Correo: . 
+Telefono: 87862424489. 
+Mensaje: Hi there 
+ 
+Is your website struggling to rank higher on search engines? You’re not alone! With Google’s ever-changing algorithms, staying visible in search results can be a challenge. 
+ 
+https://www.cyber-digitalx.net/monthly-seo/ 
+ 
+At Digital X Press, we specialize in monthly SEO services designed to drive sustainable traffic, improve your rankings, and increase your business’s online visibility. Here’s what you’ll get with our monthly SEO plan: 
+ 
+•	Keyword Optimization: Ensure your site ranks for the most relevant search terms. 
+•	Technical SEO Audits: Fix any underlying issues preventing your site from ranking higher. 
+•	Backlink Building: High-quality backlinks from trusted websites to improve your authority. 
+•	Content Optimization: Make sure your site has engaging, search-friendly content that converts. 
+•	Monthly Reporting: Stay in the loop with detailed reports on rankings, traffic, and ROI. 
+ 
+By choosing a long-term SEO strategy, you’ll see real results and a consistent increase in traffic that lasts. Let’s work together to get your business where it deserves to be – at the top of search results! 
+ 
+https://www.cyber-digitalx.net/monthly-seo/ 
+ 
+Get started today with a free consultation, and we’ll outline how we can boost your site's performance: 
+ 
+Schedule a Free Consultation with our SEO expert here: https://wa.link/wxpono 
+ 
+Feel free to reach out if you have any questions. 
+ 
+Best regards, 
+Hans Martinez
+Digital X SEO Experts 
+Digital X Press 
+https://www.cyber-digitalx.net/. 
+
+
+--1727219506-eximdsn-939848396--

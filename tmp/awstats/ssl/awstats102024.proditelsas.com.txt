@@ -1,0 +1,475 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202410 will be lost/reset.
+# Last config file used to build this data file was /home/z1h9uk8mq9i3/tmp/awstats/ssl/awstats.proditelsas.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2682                
+POS_VISITOR 9319                
+POS_DAY 12363               
+POS_DOMAIN 3387                
+POS_LOGIN 3800                
+POS_ROBOT 3955                
+POS_WORMS 4393                
+POS_EMAILSENDER 4524                
+POS_EMAILRECEIVER 4667                
+POS_SESSION 13072               
+POS_SIDER 13229               
+POS_FILETYPES 4802                
+POS_DOWNLOADS 4991                
+POS_OS 5266                
+POS_BROWSER 5523                
+POS_SCREENSIZE 6213                
+POS_UNKNOWNREFERER 6287                
+POS_UNKNOWNREFERERBROWSER 6613                
+POS_ORIGIN 6833                
+POS_SEREFERRALS 6968                
+POS_PAGEREFS 7131                
+POS_SEARCHWORDS 7313                
+POS_KEYWORDS 7465                
+POS_MISC 2346                
+POS_ERRORS 7524                
+POS_CLUSTER 3656                
+POS_SIDER_404 7650                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20241101004119 7 1164 10171541787936
+FirstTime 0
+LastTime 20241031200110
+LastUpdate 20241101061936 7 0 6 0 0
+TotalVisits 80                  
+TotalUnique 77                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 77                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 3 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 8 33 288458
+1 3 3 20822 9 23 60233
+2 2 2 8528 8 59 822171
+3 2 2 8528 16 29 61591
+4 9 43 413686 14 31 916468
+5 13 13 55432 5 17 10093
+6 11 11 46904 9 19 42746
+7 2 2 16558 3 7 9281
+8 4 4 17056 5 14 14651
+9 1 1 4264 7 14 22299
+10 2 2 8528 8 12 20285
+11 1 1 4264 2 6 4378
+12 5 5 29483 9 13 42730
+13 2 18 2285904 10 16 58335
+14 3 3 12444 18 36 279398
+15 1 1 4264 3 5 12118
+16 5 5 27835 6 11 23091
+17 8 8 85541 1 8 3934
+18 3 3 12792 9 30 109225
+19 15 15 56479 14 40 307309
+20 3 3 12792 6 15 191133
+21 2 2 16558 7 14 52370
+22 22 29 138404 9 24 70507
+23 5 5 47201 22 63 1080779
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+us 51 92 706279
+hn 23 23 85101
+ro 13 13 47951
+ru 10 10 94402
+cn 7 7 29848
+se 4 4 17056
+in 3 3 12792
+ua 2 2 8528
+ar 2 18 2285904
+be 2 2 16558
+nl 2 2 8528
+eu 2 2 8528
+gb 1 1 4264
+au 1 1 4264
+uy 1 1 4264
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+AhrefsBot/ 205 1518408 20241031134651 0
+bingbot/ 42 870373 20241030000419 0
+Applebot/ 26 352761 20241027144133 0
+MJ12bot/ 23 1542216 20241024090843 0
+SemrushBot/ 13 47309 20241030164235 0
+no_user_agent 6 122425 20241027061745 0
+Go\-http\-client/ 1 17038 20241020134615 0
+Barkrowler 1 4264 20241007125235 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+php 37 179326 0 0
+png 10 93423 0 0
+css 19 39195 0 0
+html 85 476631 0 0
+js 22 343918 0 0
+Unknown 2 2671 0 0
+jpg 6 2199103 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 7
+/Decreto%201524%20de%202002.pdf 2 0 573900
+/atencion.pdf 2 0 362674
+/disponibilidad.pdf 1 0 179400
+/Decreto%20067.pdf 1 0 6824
+/ficha%20tecnica.pdf 1 0 342658
+/contrato.pdf 1 0 249306
+/ELEMENTOS%20DE%20SEGURIDAD.pdf 1 0 245577
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+win7 2 2
+android 33 6
+macosx 1 1
+win10 69 69
+ios_iphone 3 3
+macosx15 3 3
+Unknown 19 19
+macosx13 1 1
+linuxubuntu 2 2
+androidmarshmallow 1 1
+linux 5 5
+android10 24 8
+win98 2 2
+androidoreo 16 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 33
+chrome66.0.3359.117 2 2
+Unknown 15 15
+chrome100.0.4896.60 4 4
+firefox126.0 1 1
+chrome116.0.0.0 3 3
+chrome68.0.3440.106 1 1
+edge17 2 2
+chrome69.0.3497.81 1 1
+chrome117.0.0.0 2 2
+chrome129.0.0.0 33 6
+chrome110.0.0.0 3 3
+safari17.5 1 1
+safari6.0 2 2
+firefox57.0 1 1
+opera93.0.0.0 1 1
+chrome55.0.2883.87 1 1
+chrome126.0.0.0 25 25
+opera89.0.4447.51 1 1
+chrome123.0.0.0 2 2
+chrome68.0.3440.91 16 2
+chrome74.0.3729.169 1 1
+opera9.20 1 1
+safari11.0 1 1
+chrome122.0.0.0 6 6
+msie5.00 2 2
+chrome60.0.3112.113 2 2
+chrome61.0.3163.91 1 1
+chrome105.0.0.0 4 4
+chrome130.0.0.0 18 2
+chrome94.0.4606.81 21 21
+opera107.0.0.0 2 2
+firefox117.0 1 1
+mozilla 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+panscient.com 20241017195806
+Iframely/1.3.1_(_https://iframely.com/docs/about)_Canva 20241030145020
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20241017163330
+python-requests/2.32.3 20241008172404
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+panscient.com 20241017195806
+python-requests/2.32.3 20241008172404
+Iframely/1.3.1_(_https://iframely.com/docs/about)_Canva 20241030145020
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 116 116
+From1 0 0
+From2 4 4
+From3 1 1
+From4 3 60
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://cpanel.proditelsas.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 3 3
+401 5 243
+301 4 976
+422 5 15172
+404 171 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 31
+/noticias/proyectos%20regulatorios 2 -
+/phpinfo.php 1 -
+/es/transparencia-y-acceso-a-la-informacion-publica 3 -
+/Ley%20679%20de%202001.pdf 2 -
+/sitemap_index.xml 2 -
+/noticias/comunicado%20de%20prensa,%20proyectos%20regulatorios,%20participaci%C3%B3n%20ciudadana 3 -
+/jquery.easing.1.3.js 1 -
+/sitemap.txt 2 -
+/ads.txt 1 -
+/noticias/comunicado%20de%20prensa,%20participaci%C3%B3n%20ciudadana,%20proyectos%20regulatorios 1 -
+/es/transparencia-y-acceso-a-la-informacion-publica/informacion-de-la-entidad/servicio-al-publico-normas-formularios-y-protocolos-de-atencion 3 -
+/jquery-1.11.3.min.js 1 -
+/license.txt 1 -
+/zvaumibu.php 1 www.google.com
+/sitemap.xml.gz 2 -
+/jquery.mousewheel.js 1 -
+/rw_common/plugins/stacks/total-cms/totalapi.php 1 -
+/noticias/participaci%C3%B3n%20ciudadana,%20proyectos%20regulatorios 3 -
+/.git/config 1 -
+/es/transparencia-y-acceso-a-la-informacion-publica/informacion-de-la-entidad/servicio-al-publico-normas-formularios-y-protocolos-de-atencion/peticiones-quejas-sobre-tus-servicios 3 -
+/login/index.php 6 -
+/aspera/faspex/ 1 -
+/navbar.js 1 -
+/noticias/comunicado%20de%20prensa,%20proyectos%20regulatorios 1 -
+/wp-plain.php 2 www.google.com
+/media/system/js/core.js 1 -
+//kit.fontawesome.com/be342632af.js 1 -
+/robots.txt 118 -
+/wp-content/themes/seotheme/db.php 2 www.google.com
+/sitemaps.xml 2 -
+/uncpeglt.php 1 www.google.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 77
+161.0.2.213 21 21 76573 20241004220454
+84.239.41.141 13 13 47951 20241017195806
+188.127.247.62 3 3 38673 20241026173229
+35.171.144.152 3 3 51114 20241019173920
+8.211.38.78 3 3 12792 20241031200110
+185.236.228.203 3 3 38673 20241017231910
+216.68.10.134 3 30 304987 20241031042058
+45.94.31.38 2 2 8528 20241010123024
+62.182.86.19 2 2 8528 20241004143120
+138.99.38.192 2 2 8528 20241005042941
+34.215.114.243 2 2 3917 20241001122212
+181.119.64.134 2 18 2285904 20241030135958
+157.230.223.158 1 1 4264 20241021061501
+159.203.9.47 1 1 4264 20241006042146
+206.189.119.41 1 1 4264 20241025053029
+137.184.189.195 1 1 4264 20241019055510
+45.141.85.196 1 1 4264 20241029010646
+175.19.74.39 1 1 4264 20241020065931
+159.223.215.68 1 1 4264 20241023062634
+36.32.3.167 1 1 4264 20241001050944
+64.227.173.220 1 1 4264 20241027051605
+104.248.203.191 1 1 12294 20241017163330
+122.96.28.244 1 1 4264 20241025082136
+139.227.161.226 1 1 4264 20241021030311
+167.71.99.207 1 1 4264 20241003063708
+178.62.44.61 1 1 4264 20241005051049
+104.171.152.148 1 8 61831 20241004220427
+54.88.179.33 1 1 17038 20241005045543
+104.248.204.195 1 1 4264 20241002151037
+188.166.52.222 1 1 4264 20241010052702
+146.190.44.222 1 1 4264 20241031052310
+167.57.110.11 1 1 4264 20241011233529
+209.38.151.21 1 1 4264 20241013080352
+60.13.138.133 1 1 4264 20241025082133
+52.2.214.255 1 1 3916 20241030145020
+167.172.56.199 1 1 4264 20241009063023
+18.219.43.50 1 1 4264 20241008083736
+143.110.150.62 1 1 12294 20241008014806
+165.227.41.195 1 1 4264 20241006024415
+159.65.83.124 1 1 4264 20241007061840
+208.122.217.166 1 1 4264 20241005215311
+97.107.137.14 1 1 4264 20241028050728
+159.203.70.164 1 1 4264 20241019180745
+124.236.100.56 1 1 4264 20241018183737
+138.68.178.193 1 1 4264 20241001064752
+87.236.176.84 1 1 4264 20241014174341
+23.251.102.194 1 1 4264 20241015060311
+188.143.169.41 1 1 4264 20241030202625
+42.83.147.53 1 1 4264 20241024160809
+93.158.91.25 1 1 4264 20241026013449
+64.226.88.112 1 1 4264 20241015053041
+24.199.83.51 1 1 4264 20241017061735
+77.74.177.118 1 1 4264 20241002113942
+104.143.250.50 1 1 2749 20241026161829
+93.159.230.28 1 1 4264 20241002124051
+188.166.118.107 1 1 4264 20241029052550
+5.133.192.171 1 1 4264 20241005020934
+35.195.123.144 1 1 4264 20241008172404
+147.182.226.33 1 1 12294 20241022070025
+162.55.160.17 1 1 4264 20241024050409
+5.133.192.94 1 1 4264 20241019173308
+107.173.94.84 1 8 61831 20241005043141
+107.150.117.188 1 1 4264 20241021030313
+192.104.34.34 1 1 17038 20241018124852
+45.156.129.117 1 1 4264 20241001100614
+178.62.82.50 1 1 4264 20241024051058
+70.35.207.85 1 1 4264 20241007183931
+139.59.15.174 1 1 4264 20241006164634
+93.159.230.84 1 1 4264 20241028194345
+159.65.228.18 1 1 4264 20241002092041
+5.133.192.166 1 1 4264 20241012165115
+23.90.160.11 1 1 4264 20241004194035
+45.156.129.115 1 1 4264 20241001100620
+174.138.81.66 1 1 4264 20241020062039
+167.71.224.89 1 1 4264 20241011055313
+87.236.176.220 1 1 12294 20241016213147
+165.22.79.26 1 1 4264 20241011061840
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20241001 6 6 20973 5
+20241002 4 4 17056 4
+20241003 1 1 4264 1
+20241004 25 32 151196 4
+20241005 8 15 117227 7
+20241006 3 3 12792 3
+20241007 2 2 8528 2
+20241008 3 3 20822 3
+20241009 2 2 8528 2
+20241010 2 2 8528 2
+20241011 3 3 12792 3
+20241012 1 1 4264 1
+20241013 1 1 4264 1
+20241014 1 1 4264 1
+20241015 2 2 8528 2
+20241016 1 1 12294 1
+20241017 18 18 103182 4
+20241018 2 2 21302 2
+20241019 5 5 46868 4
+20241020 3 3 12792 3
+20241021 3 3 12792 3
+20241022 1 1 12294 1
+20241023 1 1 4264 1
+20241024 3 3 12792 3
+20241025 3 3 12792 3
+20241026 5 5 45686 3
+20241027 1 1 4264 1
+20241028 2 2 8528 2
+20241029 2 2 8528 2
+20241030 4 20 2294084 3
+20241031 6 33 317779 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 78
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 19
+/ 83 473710 78 72
+/index.php 7 29500 0 1
+/contactenos.php 5 32641 1 1
+/informacion_crc.php 4 24510 0 3
+/factores.php 3 10959 0 0
+/caracteristicas.php 3 12984 0 0
+/medidor.php 3 8571 0 0
+/control.php 2 8486 0 0
+/procedimientos.php 2 9752 0 0
+/residenciales.php 2 6124 0 0
+/pqr/upload/ 2 2921 1 0
+/pqr/upload/logo.php 1 19233 0 1
+/wp-json/wp/v2/posts 1 1 0 1
+/pqr/upload/open.php 1 2915 0 0
+/corporativo.php 1 2926 0 0
+/pqr/upload/account.php 1 7387 0 1
+/pqr/upload/ajax.php/i18n/es_MX/js 1 2670 0 0
+/pqr/upload/index.php 1 1578 0 0
+/pqr/upload/view.php 1 1760 0 0
+END_SIDER

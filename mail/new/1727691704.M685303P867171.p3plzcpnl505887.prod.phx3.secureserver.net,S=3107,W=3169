@@ -1,0 +1,62 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id kLKVJ7h7+mZjOw0A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 30 Sep 2024 03:21:44 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 30 Sep 2024 03:21:44 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1svDXE-003fwo-1u
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 30 Sep 2024 03:21:44 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1svDX7-003fvW-2c@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1svDXE-003fwo-1u@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 30 Sep 2024 03:21:44 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1svDX7-003fvW-2c
+	for servicioalcliente@serkoi.com;
+	Mon, 30 Sep 2024 03:21:37 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 43.134.33.254
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 43.134.33.254
+From:
+Message-Id: <E1svDX7-003fvW-2c@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 30 Sep 2024 03:21:37 -0700
+
+De: smallbusinessfundsfast. 
+Correo: . 
+Telefono: . 
+Mensaje: Hi, do you know that http://smallbusinessfunding.site can help your business get funding for $2,000 - $350K Without high credit or collateral. 
+ 
+Find Out how much you can get by clicking here: 
+ 
+http://smallbusinessfunding.site 
+ 
+Requirements include your company being established for at least a year and with current gross revenue of at least 240K. Eligibility and funding can be completed in as fast as 48hrs. Terms are personalized for each business so I suggest applying to find out exactly how much you can get on various terms. 
+ 
+This is a completely free service from a qualified funder and the approval will be based on the annual revenue of your business. These funds are completely Non-Restrictive, allowing you to spend the full amount in any way you require including business debt consolidation, hiring, marketing, or Absolutely Any Other expense. 
+ 
+If you need fast and easy business funding take a look at these programs now as there is limited availability: 
+ 
+http://smallbusinessfunding.site 
+ 
+Have a great day, 
+The Small Business Funding Team. 
+

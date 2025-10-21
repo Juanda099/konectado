@@ -1,0 +1,131 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id PEGMO3JL72bhlCQA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 21 Sep 2024 15:40:51 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 21 Sep 2024 15:40:51 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1ss8mY-00A3fa-2v
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 21 Sep 2024 15:40:50 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1ss8mN-00A3WG-0E@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1726958450-eximdsn-1291188096
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ss8mY-00A3fa-2v@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 21 Sep 2024 15:40:50 -0700
+
+--1726958450-eximdsn-1291188096
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 s8mYsQcEeqxYJ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=bqmHB1ai c=1 sm=1 tr=0 ts=66ef4b72 p=Yd4kSUVKei8m7FV8HIBI:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=smrCSdiaAAAA:8 a=66cINtQAAAAA:8 a=9vvPsnr7iby-DG6yLWQA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=QevyLm6GrPSnYVrkGscw:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1726958450-eximdsn-1291188096
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 s8mYsQcEeqxYJ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=bqmHB1ai c=1 sm=1 tr=0 ts=66ef4b72 p=Yd4kSUVKei8m7FV8HIBI:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=smrCSdiaAAAA:8 a=66cINtQAAAAA:8 a=9vvPsnr7iby-DG6yLWQA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=QevyLm6GrPSnYVrkGscw:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1726958450-eximdsn-1291188096
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1ss8mN-00A3WG-0E
+	for servicioalcliente@serkoi.com;
+	Sat, 21 Sep 2024 15:40:50 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.141.9
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.141.9
+From:
+Message-Id: <E1ss8mN-00A3WG-0E@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 21 Sep 2024 15:40:39 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Charles Moore. 
+Correo: . 
+Telefono: (85) 7684-5656. 
+Mensaje: Hello proditelsas.com,
+
+Every business would like to create a Podcast on their industry and also videos.        Give their audience the latest tips, and tricks and they will build an audience and get more traffic/clients than ever before.
+
+Now you can create marketing audio content for the clients using AI and charge them a stiff premium for it.
+
+It’s possible with the new software I created called Voisi.        It’s the ultimate toolkit for voice and languages.
+
+Voisi is a different beast than anything you’ve seen so far in the market for audio.
+
+All of those tools claim to help you, but they just make you work more.        They just solve one piece of the puzzle and you need to get a lot of things done by hand.
+
+Voisi is pure automation: https://www.actionnow.xyz/voisiaielite .
+
+??Text to voice
+??Voice to text
+??Voice to Voice
+
+Translations too!
+
+??Voice to voice translation
+??Text translation
+
+This tool is ‘Stunning’ Said my long-time customer and Voisi buyer David De Rox.
+
+All the good voice AIs, 450+ voices, 100s of languages
+
+Voisi gives you access to all of the top voice and translation AIs.
+
+??Microsoft
+??Google
+??Amazon
+??IBM
+??OpenAI
+
+They are all there.
+
+Voisi does everything for you
+
+Yes, it creates truly automated voice and language content.        Create a workflow of what you want and then Voisi will do it automatically every time.        You don’t have to repeat steps.
+
+: https://www.actionnow.xyz/voisiaielite 
+
+Got questions?        Let me know...        I have the answers
+
+Cheers!
+Charles Moore
+
+
+
+UNSUBSCRIBE: https://www.actionnow.xyz/unsubscribe/?d=proditelsas.com   
+Address: 2451 Ethels Lane
+Indian Lake, FL 33853. 
+
+
+--1726958450-eximdsn-1291188096--

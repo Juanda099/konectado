@@ -1,0 +1,73 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id wL7+DgxWQWciqC8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 22 Nov 2024 21:11:56 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 22 Nov 2024 21:11:56 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tEhUy-00DE35-0b
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 22 Nov 2024 21:11:56 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tEhUl-00DE0t-1b@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1tEhUy-00DE35-0b@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 22 Nov 2024 21:11:56 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tEhUl-00DE0t-1b
+	for servicioalcliente@serkoi.com;
+	Fri, 22 Nov 2024 21:11:43 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 37.19.223.242
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 37.19.223.242
+From:
+Message-Id: <E1tEhUl-00DE0t-1b@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 22 Nov 2024 21:11:43 -0700
+
+De: Mike Alsopp
+. 
+Correo: . 
+Telefono: 88345747896. 
+Mensaje: Hi, 
+ 
+Tired of Mailchimp's high costs and underwhelming deliverability? We’ve got the perfect solution for you: 
+Google SMTP Setup – The Smarter Way to Email 
+ 
+-	80% Cheaper Prices than Mailchimp 
+-	Higher Deliverability Rates to reach your audience 
+-	Includes Local Targeted Fresh Leads 
+ 
+This game-changing setup ensures your emails hit the inbox while keeping costs at a minimum. 
+Why Switch to Google SMTP? 
+ 
+•	Effortless setup and seamless integration 
+•	Scalable for businesses of all sizes 
+•	Instant access to targeted leads to grow your customer base 
+ 
+Grow your business today with this unbeatable email solution! 
+ 
+Learn More & Get Started 
+https://www.digital-x-press.com/product/google-smtp-relay-newsletter/ 
+ 
+Let’s make your email marketing more effective and affordable. 
+ 
+Best regards, 
+The Digital X-Press Team 
+Whatsapp: https://www.digital-x-press.com/whatsapp-with-us//. 
+

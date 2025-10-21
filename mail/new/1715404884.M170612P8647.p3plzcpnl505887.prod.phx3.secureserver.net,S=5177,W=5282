@@ -1,0 +1,105 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id XHrYCVQAP2bHIQAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 10 May 2024 22:21:24 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 10 May 2024 22:21:24 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1s5fAi-0002FF-0J
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 10 May 2024 22:21:24 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1s5fAS-0002Be-12@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1715404884-eximdsn-365333971
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1s5fAi-0002FF-0J@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 10 May 2024 22:21:24 -0700
+
+--1715404884-eximdsn-365333971
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 5fAhs2kFcDqcu :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=fO7y3oae c=1 sm=1 tr=0 ts=663f0054 p=zlPpbRR49m9WuWoM76MA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=WxNkWaPgAAAA:20 a=pGLkceISAAAA:8 a=3ZKOabzyN94A:10 a=Od_yzDN85mQA:10 a=NKH-me8gzPgA:10 a=dwucKxxDhUuA8UMLSRki:22 a=pMT1dy21Qka_sF136-ZS:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1715404884-eximdsn-365333971
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 5fAhs2kFcDqcu :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=fO7y3oae c=1 sm=1 tr=0 ts=663f0054 p=zlPpbRR49m9WuWoM76MA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=WxNkWaPgAAAA:20 a=pGLkceISAAAA:8 a=3ZKOabzyN94A:10 a=Od_yzDN85mQA:10 a=NKH-me8gzPgA:10 a=dwucKxxDhUuA8UMLSRki:22 a=pMT1dy21Qka_sF136-ZS:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1715404884-eximdsn-365333971
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1s5fAS-0002Be-12
+	for servicioalcliente@serkoi.com;
+	Fri, 10 May 2024 22:21:23 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.106.20.172
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.106.20.172
+From:
+Message-Id: <E1s5fAS-0002Be-12@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 10 May 2024 22:21:08 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Grant Lira. 
+Correo: . 
+Telefono: 320439043. 
+Mensaje: Hey, we will increase your closing % or you don’t pay us, AND you don’t have to attend one closing training.
+
+We do this through getting you and your company featured on relevant business publications and showing you how to leverage these.
+
+That way you instantly build more authority with prospects and you’re seen as a thought leader in your space instead of just another company that they probably won’t work with.
+
+They also see these features when they look up yourself or your company on Google, which builds further perceived thought leadership.
+
+These small shifts are often the difference between people deciding to actually show up to a meeting or end up working with you.
+
+And if you don’t see the difference in your closing % then you don’t pay. 
+
+We don’t do long term contracts as we find that most people can obtain results within 1 month.
+
+So if you are interested, let’s find a time to meet here as we are a boutique firm that takes on 5 clients (max) each month to ensure quality: https://bit.ly/empathyfirm-intro
+
+Best,
+Grant
+
+PS - I will not see your response so if you have a question, book a time to chat (:
+
+
+
+N6565 Shorewood Hills Rd. Lake Mills WI, 53551
+Email unsubnow1@gmail.com with your website to “unsub” meaning you will not hear from me again.
+
+. 
+
+
+--1715404884-eximdsn-365333971--

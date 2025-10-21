@@ -1,0 +1,119 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id yLOYLAkp+mc0czUA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 12 Apr 2025 01:49:13 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 12 Apr 2025 01:49:13 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1u3WY5-00Eu5R-2C
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 12 Apr 2025 01:49:13 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1u3WXt-00Etpj-0V@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1744447753-eximdsn-1239561519
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1u3WY5-00Eu5R-2C@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 12 Apr 2025 01:49:13 -0700
+
+--1744447753-eximdsn-1239561519
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 3WY5uy2KODYjK :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=XflzzJ55 c=1 sm=1 tr=0 ts=67fa2909 p=yzv3oAy7AAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=jFG3vVGsAAAA:8 a=VJ-ytpraAAAA:8 a=AAvYLDLOAAAA:8 a=smrCSdiaAAAA:8 a=CjxXgO3LAAAA:8 a=iIJp1dYiAAAA:8 a=X9O61X-zAAAA:8 a=mimgDt4wF6qNj_LP4LAA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=6CUbmu8wzR5cHnZd1JIn:22 a=b6kev6jFcsK4_boFiT1Y:22 a=hfQ63fOzoBLjcMKf3Kqd:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=BtCBPpHzmkNZ0tvPX83N:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1744447753-eximdsn-1239561519
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 3WY5uy2KODYjK :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=XflzzJ55 c=1 sm=1 tr=0 ts=67fa2909 p=yzv3oAy7AAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=jFG3vVGsAAAA:8 a=VJ-ytpraAAAA:8 a=AAvYLDLOAAAA:8 a=smrCSdiaAAAA:8 a=CjxXgO3LAAAA:8 a=iIJp1dYiAAAA:8 a=X9O61X-zAAAA:8 a=mimgDt4wF6qNj_LP4LAA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=6CUbmu8wzR5cHnZd1JIn:22 a=b6kev6jFcsK4_boFiT1Y:22 a=hfQ63fOzoBLjcMKf3Kqd:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=BtCBPpHzmkNZ0tvPX83N:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1744447753-eximdsn-1239561519
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1u3WXt-00Etpj-0V
+	for servicioalcliente@serkoi.com;
+	Sat, 12 Apr 2025 01:49:13 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1u3WXt-00Etpj-0V@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 12 Apr 2025 01:49:01 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Jack Lewis. 
+Correo: . 
+Telefono: 01.57.57.23.19. 
+Mensaje: Hi proditelsas.com,
+
+Do you want to get high-quality backlinks but don’t know where to buy them? Did you know you can even get backlinks from top sites like msn.com/finance.yahoo.com/apnews.com?
+
+Here is the answer you want: Adsy.
+
+The public version of Adsy.com was launched in early 2018. Within seven years, Adsy has amassed more than 90K publisher sites on its platform. It even works with top sites like MSN, so webmasters like you have the opportunity to get backlinks from msn.com/finance.yahoo.com etc.
+
+Now click here to grow your traffic: https://www.getprofitnow.info/adsy 
+
+Here are some examples:
+
+https://punsfunniest.com, Home and Family& Movies & Sports, DA:31, Price: from $32.50 
+
+https://cutedp.org, Education & Food & Society, DA: 42, Price:from $32.50 
+
+https://msn.com, News & Politics & Sports, DA: 94, Price:from $299.99
+
+And much more...
+
+Adsy has mostly good Trustpilot reviews. The customer service team is excellent at managing user complaints.
+
+Adsy provides a clean dashboard showcasing all the key metrics of publisher sites.
+
+The platform shows—organic traffic, total traffic, Ahrefs DR, Semrush AS, Moz DA, historical traffic trend and geo-distribution, guest posting completion rate, TAT, lifetime of links, and a few more.
+
+The filters are good, too. You will liked the “verified publishers” option. Filtering is much easier this way if you are looking for quality sites. 
+
+5 simple steps:
+	1. Sign up.
+	2. Choose sites to submit guest post by setting filters (Moz DA, DR, Ahrefs/GA traffic, etc.).
+	3. Pick the sites and blogs you can work with.
+	4. Choose the most reliable publishers based on transparent metrics and feedback.
+	5. Order guest posts on your desired sites and see how traffic grows: https://www.getprofitnow.info/adsy !
+
+To your success,
+
+Jack Lewis
+
+ 
+UNSUBSCRIBE: https://www.getprofitnow.info/unsubscribe/?d=proditelsas.com 
+Address: 1718 Glory Road
+Summertown, TN 38483. 
+
+
+--1744447753-eximdsn-1239561519--

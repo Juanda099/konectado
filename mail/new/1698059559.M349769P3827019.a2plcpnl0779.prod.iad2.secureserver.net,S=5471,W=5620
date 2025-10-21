@@ -1,0 +1,149 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id YB+tDydVNmVLZToAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 23 Oct 2023 04:12:39 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 23 Oct 2023 04:12:39 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qusrP-00G4zO-5e
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Mon, 23 Oct 2023 04:12:39 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qusrJ-00G4un-Sj@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1698059559-eximdsn-1623642309
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qusrP-00G4zO-5e@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 23 Oct 2023 04:12:39 -0700
+
+--1698059559-eximdsn-1623642309
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 usrOqVfymRbmA :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=OJDhnwWB c=1 sm=1 tr=0 ts=65365527 p=UK4hOm1Kvq0kAMSsWW4A:9 p=4GjRKcdAZc00mMmgOmqo:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=njEoReLTAAAA:8 a=Opjcf2rbXONI77XeNpWh:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1698059559-eximdsn-1623642309
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 usrOqVfymRbmA :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=OJDhnwWB c=1 sm=1 tr=0 ts=65365527 p=UK4hOm1Kvq0kAMSsWW4A:9 p=4GjRKcdAZc00mMmgOmqo:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=njEoReLTAAAA:8 a=Opjcf2rbXONI77XeNpWh:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1698059559-eximdsn-1623642309
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qusrJ-00G4un-Sj
+	for servicioalcliente@serkoi.com;
+	Mon, 23 Oct 2023 04:12:38 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 192.210.201.20
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 192.210.201.20
+From:
+Message-Id: <E1qusrJ-00G4un-Sj@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 23 Oct 2023 04:12:33 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Brigida Palmer. 
+Correo: . 
+Telefono: 052 870 24 34. 
+Mensaje: Hey,
+
+Did you try to make m0ney with
+AI, ChatGPT, Bard, Midjourney etc
+but failed miserably?
+
+They are all awesome tools, but
+alone and without a good strategy
+you'll just be wasting your time,
+money & effort with little to NO results.
+
+What if tell you - there is a *SECRET
+AI HACK* that pulls in millions of
+visitors/m with 30-sec AI FACE videos
+WITHOUT subs, followers, ads or
+SEO...
+
+==> Go here to Unlock this *AI HACK* now...
+https://warriorplus.com/o2/a/c8sl03/0
+
+
+Introducing ViralFaces AI, the
+groundbreaking NEW top-secret
+A.I Face Tech that brings UNLIMITED
+Traffic to your offers!
+
+With this revolutionary platform,
+you can create 100s of attention-grabbing
+A.I. Face Videos with zero effort
+in just minutes that speak and
+go viral on YouTube Shorts & Instagram
+Reels!
+
+You get 10x more sales, reach,
+followers, and engagement...
+
+Here're some results newbies getting
+with Face videos..
+
+- 10M views posting a self-improvement short
+- 1.5M views posting a gym tips reel
+- 2.8M views posting a health tips reel
+
+And they all started with no subs,
+no followers, no ads - all using AI in min.
+
+The sooner you get started, the
+MOST you'll be able to exploit this
+method - just handful of people
+doing it right now and you can be
+one of them..
+
+==> WATCH QUICK DEMO HERE https://warriorplus.com/o2/a/c8sl03/0
+
+ViralFaces AI is available for a Low
+One Time Price during its public launch 
+for the next few days only..
+
+After this week, it will turn into a 
+higher recurring subscription price model.
+
+Act fast and get your account at the 
+lowest price ever.
+
+==> Get ViralFaces AI For A Low 
+One-Time Price Now https://warriorplus.com/o2/a/c8sl03/0 
+
+See you inside.
+
+All the best
+. 
+
+
+--1698059559-eximdsn-1623642309--

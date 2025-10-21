@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id SF2iK2FS52VSrRAAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 05 Mar 2024 10:12:01 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 05 Mar 2024 10:12:01 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rhYKf-004djz-1q
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 05 Mar 2024 10:12:01 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rhYKa-004dgu-23@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rhYKf-004djz-1q@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 05 Mar 2024 10:12:01 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rhYKa-004dgu-23
+	for servicioalcliente@serkoi.com;
+	Tue, 05 Mar 2024 10:11:56 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 82.147.85.96
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 82.147.85.96
+From:
+Message-Id: <E1rhYKa-004dgu-23@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 05 Mar 2024 10:11:56 -0700
+
+De: aEEhWcsPRn. 
+Correo: . 
+Telefono: 87341916848. 
+Mensaje: Лучше несколько раз повторить, чем не делать совсем http://cy41275.tw1.ru/#5i6aKRwdSRa&utm_medium=mzDFLJj7ilQ 000*** proditelsas.com. 
+

@@ -1,0 +1,106 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id PEyCMLIB6mZ8BzUA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 17 Sep 2024 15:24:50 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 17 Sep 2024 15:24:50 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sqgcs-00Ea5T-2O
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 17 Sep 2024 15:24:50 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sqgcj-00Ea2G-0U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1726611890-eximdsn-1545886199
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sqgcs-00Ea5T-2O@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 17 Sep 2024 15:24:50 -0700
+
+--1726611890-eximdsn-1545886199
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 qgcssSIEQDG41 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=baqgU/PB c=1 sm=1 tr=0 ts=66ea01b2 p=YAY7PGELAAAA:8 p=KxsiMobafvQuvF2fqXiv:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=smrCSdiaAAAA:8 a=zv4zDK23uWZrumBqoa0A:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=zY0JdQc1-4EAyPf5TuXT:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=qoe4e1GUmYkj57OlD7h0:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1726611890-eximdsn-1545886199
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 qgcssSIEQDG41 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=baqgU/PB c=1 sm=1 tr=0 ts=66ea01b2 p=YAY7PGELAAAA:8 p=KxsiMobafvQuvF2fqXiv:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=smrCSdiaAAAA:8 a=zv4zDK23uWZrumBqoa0A:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=zY0JdQc1-4EAyPf5TuXT:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=qoe4e1GUmYkj57OlD7h0:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1726611890-eximdsn-1545886199
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sqgcj-00Ea2G-0U
+	for servicioalcliente@serkoi.com;
+	Tue, 17 Sep 2024 15:24:50 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.175.131
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.175.131
+From:
+Message-Id: <E1sqgcj-00Ea2G-0U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 17 Sep 2024 15:24:41 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Joella Henning. 
+Correo: . 
+Telefono: 04.73.38.81.20. 
+Mensaje: Hello proditelsas.com, 
+I'm Juan from Busihelp, Busihelp noticed that you have an excellent website proditelsas.com. 
+
+Every webmaster like you who is serious about their website/business has considered or is considering buying SEO services to grow traffic/sales. 
+
+But how to find qualified SEO services? If there is a dispute, how do you make sure you can get a refund?
+
+Here is the solution you need: SEO service providers are verified and praised by webmasters like you, the largest service trading platform in the world to protect your rights and interests, only if you get what you want, the platform will hand over your payment to the service provider  
+
+Service provider example (the highest rating is 5.0):  
+	Name: Michael - Starting Price: $5, 4 Days Delivery (26,900 orders completed) - Method: Build 100 high quality and low OBL backlinks for your money site - Webmasters satisfaction rating: 4.8
+	  
+	Name: Wasim Ashraf - Starting price: $30, 1 Days Delivery (3,900 orders completed) - Method: On-Page SEO For Higher Rankings in Google Search Results - Webmasters satisfaction rating: 4.9  
+	...  
+	For Super website, Provider – Randys Mccabe is an ex-Googler and has helped 3900 Super websites grow their sites, and webmasters rated him 5.0! Starting Price: $250. Now search for his name within the platform and chat with him online: https://www.truevaule.xyz/seorank . 
+
+Other services include: writing SEO friendly posts, social media management, sales email copywriting...
+
+Now sign up for a platform account and grow your traffic: https://www.truevaule.xyz/seorank 
+
+Thank you for your time,  
+Joella Henning
+
+
+UNSUBSCRIBE: https://www.truevaule.xyz/unsubscribe/?d=proditelsas.com  
+
+3863 Quarry Drive
+Roanoke, AL 36274. 
+
+
+--1726611890-eximdsn-1545886199--

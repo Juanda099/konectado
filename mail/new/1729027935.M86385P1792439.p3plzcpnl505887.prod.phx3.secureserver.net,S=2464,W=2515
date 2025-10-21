@@ -1,0 +1,51 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id qCVvBF/fDme3WRsA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 15 Oct 2024 14:32:15 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 15 Oct 2024 14:32:15 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1t0p9K-007XAV-3A
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 15 Oct 2024 14:32:15 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1t0p97-007WzZ-2K@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1t0p9K-007XAV-3A@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 15 Oct 2024 14:32:14 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1t0p97-007WzZ-2K
+	for servicioalcliente@serkoi.com;
+	Tue, 15 Oct 2024 14:32:01 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 103.36.24.138
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 103.36.24.138
+From:
+Message-Id: <E1t0p97-007WzZ-2K@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 15 Oct 2024 14:32:01 -0700
+
+De: Sergio Want. 
+Correo: . 
+Telefono: 4433449. 
+Mensaje: We offer AI API services from OpenAI, Anthropic, and Google at 25% below their official prices. This might be beneficial for your projects.
+
+If you or your clients need AI capabilities in your applications, we'd be happy to assist. We also have an attractive agent program that might interest you.
+
+Let me know if you interested and contact us: https://www.lmzh.top/ (Email: q2408808@outlook.com / Telegram: https://t.me/ninicky1). 
+

@@ -1,0 +1,51 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id KAxlFimmJWbVmgYA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 21 Apr 2024 16:50:01 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 21 Apr 2024 16:50:01 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1rygwb-001pRZ-0z
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 21 Apr 2024 16:50:01 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1rygwW-001pJw-2m@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rygwb-001pRZ-0z@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 21 Apr 2024 16:50:01 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1rygwW-001pJw-2m
+	for servicioalcliente@serkoi.com;
+	Sun, 21 Apr 2024 16:49:56 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 77.222.119.108
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 77.222.119.108
+From:https://az1jgrh.localto.net/
+From:https://az1jgrh.localto.net/@p3plzcpnl505887.prod.phx3.secureserver.net
+Message-Id: <E1rygwW-001pJw-2m@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 21 Apr 2024 16:49:56 -0700
+
+De: Bobbytok. 
+Correo: https://az1jgrh.localto.net/. 
+Telefono: 84682817225. 
+Mensaje: Hello! Company Political Science a completely new scientific political system, which has never been seen before in the history of mankind. The document contains 10 pages of detailed description. You can buy this sex-free document for 950$, payment bitcoin. To obtain and pay for it, go to the proxy-tunneled self-hosted site, click Visit Site, register without using personal data, make payment and download the document. Thank you in advance. 
+ 
+Self-hosted website:  https://az1jgrh.localto.net/ 
+If pages don't load - refresh.. 
+

@@ -1,0 +1,80 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id aHWlLGS3GWToahYAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 21 Mar 2023 06:55:48 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 21 Mar 2023 06:55:48 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pecSq-006D1c-KX
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 21 Mar 2023 06:55:48 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pecSj-006Cyj-KE@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1679406948-eximdsn-1217483246
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pecSq-006D1c-KX@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 21 Mar 2023 06:55:48 -0700
+
+--1679406948-eximdsn-1217483246
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 ecSqpVVAQfgEG :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=I5KjBvsg c=1 sm=1 tr=0 ts=6419b764 p=VImsVqsapCPsdehUr-PC:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=0GKau7S5yvIA:10 a=k__wU0fu6RkA:10 a=smrCSdiaAAAA:8 a=ONtnPxkjAAAA:8 a=T63yMXn_AAAA:8 a=cvc7FHJFSlVN7JQC3ewA:9 a=_zgk4P2GhI4A:10 a=YjBY_1zvlFYA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=XWaLFNBTymgWxjIWJ9XC:22 ::
+    100.00
+
+--1679406948-eximdsn-1217483246
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 ecSqpVVAQfgEG :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=I5KjBvsg c=1 sm=1 tr=0 ts=6419b764 p=VImsVqsapCPsdehUr-PC:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=0GKau7S5yvIA:10 a=k__wU0fu6RkA:10 a=smrCSdiaAAAA:8 a=ONtnPxkjAAAA:8 a=T63yMXn_AAAA:8 a=cvc7FHJFSlVN7JQC3ewA:9 a=_zgk4P2GhI4A:10 a=YjBY_1zvlFYA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=XWaLFNBTymgWxjIWJ9XC:22 :: 100.00
+
+--1679406948-eximdsn-1217483246
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pecSj-006Cyj-KE
+	for servicioalcliente@serkoi.com;
+	Tue, 21 Mar 2023 06:55:46 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: www.proditelsas.com/send.php for 37.46.113.197
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 37.46.113.197
+From:
+Message-Id: <E1pecSj-006Cyj-KE@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 21 Mar 2023 06:55:41 -0700
+
+De: Kenton Burne. 
+Correo: . 
+Telefono: . 
+Mensaje: We have hacked your website proditelsas.com and extracted your databases. This was due to the security holes you had in your your site/server which have gained us remote control of pretty much everything that was on the server. 
+
+Our team is mostly interested in customer, administrative, and employee information which we have extracted through your databases once we got remote control over the server. It still needs to be sorted out but it will be well-organized once finished. First, we will be going through the emails/sms information and contacting the recipient how you held in disregard about their information being exposed to a hacking group when you could have stopped it. This would be detrimental to your personal image with these relationships with these people. Lastly, now that we have information not only will we be monetizing off it with our methods but made public or sold to other people that will do whatever they wish with the information also after we are done.
+
+Now you can put a stop to this by paying a $3000 fee (0.11 BTC) in bitcoin to the address 3PUFv2CmqjsTaV4Zbcfcj4KRxmphjHFySj We will be notified of payment which we will then delete the information we have obtained, patch the hole in the site/server which we got in and remove you from any future targeting in the future. You have 72 hours in doing so after viewing this message or the series of steps will commence. You can obtain bitcoin through such services such as paxful.com or do a search on bing.com. 
+
+
+--1679406948-eximdsn-1217483246--

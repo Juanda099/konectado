@@ -1,0 +1,66 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id GL0XHXUL1mZajCoA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 02 Sep 2024 12:01:09 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 02 Sep 2024 12:01:09 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1slCIX-00Bk7H-1L
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 02 Sep 2024 12:01:09 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1slCIN-00Bjnl-0q@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1slCIX-00Bk7H-1L@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 02 Sep 2024 12:01:09 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1slCIN-00Bjnl-0q
+	for servicioalcliente@serkoi.com;
+	Mon, 02 Sep 2024 12:00:59 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 5.254.23.72
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 5.254.23.72
+From:
+Message-Id: <E1slCIN-00Bjnl-0q@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 02 Sep 2024 12:00:59 -0700
+
+De: Chet Fosbery. 
+Correo: . 
+Telefono: 678-759-1075. 
+Mensaje: Dear Busy Business Owners,
+
+Need help with manual marketing tasks draining your time and resources? AllyVirtual is here to streamline your processes and drive exceptional results.
+
+Our powerful marketing automation platform empowers you to:
+
+>> Automate repetitive tasks: Save time and focus on strategic initiatives.
+>> Nurture leads effectively: Convert more visitors into customers.
+>> Track and analyze performance: Make data-driven decisions to optimize your campaigns.
+>> Integrate seamlessly: Connect AllyVirtual with your existing tools for a streamlined workflow.
+
+And the best part? Enjoy a 30-day free trial with 5,000 emails to experience the AllyVirtual difference firsthand.
+
+Ready to transform your marketing? Book a free consultation today @ https://app.allyvirtual.com/v2/preview/VhSw3mRetjGE572yVZXx and discover how AllyVirtual can help you achieve your goals.
+
+P.S. Don't miss out on this limited-time offer! Sign up for your free trial now  @ https://app.allyvirtual.com/v2/preview/VhSw3mRetjGE572yVZXx and start unlocking your business's full potential.
+
+Best regards,
+Ally Virtual Team
+https://app.allyvirtual.com/v2/preview/VhSw3mRetjGE572yVZXx. 
+

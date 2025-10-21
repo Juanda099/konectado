@@ -1,0 +1,80 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id qFqBA8ecsGd6LQcA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 15 Feb 2025 06:55:19 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 15 Feb 2025 06:55:19 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tjIda-0027fp-3D
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 15 Feb 2025 06:55:19 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tjIdQ-0027e2-13@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1739627718-eximdsn-1113949968
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tjIda-0027fp-3D@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 15 Feb 2025 06:55:18 -0700
+
+--1739627718-eximdsn-1113949968
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 jIdathhUEt1bh :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Q4wo452a c=1 sm=1 tr=0 ts=67b09cc6 p=DHLx7qkMAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=T2h4t0Lz3GQA:10 a=smrCSdiaAAAA:8 a=BZEi0MQ5mWmf2vd49C0A:9 a=3ZKOabzyN94A:10 a=dz3sJaIDlccA:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1739627718-eximdsn-1113949968
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 jIdathhUEt1bh :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Q4wo452a c=1 sm=1 tr=0 ts=67b09cc6 p=DHLx7qkMAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=T2h4t0Lz3GQA:10 a=smrCSdiaAAAA:8 a=BZEi0MQ5mWmf2vd49C0A:9 a=3ZKOabzyN94A:10 a=dz3sJaIDlccA:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1739627718-eximdsn-1113949968
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tjIdQ-0027e2-13
+	for servicioalcliente@serkoi.com;
+	Sat, 15 Feb 2025 06:55:18 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tjIdQ-0027e2-13@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 15 Feb 2025 06:55:08 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Tammie Earp. 
+Correo: . 
+Telefono: 329255487. 
+Mensaje: 
+Every day, websites like proditelsas.com miss valuable opportunities to attract visitors. Don’t let that happen to you! Our cutting-edge traffic system is specifically designed to bring more visibility and traffic to your site.
+
+Try it for free with 4,000 targeted visitors delivered directly to your site. Once you experience the benefits, you can scale up to receive as many as 350,000 visitors each month. Discover how easy it is to achieve your website’s true potential. Get more information here: https://ow.ly/VOhz50Urkap. 
+
+
+--1739627718-eximdsn-1113949968--

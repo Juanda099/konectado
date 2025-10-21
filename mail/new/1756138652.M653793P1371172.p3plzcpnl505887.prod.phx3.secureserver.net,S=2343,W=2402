@@ -1,0 +1,59 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id IP5SJZyMrGgk7BQA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 25 Aug 2025 09:17:32 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 25 Aug 2025 09:17:32 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uqZsy-00000005l71-2INA
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 25 Aug 2025 09:17:32 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uqZsn-00000005l4z-2wwb@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uqZsy-00000005l71-2INA@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 25 Aug 2025 09:17:32 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uqZsn-00000005l4z-2wwb
+	for servicioalcliente@serkoi.com;
+	Mon, 25 Aug 2025 09:17:21 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uqZsn-00000005l4z-2wwb@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 25 Aug 2025 09:17:21 -0700
+
+De: Shonda Nelson. 
+Correo: . 
+Telefono: 646340582. 
+Mensaje: Hey there,
+
+Regarding - Facebook campaigns.
+
+I have reviewed your site — it’s clear you're investing in visibility.
+
+Do you feel your online presence could generate more leads or sales?
+
+Many business owners are seeing better results by partnering with a specialist — avoiding the ad learning curve in the process.
+
+For an informal chat, click here: -- https://t.ly/hookstack.com
+
+Regards,
+
+Shonda Nelson. 
+

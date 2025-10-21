@@ -1,0 +1,79 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id uG+yJfkt0GdO5DgA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 11 Mar 2025 05:35:05 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 11 Mar 2025 05:35:05 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tryp7-00FsAW-1i
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 11 Mar 2025 05:35:05 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tryou-00FrqC-0p@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1741696505-eximdsn-540982103
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tryp7-00FsAW-1i@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 11 Mar 2025 05:35:05 -0700
+
+--1741696505-eximdsn-540982103
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 ryp7ty9X2bZMM :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=WOOFXmsR c=1 sm=1 tr=0 ts=67d02df9 p=DDSpRUhyAAAA:20 p=b9KjW-xgglOLvleC8BUA:9 p=Le1TwifT_W8A:10 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=Vs1iUdzkB0EA:10 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=ilcZGDuInp8A:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1741696505-eximdsn-540982103
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 ryp7ty9X2bZMM :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=WOOFXmsR c=1 sm=1 tr=0 ts=67d02df9 p=DDSpRUhyAAAA:20 p=b9KjW-xgglOLvleC8BUA:9 p=Le1TwifT_W8A:10 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=Vs1iUdzkB0EA:10 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=ilcZGDuInp8A:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1741696505-eximdsn-540982103
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tryou-00FrqC-0p
+	for servicioalcliente@serkoi.com;
+	Tue, 11 Mar 2025 05:35:05 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tryou-00FrqC-0p@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 11 Mar 2025 05:34:52 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Hulda Kroeger. 
+Correo: . 
+Telefono: 7928796361. 
+Mensaje: Is your website, proditelsas.com, failing to grab the traffic it deserves? Thousands of valuable visitors pass unnoticed daily when sites lack the exposure they need. Our intelligent traffic solution changes that—delivering engaged visitors directly to you.
+Get started with a complimentary test run and experience four thousand hand-picked visitors flood your site. Impressed? Go big to 350,000 visitors per month with our premium plans. Let’s convert lost opportunities to tangible results. Find out here: https://shorten.ee/zc7j2
+. 
+
+
+--1741696505-eximdsn-540982103--

@@ -1,0 +1,131 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 8PjOKT+6y2YC6wsA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 25 Aug 2024 16:11:59 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 25 Aug 2024 16:11:59 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1siMOt-003Hdw-23
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 25 Aug 2024 16:11:59 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1siMOi-003HbW-22@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1724627519-eximdsn-1274622804
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1siMOt-003Hdw-23@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 25 Aug 2024 16:11:59 -0700
+
+--1724627519-eximdsn-1274622804
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 iMOtssHyxm460 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Yt7ERJYX c=1 sm=1 tr=0 ts=66cbba3f p=pZInPAGLQKDzU-2W3OuK:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=CBX9V72gAAAA:8 a=smrCSdiaAAAA:8 a=Sn-SbM7c9ceuSACBrWMA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=1-2kolRezbUNJhA1kn5e:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1724627519-eximdsn-1274622804
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 iMOtssHyxm460 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Yt7ERJYX c=1 sm=1 tr=0 ts=66cbba3f p=pZInPAGLQKDzU-2W3OuK:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=CBX9V72gAAAA:8 a=smrCSdiaAAAA:8 a=Sn-SbM7c9ceuSACBrWMA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=1-2kolRezbUNJhA1kn5e:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1724627519-eximdsn-1274622804
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1siMOi-003HbW-22
+	for servicioalcliente@serkoi.com;
+	Sun, 25 Aug 2024 16:11:59 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.213.126
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.213.126
+From:
+Message-Id: <E1siMOi-003HbW-22@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 25 Aug 2024 16:11:48 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Florence Fuller. 
+Correo: . 
+Telefono: 070 7940 4991. 
+Mensaje: Hello Family,
+
+Struggling to drive TraffIc & Sales while juggling Costly ads and slow SEO?
+
+Introducing AI Pixel Perfect, your ultimate solution for transforming visual content:
+
+AI Pixel Perfect isn‚Äôt just another tool‚Äîit's a revolutionary platform that ensures your visuals perform beyond expectations.
+
+With AI Pixel Perfect, you can:
+1.   Create: Generate stunning visuals from any text prompt in just three clicks.
+2.   Transform: Enhance existing images into fresh, impactful graphics for your campaigns.
+3.   Deploy: Utilize these visuals on platforms like YouTube Shorts, Instagram Reels, TikTok, and more to boost your traffic.
+
+And with an intuitive image editor, customizing your visuals has never been easier: https://www.busihelp.xyz/aipixelperfect .
+
+Ready to transform how you attract visitors?   Dive into the world of AI Pixel Perfect and see your traffic soar:
+
+Here‚Äôs a shuffled and rewritten version of your content with a mix of the features:
+Ì†ºÌºü AI Instantly Creates Pixel Perfect Images From Any Text In Just 3 Clicks: https://www.busihelp.xyz/aipixelperfect 
+Ì†ΩÌ≥∏ Turn Existing Images Into 100% Fresh & Unique Visuals For Any Campaign
+Ì†ºÌæ® AI-Powered Editor Lets You Easily Edit Images Like a Pro With a Photoshop-Like Interface
+Ì†ºÌºÜ 15 Million+ Stunning Stock Assets Tailored to Boost Any Marketing Campaign
+Ì†ºÌºü Dynamic Logos, Graphics & Custom Illustrations To Add a Professional Touch to Your Brand
+Ì†ΩÌ∂äÔ∏è Create Engaging Doodles & Unique Brand Characters That Deeply Connect With Your Audience
+Ì†æÌ¥ñ Commercial License Included, Allowing You to Sell Attention-Grabbing Visuals Globally
+Ì†ºÌºü Attract Tons of High-Paying Clients Looking for Maximum Engagement and Sales
+Ì†ºÌæ≠ Eye-Catching Visuals Across All Niches, Ensuring You Captivate Hungry Buyers
+Ì†ΩÌ≤∞ Say Goodbye to Canva, MidJourney, Photoshop & Firefly ‚Äì All the Power in One Platform
+
+GRAB MY PREMIUM SOFTWARE TOOLS
+
+Smart Business Marketing
+AI Prompt Generator
+Small SEO Tools
+...
+
+With a commercial license, you can create and sell Graphics to unlimited clients, earning great profits from your services: https://www.busihelp.xyz/aipixelperfect .
+
+Plus, enjoy a 30-day money-back guarantee if you're not satisfied.
+
+Over 5,000 business owners have already taken advantage of AI Pixel Perfect lifetime deals in the last few days.
+
+Best regards,
+ 
+Florence Fuller
+
+
+
+UNSUBSCRIBE: https://www.busihelp.xyz/unsubscribe/?d=proditelsas.com  
+
+Address: 4425 Maud Street
+Philadelphia, DE 19146
+. 
+
+
+--1724627519-eximdsn-1274622804--

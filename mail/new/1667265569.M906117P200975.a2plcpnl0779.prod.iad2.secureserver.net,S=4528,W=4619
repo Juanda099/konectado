@@ -1,0 +1,91 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id EC0+NCF0YGMPEQMAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 31 Oct 2022 18:19:29 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 31 Oct 2022 18:19:29 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	id 1opfw9-000ulo-P5
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Mon, 31 Oct 2022 18:19:29 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1opfw9-000ulI-A1@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1667265569-eximdsn-1064944482
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1opfw9-000ulo-P5@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 31 Oct 2022 18:19:29 -0700
+
+--1667265569-eximdsn-1064944482
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 pfw9o2RNn4oIf :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=JYp672GV c=1 sm=1 tr=0 ts=63607421 p=rEtdkeB4AAAA:8 p=7QMtt-1JAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=Qawa6l4ZSaYA:10 a=rzQNYPuEcmIA:10 a=zD7unKiAyvp3QcHpGrIA:9 a=57e46ul7K0gA:10 a=hhw0kyq6jmYA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=tFoQqWA5jRbsuLIOBBGM:22 a=nFFjNVGfoSlG1Vi7Lnti:22 ::
+    100.00
+
+--1667265569-eximdsn-1064944482
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 pfw9o2RNn4oIf :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=JYp672GV c=1 sm=1 tr=0 ts=63607421 p=rEtdkeB4AAAA:8 p=7QMtt-1JAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=Qawa6l4ZSaYA:10 a=rzQNYPuEcmIA:10 a=zD7unKiAyvp3QcHpGrIA:9 a=57e46ul7K0gA:10 a=hhw0kyq6jmYA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=tFoQqWA5jRbsuLIOBBGM:22 a=nFFjNVGfoSlG1Vi7Lnti:22 :: 100.00
+
+--1667265569-eximdsn-1064944482
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1opfw9-000ulI-A1
+	for servicioalcliente@serkoi.com; Mon, 31 Oct 2022 18:19:29 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.241.153.247
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.241.153.247
+From:
+Message-Id: <E1opfw9-000ulI-A1@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 31 Oct 2022 18:19:29 -0700
+
+De: Janell Whatmore. 
+Correo: . 
+Telefono: 201-597-2278. 
+Mensaje: There’s just no faster or easier way to sell your house 
+than selling to Sundial Property Group. We pay cash for 
+houses “as is”—you don’t spend money and time on painting 
+or cleaning, and you don’t have to wait while your house sits 
+on the market. We can give you our firm cash offer at our 
+first meeting and generally close in as fast as three weeks.
+Unlike other cash buyers, we won’t reduce our firm offer, and 
+we’ll close as promised.
+
+Get signed up at: https://meterlinks.com/webuyhouses
+Or shoot us a text at 727 233 7231 and get the info even faster
+
+All the best,
+
+Opt out here
+https://redeyedeal.com/opt-out-2954
+
+All the best. 
+
+
+--1667265569-eximdsn-1064944482--

@@ -1,0 +1,124 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id SF6lJzIjC2W5ISwAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Wed, 20 Sep 2023 09:52:02 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Wed, 20 Sep 2023 09:52:02 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qj0Qk-00C9uB-HG
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Wed, 20 Sep 2023 09:52:02 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qj0Qf-00C9l7-6u@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1695228722-eximdsn-772730039
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qj0Qk-00C9uB-HG@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 20 Sep 2023 09:52:02 -0700
+
+--1695228722-eximdsn-772730039
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 j0QkqVEeeR8ia :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=FaDxhry6 c=1 sm=1 tr=0 ts=650b2332 p=5dBkuNw8aFWAPqwYkmgA:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=zNV7Rl7Rt7sA:10 a=smrCSdiaAAAA:8 a=U2Plp-BDAAAA:8 a=4N8zt2p0OM7MI1cphu0A:9 a=diZ488N4VzcA:10 a=E3JengKWPXIA:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=4qW6d3AUPwk9vKO5kFe-:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    97.00
+
+--1695228722-eximdsn-772730039
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 j0QkqVEeeR8ia :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=FaDxhry6 c=1 sm=1 tr=0 ts=650b2332 p=5dBkuNw8aFWAPqwYkmgA:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=zNV7Rl7Rt7sA:10 a=smrCSdiaAAAA:8 a=U2Plp-BDAAAA:8 a=4N8zt2p0OM7MI1cphu0A:9 a=diZ488N4VzcA:10 a=E3JengKWPXIA:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=4qW6d3AUPwk9vKO5kFe-:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 97.00
+
+--1695228722-eximdsn-772730039
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qj0Qf-00C9l7-6u
+	for servicioalcliente@serkoi.com;
+	Wed, 20 Sep 2023 09:52:02 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 103.112.0.41
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 103.112.0.41
+From:
+Message-Id: <E1qj0Qf-00C9l7-6u@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 20 Sep 2023 09:51:57 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Eric Jones. 
+Correo: . 
+Telefono: 555-555-1212. 
+Mensaje: Hi proditelsas.com Admin!
+
+My name’s Eric and I just came across your website - proditelsas.com - in the search results.
+
+Here’s what that means to me…
+
+Your SEO’s working.
+
+You’re getting eyeballs – mine at least.
+
+Your content’s pretty good, wouldn’t change a thing.
+
+BUT…
+
+Eyeballs don’t pay the bills.
+
+CUSTOMERS do.
+
+And studies show that 7 out of 10 visitors to a site like proditelsas.com will drop by, take a gander, and then head for the hills without doing anything else.
+
+It’s like they never were even there.
+
+You can fix this.
+
+You can make it super-simple for them to raise their hand, say, “okay, let’s talk” without requiring them to even pull their cell phone from their pocket… thanks to Web Visitors Into Leads.
+
+Web Visitors Into Leads is a software widget that sits on your site, ready and waiting to capture any visitor’s Name, Email address and Phone Number.  It lets you know immediately – so you can talk to that lead immediately… without delay… BEFORE they head for those hills.
+  
+CLICK HERE https://advanceleadgeneration.com to try out a Live Demo with Web Visitors Into Leads now to see exactly how it works.
+
+Now it’s also true that when reaching out to hot leads, you MUST act fast – the difference between contacting someone within 5 minutes versus 30 minutes later is huge – like 100 times better!
+
+That’s what makes our new SMS Text With Lead feature so powerful… you’ve got their phone number, so now you can start a text message (SMS) conversation with them… so even if they don’t take you up on your offer right away, you continue to text them new offers, new content, and new reasons to do business with you.
+
+This could change everything for you and your business.
+
+CLICK HERE https://advanceleadgeneration.com to learn more about everything Web Visitors Into Leads can do and start turing eyeballs into money.
+
+Eric
+PS: Web Visitors Into Leads offers a FREE 14 days trial – you could be converting up to 100x more leads immediately!   
+It even includes International Long Distance Calling. 
+Paying customers are out there waiting. 
+Starting connecting today by CLICKING HERE https://advanceleadgeneration.com to try Web Visitors Into Leads now.
+
+If you'd like to unsubscribe click here http://advanceleadgeneration.com/unsubscribe.aspx?d=proditelsas.com
+. 
+
+
+--1695228722-eximdsn-772730039--

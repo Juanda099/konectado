@@ -1,0 +1,178 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id SIUyBVzb62SVHBcAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sun, 27 Aug 2023 16:25:16 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sun, 27 Aug 2023 16:25:16 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qaP87-006MAt-Uk
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sun, 27 Aug 2023 16:25:16 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qaP80-006M8M-WC@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1693178715-eximdsn-422113432
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qaP87-006MAt-Uk@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 27 Aug 2023 16:25:15 -0700
+
+--1693178715-eximdsn-422113432
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 aP87qI7dxwneO :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=eKjVzll1 c=1 sm=1 tr=0 ts=64ebdb5b p=lmkpaJN7AAAA:20 p=xzy0-DCBfWhooSgpQgkA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=UttIx32zK-AA:10 a=OCUnqwwg_7CLcotJQAUG:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1693178715-eximdsn-422113432
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 aP87qI7dxwneO :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=eKjVzll1 c=1 sm=1 tr=0 ts=64ebdb5b p=lmkpaJN7AAAA:20 p=xzy0-DCBfWhooSgpQgkA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=UttIx32zK-AA:10 a=OCUnqwwg_7CLcotJQAUG:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1693178715-eximdsn-422113432
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qaP80-006M8M-WC
+	for servicioalcliente@serkoi.com;
+	Sun, 27 Aug 2023 16:25:15 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.106.20.58
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.106.20.58
+From:
+Message-Id: <E1qaP80-006M8M-WC@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 27 Aug 2023 16:25:08 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Adam Carlson. 
+Correo: . 
+Telefono: (02) 6173 5552. 
+Mensaje: Audiobook is now the BIG goldmine, and people are making huge profits with it on a daily basis…
+
+
+Sadly, creating and selling them can be tough and super-expensive. 
+
+
+But I have got good news for you…
+
+
+Meet Vox AI
+
+
+The World’s First ChatGPT4-Powered AI App That Turns Any "Text, URL, Website, Article, Keyword, Blog, Document or PDF" into High-Quality Audiobooks or Podcast In 660 Different Voices & 80 Languages…
+
+>> Click Here To See The Live Demo: bit.ly/VoxAIOffer
+
+
+With Vox AI, you can generate content on any topic using “Siri-Like” voice command & turn it to Audiobooks, Podcasts, or Voiceovers for VSL, TV Commercial, Webinars, Sales Videos, etc
+
+
+...Publish To The Built-In Marketplace with 2.3M active users, Sell & Receive Instant Payments Via Multiple Methods, including Paypal, Stripe, Cards, and Bank Accounts…
+
+
+
+
+>> Click Here to Get Instant Access to Vox AI and Sell On Automation: bit.ly/VoxAIOffer
+
+
+Coupon Code - VOX5OFF (strictly for the first 12 people)
+
+Even if you are a newbie with zero knowledge… VoxAI is your best shot.
+
+
+You can easily Activate VoxAI in 3 simple steps & start your audiobook empire:
+
+
+Step 1: Login - Login to VoxAI Cloud-Bases App
+
+
+Step 2: Generate- Enter a Keyword, article, PDF, or even a URL… and VoxAI will turn them into a Full Audiobook or Podcast
+
+
+Step 3: Publish- publish your audiobooks on our built-in marketplace with 2.3 million active users.
+
+
+Step 4: Start Profiting as soon as you are done
+
+
+It is as simple as that.
+
+
+>> Get Lifetime Access Here: bit.ly/VoxAIOffer
+
+
+
+With Vox AI, you can…
+
+
+- Create Your First Audiobook Within 2 Minutes
+
+-  Turn Any Article, Website, Url, PDF or Blog Into Audiobook, Podcast, VSL, Audio/Music Track…
+
+-  Create A Podcast With Human Voice Without Recording
+
+-  Choose From 660 Real Human Voices 
+
+-  Create Voices In 80+ Different Languages
+
+-  Comes With 50+ Built-In AI Features That Will Make Your Life 100x Easier 
+
+-  We Don’t Even Write Scripts, We Let AI Do It For Us.
+
+-  Publish Your AudioBook To Our Marketplace With 2.3 Million Active User
+
+-  Publish your AudioBook Or Podcast To (Spotify, Audible, Scribe)
+
+-  No Complicated Setup - Get Up And Running In 2 Minutes
+
+
+…All these, and many more without Paying Any Monthly Fee
+
+>> Click Here To Get Earlybird Access (Ends In 2 Hours From Now): bit.ly/VoxAIOffer
+ 
+
+Coupon Code - VOX5OFF (strictly for the first 12 people)
+
+
+
+
+>> Click here to get Lifetime access to VoxAI and start profiting from day one: bit.ly/VoxAIOffer
+ 
+
+
+Fair Warning - Go In Now To Avoid Paying Monthly Fee Later
+
+
+Sincerely, 
+
+Adam
+. 
+
+
+--1693178715-eximdsn-422113432--

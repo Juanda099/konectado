@@ -1,0 +1,81 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id SGLzDIXmLmj1pioA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 22 May 2025 01:55:33 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 22 May 2025 01:55:33 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1uI1i9-00CMxY-0S
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 22 May 2025 01:55:33 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uI1hw-00CMjy-2p@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1747904133-eximdsn-57388839
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1uI1i9-00CMxY-0S@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 22 May 2025 01:55:33 -0700
+
+--1747904133-eximdsn-57388839
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 I1i9uS6Bbhmhs :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=WukrMcfv c=1 sm=1 tr=0 ts=682ee685 p=V8lSv5jbAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=dt9VzEwgFbYA:10 a=7fn8z0M8zpuog0Uyj-MA:9 a=3ZKOabzyN94A:10 a=uxONnhR8oLAA:10 a=iP0jkFxISS4A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1747904133-eximdsn-57388839
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 I1i9uS6Bbhmhs :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=WukrMcfv c=1 sm=1 tr=0 ts=682ee685 p=V8lSv5jbAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=dt9VzEwgFbYA:10 a=7fn8z0M8zpuog0Uyj-MA:9 a=3ZKOabzyN94A:10 a=uxONnhR8oLAA:10 a=iP0jkFxISS4A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1747904133-eximdsn-57388839
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uI1hw-00CMjy-2p
+	for servicioalcliente@serkoi.com;
+	Thu, 22 May 2025 01:55:32 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uI1hw-00CMjy-2p@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 22 May 2025 01:55:20 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Brent Igo. 
+Correo: . 
+Telefono: 7926909083. 
+Mensaje: 
+Is your website Proditelsas missing out on its true potential? With our automated traffic system, you can reach thousands of additional visitors daily—without any extra effort on your part.
+
+Take advantage of our free trial that delivers four thousand targeted visitors so you can see the impact. If you love the results, our plans offer up to 400,000 visitors per month. Let’s turn missed opportunities into growth. Get more details here: https://cutt.ly/qrx7V9oT
+. 
+
+
+--1747904133-eximdsn-57388839--

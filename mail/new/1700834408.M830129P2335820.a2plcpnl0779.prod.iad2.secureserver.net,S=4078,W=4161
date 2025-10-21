@@ -1,0 +1,83 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id oLvnL2isYGVMpCMAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Fri, 24 Nov 2023 07:00:08 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Fri, 24 Nov 2023 07:00:08 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1r6Wj2-009tvH-Ls
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Fri, 24 Nov 2023 07:00:08 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1r6Wiy-009tkO-1n@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1700834408-eximdsn-323669286
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1r6Wj2-009tvH-Ls@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 24 Nov 2023 07:00:08 -0700
+
+--1700834408-eximdsn-323669286
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 6Wj2rSYmJGK1t :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=GcHR3ybL c=1 sm=1 tr=0 ts=6560ac68 p=X3HwMVdfAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=BNY50KLci1gA:10 a=LOlwTW16C9A7e6gIQHgA:9 a=c-WJ2nsk4L4A:10 a=Tn-7mtlksI8A:10 a=mv0Ysz5BrCAZi5YuGOVz:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1700834408-eximdsn-323669286
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 6Wj2rSYmJGK1t :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=GcHR3ybL c=1 sm=1 tr=0 ts=6560ac68 p=X3HwMVdfAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=BNY50KLci1gA:10 a=LOlwTW16C9A7e6gIQHgA:9 a=c-WJ2nsk4L4A:10 a=Tn-7mtlksI8A:10 a=mv0Ysz5BrCAZi5YuGOVz:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1700834408-eximdsn-323669286
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1r6Wiy-009tkO-1n
+	for servicioalcliente@serkoi.com;
+	Fri, 24 Nov 2023 07:00:08 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 154.201.40.34
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 154.201.40.34
+From:
+Message-Id: <E1r6Wiy-009tkO-1n@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 24 Nov 2023 07:00:04 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Andrea Thompkins. 
+Correo: . 
+Telefono: 8654451864. 
+Mensaje:  am i ever going to get any support here? i'm going to just file a chargeback if you can't get back to me...
+
+you guys are listed as support on this amazon listing https://amzn.to/49whgF0 - please get back to me asap...
+
+-andrea. 
+
+
+--1700834408-eximdsn-323669286--

@@ -1,0 +1,117 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id KGrrBIsz0mZCxB4A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 30 Aug 2024 14:03:07 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 30 Aug 2024 14:03:07 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sk8lv-008dIA-05
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 30 Aug 2024 14:03:07 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sk8ll-008d32-04@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1725051787-eximdsn-234795964
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sk8lv-008dIA-05@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 30 Aug 2024 14:03:07 -0700
+
+--1725051787-eximdsn-234795964
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 k8lushjOam460 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Yt7ERJYX c=1 sm=1 tr=0 ts=66d2338b p=0G2Ed9U3p3PW2XX0z1_G:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=eQBPJK_bAAAA:8 a=smrCSdiaAAAA:8 a=JFFNRQw6RpvnSy7551sA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=X9fPweFELI3g4u6mKOBy:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    97.00
+
+--1725051787-eximdsn-234795964
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 k8lushjOam460 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Yt7ERJYX c=1 sm=1 tr=0 ts=66d2338b p=0G2Ed9U3p3PW2XX0z1_G:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=eQBPJK_bAAAA:8 a=smrCSdiaAAAA:8 a=JFFNRQw6RpvnSy7551sA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=X9fPweFELI3g4u6mKOBy:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 97.00
+
+--1725051787-eximdsn-234795964
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sk8ll-008d32-04
+	for servicioalcliente@serkoi.com;
+	Fri, 30 Aug 2024 14:03:06 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.132.201
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.132.201
+From:
+Message-Id: <E1sk8ll-008d32-04@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 30 Aug 2024 14:02:57 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Marvin Fulmer. 
+Correo: . 
+Telefono: 27-98-68-76. 
+Mensaje: 
+Explaindio is the world’s most powerful and easiest to use  marketing, sales, explainer, and viral youtube shorts creator with the highest engaging  sketch images.
+
+All it takes is 3 steps to make incredible  videos.
+
+Step 1 - select the  sketch images and add them on canvas
+Step 2 - optionally add text, other images and/or videos
+Step 3 - Tweak placement & hit “Create Video”
+
+You will be comfortable on  easy mode within the first 15 min session.
+
+It’s that easy.
+
+Not coding, design or technical skills required.
+
+Just select & add   images, tweak, and done.
+
+Watch the demo now
+: https://www.busitoday.co/explaindio 
+
+You get 500 stunning doodle sketch images along with  Explaindio software so you can start making  videos in minutes.
+
+Explaindio proprietary, highly advanced  animation technology (that’s right it allows not just drawing but also animation), allows you to make truly customized animations from templates.
+
+With just a few clicks, you can tweak a video by changing text, images and/or videos, change positions of elements, add background video or image, and animate them as well.
+
+After you are done your  videos will both look amazing and convert.
+
+Discover Explaindio Now
+
+: https://www.busitoday.co/explaindio 
+
+Marvin Fulmer
+
+
+
+UNSUBSCRIBE: https://www.busitoday.co/unsubscribe/?d=proditelsas.com  
+Address: 2477 Adams Drive
+Houston, TX 77002. 
+
+
+--1725051787-eximdsn-234795964--

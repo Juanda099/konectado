@@ -1,0 +1,57 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id gCpbIpYfEGeqKBkA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 16 Oct 2024 13:18:30 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 16 Oct 2024 13:18:30 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1t1ATW-006uyG-1c
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 16 Oct 2024 13:18:30 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1t1ATS-006uvc-02@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1t1ATW-006uyG-1c@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 16 Oct 2024 13:18:30 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1t1ATS-006uvc-02
+	for servicioalcliente@serkoi.com;
+	Wed, 16 Oct 2024 13:18:26 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 66.115.149.19
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 66.115.149.19
+From:
+Message-Id: <E1t1ATS-006uvc-02@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 16 Oct 2024 13:18:26 -0700
+
+De: Dena. 
+Correo: . 
+Telefono: . 
+Mensaje: New Multifunction Waterproof Backpack
+
+The best ever SUPER Backpack: Drop-proof/Scratch-resistant/USB Charging/Large capacity storage
+
+50% OFF for the next 24 Hours ONLY + FREE Worldwide Shipping for a LIMITED time
+
+Buy now: https://thebackpack.online
+
+All the best, 
+
+Dena. 
+

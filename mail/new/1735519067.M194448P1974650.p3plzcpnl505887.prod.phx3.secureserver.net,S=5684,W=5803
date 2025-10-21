@@ -1,0 +1,119 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id KNTfClvrcWd6IR4A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 29 Dec 2024 17:37:47 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 29 Dec 2024 17:37:47 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tS3n1-008KXt-0O
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 29 Dec 2024 17:37:47 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tS3mq-008KWM-0l@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1735519067-eximdsn-1254615025
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tS3n1-008KXt-0O@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 29 Dec 2024 17:37:47 -0700
+
+--1735519067-eximdsn-1254615025
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 S3n1tWeBBSDPd :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=W97CVQWk c=1 sm=1 tr=0 ts=6771eb5b p=Yv54dSjnAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=RZcAm9yDv7YA:10 a=smrCSdiaAAAA:8 a=0gNHbhItG7R6NJwwfsMA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=khjitF4eWTVcZivGhQua:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1735519067-eximdsn-1254615025
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 S3n1tWeBBSDPd :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=W97CVQWk c=1 sm=1 tr=0 ts=6771eb5b p=Yv54dSjnAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=RZcAm9yDv7YA:10 a=smrCSdiaAAAA:8 a=0gNHbhItG7R6NJwwfsMA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=khjitF4eWTVcZivGhQua:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1735519067-eximdsn-1254615025
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tS3mq-008KWM-0l
+	for servicioalcliente@serkoi.com;
+	Sun, 29 Dec 2024 17:37:47 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tS3mq-008KWM-0l@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 29 Dec 2024 17:37:36 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: John Ford. 
+Correo: . 
+Telefono: 0334 9812826. 
+Mensaje: Dear Creative Entrepreneur,
+
+Today marks the final opportunity to access StockDreams – the platform that's transformed graphic design into a simple, profitable, and enjoyable process.
+
+?? Remember, StockDreams is your ticket to:
+
+Crafting AI-generated visuals that captivate and sell, in mere minutes.
+
+Opening a floodgate of traffic through eye-catching, SEO-friendly images. It's time to tap into a gold mine that most are overlooking: Google Image Search powered by AI: https://www.growwealthy.info/stockdream 
+
+Launching a graphic design service that requires zero traditional training.
+
+Earning from a variety of revenue streams, passive and active, online.
+
+We've watched users go from design novices to in-demand pros, selling their artwork on global marketplaces and securing a steady income stream, all thanks to StockDreams' intuitive AI-powered platform.
+
+But now, the window is closing.
+
+This is your LAST CHANCE to grab StockDreams at the current offer, with full access to all its features – from AI-generated stock images and illustrations to logos, icons, and more, all crafted within a user-friendly editor that’s been a game-changer for so many.
+
+Don't let hesitation hold you back from what could be the turning point in your creative and financial path.
+
+?? Click here to claim your access before the clock runs out: https://www.growwealthy.info/stockdream 
+
+As the saying goes, 'opportunity doesn't knock twice.' This is your moment, seize it with StockDreams and watch as your design capabilities – and revenue – soar to new heights.
+
+Wishing you a future brimming with success and creativity.
+
+Farewell, for now, let's make these final hours count!
+
+To your unlimited creative potential,
+
+John Ford
+
+
+P.S.: Miss this, and you'll miss out on the simplest path to design success and financial growth. Let's end this chapter on a high note. Join us, and let's create masterpieces together with StockDreams.
+
+
+
+
+UNSUBSCRIBE: https://www.growwealthy.info/unsubscribe/?d=proditelsas.com   
+Address: 2089 Kelly Drive
+Clarksburg, WV 26301. 
+
+
+--1735519067-eximdsn-1254615025--

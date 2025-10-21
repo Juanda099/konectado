@@ -1,0 +1,66 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id iOtFLWlwUmeo4iQA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 05 Dec 2024 20:32:57 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 05 Dec 2024 20:32:57 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tJP5N-00A9DN-2F
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 05 Dec 2024 20:32:57 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tJP5F-00A9By-19@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1tJP5N-00A9DN-2F@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 05 Dec 2024 20:32:57 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tJP5F-00A9By-19
+	for servicioalcliente@serkoi.com;
+	Thu, 05 Dec 2024 20:32:49 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 198.23.133.155, 138.199.29.136
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 138.199.29.136
+From:
+Message-Id: <E1tJP5F-00A9By-19@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 05 Dec 2024 20:32:49 -0700
+
+De: wordpressexperts. 
+Correo: . 
+Telefono: . 
+Mensaje: Is your website underperforming? Struggling to attract visitors and convert leads? 
+ 
+Let's transform your online presence! 
+ 
+Our team of WordPress experts offers a comprehensive suite of services to help you achieve your digital goals: 
+ 
+-Hassle-free WordPress Installation and Configuration: Get your website up and running quickly and efficiently. 
+-Search Engine Optimization (SEO): Boost your website's visibility and attract organic traffic. 
+-Custom Plugin Development: Tailor your website to your specific needs with bespoke functionality. 
+ 
+Why Choose Us? 
+ 
+-Expertise: Our team has years of experience working with WordPress. 
+-Efficiency: We deliver results on time and within budget. 
+-Customer Satisfaction: We're committed to exceeding your expectations. 
+ 
+ 
+Contact us today for a free consultation, click: 
+ 
+https://novacodex.site/wordpress_services.html. 
+

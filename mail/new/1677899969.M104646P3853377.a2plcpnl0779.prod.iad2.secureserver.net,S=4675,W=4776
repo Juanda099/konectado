@@ -1,0 +1,101 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id SJgUBsG4AmRBzDoAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Fri, 03 Mar 2023 20:19:29 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Fri, 03 Mar 2023 20:19:29 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pYIQi-00GBAv-VF
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Fri, 03 Mar 2023 20:19:29 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pYIQd-00GB9e-So@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1677899968-eximdsn-1101885332
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pYIQi-00GBAv-VF@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 03 Mar 2023 20:19:28 -0700
+
+--1677899968-eximdsn-1101885332
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 YIQipCdBiy0IM :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=DbjR6NhW c=1 sm=1 tr=0 ts=6402b8c0 p=QeF2DWF0AAAA:20 p=0EmmSulTAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=k__wU0fu6RkA:10 a=4i1a5vdRdAXye40CH9oA:9 a=YgDNjR7X-24anCYknRrI:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=wyldn6T-3h36BIg2xL-P:22 ::
+    100.00
+
+--1677899968-eximdsn-1101885332
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 YIQipCdBiy0IM :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=DbjR6NhW c=1 sm=1 tr=0 ts=6402b8c0 p=QeF2DWF0AAAA:20 p=0EmmSulTAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=k__wU0fu6RkA:10 a=4i1a5vdRdAXye40CH9oA:9 a=YgDNjR7X-24anCYknRrI:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=wyldn6T-3h36BIg2xL-P:22 :: 100.00
+
+--1677899968-eximdsn-1101885332
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pYIQd-00GB9e-So
+	for servicioalcliente@serkoi.com;
+	Fri, 03 Mar 2023 20:19:28 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.105.151.206
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.105.151.206
+From:
+Message-Id: <E1pYIQd-00GB9e-So@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 03 Mar 2023 20:19:23 -0700
+
+De: Anze Iskra. 
+Correo: . 
+Telefono: 03.56.05.17.81. 
+Mensaje: Hi,
+
+My name is Anze from Clever Spark. After I checked out your website, social media and your business google listings, I've spotted out that you are not using your online advertising effectively enough to get new clients, which means that you are losing potential sales.
+
+We helped businesses with the client acquisition process. The way how we help businesses like yours is that we handle your entire online advertising process. We are confident enough to say that we guarantee at least 10 to 15 appointments in you calendar every month or we simply give you your money back.
+
+If this sound like a fair deal to you, then we would love to help you with this. Book a free 15-minute strategy call with us, where we can share with you our entire process and we can see if we can help you meet your sales goals. 
+
+https://calendly.com/clever-spark/strategy-call
+
+Best regards,
+
+Anze from Clever-spark.com
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+
+--1677899968-eximdsn-1101885332--

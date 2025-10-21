@@ -1,0 +1,390 @@
+@charset "utf-8";
+/* CSS Document */
+	body {
+		font-family: 'Fira Sans', sans-serif;
+		font-size: 11pt;
+		color: #616163;
+		line-height: 2em;
+		text-align: center;
+		background: linear-gradient(135deg, #e8f4f8 0%, #d4e9f7 100%);
+		background-attachment: fixed;
+		min-height: 100vh;
+	}
+	h1, h2 {
+		font-weight: 100;
+	}
+h3{
+	font-size: 11pt;
+	font-weight: 100;
+}
+h2 {
+	color:#0aaeef;
+}
+	#container {
+		width: 100%;
+		height: auto;
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		margin-left: 0px;
+		margin-top: 0px;
+	}
+	#subcont {
+		width: 100%;
+		margin-top: 120px;
+		
+	}
+#subcont2 {
+		width: 100%;
+		margin-top: 140px;
+		
+	}
+	#header {
+		position: relative;
+    width: 100%;
+    height: 40px;
+    color: white;
+    background-color: #2577c3;
+	}
+	.borders {
+		border-style: solid;
+		border-width: 1px;
+		border-color: #dadada;
+		box-sizing: border-box;
+		border-radius: 4px;
+	}
+	.borderl {
+		border-left-style: solid;
+		border-left-width: 1px;
+		border-color: #cfe3f5;
+		box-sizing: border-box;
+	}
+	.borderr {
+		border-right-style: solid;
+		border-right-width: 1px;
+		border-right-color: #dadada;
+		box-sizing: border-box;	
+	}
+	.borderb {
+		border-bottom-style: solid;
+		border-bottom-color: #dadada;
+		border-bottom-width: 1px;		
+		box-sizing: border-box;
+	}
+	.bordert {
+		border-top-style: solid;
+		border-top-color: #1c64ac;
+		border-top-width: 1px;		
+		box-sizing: border-box;
+	}
+	.inwidth {
+		width: 100%;
+		max-width: 1080px;
+		min-width: 925px;
+		margin: auto;
+		position: relative;
+		height: 100%;
+	}
+.inwidth2 {
+		width: 100%;
+		max-width: 1080px;
+		min-width: 925px;
+		margin: auto;
+		position: relative;
+		height: 100%;
+		padding-left: 40px;
+		padding-right: 40px;
+		box-sizing: border-box;
+	}
+	.inwidth-block {
+		width: 100%;
+		max-width: 1080px;
+		min-width: 925px;
+		margin: auto;
+		position: relative;
+		height: 100%;
+		display: inline-block;
+	}
+.inwidth-block2 {
+		width: 100%;
+		max-width: 1080px;
+		min-width: 925px;
+		margin: auto;
+		position: relative;
+		height: 100%;
+		display: inline-block;	
+		padding-left: 40px;
+		padding-right: 40px;
+		box-sizing: border-box;
+	}
+	.w50 {
+		width: 50%;
+	}
+	.w40 {
+		width: 40%;
+	}
+	.w33 {
+		width: 33.33%;
+	}
+	.w30 {
+		width: 30%;
+	}
+	.w25 {
+		width: 25%;
+	}
+	.w20 {
+		width: 20%;
+	}
+	.w16 {
+		width: 16.6666%;
+	}
+.w14 {
+		width: 14%;
+	}
+	.w10 {
+		width: 10%;
+	}
+	.w50, .w40, .w33, .w30, .w25, .w20, .w16, .w10, .w14 {
+		float: left;
+	}
+	.tableo {
+		height: 100%;
+		display: table;
+		vertical-align: middle;
+	}
+	.tablei {
+		display: table-cell;
+		vertical-align: middle;
+		text-align: center;
+	}
+	.pad15{
+		padding: 15px;
+		box-sizing: border-box;
+	}
+	.pad20{
+		padding: 20px;
+		box-sizing: border-box;
+	}
+	.center {
+		margin: auto;
+		position: relative;
+	}
+	.wtitle {
+		font-size: 50pt;
+		text-align: center;
+		color: white;
+		font-weight: bold;
+		line-height: 1em;
+	}
+	.rtitle {
+		font-size: 50pt;
+		text-align: center;
+		color: #e04040;
+		font-weight: bold;
+	}
+	h1 {
+		font-size: 50pt;
+		text-align: center;
+	}
+	a {
+		color: inherit;	
+		text-decoration: none;
+	} 
+	.par {
+		text-align: center;
+	}
+.padtyb {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+	.wi90 {
+		margin: auto;
+		width: 90%;
+		padding: 40px;
+		box-sizing: border-box;
+	}
+.wi90p20 {
+		margin: auto;
+		width: 90%;
+		padding: 20px;
+		box-sizing: border-box;
+	}
+.wi95p5 {
+		margin: auto;
+		width: 95%;
+		padding: 5px;
+		box-sizing: border-box;
+	}
+	.button1 {
+		width: 200px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		box-sizing: border-box;
+		background-color: #96b3dc;
+		margin: auto;
+		color: white;
+		margin-top: 20px;
+		cursor: pointer;
+	}
+	#banner-back {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	#banner-backw {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+section {
+	padding-top: 50px;
+}
+.el-tit {
+	height: 70px;
+	margin: auto;
+}
+.rimg {
+	border-radius: 50%;
+}
+#footer {
+	padding-top: 25px !important;
+	font-size: 10pt !important;
+	line-height: 1.2em;
+	padding-bottom: 25px;
+	font-size: 9pt;
+}
+.footertit {
+	font-size: 12pt;
+	font-weight: bold;
+	margin-top: 0px;
+}
+ul, li {
+	margin-left: 0px;
+	padding-left: 3px;
+	font-size: 10pt;
+}
+.redb {
+	border-width: 9px !important;
+	border-color: #e04040 !important;
+}
+#banner {
+		    position: relative;
+    background-image: url(img/banner2.jpg);
+    background-position: center;
+    width: 100%;
+    height: 630px;
+    min-width: 925px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#banner2 {
+		position: relative;
+		background-position: center;
+		background-size: 100%;
+		width: 100%;
+		height: 300px;
+		background-repeat: no-repeat;
+}
+.h2in {
+	font-size: 30pt;
+	font-weight: bold;
+}
+.h22in {
+	color: #ec238e;
+}
+.h22in2 {
+	    color: #2068b0;
+    font-size: 15pt;
+    font-weight: bold;
+}
+.rates {
+	font-size: 13pt;
+}
+.rates_c {
+  list-style-type:none;
+}
+.form-cont {
+	margin-bottom: 15px;
+}
+.form-icon {
+	width: 50px;
+	float: left;
+}
+input, textarea {
+	    font-size: 11pt;
+    font-weight: 100;
+    color: #616163;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 5px;
+    border-color: #adabab;
+    width: 300px;
+    font-family: 'Fira Sans', sans-serif;
+}
+textarea {
+	resize: none;
+}
+.divmsgcont {
+	position: fixed;
+	z-index: 999999999999;
+	width: 100%;
+	height: 100%;
+	top: 0px;
+	left: 0px;
+	background-color: #05060678;
+	display: none;
+}
+.msg {
+	position: absolute;
+	margin: auto;
+	width: 400px;
+	height: 200px;
+	background-color: white;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	border-radius: 5px;
+}
+@media (orientation: portrait) {
+	body{
+		font-size: 17pt;
+	}
+	.inwidth, .inwidth2, .inwidth-block, .inwidth-block2, #banner, #banner2{
+		min-width: 0px;		
+	}
+	.inwidth, .inwidth2, .inwidth-block, .inwidth-block2{
+		padding-left: 40px;
+		padding-right: 40px;
+		box-sizing: border-box;
+	}
+	.w50, .w40, .w33, .w30, .w25, .w20, .w16, .w10 {
+		float: none;
+		width: 100%;
+	}
+	.tablei {
+		line-height: 1;
+	}
+	.rates, .h22in2, h3 {
+		font-size: 17pt;
+	}
+	#footer {
+		font-size: 17pt !important;
+	}
+	#footlogo {
+		width: 60%;
+	}
+	#header {
+		display: none;
+	}
+	.form-cont {
+		text-align: center;
+	}
+	input, textarea {
+		font-size: 18pt;
+		padding: 15px;
+	}
+	.button1{
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+}

@@ -1,0 +1,83 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id IG6DDHYP7GjjjAcA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 12 Oct 2025 13:28:38 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 12 Oct 2025 13:28:38 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1v82gI-000000025tD-0XYp
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 12 Oct 2025 13:28:38 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1v82g9-000000025qH-2lvt@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1760300918-eximdsn-1116413195
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1v82gI-000000025tD-0XYp@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 12 Oct 2025 13:28:38 -0700
+
+--1760300918-eximdsn-1116413195
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 82gIvN3Puqpm1 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=NsyIs8dJ c=1 sm=1 tr=0 ts=68ec0f76 p=RjuUAZ6ES-nTGG0WD-z-:22 p=yy4jTtFBoFsyByDJo1m9:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=xYvQq5hmYUp9UrEdZ97h8g==:17 a=x6icFKpwvdMA:10 a=1SEq0ET0AAAA:8 a=mtBCFSPYAAAA:8 a=sYf7mHMwAAAA:8 a=PLEk8sUgAAAA:8 a=Mji8dSKFA[truncated]
+
+--1760300918-eximdsn-1116413195
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 82gIvN3Puqpm1 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=NsyIs8dJ c=1 sm=1 tr=0 ts=68ec0f76 p=RjuUAZ6ES-nTGG0WD-z-:22 p=yy4jTtFBoFsyByDJo1m9:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=xYvQq5hmYUp9UrEdZ97h8g==:17 a=x6icFKpwvdMA:10 a=1SEq0ET0AAAA:8 a=mtBCFSPYAAAA:8 a=sYf7mHMwAAAA:8 a=PLEk8sUgAAAA:8 a=Mji8dSKFAAAA:8 a=pGLkceISAAAA:8 a=cSzJ9rU_AAAA:8 a=dC-lW-WIah1xoLzythUA:9 a=ug5bxZ_wKZoA:10 a=xfVE8rhzFQ4A:10 a=TBtUtA_KlDMA:10 a=DmddKE0RL6oA:10 a=oTOVXaEHs88A:10 a=Cc0DZfwnFxMA:10 a=VeoFjnzDT3LdC9FrCUAw:22 a=wnI_5XzAsBiWxF5a_CSJ:22 a=JDqbEGxhnjMysT2b-a3t:22 a=NHTAgmoRidxs8BMrlz7w:22 a=DjWl4rOp8hKxBe6ISkU0:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=yo6FTSzOfzKqdyR7rV1A:22 :: 100.00
+
+--1760300918-eximdsn-1116413195
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1v82g9-000000025qH-2lvt
+	for servicioalcliente@serkoi.com;
+	Sun, 12 Oct 2025 13:28:37 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:bms@brandshield.com
+Message-Id: <E1v82g9-000000025qH-2lvt@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 12 Oct 2025 13:28:29 -0700
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+X-DATACENTER: p3
+
+De: tabfswytu. 
+Correo: bms@brandshield.com. 
+Telefono: 89968951583. 
+Mensaje: To purchase Porn content, contact me legopankar@gmail.com 
+Top Link Providers for Gambling Websites 
+<a href=https://stvincentipa.com/our-providers/aerial-care/>BEST LINKS FOR GAMBLING! suncitywestdental.com/ BEST LINKS FOR GAMBLING! TELEGRAM @the_telegraf</a> 
+BEST LINKS FOR GAMBLING! 
+<a href=https://stvincentipa.com/our-providers/aerial-care/>BEST LINKS FOR GAMBLING!  https://ascgny.com/wp-content/uploads/2025/05/png/clenbuterol.html BEST LINKS FOR GAMBLING! TELEGRAM @happygrannypies</a> 
+<a href=https://stvincentipa.com/our-providers/aerial-care/>BEST LINKS FOR GAMBLING!  https://unorthodoxventures.com/css/clenbuterol.html BEST LINKS FOR GAMBLING! TELEGRAM @happygrannypies</a> 
+BEST LINKS FOR GAMBLING! 
+<a href="https://stvincentipa.com/our-providers/aerial-care/">BEST LINKS FOR GAMBLING!  https://auraderm.com/wp-content/uploads/2025/01/png/clenbuterol.html BEST LINKS FOR GAMBLING! TELEGRAM @happygrannypies</a>. 
+
+
+--1760300918-eximdsn-1116413195--

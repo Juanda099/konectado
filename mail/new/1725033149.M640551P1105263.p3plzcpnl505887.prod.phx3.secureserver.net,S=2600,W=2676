@@ -1,0 +1,76 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id +M7XJL3q0WZv3RAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 30 Aug 2024 08:52:29 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 30 Aug 2024 08:52:29 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sk3vJ-004e4a-1j
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 30 Aug 2024 08:52:29 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sk3vA-004e21-39@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sk3vJ-004e4a-1j@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 30 Aug 2024 08:52:29 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sk3vA-004e21-39
+	for servicioalcliente@serkoi.com;
+	Fri, 30 Aug 2024 08:52:20 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 168.91.91.128
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 168.91.91.128
+From:
+Message-Id: <E1sk3vA-004e21-39@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 30 Aug 2024 08:52:20 -0700
+
+De: Chelsea June. 
+Correo: . 
+Telefono: 9533691541. 
+Mensaje: Hi and good morning!
+
+Are you getting new customers from LinkedIn?
+
+Next week, I’m hosting a virtual LinkedIn Lunch and Learn, 
+where I’ll reveal the simple yet effective strategies that have helped my clients close over 
+$1 million in new business through LinkedIn.
+
+I wanted to personally invite you and your team. 
+
+Here’s the invite: 
+https://linkedinaccelerator.live/linkedinlearn
+
+
+Hope you can make it!
+
+Chelsea Olsen
+Founder of CLOHZ
+
+
+
+
+
+
+
+
+
+
+Opt out of future messages by replying to the message and saying opt out in the subject.
+proditelsas.com. 
+

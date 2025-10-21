@@ -1,0 +1,42 @@
+Return-Path: <noreply@a2plcpnl0779.prod.iad2.secureserver.net>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 2A4aHegIPGHztDYAoisFWw
+	(envelope-from <noreply@a2plcpnl0779.prod.iad2.secureserver.net>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Fri, 10 Sep 2021 18:39:52 -0700
+Return-path: <noreply@a2plcpnl0779.prod.iad2.secureserver.net>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Fri, 10 Sep 2021 18:39:52 -0700
+Received: from root by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.93)
+	(envelope-from <noreply@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1mOrzk-00F7AV-Cy
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Fri, 10 Sep 2021 18:39:52 -0700
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Subject: [Installatron] Proditel SAS backup failed
+Date: Fri, 10 Sep 2021 19:39:52 -0600
+From: noreply@a2plcpnl0779.prod.iad2.secureserver.net
+Message-ID: <b18d386dddf2477aad3625650fc271ba@a2plcpnl0779.prod.iad2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.56
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+The backup process for Proditel SAS located at http://www.proditelsas.com has failed and the details of the failure have been logged.
+
+Technical error:
+Error: A test of the selected domain has failed (HTTP error: 0).
+
+Installatron is unable to install on a domain that is not resolving/loading to this web account.
+
+If this is a new web hosting account, or if this is a newly registered domain, please allow up to 24 hours for the domain to begin working (though usually within a few hours).
+
+If you're sure that the domain is correctly loading to your web account, contact your web hosting administrator.
+
+Technical Error: [1] Written file `/home/z1h9uk8mq9i3/public_html/deleteme.chalcplp.php' not accessible at `http://www.proditelsas.com/deleteme.chalcplp.php'.
+2021-09-10 19:39:52.11162600 FAILURE [2] http://www.proditelsas.com/deleteme.chalcplp.php?n=3&m=4 [28: connect() timed out!] @107.180.46.150(107.180.46.150)*
+
+
+End of report.
+

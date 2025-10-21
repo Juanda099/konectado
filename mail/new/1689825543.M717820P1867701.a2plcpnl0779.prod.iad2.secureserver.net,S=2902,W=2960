@@ -1,0 +1,58 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 8mzhKAexuGS1fxwAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Wed, 19 Jul 2023 20:59:03 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Wed, 19 Jul 2023 20:59:03 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qMKoh-007pqQ-Ha
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Wed, 19 Jul 2023 20:59:03 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qMKoc-007pWj-Gg@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1qMKoh-007pqQ-Ha@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 19 Jul 2023 20:59:03 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qMKoc-007pWj-Gg
+	for servicioalcliente@serkoi.com;
+	Wed, 19 Jul 2023 20:58:58 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 84.17.47.96
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 84.17.47.96
+From:
+Message-Id: <E1qMKoc-007pWj-Gg@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 19 Jul 2023 20:58:58 -0700
+
+De: Martin Jose Barreiro. 
+Correo: . 
+Telefono: 86696689958. 
+Mensaje: Hello 
+My name is Br.Martin Jose Barreiro, I am a Lawyer and I pratices here in Madrid Spain.  I have previously sent you an email regarding a transaction of US$13.5 Million left behind by my late client before his tragic death. 
+However I am reaching out to you once again because after going through your profile, I strongly believe that you will be in a better position to execute this business transaction with me. 
+I suggest after the transaction, we donate 5% of the money to charity organizations while the remaining 95% is shared equally between us. 
+If you are interested to proceed with me, kindly respond to me via this email  legalmj@barieroabogados.com for more detail. 
+This transaction is 100% risk free and I look forward to your response. 
+Yours sincerely 
+Martin Jose Barreiro,, 
+Lawyer 
+Phone: +34 661 220 756 
+E-mail:  legalmj@barieroabogados.com 
+Web:  http://www.barreiroabogado.com/. 
+

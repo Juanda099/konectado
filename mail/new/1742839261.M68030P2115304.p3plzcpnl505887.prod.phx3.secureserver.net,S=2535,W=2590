@@ -1,0 +1,55 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id IGQUA92d4WfoRiAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 24 Mar 2025 11:01:01 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 24 Mar 2025 11:01:01 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1twm6e-00Azfp-36
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 24 Mar 2025 11:01:01 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1twm6U-00AzWb-0X@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1twm6e-00Azfp-36@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 24 Mar 2025 11:01:00 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1twm6U-00AzWb-0X
+	for servicioalcliente@serkoi.com;
+	Mon, 24 Mar 2025 11:00:50 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:metabrez@gmx.de
+Message-Id: <E1twm6U-00AzWb-0X@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 24 Mar 2025 11:00:50 -0700
+
+De: Matthewvon. 
+Correo: metabrez@gmx.de. 
+Telefono: 89785699259. 
+Mensaje: Trusted by Over 40,933 Men Across the U.S. 
+ 
+Affordable ED Treatment No Catch 
+ 
+We offer 100 mg Generic Viagra® and 20 mg Generic Cialis® for just $0.45 per dose—a price that’s up to 97% less than the big brands. 
+ 
+How do we do it? By building our direct-to-patient platform from scratch and sourcing medication directly from the manufacturer, we cut out the middlemen and pass the savings on to you. No hidden fees, no markups—just proven ED treatments at an unbeatable price. 
+ 
+https://cutt.ly/teX52Bd3 
+https://cutt.ly/geMsuEqP 
+https://telegra.ph/Ordering-Viagra-from-an-online-pharmacy-12-25. 
+

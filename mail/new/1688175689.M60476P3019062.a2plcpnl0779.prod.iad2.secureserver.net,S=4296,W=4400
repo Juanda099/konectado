@@ -1,0 +1,104 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id IIVZAUmEn2Q2ES4AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Fri, 30 Jun 2023 18:41:29 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Fri, 30 Jun 2023 18:41:29 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qFPc8-00Cg94-T8
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Fri, 30 Jun 2023 18:41:28 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qFPc3-00Cg8E-Sb@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1688175688-eximdsn-129796960
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qFPc8-00Cg94-T8@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 30 Jun 2023 18:41:28 -0700
+
+--1688175688-eximdsn-129796960
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 FPc8qH3xjWbB0 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Dp2Qukz+ c=1 sm=1 tr=0 ts=649f8448 p=e5puUDJhAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=of4jigFt-DYA:10 a=sz6OSDjuAAAA:8 a=smrCSdiaAAAA:8 a=Zxh7roqcBma6x-RAeUgA:9 a=zgiPjhLxNE0A:10 a=4Pnp2XkstkV6JjI4Vtld:22 a=26eYVW2CjZPGQFJPilsR:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=X-2mznL-HfgJjjIQP0k6:22 ::
+    100.00
+
+--1688175688-eximdsn-129796960
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 FPc8qH3xjWbB0 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Dp2Qukz+ c=1 sm=1 tr=0 ts=649f8448 p=e5puUDJhAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=of4jigFt-DYA:10 a=sz6OSDjuAAAA:8 a=smrCSdiaAAAA:8 a=Zxh7roqcBma6x-RAeUgA:9 a=zgiPjhLxNE0A:10 a=4Pnp2XkstkV6JjI4Vtld:22 a=26eYVW2CjZPGQFJPilsR:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=X-2mznL-HfgJjjIQP0k6:22 :: 100.00
+
+--1688175688-eximdsn-129796960
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qFPc3-00Cg8E-Sb
+	for servicioalcliente@serkoi.com;
+	Fri, 30 Jun 2023 18:41:28 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 139.171.10.160
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 139.171.10.160
+From:
+Message-Id: <E1qFPc3-00Cg8E-Sb@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 30 Jun 2023 18:41:23 -0700
+
+De: Natalia Haigler. 
+Correo: . 
+Telefono: 02.67.00.53.90. 
+Mensaje: Hi,
+
+Did you know If you retained employees through COVID shutdowns, 
+
+your business could be eligible for a tax refund of up to $26k per employee.
+
+
+Take the ERC quiz and see what you qualify for: www.creditquizpro.com
+
+
+Talk soon,
+
+www.creditquizpro.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unsubscribe | Opt Out of future messages https://itrafficlive.com/optout/?site=proditelsas.com. 
+
+
+--1688175688-eximdsn-129796960--

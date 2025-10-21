@@ -1,0 +1,45 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id SG9rCgqRv2gZchcA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 08 Sep 2025 19:29:30 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 08 Sep 2025 19:29:30 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uvo6s-00000006gkw-0E6B
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 08 Sep 2025 19:29:30 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uvo6q-00000006gkj-3rBv@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uvo6s-00000006gkw-0E6B@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 08 Sep 2025 19:29:30 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uvo6q-00000006gkj-3rBv
+	for servicioalcliente@serkoi.com;
+	Mon, 08 Sep 2025 19:29:28 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uvo6q-00000006gkj-3rBv@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 08 Sep 2025 19:29:28 -0700
+
+De: Brian WRIGHT Eng.. 
+Correo: . 
+Telefono: 7209248652. 
+Mensaje: Please visit https://wexxon.com/en/home/9-romantic-compatibility.html for more details. 
+

@@ -1,0 +1,57 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id GMNqD2l5fGbpRzUA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 26 Jun 2024 13:26:17 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 26 Jun 2024 13:26:17 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sMZDd-00EeQB-0d
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 26 Jun 2024 13:26:17 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sMZDU-00EePC-0G@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sMZDd-00EeQB-0d@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 26 Jun 2024 13:26:17 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sMZDU-00EePC-0G
+	for servicioalcliente@serkoi.com;
+	Wed, 26 Jun 2024 13:26:08 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 168.91.71.25
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 168.91.71.25
+From:
+Message-Id: <E1sMZDU-00EePC-0G@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 26 Jun 2024 13:26:08 -0700
+
+De: Mark Rogers. 
+Correo: . 
+Telefono: 7808067211. 
+Mensaje: Hey,
+
+
+I'd love to volunteer as your video expert, so I've created a custom video for your site ( proditelsas.com ), It’s completely 100% free, with no strings attached.
+Just let me know where do you want me to send it here: ( https://video-services.enterprisetemplate.com/?website=proditelsas.com )
+
+This is a token to earn your business, if you are interested, let's get on a quick call to see how I can help you double your clients in the first 1-3 months, 
+here's my calendar: ( https://video-services.enterprisetemplate.com/call )
+
+Best regards,
+-Mark. 
+

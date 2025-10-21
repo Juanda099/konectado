@@ -1,0 +1,95 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 6AfgIJEzfmcbJR0A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 08 Jan 2025 01:13:05 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 08 Jan 2025 01:13:05 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tVRBZ-008BbC-1W
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 08 Jan 2025 01:13:05 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tVRBU-008BOk-3D@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1736323985-eximdsn-765821848
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tVRBZ-008BbC-1W@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 08 Jan 2025 01:13:05 -0700
+
+--1736323985-eximdsn-765821848
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 VRBZtzXscziwv :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Moqo63ae c=1 sm=1 tr=0 ts=677e3391 p=irAihmUwAAAA:8 p=w-FmtDx7ScQ9xijr8V4A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=suUxqRlr2t70KcgPtNaR:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1736323985-eximdsn-765821848
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 VRBZtzXscziwv :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Moqo63ae c=1 sm=1 tr=0 ts=677e3391 p=irAihmUwAAAA:8 p=w-FmtDx7ScQ9xijr8V4A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=suUxqRlr2t70KcgPtNaR:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1736323985-eximdsn-765821848
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tVRBU-008BOk-3D
+	for servicioalcliente@serkoi.com;
+	Wed, 08 Jan 2025 01:13:05 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tVRBU-008BOk-3D@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 08 Jan 2025 01:13:00 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Matt Liardet. 
+Correo: . 
+Telefono: 7958613484. 
+Mensaje: Hello
+
+I hope this message finds you well. My name is Mathew, and I am a Research Assistant in the Research and Development Department one of the leading biopharmaceutical company based in London, England. I am reaching out to explore a potential partnership opportunity. 
+
+We are currently seeking a reliable business representative in your region to assist us in sourcing essential raw materials used in the production of high-quality antiviral vaccines, cancer treatments, and other life-saving pharmaceutical products. While this may be outside of your primary area of expertise, it offers a unique opportunity to diversify your business interests and generate additional income.
+
+Our company has been actively searching for a reputable supplier but has yet to establish a direct source. 
+
+However, I have identified a local supplier who offers the necessary materials at a significantly lower cost compared to our previous purchases. This could present a mutually beneficial opportunity for both parties.
+
+If you are interested in learning more about the profit structure and the specifics of this potential collaboration, please feel free to reach out. 
+
+I would be happy to provide additional details at your convenience.
+
+Thank you for considering this partnership, and I look forward to your response.
+
+Mathew Lundgren
+Research & Dev Dept
+Email: mathew@mathewlundgren.com. 
+
+
+--1736323985-eximdsn-765821848--

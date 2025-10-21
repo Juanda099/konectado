@@ -1,0 +1,115 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id OIglBmXk7WfwKgoA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 02 Apr 2025 18:29:09 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 02 Apr 2025 18:29:09 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1u09OH-004glU-06
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 02 Apr 2025 18:29:09 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1u09O3-004gUI-33@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1743643749-eximdsn-24360270
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1u09OH-004glU-06@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 02 Apr 2025 18:29:09 -0700
+
+--1743643749-eximdsn-24360270
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 09OGu5uVWMpEI :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=FZzNxI+6 c=1 sm=1 tr=0 ts=67ede465 p=1af9v9Txl_3PRGt39rQA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=xRIiZs02AAAA:8 a=vggBfdFIAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=Vma-n8-gZlgtiTj8ucXI:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1743643749-eximdsn-24360270
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 09OGu5uVWMpEI :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=FZzNxI+6 c=1 sm=1 tr=0 ts=67ede465 p=1af9v9Txl_3PRGt39rQA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=xRIiZs02AAAA:8 a=vggBfdFIAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=Vma-n8-gZlgtiTj8ucXI:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1743643749-eximdsn-24360270
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1u09O3-004gUI-33
+	for servicioalcliente@serkoi.com;
+	Wed, 02 Apr 2025 18:29:08 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1u09O3-004gUI-33@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 02 Apr 2025 18:28:55 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Tina Anderson. 
+Correo: . 
+Telefono: 081 266 92 58. 
+Mensaje: Hello proditelsas.com,
+
+I am Carol from Moredollar, you have an excellent website: proditelsas.com, and I would like to invite you to review our beauty products.
+
+We will send you a sampl e and you don't need to pay anything
+
+(For U.S. citizens- S ample of La Roche-Posay Mela B3 Dark Spot Serum; For citizens of other countries - best-selling kindle book SKINCARE DECODED: REVISED AND EXPANDED: THE PRACTICAL GUIDE TO BEAUTIFUL SKIN )
+
+La Roche-Posay Mela B3 Dark Spot Serum is a skincare product designed to target and reduce the appearance of dark spots on the skin.   
+
+It’s formulated with a combination of effective ingredients to address hyperpigmentation.   It targets a variety of dark spots, including sun spots, age spots, and post-acne marks and helps to create a more even and radiant complexion.   
+It also offers additional benefits like reducing fine lines and wrinkles.
+
+For U.S. citizens:
+To claim yours, fill out the request form to get a s ample of La Roche-Posay Mela B3 Dark Spot Serum without spending a penny:: https://www.moredollar.info/larocheposay .
+
+For citizens of other countries:
+You will get Amazon's best-selling kindle book - SKINCARE DECODED: REVISED AND EXPANDED: THE PRACTICAL GUIDE TO BEAUTIFUL SKIN for f ree: https://www.moredollar.info/skincarede , its price is 12.99 dollars at Amaozn：https://www.amazon.com/Skincare-Decoded-Expanded-Practical-Beautiful/dp/B0DB5X83LQ?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=ATVPDKIKX0DER
+	
+	This revised and expanded edition has been updated with the latest information, and has all-new sections on suncreen, eye treatments, and more. Do you really need a ten-step skincare regimen? Is that $100 eye cream worth it? What the heck are “actives” anyway? In this book, two professional chemists and beauty industry insiders tell all.
+
+	“Victoria and Gloria have been a go-to resource for us over the years, and this book perfectly captures their skincare expertise. What a fun, smart read for beauty junkies and novices alike!”
+
+	—BRITTANY BURHOP FALLON, Beauty Director of NewBeauty Magazine
+
+	BEAUTIFUL SKIN MADE SIMPLE.(WITHOUT SPENDING A FORTUNE!)
+	How do I even build a skincare routine?
+	Sunscreen makes me look like a greasy mime; do I really have to wear it every day?
+	Is a ten-step beauty regimen necessary for beautiful skin?
+	Is a $600 serum better than a $50 one?
+
+Best,
+Tina Anderson
+
+ 
+UNSUBSCRIBE: https://www.moredollar.info/unsubscribe/?d=proditelsas.com 
+Address: 2387 Lawman Avenue
+Fairfax, VA 22030
+. 
+
+
+--1743643749-eximdsn-24360270--

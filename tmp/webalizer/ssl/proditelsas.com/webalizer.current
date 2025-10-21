@@ -1,0 +1,981 @@
+# Webalizer V2.23-08 Incremental Data - 10/16/2025 22:16:44
+2025 10 16 22 16 44
+619 522 169 116 14 44 127392028 86 71 0
+4 1 144 1 16
+45 35 4558840 28 6 6
+27 17 75436 25 4 4
+231 209 66985937 28 18 11
+231 204 52851038 39 27 19
+29 26 2351343 13 6 6
+19 8 39561 17 8 8
+4 4 14845 3 3 3
+3 1 286950 2 0 0
+7 6 48995 6 3 3
+3 3 24870 3 3 3
+3 1 89645 2 0 0
+3 3 24870 3 3 3
+4 1 17286 3 2 2
+4 2 6132 3 1 1
+2 0 0 2 0 0
+4 2 16280 4 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 3 12444 3
+9 3 10226 1
+13 10 72945 5
+11 7 44487 1
+22 16 2284364 2
+7 2 8528 2
+4 2 7013 1
+61 59 8899341 12
+152 138 43927864 13
+10 6 45824 7
+4 1 3934 0
+7 3 8234 2
+12 10 46763 3
+77 72 20686664 7
+18 15 4663205 2
+10 4 27778 3
+20 18 2305105 2
+2 1 1346 1
+10 6 106727 3
+133 122 41634012 8
+6 3 293963 1
+9 6 20156 3
+4 3 28654 2
+13 12 2252451 2
+3
+0
+0
+522
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+89
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/pqr/upload/js/redactor-osticket.js
+0 2 8243129286180037221 8096 0 0
+/pqr/upload/assets/default/images/page_bg.png
+0 2 94226137239248 2086 0 0
+/pqr/upload/assets/default/images/nav_bg.png
+0 2 0 5188 0 0
+/pqr/upload/assets/default/images/icons/thread.gif
+0 2 0 548 0 0
+/pqr/upload/js/jquery-1.11.2.min.js
+0 2 0 64792 0 0
+/pqr/upload/assets/default/css/print.css
+0 2 0 388 0 0
+/pqr/upload/assets/default/images/icons/ok.png
+0 2 0 1624 0 0
+/pqr/upload/css/rtl.css
+0 2 0 1512 0 0
+/pqr/upload/css/ui-lightness/images/ui-icons_222222_256x240.png
+0 2 0 13844 0 0
+/pqr/upload/css/font-awesome.min.css
+0 2 0 8184 0 0
+/pqr/upload/css/ui-lightness/images/ui-icons_ef8c08_256x240.png
+0 2 0 9098 0 0
+/contrato.pdf
+0 2 0 798952 0 0
+/pqr/upload/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png
+0 2 0 624 0 0
+/pqr/upload/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png
+0 2 0 696 0 0
+/pqr/upload/css/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png
+0 2 0 836 0 0
+/pqr/upload/assets/default/images/kb_category_bg.png
+0 2 0 1874 0 0
+/pqr/upload/assets/default/images/new_ticket_icon.png
+0 2 0 10242 0 0
+/img/logo2.png
+0 13 0 249145 0 0
+/pqr/upload/open.php
+0 5 0 13262 0 0
+/pqr/upload/assets/default/images/icons/kb.png
+0 2 0 2828 0 0
+/pqr/upload/assets/default/images/icons/tix.png
+0 2 0 2914 0 0
+/pqr/upload/assets/default/images/icons/attachment.gif
+0 2 0 470 0 0
+/pqr/upload/captcha.php
+0 2 0 4458 0 0
+/jquery/jquery.easing.1.3.js
+0 15 0 28348 0 0
+/pqr/upload/assets/default/images/icons/ticket_source_email.gif
+0 2 0 1316 0 0
+/pqr/upload/css/flags.css
+0 2 0 1812 0 0
+/pqr/upload/assets/default/images/icons/ticket_source_other.gif
+0 2 0 2086 0 0
+/img/logo.png
+0 13 0 249145 0 0
+/pqr/upload/assets/default/images/lock.png
+0 2 0 10712 0 0
+/img/control.jpg
+0 11 0 3760218 0 0
+/pqr/upload/css/osticket.css
+0 2 0 1192 0 0
+/pqr/upload/scp/css/typeahead.css
+0 2 0 1080 0 0
+/pqr/upload/css/ui-lightness/images/ui-bg_flat_10_000000_40x100.png
+0 2 0 410 0 0
+/pqr/upload/account.php
+0 4 0 27276 0 0
+/pqr/upload/assets/default/css/theme.css
+0 2 0 10122 0 0
+/img/banner2.jpg
+0 11 0 2868690 0 0
+/pqr/upload/assets/default/images/icons/status.png
+0 2 0 3230 0 0
+/jquery/jquery-1.11.3.min.js
+0 15 0 486865 0 0
+/caracteristicas.php
+0 5 0 20707 0 0
+/Decreto 067.pdf
+0 2 0 13648 0 0
+/disponibilidad.pdf
+0 3 0 448445 0 0
+/pqr/upload/assets/font/fontawesome-webfont.eot
+0 4 0 149324 0 0
+/css/general.css
+0 20 0 29040 0 0
+/pqr/upload/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png
+0 2 0 524 0 0
+/pqr/upload/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png
+0 2 0 11630 0 0
+/pqr/upload/assets/default/images/icons/alert.png
+0 2 0 1360 0 0
+/pqr/upload/images/FhHRx-Spinner.gif
+0 2 0 5216 0 0
+/corporativo.php
+0 5 0 13350 0 0
+/pqr/upload/assets/default/images/icons/page.png
+0 2 0 2134 0 0
+/pqr/upload/js/redactor-plugins.js
+0 2 0 29758 0 0
+/control.php
+0 4 0 15736 0 0
+/img/infografia.png
+0 2 0 2180112 0 0
+/pqr/upload/css/ui-lightness/images/ui-icons_ffffff_256x240.png
+0 2 0 12598 0 0
+/img/contactenos.png
+0 3 0 12640938 0 0
+/favicon.ico
+0 2 0 25354 0 0
+/pqr/upload/images/flags.png
+0 2 0 157664 0 0
+/img/corporativo.png
+0 2 0 15519746 0 0
+/pqr/upload/assets/font/fontawesome-webfont.ttf
+0 2 0 85480 0 0
+/pqr/upload/js/filedrop.field.js
+0 2 0 12662 0 0
+/js/msg.js
+0 3 0 390 0 0
+/atencion.pdf
+0 2 0 362674 0 0
+/img/speed.png
+0 2 0 13112590 0 0
+/img/atencion.jpg
+0 11 0 2811226 0 0
+/pqr/upload/assets/default/images/poweredby.png
+0 2 0 16594 0 0
+/pqr/upload/css/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png
+0 2 0 656 0 0
+/pqr/upload/
+0 12 0 16840 6 0
+/pqr/upload/scp/images/icons/file.gif
+0 2 0 470 0 0
+/pqr/upload/view.php
+0 4 0 6035 0 0
+/pqr/upload/logo.php
+0 3 0 57699 0 0
+/pqr/upload/assets/default/images/icons/new.png
+0 2 0 3166 0 0
+/pqr/upload/assets/font/fontawesome-webfont.svg
+0 2 0 104698 0 0
+/img/residenciales.png
+0 6 0 27406362 0 0
+/informacion_crc.php
+0 5 0 11358 0 0
+/pqr/upload/scp/js/bootstrap-typeahead.js
+0 2 0 5124 0 0
+/pqr/upload/js/fabric.min.js
+0 2 0 115338 0 0
+/factores.php
+0 4 0 13721 0 0
+/pqr/upload/js/select2.min.js
+0 2 0 33328 0 0
+/pqr/upload/css/ui-lightness/jquery-ui-1.10.3.custom.min.css
+0 2 0 6816 0 0
+/img/procedimientos.png
+0 2 0 4435298 0 0
+/pqr/upload/assets/default/images/icons/ticket.gif
+0 2 0 2086 0 0
+/pqr/upload/assets/default/images/icons/refresh.gif
+0 2 0 496 0 0
+/pqr/upload/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png
+0 2 0 556 0 0
+/pqr/upload/assets/default/images/kb_large_folder.png
+0 2 0 5054 0 0
+/pqr/upload/js/jstz.min.js
+0 2 0 3470 0 0
+/pqr/upload/css/select2.min.css
+0 2 0 3474 0 0
+/pqr/upload/js/jquery-ui-1.10.3.custom.min.js
+0 2 0 114706 0 0
+/img/procedimientos.jpg
+0 11 1735552814 1924428 0 0
+/procedimientos.php
+0 6 8026089002344931630 27888 0 0
+/pqr/upload/css/redactor.css
+0 2 3276782623945392128 23728 0 0
+/pqr/upload/assets/default/images/icons/ticket_source_web.gif
+0 2 3760788263342702592 2120 0 0
+/pqr/upload/assets/default/images/icons/ticket_source_phone.gif
+0 2 104 1206 0 0
+/
+0 64 3328215315731723310 370162 62 2
+/pqr/upload/css/thread.css
+0 2 0 4970 0 0
+/contactenos.php
+0 13 3761123808521957677 36383 0 0
+/pqr/upload/js/redactor.min.js
+0 2 0 77846 0 0
+/pqr/upload/css/ui-lightness/images/ui-icons_228ef1_256x240.png
+0 2 0 9098 0 0
+/jquery/jquery.mousewheel.js
+0 15 0 35226 0 0
+/img/1562617504187.jpg
+0 11 0 329692 0 0
+/pqr/upload/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png
+0 2 0 414 0 0
+/ficha tecnica.pdf
+0 2 0 846526 0 0
+/pqr/upload/assets/default/images/icons/home.png
+0 2 0 3262 0 0
+/css/navbar.css
+0 19 0 8499 0 0
+/img/banner22.jpg
+0 11 0 12495879 0 0
+/js/navbar.js
+0 14 0 3502 0 0
+/pqr/upload/css/ui-lightness/images/ui-icons_ffd27a_256x240.png
+0 2 0 9098 0 0
+/ELEMENTOS DE SEGURIDAD.pdf
+0 2 0 749424 0 0
+/pqr/upload/assets/font/fontawesome-webfont.woff
+0 2 0 87152 0 0
+/pqr/upload/ajax.php/i18n/es_MX/js
+0 2 0 5340 0 0
+/img/banner3.png
+0 2 0 7019700 0 0
+/img/parental.png
+0 2 0 13715634 0 0
+/pqr/upload/js/osticket.js
+0 2 0 5020 0 0
+/medidor.php
+0 5 0 13097 0 0
+/pqr/upload/assets/default/images/icons/error.png
+0 2 0 1460 0 0
+/Decreto 1524 de 2002.pdf
+0 3 0 860850 0 0
+/residenciales.php
+0 9 0 25014 0 0
+/pqr/upload/assets/default/images/check_status_icon.png
+0 2 0 10040 0 0
+# End Of Table - urls
+# -sites- (monthly)
+159.89.231.253
+0 2 1 4264 1 1759970730
+/
+62.60.131.81
+0 1 1 4264 1 1759585134
+/
+proxy-ca000-san81.ahrefs.net
+0 1 1 3916 1 1759593434
+/
+proxy-ca004-san28.ahrefs.net
+0 1 1 2749 0 0
+-
+msnbot-207-46-13-107.search.msn.com
+0 1 1 2749 0 0
+-
+87-250-224-202.spider.yandex.com
+0 1 1 2550 0 0
+-
+c131.babbar.eu
+0 1 1 3062 0 0
+-
+proxy-ca001-san152.ahrefs.net
+0 1 0 0 0 0
+-
+ip171.ip-146-59-10.eu
+0 3 0 0 0 0
+-
+crawl-66-249-79-195.googlebot.com
+0 1 0 0 0 0
+-
+20.171.207.249
+0 125 117 41618237 1 1759565805
+-
+proxy-uk009-san46.ahrefs.net
+0 1 0 0 0 0
+-
+80.94.92.16
+0 1 1 4264 1 1759863666
+/
+113.120.58.197
+0 1 1 12680 0 0
+-
+198.235.24.50
+0 1 1 17038 1 1760063844
+/
+proxy-ca006-san161.ahrefs.net
+0 1 1 3356 0 0
+-
+205.210.31.16
+0 1 1 17038 1 1759677857
+/
+198.235.24.20
+0 1 1 17038 1 1760261355
+/
+ns1000614.ip-51-81-46.us
+0 1 1 17038 1 1759631135
+/
+proxy-ca002-san84.ahrefs.net
+0 1 0 0 0 0
+-
+172.203.190.136
+0 1 0 0 0 0
+-
+sh-ams-nl-gd9-wk103.internet-census.org
+0 1 1 4264 1 1759564623
+/
+212.bl.bot.semrush.com
+0 1 1 1575 1 1759754177
+/pqr/upload/
+157.230.183.121
+0 2 1 4264 1 1759738480
+/
+205.210.31.132
+0 1 1 17038 1 1759570832
+/
+proxy-uk008-san160.ahrefs.net
+0 1 0 0 0 0
+-
+msnbot-52-167-144-188.search.msn.com
+0 1 0 0 0 0
+-
+proxy-fr005-san227.ahrefs.net
+0 1 0 0 0 0
+-
+5-255-231-143.spider.yandex.com
+0 1 0 0 0 0
+-
+msnbot-157-55-39-54.search.msn.com
+0 1 1 286950 0 0
+-
+petalbot-114-119-144-116.petalsearch.com
+0 1 1 4264 1 1759679732
+/
+proxy-ca015-san137.ahrefs.net
+0 1 1 2606 0 0
+-
+191.156.228.120
+0 29 29 11500010 1 1759497575
+/
+184-73-35-182.crawl.amazonbot.amazon
+0 1 0 0 1 1759743855
+/
+ec2-54-89-121-245.compute-1.amazonaws.com
+0 1 1 4264 1 1759302963
+/
+proxy-ca017-san29.ahrefs.net
+0 1 1 1135989 0 0
+-
+c227.babbar.eu
+0 1 1 4876 0 0
+-
+proxy-ca018-san195.ahrefs.net
+0 1 1 260790 0 0
+-
+104.210.140.140
+0 1 0 0 0 0
+-
+161.18.216.73
+0 20 19 6852459 1 1759496876
+/
+104.210.140.136
+0 1 0 0 0 0
+-
+proxy-ca001-san99.ahrefs.net
+0 1 1 1509 0 0
+-
+104.210.140.129
+0 3 0 0 0 0
+-
+142.93.136.67
+0 2 1 4264 1 1759611626
+/
+dynamic-ip-cr20011860199.cable.net.co
+0 16 15 2280099 1 1759567728
+/
+ec2-44-197-47-41.compute-1.amazonaws.com
+0 1 1 0 1 1759744030
+/
+213-180-203-56.spider.yandex.com
+0 1 1 525 0 0
+-
+94-247-172-129-static.serverhotell.net
+0 1 1 4264 1 1759282684
+/
+199.bl.bot.semrush.com
+0 1 1 2926 0 0
+-
+20.171.207.235
+0 1 1 3916 1 1759848167
+/
+proxy-ca013-san45.ahrefs.net
+0 1 0 0 0 0
+-
+5.133.192.105
+0 2 1 4264 1 1759449626
+/
+proxy-ca015-san66.ahrefs.net
+0 1 1 3916 1 1759479058
+/
+250.14.150.178.triolan.net
+0 2 1 3916 1 1759501882
+/
+137.184.24.131
+0 2 1 4264 1 1759556538
+/
+petalbot-114-119-158-6.petalsearch.com
+0 1 1 2857 0 0
+-
+20.171.53.237
+0 1 1 2744 0 0
+-
+20.171.207.134
+0 124 116 41613217 1 1759518354
+-
+161.115.239.158
+0 1 1 3916 1 1759497115
+/
+20.25.151.238
+0 2 2 6665 1 1759841748
+/
+msnbot-52-167-144-54.search.msn.com
+0 6 0 0 0 0
+-
+ipcomsistemas.co
+0 28 27 6516345 1 1759563256
+/
+proxy-ca010-san56.ahrefs.net
+0 1 1 3934 0 0
+-
+164.92.65.26
+0 2 1 4264 1 1759382547
+/
+64.227.191.73
+0 2 1 4264 1 1759610968
+/
+172.182.213.199
+0 2 2 7832 2 1760433870
+/
+4.227.36.118
+0 1 0 0 0 0
+-
+c127.babbar.eu
+0 1 0 0 0 0
+-
+msnbot-52-167-144-185.search.msn.com
+0 1 0 0 0 0
+-
+213-180-203-7.spider.yandex.com
+0 1 1 1986 0 0
+-
+20.171.123.65
+0 1 1 3916 1 1759565720
+/
+proxy-ca019-san253.ahrefs.net
+0 1 1 2749 0 0
+-
+87-250-224-98.spider.yandex.com
+0 1 1 4264 1 1759547931
+/
+proxy-ca016-san235.ahrefs.net
+0 1 1 4017 0 0
+-
+petalbot-114-119-140-21.petalsearch.com
+0 2 2 5985 0 0
+-
+google-proxy-66-102-8-162.google.com
+0 5 5 8821 1 1759563241
+/
+191.156.228.121
+0 20 19 2319459 1 1759497543
+/
+petalbot-114-119-130-152.petalsearch.com
+0 2 2 5902 1 1759662849
+/pqr/upload/
+172.182.213.204
+0 1 1 3916 1 1760120124
+/
+proxy-ca011-san90.ahrefs.net
+0 1 1 2585 0 0
+-
+213-180-203-5.spider.yandex.com
+0 1 0 0 0 0
+-
+msnbot-52-167-144-160.search.msn.com
+0 1 1 89645 0 0
+-
+msnbot-40-77-167-79.search.msn.com
+0 1 0 0 0 0
+-
+proxy-ca008-san49.ahrefs.net
+0 1 1 255566 0 0
+-
+ec2-100-26-216-203.compute-1.amazonaws.com
+0 1 1 4264 1 1759647621
+/
+95-108-213-208.spider.yandex.com
+0 1 1 33279 0 0
+-
+134.64.119.181.ufinet.com.co
+0 26 25 6927650 1 1759563102
+/
+104.210.140.135
+0 1 0 0 0 0
+-
+proxy-ca015-san187.ahrefs.net
+0 1 1 3916 1 1759710453
+/
+172.203.190.135
+0 1 0 0 0 0
+-
+proxy-ca014-san151.ahrefs.net
+0 1 1 19165 0 0
+-
+crawl-66-249-79-193.googlebot.com
+0 1 0 0 0 0
+-
+87-250-224-111.spider.yandex.com
+0 1 1 1566 0 0
+-
+proxy-ca001-san229.ahrefs.net
+0 1 1 4534 0 0
+-
+proxy-uk002-san170.ahrefs.net
+0 1 0 0 0 0
+-
+172.203.190.131
+0 2 0 0 0 0
+-
+c248.babbar.eu
+0 1 1 3653 0 0
+-
+google-proxy-66-102-8-163.google.com
+0 4 4 38204 1 1759563241
+/
+petalbot-114-119-139-102.petalsearch.com
+0 1 0 5336 0 0
+-
+proxy-ca009-san133.ahrefs.net
+0 1 1 174948 0 0
+-
+proxy-ca017-san92.ahrefs.net
+0 1 1 2588 0 0
+-
+proxy-ca008-san32.ahrefs.net
+0 1 1 1346 1 1759361323
+/pqr/upload/
+cerebro-ldc-prod-01.kaspersky-labs.com
+0 1 1 4264 1 1759307491
+/
+proxy-ca009-san137.ahrefs.net
+0 1 0 0 0 0
+-
+172.203.190.129
+0 2 0 0 0 0
+-
+proxy-ca016-san130.ahrefs.net
+0 1 1 19165 0 0
+-
+proxy-fr000-san74.ahrefs.net
+0 1 0 0 0 0
+-
+198.235.24.55
+0 1 1 17038 1 1760359935
+/
+proxy-ca001-san43.ahrefs.net
+0 1 1 2749 0 0
+-
+95-108-213-154.spider.yandex.com
+0 1 0 0 0 0
+-
+crawl-66-249-79-194.googlebot.com
+0 1 0 0 0 0
+-
+proxy-ca017-san246.ahrefs.net
+0 1 1 19233 0 0
+-
+proxy-ca006-san10.ahrefs.net
+0 1 1 1346 1 1759427936
+/pqr/upload/
+20.171.53.236
+0 1 1 3916 1 1759518270
+/
+ec2-54-86-115-253.compute-1.amazonaws.com
+0 1 1 17038 1 1759372105
+/
+185.117.225.42
+0 16 15 2280099 1 1759638748
+/
+proxy-ca018-san183.ahrefs.net
+0 1 1 1509 0 0
+-
+proxy-ca015-san196.ahrefs.net
+0 1 1 2216 0 0
+-
+msnbot-52-167-144-197.search.msn.com
+0 1 0 248 1 1760330261
+-
+proxy-fr000-san78.ahrefs.net
+0 1 0 0 0 0
+-
+93.158.91.242
+0 1 1 12364 1 1760653004
+/
+google-proxy-66-102-8-161.google.com
+0 2 2 5362 1 1759563241
+/
+193.bl.bot.semrush.com
+0 1 0 0 0 0
+-
+194.bl.bot.semrush.com
+0 1 0 0 0 0
+-
+planetlab24.gino-research.net.in.tum.de
+0 1 0 0 0 0
+-
+20.171.207.206
+0 2 2 7832 2 1760604634
+/
+crawl-prodd4-13.babbar.eu
+0 2 2 7400 0 0
+-
+161.115.239.123
+0 1 1 2749 0 0
+-
+static.22.89.13.49.clients.your-server.de
+0 16 15 2280099 1 1759335725
+/
+4.227.36.32
+0 1 0 0 0 0
+-
+proxy-ca004-san142.ahrefs.net
+0 1 1 1345 1 1759612642
+/pqr/upload/
+20.171.207.95
+0 1 1 3916 1 1760295050
+/
+web-100-28-178-85.iframely.com
+0 2 1 3916 1 1759743558
+/
+161.115.239.84
+0 2 1 1591 1 1759497117
+/pqr/upload/
+proxy-ca014-san178.ahrefs.net
+0 1 1 4534 0 0
+-
+104.210.140.130
+0 1 0 0 0 0
+-
+proxy-ca004-san211.ahrefs.net
+0 1 1 1347 1 1759441535
+/pqr/upload/
+msnbot-52-167-144-211.search.msn.com
+0 1 1 2606 0 0
+-
+proxy-ca013-san57.ahrefs.net
+0 1 1 341838 0 0
+-
+172.203.190.139
+0 1 0 0 0 0
+-
+122.74.19.175.adsl-pool.jlccptt.net.cn
+0 1 1 12364 1 1759994947
+/
+172.203.190.138
+0 1 0 0 0 0
+-
+msnbot-207-46-13-229.search.msn.com
+0 4 0 0 0 0
+-
+104.210.140.131
+0 1 0 0 0 0
+-
+112.112.182.16
+0 1 1 12674 0 0
+-
+213-180-203-171.spider.yandex.com
+0 1 0 0 0 0
+-
+proxy-uk002-san157.ahrefs.net
+0 1 0 0 0 0
+-
+87-250-224-4.spider.yandex.com
+0 1 1 317 0 0
+-
+proxy-ca012-san190.ahrefs.net
+0 1 1 3916 1 1759565222
+/
+msnbot-40-77-167-5.search.msn.com
+0 1 0 0 0 0
+-
+proxy-ca017-san161.ahrefs.net
+0 1 1 2560 0 0
+-
+95-108-213-111.spider.yandex.com
+0 1 0 0 0 0
+-
+proxy-ca008-san205.ahrefs.net
+0 1 1 3934 0 0
+-
+proxy-ca014-san41.ahrefs.net
+0 1 1 2744 0 0
+-
+54-85-109-140.crawl.amazonbot.amazon
+0 1 0 0 0 0
+-
+proxy-ca011-san252.ahrefs.net
+0 1 1 6830 0 0
+-
+45.131.155.101
+0 1 1 4264 1 1759990391
+/
+petalbot-114-119-153-118.petalsearch.com
+0 3 2 6694 1 1759459527
+/pqr/upload/
+proxy-ca014-san189.ahrefs.net
+0 1 1 6815 0 0
+-
+100.92.36.237
+0 1 1 4264 1 1759767658
+/
+proxy-ca008-san88.ahrefs.net
+0 1 1 3916 1 1759360391
+/
+proxy-ca010-san0.ahrefs.net
+0 1 0 0 0 0
+-
+proxy-ca002-san107.ahrefs.net
+0 1 1 29972 0 0
+-
+192.104.34.34
+0 1 1 3916 1 1759575908
+/
+139.59.144.247
+0 1 1 12356 1 1759790027
+/
+msnbot-52-167-144-145.search.msn.com
+0 1 1 2216 0 0
+-
+proxy-ca016-san228.ahrefs.net
+0 1 1 2560 0 0
+-
+proxy-ca001-san90.ahrefs.net
+0 1 1 2749 0 0
+-
+c123.babbar.eu
+0 1 1 2494 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+msnbot-52-167-144-185.search.msn.com
+0 1 0 0 0 0
+-
+93.158.91.242
+0 1 1 12364 1 1760653004
+/
+20.171.207.206
+0 1 1 3916 1 1760604634
+/
+msnbot-40-77-167-5.search.msn.com
+0 1 0 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://proditelsas.com/index.php
+0 6
+https://proditelsas.com/residenciales.php
+0 27
+https://www.proditelsas.com/
+0 1
+https://proditelsas.com/pqr/upload/open.php
+0 1
+https://www.google.com/
+0 3
+- (Direct Request)
+0 414
+https://proditelsas.com/medidor.php
+0 2
+www.google.com
+0 3
+https://www.google.com
+0 4
+https://proditelsas.com/contactenos.php
+0 4
+http://cpanel.proditelsas.com/
+0 1
+https://mail.proditelsas.com/
+0 1
+https://proditelsas.com/pqr/upload
+0 2
+https://proditelsas.com/
+0 150
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; BitSightBot/1.0)
+0 15
+Mozilla/5.0 (compatible; YandexFavicons/1.0; +http://yandex.com/bots)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
+0 16
+Mozilla/5.0 (Linux; arm_64; Android 12; CPH2205) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.3.86.
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.2; +https://openai.com/gptbot)
+0 253
+Mozilla/5.082584686 Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compat
+0 26
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115
+0 1
+Iframely/1.3.1 (+https://iframely.com/docs/about)
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 51
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.19
+0 20
+Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+0 4
+Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)
+0 7
+Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0
+0 5
+Iframely/1.3.1 (+https://iframely.com/docs/about) Canva
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36 (compatible; 
+0 11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+0 20
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0
+0 1
+Mozilla/5.0 zgrab/0.x
+0 1
+Mozilla/5.0 (compatible; YandexRenderResourcesBot/1.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
+0 8
+Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://
+0 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2)
+0 1
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36
+0 103
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Sa
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 3
+python-requests/2.31.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:133.0) Gecko/20100101 Firefox/133.0
+0 16
+Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Sc
+0 1
+Mozilla/5.0 AppleWebKit/605.1.15 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/605.1.15
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+0 8
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Amazonbot/0.1; +https://developer.amazon.com/support/amazonbot
+0 2
+Mozilla/5.077692140 Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 2
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

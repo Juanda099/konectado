@@ -1,0 +1,115 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id cDOULPAMJWWW7gwAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 10 Oct 2023 01:36:00 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 10 Oct 2023 01:36:00 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qq8Dg-003aQ4-Jo
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 10 Oct 2023 01:36:00 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qq8Db-003aNr-DJ@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1696926960-eximdsn-2117513413
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qq8Dg-003aQ4-Jo@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 10 Oct 2023 01:36:00 -0700
+
+--1696926960-eximdsn-2117513413
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 q8DgqzzYse4rh :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=KtiLm0aN c=1 sm=1 tr=0 ts=65250cf0 p=YkbpkDAJAAAA:20 p=z-VEDZIIAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=smrCSdiaAAAA:8 a=bwjA1GlWAAAA:20 a=Imfc6JJ1AAAA:20 a=CzBMvlyYAAAA:20 a=Z1h_dbNcAAAA:20 a=wDTA_393AAAA:20 a=hZkDfouhAID3dSHlO_4A:9 a=RaAw-xBDQgAA:10 a=YPReHNY270MA:10 a=zEUYLAhUjUAA:10 a=7OjYMqcdZC0A:10 a=a87xe5NOI90A:10 a=sqX611WwxpEA:10 a=jjTimGyB2zW4ptReJg0d:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=vAQo7CVYYy7a7-RaGPLT:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 a=tPi8_vkTu69w2KDsQcVr:22 ::
+    100.00
+
+--1696926960-eximdsn-2117513413
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 q8DgqzzYse4rh :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=KtiLm0aN c=1 sm=1 tr=0 ts=65250cf0 p=YkbpkDAJAAAA:20 p=z-VEDZIIAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=smrCSdiaAAAA:8 a=bwjA1GlWAAAA:20 a=Imfc6JJ1AAAA:20 a=CzBMvlyYAAAA:20 a=Z1h_dbNcAAAA:20 a=wDTA_393AAAA:20 a=hZkDfouhAID3dSHlO_4A:9 a=RaAw-xBDQgAA:10 a=YPReHNY270MA:10 a=zEUYLAhUjUAA:10 a=7OjYMqcdZC0A:10 a=a87xe5NOI90A:10 a=sqX611WwxpEA:10 a=jjTimGyB2zW4ptReJg0d:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=vAQo7CVYYy7a7-RaGPLT:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 a=tPi8_vkTu69w2KDsQcVr:22 :: 100.00
+
+--1696926960-eximdsn-2117513413
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qq8Db-003aNr-DJ
+	for servicioalcliente@serkoi.com;
+	Tue, 10 Oct 2023 01:36:00 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 185.217.127.65
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 185.217.127.65
+From:
+Message-Id: <E1qq8Db-003aNr-DJ@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 10 Oct 2023 01:35:55 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Quinton Kwan. 
+Correo: . 
+Telefono: 04.98.49.25.22. 
+Mensaje: Here is the problem in your site that didnt get traffic to your site.
+
+URl : http://proditelsas.com/contactenos.php
+
+Domain Authority : 12 (need 60+) (Increase DA on fiverr : https://tinyurl.com/bdz6c5xn )
+
+backlink : 132+ but no high DA backlink  ( Get High DA Backlink  on fiverr : https://tinyurl.com/yyw4ak7t )
+
+On page seo : poor ( Increase On page seo on fiverr : https://tinyurl.com/5yh5d5wn )
+
+Off page seo : poor ( Increase Off Page seo on fiverr : https://tinyurl.com/bdz4ar7d )
+
+Metadescription : best
+
+blog post : low ( need more than 300 ) ( get seo article on fiverr : https://tinyurl.com/y8ucxdps )
+
+H1 Tag : available, not available on some post kindly check
+
+H2 Tag : available
+
+Keyword Consistency : Your page's main keywords are not distributed well across the important HTML tags.
+
+Optimize Images : All of the images on your page appear to be optimized.
+
+JavaScript Errors : Your page is not reporting any JavaScript errors.
+
+SSL Enabled : Your website has SSL enabled.
+
+email marketing : not available ( Get email marketing software for free : https://linktr.ee/businessolutionz )
+
+Need help from the above audit kindly messege me here :  info@worldogspot.com
+
+The above links are fiverr verified.. order your service according your need...
+
+Above are my affiliate link I will get some earning..
+
+. 
+
+
+--1696926960-eximdsn-2117513413--

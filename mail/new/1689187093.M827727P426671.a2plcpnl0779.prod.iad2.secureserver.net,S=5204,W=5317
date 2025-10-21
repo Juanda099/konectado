@@ -1,0 +1,113 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id EFUCLxXzrmSvggYAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Wed, 12 Jul 2023 11:38:13 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Wed, 12 Jul 2023 11:38:13 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qJej7-001n1f-LS
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Wed, 12 Jul 2023 11:38:13 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qJej2-001n07-F2@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1689187093-eximdsn-901360009
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qJej7-001n1f-LS@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 12 Jul 2023 11:38:13 -0700
+
+--1689187093-eximdsn-901360009
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Jej7qcWpuPeVg :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=EN7AkXVC c=1 sm=1 tr=0 ts=64aef315 p=wFxtHc3pAAAA:20 p=IbjObFQd3g7YeTq57M5d:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=aBK1x5hS4pQe1rJmr6oA:9 a=0bRLk17guDEA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1689187093-eximdsn-901360009
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Jej7qcWpuPeVg :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=EN7AkXVC c=1 sm=1 tr=0 ts=64aef315 p=wFxtHc3pAAAA:20 p=IbjObFQd3g7YeTq57M5d:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=aBK1x5hS4pQe1rJmr6oA:9 a=0bRLk17guDEA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1689187093-eximdsn-901360009
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qJej2-001n07-F2
+	for servicioalcliente@serkoi.com;
+	Wed, 12 Jul 2023 11:38:13 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 63.161.79.204
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 63.161.79.204
+From:
+Message-Id: <E1qJej2-001n07-F2@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 12 Jul 2023 11:38:08 -0700
+
+De: Neil Baron. 
+Correo: . 
+Telefono: 970-506-1674. 
+Mensaje: For the first time ever, the World's first GPT4 Powered Social Video Story Creator just went LIVE.
+
+Act Fast and get this First-To-Market App before early-bird expires.
+
+Get AI StoriMate Access + LifeTime Account + Exclusive Discount https://shorturl.at/nuMSU 
+
+THIS IS LITERALLY World's First (GPT-4 Powered) A.I. Story Software that Creates ALL Kind of Stories, Reels & Shorts for Instagram, TikTok, YouTube, Facebook, and Other Platforms In Seconds Using just a Keyword using A.I.
+
+How cool is that? Isn't it?
+
+==> Watch Ai StoriMate Demo In Action https://shorturl.at/nuMSU 
+
+Ai StoriMate is jam-packed with the power features:
+✅ AI Text to Video Story Creator
+✅ 50 Beautiful Templates
+✅ AI Idea & Content Generator with 33+ Language support
+✅ Select from Beautiful Luxury templates 
+✅ 10 Million Royalty Free Stock Media
+✅ Add 100+ Premium Music
+✅ Smoothest Drag-n-Drop Story Video Editor
+✅ Add Stickers, shapes, abstract shapes, emojis and icons to Story Video
+✅ Automated Powerful Animation, Pro Fonts And much more...
+
+Plus Commercial license ($997) included with AI StoriMate- Generate & sell as many assets as you like to clients.
+
+=== Here Full Scoop ===
+If you get this right away you will get below exclusive bonuses for FREE with AI StoriMate
+
+Exclusive Bonus#1
+Exclusive Bonus#2
+Exclusive Bonus#3
+Exclusive Bonus#4
+Exclusive Bonus#5
+
+==> Access AI StoriMate + All Bonus https://shorturl.at/nuMSU 
+
+To Your Success,
+Neil. 
+
+
+--1689187093-eximdsn-901360009--

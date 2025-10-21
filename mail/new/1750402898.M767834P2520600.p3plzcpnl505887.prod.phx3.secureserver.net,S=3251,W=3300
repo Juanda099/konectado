@@ -1,0 +1,49 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id uCpPLVIHVWgYdiYA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 20 Jun 2025 00:01:38 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 20 Jun 2025 00:01:38 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uSVko-0000000Bo2Q-2rKt
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 20 Jun 2025 00:01:38 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uSVkl-0000000Bo18-1F90@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uSVko-0000000Bo2Q-2rKt@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 20 Jun 2025 00:01:38 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uSVkl-0000000Bo18-1F90
+	for servicioalcliente@serkoi.com;
+	Fri, 20 Jun 2025 00:01:35 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uSVkl-0000000Bo18-1F90@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 20 Jun 2025 00:01:35 -0700
+
+De: Gwendolyn Herrington. 
+Correo: . 
+Telefono: (02) 6714 3769. 
+Mensaje: My name is Ahmet. I'm a bank staff in a Turkish bank. I've been looking for someone who has the same nationality as you. A citizen of your country died in the recent earthquake in Turkey, he had in our bank fixed deposit of $11.5 million.   
+
+My Bank management is yet to know of his death. If my bank executive finds out about his death ,They would use the funds for themselves and get richer and I would like to prevent that from happening only if I get your cooperation, I knew about it because I was his account manager. Last week my bank management held a meeting for the purpose of a bank audit to note the dormant and abandoned deposit accounts. I know this will happen and that's why I'm looking for a solution to deal with this situation because if my bank discovers his death, they will divert the funds to the board of directors. I don't want that to happen.   
+
+I request your cooperation to introduce you as the kin/heir of the account as you are of the same nationality as him. There is no risk; the transaction is carried out under a legal agreement that protects you from infringement. I suggest we split the funds, 60/40 and 40 for me. I need this fund for my daughter's surgery so keep this info confidential. email me so i can provide you with more information. ahmetaksoytrt@outlook.com. 
+

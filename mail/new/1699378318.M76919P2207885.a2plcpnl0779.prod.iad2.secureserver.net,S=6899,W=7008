@@ -1,0 +1,109 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 2MtYA450SmWNsCEAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 07 Nov 2023 10:31:58 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 07 Nov 2023 10:31:58 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1r0Pvh-009Jnt-T5
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 07 Nov 2023 10:31:58 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1r0Pvc-009Jmb-Qq@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1699378317-eximdsn-231382546
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1r0Pvh-009Jnt-T5@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 07 Nov 2023 10:31:57 -0700
+
+--1699378317-eximdsn-231382546
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 0PvhrKzSfwCPu :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=euwZjKlX c=1 sm=1 tr=0 ts=654a748d p=kEDBsHewAAAA:20 p=LbYH2qZkAAAA:20 p=RppQr0x9k5QA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=BNY50KLci1gA:10 a=smrCSdiaAAAA:8 a=M9LcO671iCFCP03N1IEA:9 a=AWHbcYPWEh4A:10 a=KUFKis3fTW1g2qwEGufX:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1699378317-eximdsn-231382546
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 0PvhrKzSfwCPu :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=euwZjKlX c=1 sm=1 tr=0 ts=654a748d p=kEDBsHewAAAA:20 p=LbYH2qZkAAAA:20 p=RppQr0x9k5QA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=BNY50KLci1gA:10 a=smrCSdiaAAAA:8 a=M9LcO671iCFCP03N1IEA:9 a=AWHbcYPWEh4A:10 a=KUFKis3fTW1g2qwEGufX:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1699378317-eximdsn-231382546
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1r0Pvc-009Jmb-Qq
+	for servicioalcliente@serkoi.com;
+	Tue, 07 Nov 2023 10:31:57 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 196.245.251.80
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 196.245.251.80
+From:
+Message-Id: <E1r0Pvc-009Jmb-Qq@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 07 Nov 2023 10:31:52 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Lucie Baehr. 
+Correo: . 
+Telefono: (67) 9578-7627. 
+Mensaje: proditelsas.com Administrator, Hi. I have just located your website, brief inquiry…
+
+My name’s Lucie, I discovered proditelsas.com post performing a rapid search – your site showed up near the peak of the search rankings, so whatsoever you’re working on for SEO, looks like it’s operating well.
+
+So here’s my inquiry – what transpires AFTER an individual lands on your website? Anything at all?
+
+Data informs us at least 70% of the persons who locate your site, post a swift look-over, they disappear… forever.
+
+That indicates that all of the the hard work and attempt you put in into making them to show up, goes down the tubes.
+
+Why would you desire all excellent work – and the fantastic site you’ve built – go waste?
+
+Since the odds are they’ll just skip over calling up or even grabbing their cell phone, leaving you in the lurch.
+
+But, here is a thought for you… what you could make very simple for someone raise their hand, say, “okay, let’s talk” without needing them to even pull their mobile phone from their pocket, thanks to innovative new software that can literally that first ever call happen NOW.
+
+Web Visitors Into Leads is a software that sits your site, ready and waiting to capture visitor’s Name, Email address and Phone Number. It lets know IMMEDIATELY – so that you can talk to that lead they’re still there at your site, you know, strike when the iron’s hot!
+
+CLICK HERE https://bit.ly/LeadGena to try out a Live Demo with Web Visitors Into Leads now to see how it works, when targeting leads, you HAVE to act fast – the difference between contacting within minutes 30 minutes is huge – like 100 times!
+
+That’s why you should check out our new SMS Text With Lead feature as well… once you’ve captured phone of the website, you can automatically kick off a text message (SMS) conversation with them.
+
+Imagine powerful this could be – even if they don’t take you up on your offer, you can stay touch with them using text messages make new offers, provide links great, and build your credibility this alone be a game to make website even more effective, strike when the iron’s!
+
+CLICK HERE https://bit.ly/LeadGena to learn about everything Visitors Into Leads can do your business – you’ll be amazed, thanks and keep the great work!
+
+Lucie
+PS: Web Visitors Into Leads offers a FREE 14 days trial – you could be converting up to 100x more leads! It even includes Long Distance Calling wasting chasing that don’t into paying customers. CLICK HERE https://bit.ly/LeadGena to try Web Visitors Into Leads now you'd like to unsubscribe here https://bit.ly/3rD0G5c
+
+Just a quick - the names and email used here, Lucie and Baehr, are placeholders and not real contact. We value and wanted to make sure you’re aware! If you wish get touch with the real person behind this message, please visit our website, and we’ll connect you with the right.}
+. 
+
+
+--1699378317-eximdsn-231382546--

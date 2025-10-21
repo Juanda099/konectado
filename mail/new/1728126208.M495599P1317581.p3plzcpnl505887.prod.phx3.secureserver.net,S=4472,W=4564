@@ -1,0 +1,92 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id sqJ5HAAdAWfNGhQA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 05 Oct 2024 04:03:28 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 05 Oct 2024 04:03:28 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sx2ZM-005WlB-1J
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 05 Oct 2024 04:03:28 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sx2ZB-005Whw-0M@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1728126208-eximdsn-2041176526
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sx2ZM-005WlB-1J@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 05 Oct 2024 04:03:28 -0700
+
+--1728126208-eximdsn-2041176526
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 x2ZLsSKvYJPWF :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=YunERJYX c=1 sm=1 tr=0 ts=67011d00 p=6q5ZfPp9AAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=3Fkg8L_KAAAA:20 a=TMo9tuCbUTVgf-9Y2NsA:9 a=3ZKOabzyN94A:10 a=48om5TCysC0A:10 a=IawXvI9lP1MA:10 a=0lgtpPvCYYIA:10 a=Dh8X1fKBoQjwzqNlB6FS:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1728126208-eximdsn-2041176526
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 x2ZLsSKvYJPWF :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=YunERJYX c=1 sm=1 tr=0 ts=67011d00 p=6q5ZfPp9AAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=3Fkg8L_KAAAA:20 a=TMo9tuCbUTVgf-9Y2NsA:9 a=3ZKOabzyN94A:10 a=48om5TCysC0A:10 a=IawXvI9lP1MA:10 a=0lgtpPvCYYIA:10 a=Dh8X1fKBoQjwzqNlB6FS:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1728126208-eximdsn-2041176526
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sx2ZB-005Whw-0M
+	for servicioalcliente@serkoi.com;
+	Sat, 05 Oct 2024 04:03:27 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 136.0.109.211
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 136.0.109.211
+From:
+Message-Id: <E1sx2ZB-005Whw-0M@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 05 Oct 2024 04:03:17 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Olivia Cook. 
+Correo: . 
+Telefono: 3695491770. 
+Mensaje: Hello,
+
+Wanting to improve your website or company while avoiding breaking the bank? Fiverr offers a wide range of options—anything from graphic design to web development, beginning as low as $5!
+
+Whether you are looking for a logo, site improvement, advertising assistance, or another service, Fiverr matches you with skilled freelancers ready to get the task done efficiently and within your budget.
+
+Check it out here: https://bit.ly/fiverr-professional-services
+
+Thank you,
+
+
+
+
+If you want to unsubcribe from these attractive newsletters, please fill the form at https://bit.ly/unsubscribenews. 
+
+
+--1728126208-eximdsn-2041176526--

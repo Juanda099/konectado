@@ -1,0 +1,747 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202010 will be lost/reset.
+# Last config file used to build this data file was /home/z1h9uk8mq9i3/tmp/awstats/awstats.proditelsas.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2694                
+POS_VISITOR 18114               
+POS_DAY 22060               
+POS_DOMAIN 3507                
+POS_LOGIN 3951                
+POS_ROBOT 4106                
+POS_WORMS 4489                
+POS_EMAILSENDER 4620                
+POS_EMAILRECEIVER 4763                
+POS_SESSION 22869               
+POS_SIDER 23080               
+POS_FILETYPES 4898                
+POS_DOWNLOADS 5127                
+POS_OS 5246                
+POS_BROWSER 5457                
+POS_SCREENSIZE 6375                
+POS_UNKNOWNREFERER 6449                
+POS_UNKNOWNREFERERBROWSER 6875                
+POS_ORIGIN 7188                
+POS_SEREFERRALS 7329                
+POS_PAGEREFS 7492                
+POS_SEARCHWORDS 7640                
+POS_KEYWORDS 7792                
+POS_MISC 2358                
+POS_ERRORS 7851                
+POS_CLUSTER 3807                
+POS_SIDER_404 8003                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201101000903 26 6036 17426899499645
+FirstTime 20201001031738
+LastTime 20201031232729
+LastUpdate 20201101051047 26 0 25 0 0
+TotalVisits 341                 
+TotalUnique 98                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 100                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 22 22 9270 52 66 330718
+1 29 29 129393 28 29 259299
+2 24 24 32118 39 61 527263
+3 106 106 365207 25 32 277035
+4 22 22 71442 18 22 143190
+5 30 56 581681 21 25 196887
+6 21 65 738959 24 27 167058
+7 31 32 146716 39 49 364334
+8 33 104 1678204 39 48 214993
+9 70 70 131799 51 61 360832
+10 32 80 1097036 30 38 207289
+11 28 51 572866 24 26 123142
+12 40 43 252330 137 141 744504
+13 15 15 9842 18 20 118426
+14 20 20 11306 36 41 261156
+15 30 30 136800 24 25 185940
+16 29 57 720336 27 29 207220
+17 20 20 39119 21 29 210841
+18 19 19 13342 30 47 251925
+19 29 53 605890 26 41 265818
+20 36 60 552135 27 27 136728
+21 31 31 73743 20 23 175715
+22 55 126 1514830 34 35 210525
+23 45 91 1097794 35 44 113870
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+us 745 1055 8211213
+ru 21 44 486992
+sc 10 10 100056
+gb 9 12 267710
+de 5 5 92049
+cn 5 5 46356
+co 4 32 691404
+bg 4 4 20163
+fr 3 3 50715
+bo 2 28 434669
+ua 2 2 0
+ch 2 2 17067
+eu 1 1 416
+at 1 1 2036
+es 1 20 151557
+se 1 1 9270
+in 1 1 416
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+Googlebot/ 169 968977 20201031180658 20
+SemrushBot/ 19 48304 20201031185911 14
+unknown 4 272 20201017163158 4
+bot[\s_+:,\.\;\/\\-] 3 96354 20201009063717 0
+Googlebot\-Image/ 2 77586 20201016093004 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 0 20201011154014 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+php 657 612135 0 0
+css 149 1425055 0 0
+jpg 62 5469027 0 0
+xml 3 1380 0 0
+png 12 310345 0 0
+js 185 1059248 0 0
+txt 1 9577 0 0
+html 149 1687575 0 0
+Unknown 8 7678 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/wp-content/plugins/woocommerce/readme.txt 1 0 9577
+/robots.txt 0 1 69
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+macosx11 2 2
+linux 338 54
+Unknown 617 616
+macosx6 2 2
+winxp 4 4
+win10 56 27
+win7 55 55
+macosx12 66 43
+winlong 5 5
+linuxandroid 81 8
+macosx10 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 42
+chrome59.0.3071.104 6 6
+netscape 1 1
+chrome57.0.2987.133 1 1
+chrome71.0.3578.98 1 1
+chrome74.0.3729.169 3 3
+chrome86.0.4240.75 27 2
+Unknown 614 613
+chrome84.0.4147.89 1 1
+chrome58.0.3029.110 1 1
+chrome5.0.375.99 1 1
+firefox62.0 20 20
+chrome84.0.4147.105 2 1
+safari11.1.2 2 2
+mozilla 2 2
+firefox79.0 1 1
+msie11.0 2 2
+chrome68.0.3440.106 6 3
+firefox59.0 1 1
+chrome58.0.1145.75 1 1
+chrome75.0.3770.80 1 1
+chrome46.0.2754.75 4 4
+firefox64.0 2 2
+opera11.11 2 2
+firefox17.0 43 43
+chrome72.0.3626.119 1 1
+chrome66.0.3359.181 9 9
+chrome85.0.4183.121 1 1
+chrome11.0.696.71 1 1
+chrome70.0.3538.67 308 24
+chrome80.0.3987.116 1 1
+safari5.1 2 2
+safari 4 4
+chrome78.0.3904.108 1 1
+firefox66.0 1 1
+msie6.0 3 3
+chrome86.0.4240.99 28 2
+chrome38.0.1025.166 1 1
+chrome85.0.4183.127 20 1
+chrome81.0.4044.129 2 2
+chrome65.0.3325.181 66 43
+chrome78.26.10.1974 1 1
+chrome86.0.4240.110 32 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Go-http-client/1.1 20201014010726
+WordPress/5.4.2;_http://www.proditelsas.com 20201031232729
+python-requests/2.22.0 20201027002026
+demo 20201015144700
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20201031220750
+Installatron_Plugin/9.1.53 20201031160710
+python-requests/2.24.0 20201030204640
+Mozilla 20201004034831
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+demo 20201015144700
+python-requests/2.22.0 20201027002026
+WordPress/5.4.2;_http://www.proditelsas.com 20201031232729
+Go-http-client/1.1 20201014010726
+python-requests/2.24.0 20201030204640
+Installatron_Plugin/9.1.53 20201031160710
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 189 191
+From1 10 10
+From2 2 2
+From3 0 0
+From4 616 1024
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+301 469 0
+401 4 544
+400 21 401
+302 6 0
+404 284 4860952
+405 3 120
+500 1 1198
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 177
+/wp-admin/links.php 1 http://site.ru
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/wp-content/themes/dunag/db.php 2 http://site.ru
+/wp-content/plugins/duplicator/readme.txt 3 -
+/media-admin.php 1 -
+/wp-includes/class-snoopi.php.suspected 1 http://site.ru
+/wp-content/db-cache.php 1 proditelsas.com
+/assets/images/ups.php.suspected 2 http://site.ru
+/blog/.env 2 -
+/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/themes/howto_wp/metaboxs/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-m.php 2 http://site.ru
+/wp-content/uploads/2020/04/doc.php 1 http://site.ru
+/wp-content/uploads/2020/07/wp-plugins.php 1 http://site.ru
+/gank.php.PhP 1 -
+/license.php 1 proditelsas.com
+/wp-content/themes/distance-lite/languages/namespaces.php 2 http://site.ru
+/installer.php 4 -
+/wp-content/uploads/2020/04/blackhat.php 2 http://site.ru
+/wp-content/plugins/hot-blocks/huh.php 1 proditelsas.com
+/wp-content/themes/CP20/doc.php 2 http://site.ru
+/wp-content/uploads/2019/03/content-post.php 1 http://site.ru
+/wp-content/plugins/realia/libraries/PayPal-PHP-SDK/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-admin/includes/class-wp-filesystem-import.php 1 http://site.ru
+/wp-admin/network/sitenets.php5 1 http://site.ru
+/cache/accesson.php 1 -
+/laravel/.env 2 -
+/cache/accesson1.php 1 -
+/wp-includes/SimplePie/Pattern.php 1 http://site.ru
+/api/signup 1 -
+/wp-includes/Text/Diff/Engine/embed.php 2 http://site.ru
+/wp-content/plugins/badgeup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/shop/.env 2 -
+/phpunit/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/redirection/models/wp-contentt.php 1 http://site.ru
+/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wikindex.php 1 proditelsas.com
+/lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/themes/blogoholic/tbl_status.php 1 proditelsas.com
+/wp-content/uploads/2020/04/content-post.php 2 http://site.ru
+/wp-content/plugins/wp-file-manager/readme.txt 4 -
+/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/comida/ 6 -
+/test/simple.php5 1 http://site.ru
+/wp-content/themes/Divi-child/inc/meta/tests/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/ghjk.php.suspected 1 http://site.ru
+/vendor/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/mir-ad-network/base58php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/uploads/2020/06/content-post.php 1 http://site.ru
+/wp-content/themes/CP20/content-post.php.suspected 1 http://site.ru
+/wp-content/themes/enfold-child/update_script/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/lib/phpunit/phpunit/Util/PHP/eval-stdin.php 1 -
+/config.php 1 proditelsas.com
+/cache/simple.php5 1 http://site.ru
+/assets/images/accesson.php 1 -
+/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/admin/.env 2 -
+/wp-content/plugins/product-input-fields-for-woocommerce/readme.txt 2 -
+/engl/pages.php 1 proditelsas.com
+/wp-content/plugins/background-image-cropper/ups.php.suspected 1 http://site.ru
+/api/.env 2 -
+/wp-content/plugins/miniorange-2-factor-authentication/readme.txt 1 -
+/popcorn.php.suspected 1 http://site.ru
+/wp-admin/user/user-profile.php 1 http://site.ru
+/wp-content/themes/skand/tbl_status.php 1 proditelsas.com
+/wp-content/plugins/wp-file-manager/lib/files/index3.php 1 proditelsas.com
+/wp-content/plugins/background-image-cropper/simple.php5 3 http://site.ru
+/simple.php5 2 http://site.ru
+/phpunit/phpunit/Util/PHP/eval-stdin.php 1 -
+/ups.php 5 http://site.ru
+/wp-content/uploads/404.php 1 http://site.ru
+/admin/ckeditor/plugins/ajaxplorer/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/installer-backup.php 3 -
+/wp-content/plugins/turtle-ad-network/base58php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-includes/qw.php 1 proditelsas.com
+/wp-content/plugins/js_composer_theme/vendor/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/wp-heyloyalty/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/wc-frontend-manager/readme.txt 1 -
+/wp-content/plugins/wp-members/assets/js/wpmem-nav-menu.min.js 1 proditelsas.com
+/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/assets/images/index3.php 2 proditelsas.com
+/wp-content/plugins/background-image-cropper/index3.php 1 proditelsas.com
+/wp-admin/user/mide.php 1 http://site.ru
+/.env 2 -
+/vendor/phpunit/Util/PHP/eval-stdin.php 1 -
+/public/.env 2 -
+/wp-content/themes/howto_wp/metabox/tests/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-admin/network/sitenet.php5 1 http://site.ru
+/wp-content/uploads/2020/08/blackhat.php 2 http://site.ru
+/wp-content/uploads/2020/09/content-post.php 2 http://site.ru
+/wp-content/plugins/background-image-cropper/simple.php5.suspected 1 http://site.ru
+/wp-content/themes/Divi-child/inc/metas/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/_.php 1 http://site.ru
+/wp-content/uploads/2020/10/content-post.php 1 http://site.ru
+/wp-content/plugins/background-image-cropper/header-cache.php.suspected 1 http://site.ru
+/wp-content/wp-info.php 1 http://site.ru
+/wp-content/plugins/product-lister-walmart/marketplaces/walmart/lib/walmart-signature/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wordpress/wp-admin/setup-config.php 1 -
+/wp-admin/maint/images.php 2 http://site.ru
+/reservas/ 8 -
+/vendor/phpunit/phpunit/Util/PHP/eval-stdin.php 1 -
+/wp-content/uploads/2020/04/content-post.php.suspected 2 http://site.ru
+/blog/wp-login.php 1 http://proditelsas.com/blog/wp-login.php
+/vendor/.env 2 -
+/cache/s_noeval.php 1 -
+/wp-content/plugins/aspose-pdf-importer/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/themes/twentynineteen/style.php 2 http://site.ru
+/wp-content/plugins/jannes-mannes-social-media-auto-publisher/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/img.php 2 http://site.ru
+/wp-content/plugins/user-export-with-their-meta-data/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/waves-ad-network/base58php/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/content-post.php 3 http://site.ru
+/wp-content/plugins/apikey/apikey.php 1 -
+/test/.env 2 -
+/admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/contabileads/integracoes/mautic/api-library/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/lib/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/assets/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/humans.txt 1 http://proditelsas.com/humans.txt
+/wp-content/plugins/angwp/UPDATES.txt 2 -
+/wp-content/wp-muen.php 1 http://site.ru
+/wp-content/plugins/apikey/betoexploit.php 1 -
+/sitemap.xml 3 -
+/new_side.php.suspected 2 http://site.ru
+/wp-content/admin.php 1 http://site.ru
+/wp-content/uploads/2020/08/content-post.php 1 http://site.ru
+/wp-content/plugins/wptimetoread/vendor/kdaviesnz/timetoread/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/baindex.php 1 proditelsas.com
+/checkout/ 1 -
+/wp-content/plugins/hulk/css.php 1 proditelsas.com
+/ajax-index.php 2 proditelsas.com
+/wp-content/uploads/2020/10/blackhat.php 2 http://site.ru
+/siteindex.php 1 -
+/vendor/phpunit/phpunit/phpunit.xsd 15 -
+/wp-includes/Requests/Cookie/images.php 1 http://site.ru
+/wp-content/plugins/affinipay-payment-gateway/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/sites/all/libraries/php-curl-class/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/cpl.php 1 proditelsas.com
+/ads.txt 2 http://proditelsas.com/ads.txt
+/wp-content/plugins/angwp/assets/fonts/font-awesome/css/font-awesome.min.css 2 -
+/wp-content/plugins/contact-form-7-to-database-extension/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/background-image-cropper/doc.php 5 http://site.ru
+/sites/.env 2 -
+/wp-includes/widgets/class-wp-widget-header.php 1 http://site.ru
+/zinold.php 1 proditelsas.com
+/system/.env 2 -
+/wp-info.php 2 http://site.ru
+/cache/index3.php 1 proditelsas.com
+/wp-admin/code87/5.php 1 http://site.ru
+/wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/uploads/2020/10/ups.php 2 http://site.ru
+/wp-content/plugins/message-business/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-1ogin_bak.php 1 -
+/wp-content/plugins/background-image-cropper/wp-console.php.suspected 1 http://site.ru
+/wp-admin/includes/images.php 1 http://site.ru
+/wp-content/uploads/2020/09/doc.php 1 http://site.ru
+/index3.php 1 proditelsas.com
+/ 6 http://proditelsas.com///
+/wp-content/plugins/custom-registration-form-builder-with-submission-manager/readme.txt 1 -
+/wp-content/uploads/2020/09/blackhat.php 2 http://site.ru
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 11 www.google.com
+/wp-content/plugins/prh-api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/docindex.php 1 http://site.ru
+/wp-content/plugins/WP_Estimation_Form/assets/css/lfb_frontendPackedLibs.min.css 2 -
+/wp-content/plugins/woocommerce-software-license-manager/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/mini.php 1 http://site.ru
+/lib/phpunit/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/shortcode-tumblr-gallery/includes/lib/Guzzle/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/rollbar/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/themes/matrimony/tbl_status.php 1 proditelsas.com
+/lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/plugins/background-image-cropper/ups.php 4 http://site.ru
+/.git/config 1 http://proditelsas.com/.git/config
+/wp-content/plugins/background-image-cropper/content-post.php.suspected 1 http://site.ru
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 100
+107.180.46.150 632 632 443370 20201031232729
+193.148.18.83 17 40 411450 20201016225353
+107.175.129.51 11 11 110853 20201015015538
+168.81.94.236 10 10 100056 20201018072727
+23.251.159.17 4 28 542865 20201004200248
+35.224.70.124 4 28 542865 20201007105152
+35.193.91.173 4 28 542865 20201002190312
+39.104.14.100 4 4 37086 20201013083514
+35.232.99.165 4 28 542865 20201005085150
+186.30.116.242 4 32 691404 20201021163546
+35.222.223.13 4 27 541810 20201008234437
+35.222.246.241 4 27 541810 20201008235129
+35.238.54.35 3 26 532540 20201008112530
+35.194.42.125 3 27 533595 20201006101420
+64.202.184.249 3 3 10893 20201007115305
+46.17.106.61 3 6 167166 20201006120743
+35.188.129.62 3 27 533595 20201002082551
+69.163.225.112 3 3 10893 20201023112706
+91.134.142.57 3 3 10893 20201017065855
+35.222.25.162 3 27 533595 20201006223123
+34.66.129.103 3 27 533595 20201005220314
+35.194.0.43 2 25 523270 20201002080152
+78.46.106.89 2 2 64236 20201009051816
+173.214.194.187 2 2 18540 20201018072729
+193.106.30.100 2 2 0 20201029222612
+118.24.106.70 1 1 9270 20201014010726
+93.152.140.4 1 1 9270 20201011163307
+176.10.104.240 1 1 9270 20201014121038
+84.78.251.149 1 20 151557 20201004060132
+52.40.230.254 1 1 9270 20201004092940
+18.236.135.210 1 1 9270 20201011091456
+192.71.38.71 1 1 9270 20201009101552
+34.219.8.9 1 1 9270 20201006092049
+52.38.97.54 1 1 9270 20201007092840
+193.202.81.253 1 1 416 20201014230136
+51.89.230.56 1 1 9270 20201019041603
+149.56.85.16 1 1 238 20201025120011
+40.76.66.17 1 1 9270 20201013041604
+66.249.83.218 1 1 9270 20201023053725
+208.109.9.160 1 1 2036 20201009221141
+35.185.241.102 1 1 32118 20201013055136
+167.86.104.186 1 1 9270 20201008231021
+173.252.127.118 0 13 82004 
+54.173.80.106 1 1 32118 20201028191732
+45.132.184.72 1 1 416 20201014230121
+35.202.33.144 1 1 9270 20201020185959
+132.148.82.1 1 1 2036 20201025183431
+104.131.93.91 1 1 32118 20201005082833
+173.252.127.29 0 7 107797 
+62.210.92.175 1 1 9270 20201019100017
+212.186.182.133 1 1 2036 20201008100305
+51.159.18.103 1 1 9270 20201004113427
+34.125.170.103 1 1 9273 20201026072446
+185.250.45.235 1 1 9270 20201021172138
+104.248.70.30 1 1 32175 20201014124639
+35.232.184.35 1 1 9270 20201014080023
+13.66.53.236 2 2 18540 20201030204640
+173.252.127.22 1 6 280932 20201011060100
+181.115.141.118 2 28 434669 20201023053744
+78.85.206.27 2 2 64236 20201028062544
+54.184.42.164 1 1 9270 20201005092145
+172.98.82.164 2 2 19601 20201023192805
+107.175.129.182 1 1 9270 20201015015524
+192.169.201.24 1 1 32175 20201024031701
+51.255.95.82 1 1 32175 20201019125217
+44.234.252.28 1 2 18847 20201014072031
+128.90.139.199 2 2 9842 20201007130043
+173.252.127.15 1 2 55878 20201011060058
+34.68.99.197 1 1 9270 20201016111400
+78.47.243.148 1 1 9273 20201016174421
+104.238.101.191 1 1 2036 20201027221903
+34.222.235.175 1 1 9270 20201027093754
+193.27.229.26 1 1 7797 20201027090602
+148.72.64.192 1 1 2036 20201021231920
+198.12.229.7 1 1 2036 20201021170102
+3.16.112.165 1 1 32118 20201008021558
+78.47.173.55 1 1 9270 20201026123358
+51.75.125.173 1 1 32175 20201020210633
+62.210.83.78 1 1 9270 20201005141138
+54.212.162.103 1 1 9270 20201015090914
+91.208.99.2 1 1 32118 20201014150217
+104.131.60.188 1 1 32118 20201031220750
+141.98.102.243 1 1 8441 20201020065517
+173.236.146.172 1 1 2036 20201017125650
+172.98.72.95 2 2 64236 20201008151856
+194.67.108.146 1 1 2036 20201015144700
+209.250.224.76 1 1 2036 20201017195538
+89.163.128.80 1 1 9270 20201028175722
+162.243.126.96 1 1 32118 20201010030333
+173.255.246.21 1 1 9270 20201002152643
+34.66.7.170 1 1 9270 20201019174750
+65.151.152.27 1 1 2036 20201004034831
+35.225.82.186 1 1 9270 20201027002026
+34.67.163.6 1 1 9270 20201013061416
+148.72.211.177 2 2 4072 20201021234645
+51.15.174.151 1 1 9270 20201004192800
+216.145.17.190 1 1 9270 20201017163208
+34.222.78.46 1 1 9270 20201022093514
+35.245.188.175 1 1 32118 20201013055352
+54.191.74.112 1 1 9270 20201002094407
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20201001 8 8 20286 3
+20201002 25 96 1628662 11
+20201003 10 10 10392 5
+20201004 28 71 734660 15
+20201005 30 78 1137510 14
+20201006 26 77 1263912 10
+20201007 33 57 593156 10
+20201008 43 112 1744604 15
+20201009 19 19 85934 11
+20201010 23 23 42510 6
+20201011 19 44 555612 13
+20201012 18 18 20784 9
+20201013 20 20 130254 9
+20201014 24 25 122174 14
+20201015 37 37 141821 12
+20201016 46 69 440385 14
+20201017 30 30 45019 12
+20201018 34 34 128490 12
+20201019 34 34 80769 11
+20201020 25 25 59780 13
+20201021 33 61 729602 14
+20201022 20 20 29556 9
+20201023 39 65 484327 13
+20201024 21 21 42567 7
+20201025 21 21 12666 12
+20201026 22 22 28935 9
+20201027 37 37 81275 17
+20201028 25 25 83898 13
+20201029 27 27 10392 10
+20201030 23 23 39324 8
+20201031 17 17 52902 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 26
+2mn-5mn 6
+30mn-1h 43
+0s-30s 221
+30s-2mn 5
+5mn-15mn 20
+15mn-30mn 20
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 106
+/wp-cron.php 515 0 202 227
+/ 116 1308648 73 71
+/wp-admin/admin-ajax.php 31 0 8 12
+/wp-login.php 15 30540 15 12
+/titulo-de-la-publicacion-en-el-blog/ 9 86383 2 4
+/wp-json/oembed/1.0/embed 6 6846 0 0
+/author/admin/ 5 42205 1 1
+/index.php 5 136497 5 5
+/xmlrpc.php 4 1156 3 1
+/pqr/ 4 46512 0 1
+/wp-includes/wlwmanifest.xml 3 1380 0 0
+// 3 26565 0 0
+//wp-json/wp/v2/users/ 3 1248 0 3
+/wp-json/ 3 148434 0 0
+/cobertura/ 3 25756 0 0
+/wp-json/wp/v2/users 2 832 2 2
+/deleteme.chatdpkn.php 1 2483 1 0
+/deleteme.chaflikn.php 1 2483 1 0
+/deleteme.wpynau.php 1 7909 0 0
+/deleteme.cha2rduo.php 1 2483 1 0
+/deleteme.cha0djnz.php 1 2483 1 0
+/deleteme.wpoy4s.php 1 7909 0 0
+/deleteme.chadxote.php 1 2483 1 0
+/deleteme.chalwdz0.php 1 2483 1 0
+/deleteme.wpzdk7.php 1 7909 0 1
+/deleteme.chahv8mi.php 1 2483 0 0
+/deleteme.wpqcrt.php 1 7411 0 0
+/deleteme.wpaj6q.php 1 7909 0 0
+/deleteme.cha4alri.php 1 2483 0 0
+/deleteme.wp4pgo.php 1 7909 0 0
+/deleteme.chamindf.php 1 2483 0 0
+/deleteme.wpnisw.php 1 7909 0 0
+/deleteme.wpghw6.php 1 7909 0 0
+/deleteme.wproew.php 1 7909 0 0
+/deleteme.wpu0ul.php 1 7909 0 0
+/deleteme.wp2fso.php 1 7909 0 0
+/deleteme.wpkveg.php 1 7909 0 0
+/deleteme.wper8g.php 1 7411 0 0
+/deleteme.chapeiuo.php 1 2483 1 0
+/deleteme.chaaavin.php 1 2483 0 0
+/deleteme.chabyr2g.php 1 2483 1 0
+/deleteme.wppbxr.php 1 7909 0 0
+/deleteme.wp0vcx.php 1 7909 0 0
+/deleteme.chajzpip.php 1 2483 0 0
+/deleteme.wpsgcs.php 1 7909 0 0
+/deleteme.wplog2.php 1 7909 0 0
+/titulo-de-la-publicacion-en-el-blog/feed/ 1 440 0 0
+/deleteme.chasmbbl.php 1 2483 0 0
+/deleteme.wpa0hp.php 1 7909 0 0
+/deleteme.wppdsf.php 1 7411 0 0
+/deleteme.chaqi38i.php 1 2483 1 0
+/deleteme.chaj4hcv.php 1 2483 1 0
+/deleteme.chactq5v.php 1 2483 0 0
+/deleteme.chakvncr.php 1 2483 1 0
+/deleteme.chasiocr.php 1 2483 1 0
+/deleteme.chazkjcc.php 1 2483 1 0
+/deleteme.chacxd68.php 1 2483 1 0
+/deleteme.chatgb5s.php 1 2483 0 0
+/deleteme.chak7fgt.php 1 2483 0 0
+/deleteme.cha0zv0b.php 1 2483 0 0
+/deleteme.wpbtcu.php 1 7909 0 0
+/deleteme.wpabyl.php 1 7909 0 0
+/deleteme.wp0a0b.php 1 7909 0 0
+/deleteme.cha9ct9m.php 1 2483 1 0
+/deleteme.wpdpql.php 1 7909 0 0
+/deleteme.chaagdhz.php 1 2483 1 0
+/deleteme.cha73am9.php 1 2483 1 0
+/deleteme.wpyxtg.php 1 7909 0 0
+/deleteme.chavjzmt.php 1 2483 1 0
+/deleteme.wpwxvc.php 1 7909 0 0
+/deleteme.chadswmp.php 1 2483 0 0
+/deleteme.chamwk2w.php 1 2483 1 0
+/deleteme.chabaqfd.php 1 2483 1 0
+/deleteme.wpnpj6.php 1 7909 0 0
+/deleteme.chaptpxx.php 1 2483 1 0
+/deleteme.chaiew6v.php 1 2483 1 0
+/deleteme.chak0kxr.php 1 2483 0 0
+/deleteme.wpnx80.php 1 7909 0 0
+/deleteme.chacbw8e.php 1 2483 1 0
+/deleteme.chaht5bc.php 1 2483 1 0
+/deleteme.chaonqzd.php 1 2483 1 0
+/deleteme.chalq1u2.php 1 2483 1 0
+/deleteme.wpcozz.php 1 7411 0 0
+/deleteme.wprc74.php 1 7909 0 0
+/deleteme.wpwj0f.php 1 7411 0 0
+/feed/ 1 987 0 0
+/deleteme.chajbjnk.php 1 2483 1 0
+/deleteme.wp14wr.php 1 7909 0 0
+/deleteme.wpbnfg.php 1 7909 0 0
+/deleteme.wppfny.php 1 7909 0 0
+/comments/feed/ 1 397 0 0
+/deleteme.wpew4e.php 1 7909 0 0
+/deleteme.cha3ppjq.php 1 2483 1 0
+/deleteme.wpd1rd.php 1 7909 0 0
+/deleteme.wpjeru.php 1 7411 0 0
+/deleteme.chaiywol.php 1 2483 1 0
+/deleteme.wp2rhh.php 1 7909 0 0
+/deleteme.wphiyv.php 1 7411 0 0
+/deleteme.wpdky7.php 1 7909 0 0
+/deleteme.chaqdlqr.php 1 2483 0 0
+/deleteme.wpzfaq.php 1 7909 0 0
+/deleteme.wpdu4h.php 1 7909 0 0
+/deleteme.wp1qzi.php 1 7909 0 0
+/deleteme.wpjx0c.php 1 7909 0 0
+/deleteme.chatksou.php 1 2483 1 0
+/wp-admin/install.php 1 572 0 1
+END_SIDER

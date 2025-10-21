@@ -1,0 +1,70 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id iAmtG71B0madEiIA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 30 Aug 2024 15:03:41 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 30 Aug 2024 15:03:41 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sk9iX-009OzR-1J
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 30 Aug 2024 15:03:41 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sk9iO-009OtB-3A@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sk9iX-009OzR-1J@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 30 Aug 2024 15:03:41 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sk9iO-009OtB-3A
+	for servicioalcliente@serkoi.com;
+	Fri, 30 Aug 2024 15:03:32 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 149.34.252.53
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 149.34.252.53
+From:
+Message-Id: <E1sk9iO-009OtB-3A@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 30 Aug 2024 15:03:32 -0700
+
+De: Nila Cope. 
+Correo: . 
+Telefono: 0348 8630180. 
+Mensaje: Hi proditelsas.com owner,
+
+Are you tired of the catering chaos? Lunch On Line is here to be your superhero! Whether you're a restaurant looking to boost your business or a corporate client seeking delicious food options, we've got you covered.
+
+For Restaurants:
+--> Level up your catering revenue: Reach a wider audience and attract more corporate clients.
+--> Market your magic: Our free marketing tools will help you shine. FREE LANDING PAGE for lead capturing!
+--> Get expert support: Our team is always ready to assist you.
+--> Easy to navigate platform!
+
+For Corporate Clients:
+--> Choose your foodie adventure: With a variety of restaurants, there's something for everyone.
+--> Order with a click: Say goodbye to the hassle of traditional catering.
+--> Enjoy hassle-free delivery: Sit back, relax, and let us handle the logistics.
+--> Earn freebies with our loyalty program: Enjoy a discount on your second order.
+--> Get as much as 15,000 loyalty points upon sign up!
+
+Ready to level up your catering game? Sign up today and experience the Lunch On Line difference!
+
+CLICK HERE https://app.allyvirtual.com/v2/preview/OHRUNqCcYo93Er01O0Zk?notrack=true TO SEND US DETAILS
+
+Best regards, 
+The Lunch On Line Team
+https://app.allyvirtual.com/v2/preview/OHRUNqCcYo93Er01O0Zk?notrack=true. 
+

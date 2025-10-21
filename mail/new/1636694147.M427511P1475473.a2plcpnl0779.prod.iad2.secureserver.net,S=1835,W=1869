@@ -1,0 +1,34 @@
+Return-Path: <noreply@a2plcpnl0779.prod.iad2.secureserver.net>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 0JZhGYP4jWGRgxYAoisFWw
+	(envelope-from <noreply@a2plcpnl0779.prod.iad2.secureserver.net>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 11 Nov 2021 22:15:47 -0700
+Return-path: <noreply@a2plcpnl0779.prod.iad2.secureserver.net>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 11 Nov 2021 22:15:47 -0700
+Received: from root by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	(envelope-from <noreply@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1mlO3S-005PH5-VT
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Thu, 11 Nov 2021 21:20:47 -0700
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Subject: [Installatron] Proditel SAS backup now available
+Date: Thu, 11 Nov 2021 21:20:46 -0700
+From: noreply@a2plcpnl0779.prod.iad2.secureserver.net
+Message-ID: <086859f2d3049ac6a1a96c8aa167241f@a2plcpnl0779.prod.iad2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.57
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+The backup process for Proditel SAS located at http://www.proditelsas.com has succeeded.
+
+/home/z1h9uk8mq9i3/application_backups/app_proditelsas-com_Proditel-SAS_2021-11-11_21-20-26.tar.gz
+Backup size: 0.19MB
+
+To use this backup, login to your web hosting control panel and navigate to the Installatron tool.
+
+End of report.
+

@@ -1,0 +1,155 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 4Gr6KDiTNWWLRhIAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sun, 22 Oct 2023 14:25:12 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sun, 22 Oct 2023 14:25:12 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qufwe-0053s0-JN
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sun, 22 Oct 2023 14:25:12 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qufwZ-0053qf-EE@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1698009912-eximdsn-1687017744
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qufwe-0053s0-JN@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 22 Oct 2023 14:25:12 -0700
+
+--1698009912-eximdsn-1687017744
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 ufweqsYhWwCPu :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=euwZjKlX c=1 sm=1 tr=0 ts=65359338 p=DuN_re4gAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=AFidL367DRyOsf594ywA:9 a=Cq73Oz57mFVoJwi2v3Be:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1698009912-eximdsn-1687017744
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 ufweqsYhWwCPu :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=euwZjKlX c=1 sm=1 tr=0 ts=65359338 p=DuN_re4gAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=AFidL367DRyOsf594ywA:9 a=Cq73Oz57mFVoJwi2v3Be:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1698009912-eximdsn-1687017744
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qufwZ-0053qf-EE
+	for servicioalcliente@serkoi.com;
+	Sun, 22 Oct 2023 14:25:12 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.106.20.169
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.106.20.169
+From:
+Message-Id: <E1qufwZ-0053qf-EE@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 22 Oct 2023 14:25:07 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: James Gordon. 
+Correo: . 
+Telefono: 0395 1438048. 
+Mensaje: AI is here to change the world, and people are going crazy over it
+
+So the question is, would you like a piece of that pie?
+
+
+BrainBox - The World’s First AI App Let You Launch Your Own “ChatGPT-like” AI Chatbot with 50 stunning AI features
+
+You can even customize this AI Chatbot with your own domain, branding and style and charge people for using it.
+
+Forget paying huge fees for Content Writers, Programmers, Designers, Translators, Video Editors, SEO Experts, Customer Support, etc
+
+
+BrainBox handles all of that for you 100%
+
+ >> Click Here To See The Live Demo & Get Full Access Before Price Increases
+
+ Use my coupon code:  bit.ly/BrainBoxDiscount
+
+
+
+To get access to BrainBox you need just 4 easy steps away 
+
+Step1: Login to BrainBox Cloud-Based App ( super-easy to navigate dashboard)
+
+Step 2: Create- With Just One Click, Create Your Very Own ChatGPT-Like AI Chatbot( this takes just few minutes)
+
+Step 3: Now Launch- You’re Ready To Charge Millions Of Hungry Customers For Using Your Very Own AI Chatbot.
+
+Step 4: Start Getting Paid by your Customers and Clients 
+
+
+BrainBox comes with over 50 AI features that which includes ;
+
+Write engaging, high quality content for videos, blogs, scripts, emails, newsletters, ebooks literally anything
+
+
+Turn plain text into engaging, professional videos that attract thousands of free hits of traffic
+
+
+Generate the best AI designs that put 99% of graphic designers to shame, in just seconds
+
+
+Design salespages, sales funnels, fully functional blogs
+
+
+Proofread your writing without paying anything
+
+
+Translate your writing to over 50 different languages and profit
+
+
+That’s just a tiny fraction of all the features that BrainBox has to offer…
+
+
+Using BrainBox will give you full control and cut down your expenses on hiring freelancers that give you low service .
+
+>> Get Unlimited Access to BrainBox AI Technology 
+
+bit.ly/BrainBoxDiscount
+
+
+
+And to make this a no-brainer, the first 25 people will get full access to my 100 bonuses.
+
+PS: If you act now, you will instantly receive [bonuses] worth over $14,659.44... This bonus is designed specifically to help you get 10x the results, in half the time required
+
+
+>>Click here to secure your access to BrainBox today
+
+bit.ly/BrainBoxDiscount
+
+
+
+Sincerely,
+
+James
+. 
+
+
+--1698009912-eximdsn-1687017744--

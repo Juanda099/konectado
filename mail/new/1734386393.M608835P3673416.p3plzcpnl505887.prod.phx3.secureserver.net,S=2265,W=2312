@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id SIK3I9miYGdIDTgA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 16 Dec 2024 14:59:53 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 16 Dec 2024 14:59:53 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tNJ85-00FUvT-1j
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 16 Dec 2024 14:59:53 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tNJ7v-00FUu9-2O@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1tNJ85-00FUvT-1j@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 16 Dec 2024 14:59:53 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tNJ7v-00FUu9-2O
+	for servicioalcliente@serkoi.com;
+	Mon, 16 Dec 2024 14:59:43 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.105.143.69
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.105.143.69
+From:
+Message-Id: <E1tNJ7v-00FUu9-2O@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 16 Dec 2024 14:59:43 -0700
+
+De: King Greensony. 
+Correo: . 
+Telefono: 882263405. 
+Mensaje: Hey, it's King Greensony. We have a ton of leads available for proditelsas.com Who's a good contact to get these forwarded to you? Here's a link to my calendar: https://kinggreensony.com/ - I look forward to speaking with you.. 
+

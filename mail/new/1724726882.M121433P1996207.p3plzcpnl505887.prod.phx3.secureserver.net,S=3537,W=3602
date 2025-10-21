@@ -1,0 +1,65 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id iScUBmI+zWavdR4A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 26 Aug 2024 19:48:02 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 26 Aug 2024 19:48:02 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1simFW-008NIL-00
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 26 Aug 2024 19:48:02 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1simFI-008N2V-2A@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1simFW-008NIL-00@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 26 Aug 2024 19:48:02 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1simFI-008N2V-2A
+	for servicioalcliente@serkoi.com;
+	Mon, 26 Aug 2024 19:47:48 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 46.37.120.44
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 46.37.120.44
+From:
+Message-Id: <E1simFI-008N2V-2A@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 26 Aug 2024 19:47:48 -0700
+
+De: Natasha Payne. 
+Correo: . 
+Telefono: 9092132135. 
+Mensaje: Hey, I visited your site and I think that your content is amazing! It is really engaging and original, you must have worked so hard to generate such a quality content.
+
+My name is Natasha from ForeMedia and I help website owners with great websites to maximize the revenue they make from their website.
+
+I would love to buy Ad Spaces on your website and pay you per each impression of the ads on your site. We are Google Ad Exchange Premium partners and we work with more than 100 Ad Network & thousands of premium direct advertisers who would LOVE to buy Ads directly from your site and we can guarantee to increase your revenue by at least 45% compared to other advertising solutions you are currently using.
+
+You deserve to earn more for your content and maximize your earning potential and I will help you unlock that potential!
+
+There is no cost, you can register to our monetization platform for free on this link: https://foremedia.pro/Z0Jrj
+I will be available for you on the Live Chat if you need any help, or you can email me back to: natasha@foremedia.pro if you have any questions.
+
+I have at least 17 Premium Advertisers that have asked me to approach you because they would like to advertise on your website on Premium eCPM [cost per impressions] basis.
+
+Have a good day & feel free to ping me for any question!
+
+Click the link here for 1 minute registration to our platform [it's free!]: https://foremedia.pro/Z0Jrj
+
+ForeMedia - Earn Money With Your Website
+https://foremedia.pro/Z0Jrj. 
+

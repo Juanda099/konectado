@@ -1,0 +1,134 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id KMFbJO1numae6xQA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 12 Aug 2024 12:52:13 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 12 Aug 2024 12:52:13 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sdb5R-005ljj-1m
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 12 Aug 2024 12:52:13 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sdb5H-005li1-2A@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1723492333-eximdsn-1779837944
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sdb5R-005ljj-1m@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 12 Aug 2024 12:52:13 -0700
+
+--1723492333-eximdsn-1779837944
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 db5RsAxEcblTT :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=X4+ZK3Te c=1 sm=1 tr=0 ts=66ba67ed p=tfA_TzRyAAAA:8 p=KFsqWjQNR2tUSZan1OZx:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=smrCSdiaAAAA:8 a=STi4DUuf5Ty_gvEuaJAA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=1hLqZxhoj7b8J0iEYjPs:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1723492333-eximdsn-1779837944
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 db5RsAxEcblTT :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=X4+ZK3Te c=1 sm=1 tr=0 ts=66ba67ed p=tfA_TzRyAAAA:8 p=KFsqWjQNR2tUSZan1OZx:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=smrCSdiaAAAA:8 a=STi4DUuf5Ty_gvEuaJAA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=1hLqZxhoj7b8J0iEYjPs:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1723492333-eximdsn-1779837944
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sdb5H-005li1-2A
+	for servicioalcliente@serkoi.com;
+	Mon, 12 Aug 2024 12:52:13 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.152.96
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.152.96
+From:
+Message-Id: <E1sdb5H-005li1-2A@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 12 Aug 2024 12:52:03 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Myrtle Schmitt. 
+Correo: . 
+Telefono: (02) 6127 8957. 
+Mensaje: Hey
+
+Imagine If you get Access to All the Powerful AIs from One Dashboard
+and not only that-  You can sell their service too with inbuilt system...
+
+Access World's Best Premium AI App Collection Create
+& Sell World-Class AI Contents & Marketing Materials - With ZERO M0nthly F'ees: https://www.earnmillions.xyz/oneai 
+
+
+Here's What You'll Will Accessing For L1fetime F-REE
+
+Open AI ChatGPT 4.0 Cost $240/Y You P'ay $0
+Gemini Cost $330/Y You P'ay $0
+Dall E3 Cost $210/Y You P'ay $0
+Leoanardo AI $429/Y You P'ay $0
+Copilot $270/Y You P'ay $0
+Llama 3 $540/Y You P'ay $0
+Stable Diffusion XL $180/Y You P'ay $0
+PaLM2 $390/Y You P'ay $0
+
+=> Go here to Watch How it works: https://www.earnmillions.xyz/oneai 
+
+Use C0upon: ONEAI30 ( 30% 0ff full funnel )
+
+VVIP Bonus #1 ZEUS - "Set & Forget A.I. App" that transforms TikTok into a viral traffic machine,
+
+VVIP Bonus #2 Fusion - World's First A.I. App Exploits "Instagram Threads" for Free Traffic, Leads, & Sales Instantly!
+
+VVIP Bonus #3 Quantum - ChatGPT Add-On Creates "Faceless YouTube™ Channels",
+
+Go Fast and Secure your copy=>: https://www.earnmillions.xyz/oneai 
+
+Use C0upon: ONEAI30 ( 30% 0ff full funnel )
+
+Exclusive Bonus1:  SendPal AI
+Exclusive Bonus2: GraphicX
+Exclusive Bonus3: InfinityBlog
+
++ You will get 2 F-ree Upgrades
+
+F-REE UPGRADE1: One AI Website Conversion Builder (OTO11)
+F-REE UPGRADE2: One AI DFY FunnelBuilder (OTO12)
+
+Hurry Up!
+
+Only 24 Copies Left
+
+Go Fast and Secure your copy=>: https://www.earnmillions.xyz/oneai 
+
+Myrtle Schmitt
+
+
+
+UNSUBSCRIBE: https://www.earnmillions.xyz/unsubscribe/?d=proditelsas.com   
+Address: 3866 Richison Drive
+Billings, MT 59101. 
+
+
+--1723492333-eximdsn-1779837944--

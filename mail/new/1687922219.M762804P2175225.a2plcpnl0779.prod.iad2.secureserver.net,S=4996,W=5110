@@ -1,0 +1,114 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id KESuKyumm2T5MCEAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 27 Jun 2023 20:16:59 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 27 Jun 2023 20:16:59 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qELfv-0097sb-Jc
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 27 Jun 2023 20:16:59 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qELfq-0097rQ-MX@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1687922219-eximdsn-1981933
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qELfv-0097sb-Jc@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 27 Jun 2023 20:16:59 -0700
+
+--1687922219-eximdsn-1981933
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 ELfvqy4i7PA7H :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Zskraf3G c=1 sm=1 tr=0 ts=649ba62b p=98AdZwmXAAAA:20 p=j5Uhzz_Poz4S2WC9rU8A:9 p=WvdEJ74V8pX1wtShg6pW:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=of4jigFt-DYA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1687922219-eximdsn-1981933
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 ELfvqy4i7PA7H :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Zskraf3G c=1 sm=1 tr=0 ts=649ba62b p=98AdZwmXAAAA:20 p=j5Uhzz_Poz4S2WC9rU8A:9 p=WvdEJ74V8pX1wtShg6pW:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=of4jigFt-DYA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1687922219-eximdsn-1981933
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qELfq-0097rQ-MX
+	for servicioalcliente@serkoi.com;
+	Tue, 27 Jun 2023 20:16:59 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 63.161.78.105
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 63.161.78.105
+From:
+Message-Id: <E1qELfq-0097rQ-MX@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 27 Jun 2023 20:16:54 -0700
+
+De: Mark Manson. 
+Correo: . 
+Telefono: 03.82.98.32.11. 
+Mensaje: How would you like to have a Most Advanced Ai assistant that can help you create 4K HD high-quality Video, graphics, and respond like a human?
+
+Well, your wish has come true! 
+
+Introducing…
+
+Ai Diffusion - The world’s Ai App Create ..
+Ultra HD Ai Videos, 4K HD Ai Images, Ai Cartoon Videos, "Ai Diffusion Videos, Ai Animated Videos, Ai Drawings & Art, Ai Sketch Images, Images To 3D Videos, Ai Logos & Graphics And So Much More... 
+
+ Generate Ultra-HD 4k Videos & Images...
+ Convert Any Video Into Ai Cartoons & Anime Videos In 1-Click...
+ Generate Unlimited Ai Videos In Any Niche Just With A Single Keyword...
+ Comes With Built-in Ai Video & Image Background Remover...
+ Turn Any Normal Image Into Sketch With Just A Single Click...
+ Convert Any Image Into 3D Video In Blink Of An Eye...
+ Built-in GTA V Art & Video Style Maker...
+ Image Inpainting
+ Image Super Resolution
+ Image Colorization
+ Black & White To Color Video
+ Video Background Color Changer
+ Ai Cartoon Generator
+ Night Image Enhancement
+..and much more
+
+
+With Ai Diffusion, you can now spend less time stressing about your creative work and more time doing what you love!
+
+And the best part? 
+
+Ai Diffusion is easy to use! 
+
+
+>> Go & check it out before they take it down: https://shorturl.at/gvJ79 
+
+
+Regards,
+
+Mark. 
+
+
+--1687922219-eximdsn-1981933--

@@ -1,0 +1,112 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id wDz0Ngc2tWYQdiEA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 08 Aug 2024 14:17:59 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 08 Aug 2024 14:17:59 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1scAWF-009CW2-2m
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 08 Aug 2024 14:17:59 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1scAVz-009CRu-2F@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1723151879-eximdsn-754832680
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1scAWF-009CW2-2m@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 08 Aug 2024 14:17:59 -0700
+
+--1723151879-eximdsn-754832680
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 cAWFsOb0aojts :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=O63yvw9W c=1 sm=1 tr=0 ts=66b53607 p=hGVJH9o3AAAA:20 p=tRMby5lP6tnHPXokLYAA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=smrCSdiaAAAA:8 a=pGLkceISAAAA:8 a=RAyd_Vga9Fz3nlDkSn8O:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1723151879-eximdsn-754832680
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 cAWFsOb0aojts :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=O63yvw9W c=1 sm=1 tr=0 ts=66b53607 p=hGVJH9o3AAAA:20 p=tRMby5lP6tnHPXokLYAA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=smrCSdiaAAAA:8 a=pGLkceISAAAA:8 a=RAyd_Vga9Fz3nlDkSn8O:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1723151879-eximdsn-754832680
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1scAVz-009CRu-2F
+	for servicioalcliente@serkoi.com;
+	Thu, 08 Aug 2024 14:17:59 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 154.202.114.135
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 154.202.114.135
+From:
+Message-Id: <E1scAVz-009CRu-2F@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 08 Aug 2024 14:17:43 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Cyrus Sandoval. 
+Correo: . 
+Telefono: . 
+Mensaje: Hi,
+
+I just saw your proditelsas.com website. I really like the cool design and usability of it. It s really nice.
+
+Let me get to the point.
+
+My name is Cyrus. I am an AI Web Automation Specialist. 
+
+Here are my specialties:
+1. I can automate your content creation like writing articles for websites.
+2. I can automate your social media posts for your social media pages.
+3. I can automate repetitive data entry tasks for Google Docs & Sheets.
+4. I can automate 95% of your newsletter.
+
+I'm here to help you save hours of work, money and man power.
+
+I'm willing to build your 1st automation at no cost and test run it for 3 days.
+
+With that being said, you see the value of what I am about to offer.
+
+If you think you need my expertise with any of the above specializations, let's talk.
+
+I'm available from 7AM to 10AM EST.
+
+You can book a Zoom call here: https://calendly.com/cyrusrsandoval77/
+
+You can choose a day from Monday to Friday.
+
+Thank you.
+
+All the best,
+Cyrus Sandoval
+AI Web Automation Specialist
+cyrusrsandoval77@gmail.com. 
+
+
+--1723151879-eximdsn-754832680--

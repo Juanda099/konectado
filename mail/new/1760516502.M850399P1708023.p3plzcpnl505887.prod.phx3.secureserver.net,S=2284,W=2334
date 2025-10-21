@@ -1,0 +1,50 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id CFhQMZZZ72j3DxoA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 15 Oct 2025 01:21:42 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 15 Oct 2025 01:21:42 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1v8wlS-00000007Xan-36ob
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 15 Oct 2025 01:21:42 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1v8wlI-00000007XCx-3o3y@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1v8wlS-00000007Xan-36ob@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 15 Oct 2025 01:21:42 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1v8wlI-00000007XCx-3o3y
+	for servicioalcliente@serkoi.com;
+	Wed, 15 Oct 2025 01:21:32 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1v8wlI-00000007XCx-3o3y@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 15 Oct 2025 01:21:32 -0700
+
+De: Sarah Riegel. 
+Correo: . 
+Telefono: 350297986. 
+Mensaje: 
+Eager to boost your website’s growth? Our smart technology tool channels precise visitors via keywords or geographic tags from continents to local areas.  
+Looking to more earnings, vibrant users, or stronger online impact?  
+We adapt it to suit your strategy. Enjoy a 7-day free trial period with no contract. Start here:
+
+https://ow.ly/mZQF50WXBjc. 
+

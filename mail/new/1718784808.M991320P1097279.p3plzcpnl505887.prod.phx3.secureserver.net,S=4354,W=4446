@@ -1,0 +1,92 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id uLY9OiiTcmY/vhAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 19 Jun 2024 01:13:28 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 19 Jun 2024 01:13:28 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sJqRc-005Lfg-2w
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 19 Jun 2024 01:13:28 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sJqRF-005LUV-3D@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1718784808-eximdsn-1633216124
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sJqRc-005Lfg-2w@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 19 Jun 2024 01:13:28 -0700
+
+--1718784808-eximdsn-1633216124
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 JqRWsNeDYdNnL :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=YO1UygGx c=1 sm=1 tr=0 ts=66729328 p=A4Zp3o-xPhxdC57ZBh0A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=ENu0EqHvAAAA:8 a=KI3iuxQ6jPyI5oPBmHAa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=qqn0VoeEiG7g9gUOz8V3:22 ::
+    97.00
+
+--1718784808-eximdsn-1633216124
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 JqRWsNeDYdNnL :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=YO1UygGx c=1 sm=1 tr=0 ts=66729328 p=A4Zp3o-xPhxdC57ZBh0A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=ENu0EqHvAAAA:8 a=KI3iuxQ6jPyI5oPBmHAa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=qqn0VoeEiG7g9gUOz8V3:22 :: 97.00
+
+--1718784808-eximdsn-1633216124
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sJqRF-005LUV-3D
+	for servicioalcliente@serkoi.com;
+	Wed, 19 Jun 2024 01:13:22 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 45.86.203.179
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 45.86.203.179
+From:
+Message-Id: <E1sJqRF-005LUV-3D@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 19 Jun 2024 01:13:05 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Marlene Hockaday. 
+Correo: . 
+Telefono: 638850027. 
+Mensaje: Vetted Businesses close 60% more leads due to elevated trust, transparency & credibility.
+Start Your 30 Day Free Trial & and see results for yourself!
+Get more info linked in my signature below. 
+USA Businesses Only
+
+Sarah McCormick
+Vetted Business Specialist
+295 Seven Farms Drive Suite C-201
+Charleston, SC 29492
+Sarah.McCormick@VettedPros.com
+https://vettedpros.com/1-2/?a=Get-Your-Vetted-30-DAY-FREE-TRIAL! 
+
+Vetted is a game changing platform used by over 85,000 USA based businesses to share & prove their business credentials to amplify trust & transparency with shoppers and close up to 60% more sales than businesses not listed on the Vetted platform.
+. 
+
+
+--1718784808-eximdsn-1633216124--

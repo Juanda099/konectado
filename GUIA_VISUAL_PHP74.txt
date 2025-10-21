@@ -1,0 +1,187 @@
+# 📊 RESUMEN VISUAL: Instalar PHP 7.4 en Laragon
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    PROCESO DE INSTALACIÓN                        │
+│                         PHP 7.4.33                               │
+└─────────────────────────────────────────────────────────────────┘
+
+┌─────────────┐
+│   PASO 1    │  DESCARGAR PHP 7.4
+└─────────────┘
+     │
+     ├──► 🌐 Abrir navegador en:
+     │    https://windows.php.net/downloads/releases/archives/
+     │
+     ├──► 🔍 Buscar archivo:
+     │    php-7.4.33-Win32-vc15-x64.zip
+     │
+     └──► 💾 Descargar (aprox. 27 MB)
+
+┌─────────────┐
+│   PASO 2    │  EXTRAER Y COPIAR
+└─────────────┘
+     │
+     ├──► 📦 Extraer el archivo ZIP
+     │    (Clic derecho → Extraer todo)
+     │
+     ├──► 📂 Copiar carpeta extraída a:
+     │    C:\laragon\bin\php\
+     │
+     └──► ✏️ Renombrar carpeta a:
+          php-7.4.33
+
+          Estructura final:
+          C:\laragon\bin\php\
+          ├── php-7.4.33\      ← Nueva versión
+          │   ├── php.exe
+          │   ├── php.ini-development
+          │   └── ext\
+          └── php-8.x.x\       ← Versión anterior
+
+┌─────────────┐
+│   PASO 3    │  CREAR php.ini
+└─────────────┘
+     │
+     ├──► 📄 Ir a: C:\laragon\bin\php\php-7.4.33\
+     │
+     ├──► 📋 Copiar archivo:
+     │    php.ini-development
+     │
+     └──► ✏️ Renombrar copia a:
+          php.ini
+
+┌─────────────┐
+│   PASO 4    │  CONFIGURAR php.ini
+└─────────────┘
+     │
+     ├──► 📝 Abrir php.ini con editor de texto
+     │
+     └──► 🔧 Habilitar extensiones (quitar ; al inicio):
+          
+          Buscar y cambiar:
+          ;extension=mysqli      →  extension=mysqli
+          ;extension=pdo_mysql   →  extension=pdo_mysql
+          ;extension=mbstring    →  extension=mbstring
+          ;extension=curl        →  extension=curl
+          ;extension=openssl     →  extension=openssl
+          ;extension=gd          →  extension=gd
+          
+          Configurar timezone:
+          ;date.timezone =       →  date.timezone = America/Bogota
+
+┌─────────────┐
+│   PASO 5    │  ACTIVAR EN LARAGON
+└─────────────┘
+     │
+     ├──► 🖱️ Click derecho en icono de Laragon
+     │
+     ├──► 📋 PHP → Version → php-7.4.33
+     │    (Si no aparece, reinicia Laragon)
+     │
+     ├──► 🔴 Click en "Stop All"
+     │
+     ├──► ⏳ Espera 5 segundos
+     │
+     └──► 🟢 Click en "Start All"
+
+┌─────────────┐
+│   PASO 6    │  VERIFICAR INSTALACIÓN
+└─────────────┘
+     │
+     ├──► 🌐 Opción 1: Crear archivo info.php
+     │    Ubicación: C:\laragon\www\proditel\info.php
+     │    Contenido: <?php phpinfo(); ?>
+     │    Abrir: http://localhost/proditel/info.php
+     │    
+     ├──► 🖱️ Opción 2: Desde Laragon
+     │    Click derecho → PHP → Quick app → PHP Info
+     │
+     └──► ✅ Verificar que diga: PHP Version 7.4.33
+
+┌─────────────┐
+│   PASO 7    │  PROBAR SISTEMA PQR
+└─────────────┘
+     │
+     ├──► 🌐 Abrir: http://localhost/proditel/pqr/upload/
+     │
+     └──► ✅ Los errores deberían haber desaparecido
+          ✅ El sistema debería funcionar normalmente
+
+
+╔═════════════════════════════════════════════════════════════════╗
+║                      COMANDOS ÚTILES                             ║
+╚═════════════════════════════════════════════════════════════════╝
+
+┌──────────────────────────────────────────────────────────────────┐
+│ Verificar versión de PHP desde terminal:                         │
+│ php -v                                                            │
+└──────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────┐
+│ Ver extensiones habilitadas:                                     │
+│ php -m                                                            │
+└──────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────┐
+│ Editar php.ini rápidamente:                                      │
+│ notepad C:\laragon\bin\php\php-7.4.33\php.ini                    │
+└──────────────────────────────────────────────────────────────────┘
+
+
+╔═════════════════════════════════════════════════════════════════╗
+║                  SOLUCIÓN DE PROBLEMAS                           ║
+╚═════════════════════════════════════════════════════════════════╝
+
+❌ PHP 7.4 no aparece en menú de Laragon
+   └─► Cerrar y abrir Laragon completamente
+   └─► Verificar que la carpeta tenga php.exe dentro
+
+❌ Apache no inicia con PHP 7.4
+   └─► Verificar que existe php.ini (no php.ini-development)
+   └─► Verificar extensiones habilitadas en php.ini
+   └─► Ver logs: C:\laragon\bin\apache\logs\error.log
+
+❌ Errores de "Cannot load module"
+   └─► Verificar en php.ini: extension_dir = "ext"
+   └─► Asegurar que carpeta ext\ existe en php-7.4.33\
+
+❌ MySQL no conecta
+   └─► Habilitar: extension=mysqli
+   └─► Habilitar: extension=pdo_mysql
+   └─► Reiniciar Laragon
+
+
+╔═════════════════════════════════════════════════════════════════╗
+║                      LINKS ÚTILES                                ║
+╚═════════════════════════════════════════════════════════════════╝
+
+📥 Descarga PHP 7.4.33:
+   https://windows.php.net/downloads/releases/archives/php-7.4.33-Win32-vc15-x64.zip
+
+📚 Documentación PHP 7.4:
+   https://www.php.net/manual/es/
+
+🔧 Configuración php.ini:
+   https://www.php.net/manual/es/configuration.file.php
+
+
+╔═════════════════════════════════════════════════════════════════╗
+║                    CHECKLIST FINAL                               ║
+╚═════════════════════════════════════════════════════════════════╝
+
+□ PHP 7.4.33 descargado
+□ Extraído en C:\laragon\bin\php\php-7.4.33\
+□ php.ini creado
+□ Extensiones habilitadas en php.ini
+□ Timezone configurado
+□ Seleccionado en Laragon: PHP → Version
+□ Laragon reiniciado (Stop All → Start All)
+□ Verificado en http://localhost/proditel/info.php
+□ Sistema PQR funcionando sin errores
+
+
+═══════════════════════════════════════════════════════════════════
+                    ¡INSTALACIÓN COMPLETA!
+═══════════════════════════════════════════════════════════════════
+```

@@ -1,0 +1,108 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id KKbtAqCekGeqcS8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 22 Jan 2025 00:30:40 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 22 Jan 2025 00:30:40 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1taVCB-00DI4L-3C
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 22 Jan 2025 00:30:40 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1taVC6-00DI2d-0v@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1737531039-eximdsn-2027031679
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1taVCB-00DI4L-3C@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 22 Jan 2025 00:30:39 -0700
+
+--1737531039-eximdsn-2027031679
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 aVCBtXs1iziwv :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Moqo63ae c=1 sm=1 tr=0 ts=67909e9f p=3Prjv7xXAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=yd_fOxtNJ0DFA0bVx7kA:9 a=3ZKOabzyN94A:10 a=s7AXAnzOXstj3MC7Tp-K:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1737531039-eximdsn-2027031679
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 aVCBtXs1iziwv :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Moqo63ae c=1 sm=1 tr=0 ts=67909e9f p=3Prjv7xXAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=yd_fOxtNJ0DFA0bVx7kA:9 a=3ZKOabzyN94A:10 a=s7AXAnzOXstj3MC7Tp-K:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1737531039-eximdsn-2027031679
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1taVC6-00DI2d-0v
+	for servicioalcliente@serkoi.com;
+	Wed, 22 Jan 2025 00:30:39 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1taVC6-00DI2d-0v@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 22 Jan 2025 00:30:34 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Elvis Hirst. 
+Correo: . 
+Telefono: 7949934389. 
+Mensaje: Dear Business Mavericks,
+
+https://websitegenerator3.wordpress.com/
+
+I hope this letter finds you amidst a whirlwind of productivity—perhaps juggling phone calls, spreadsheets, and that last slice of pizza (we all know you’re working hard). Today, I’m here to sprinkle some excitement into your day by discussing the ever-evolving world of website development platforms. Buckle up, because we’re about to take a wild ride through the digital jungle!
+
+
+First off, let’s talk about the classics: WordPress, Wix, and Squarespace. They’ve been around longer than your grandma’s prized fruitcake, and while they do the job, they can sometimes feel like trying to fit a square peg into a round hole. Sure, you can create beautiful websites, but how many hours of your life have you spent wrestling with themes, plugins, and the occasional existential crisis over why your homepage won’t load?
+
+
+Now, let’s get to the fun part! Enter the new kid on the block- "Websitemachen"! Picture this: a platform that allows you to whip up fully monetized websites in minutes. Yes, you heard that right—MINUTES! It’s like the microwave of website creation, except instead of popcorn, you get a fully functional, money-making hub that could make even Elon Musk raise an eyebrow.
+
+
+Imagine integrating affiliate offers, Google AdSense, and Amazon affiliate ads all with a few clicks. You could be lounging on a beach sipping a piña colada while your website does the heavy lifting for you. “But how does it work?” you ask, probably with a look of disbelief that could rival a cat watching a magic trick. Well, my friends, it’s as simple as pie (and much less messy). You can check out more about this game-changing platform at https://websitegenerator3.wordpress.com/. You might just find yourself giggling with glee as you envision the possibilities!
+
+
+Now, I know what you’re thinking: “What’s the catch?” The only catch here is that you’ll be so busy basking in your newfound website glory that you might forget to come back to reality (and your actual job). But hey, isn’t that a risk worth taking?
+
+
+In conclusion, if you’re tired of being bogged down by the complexities of traditional website development, give Website Generator 3 a whirl. It’s like having a personal web wizard who doesn’t require a wand or a degree in computer science. Get ready to launch your fully monetized website faster than you can say “SEO optimization” (and trust me, that’s pretty fast).
+
+
+Here’s to making your web dreams come true—one click at a time!
+
+https://websitegenerator3.wordpress.com/
+
+
+Best regards and belly laughs,
+
+
+Kathy
+P.S. If anyone asks, I totally meant to write this letter while wearing a Hawaiian shirt and sipping a smoothie. Cheers! ������. 
+
+
+--1737531039-eximdsn-2027031679--

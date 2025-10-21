@@ -1,0 +1,83 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 2AunEJVy7mYALCQA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 21 Sep 2024 00:15:33 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 21 Sep 2024 00:15:33 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sruL7-009zRz-0g
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 21 Sep 2024 00:15:33 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sruKv-009z8K-2s@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1726902933-eximdsn-2089734889
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sruL7-009zRz-0g@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 21 Sep 2024 00:15:33 -0700
+
+--1726902933-eximdsn-2089734889
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 ruL6sceFYfN0M :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=YI9UygGx c=1 sm=1 tr=0 ts=66ee7295 p=0jx5VbLAAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=Inb5qI7F9yJROElsqJkA:9 a=7eoiRLG0IBkA:10 a=mgYPufoFn2dsHPZ9CvCe:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1726902933-eximdsn-2089734889
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 ruL6sceFYfN0M :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=YI9UygGx c=1 sm=1 tr=0 ts=66ee7295 p=0jx5VbLAAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=Inb5qI7F9yJROElsqJkA:9 a=7eoiRLG0IBkA:10 a=mgYPufoFn2dsHPZ9CvCe:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1726902933-eximdsn-2089734889
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sruKv-009z8K-2s
+	for servicioalcliente@serkoi.com;
+	Sat, 21 Sep 2024 00:15:32 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 64.137.8.118
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 64.137.8.118
+From:
+Message-Id: <E1sruKv-009z8K-2s@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 21 Sep 2024 00:15:21 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Mariana Knopf. 
+Correo: . 
+Telefono: 6307449727. 
+Mensaje: Uncover a safe and reliable way to purchase Tramado, Xanax, Ambien and Soma in the USA through USA Cure Pharmacy. Our focus to your protection is of utmost importance, and we only supply medications from trusted manufacturers. Whether you're dealing with pain, stress, or rest problems, you can rely on our top-quality products to fulfill your healthcare requirements with assurance.
+
+At our pharmacy, we go above and beyond simply providing medication. Our expert pharmacists are ready to help with any queries you may have, providing personalized advice to help you choose the ideal treatment options. With our range of easy services, including prescription refills and medical evaluations, we make managing your health is as simple as possible.
+
+Improve your well-being today. Check out USA Cure Pharmacy at https://bit.ly/usacure. 
+
+
+--1726902933-eximdsn-2089734889--

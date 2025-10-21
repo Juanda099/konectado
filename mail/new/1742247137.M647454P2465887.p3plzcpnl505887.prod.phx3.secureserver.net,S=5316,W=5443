@@ -1,0 +1,127 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 4EjoJeGU2GdfoCUA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 17 Mar 2025 14:32:17 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 17 Mar 2025 14:32:17 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tuI4H-00AVld-1r
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 17 Mar 2025 14:32:17 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tuI49-00AVjA-2U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1742247137-eximdsn-87152521
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tuI4H-00AVld-1r@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 17 Mar 2025 14:32:17 -0700
+
+--1742247137-eximdsn-87152521
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 uI4Ht7Wl5IQUj :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=JZlGrVKV c=1 sm=1 tr=0 ts=67d894e1 p=jRReAhWk5nUTRhNdQP0A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=Vs1iUdzkB0EA:10 a=4ksC_waUAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=2XX_GODWLEoA:10 a=-FEs8UIgK8oA:10 a=cGappj5anFTV6Yr9HBFX:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=Ei8VtbVYXGVP1_HnMx-z:22 ::
+    100.00
+
+--1742247137-eximdsn-87152521
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 uI4Ht7Wl5IQUj :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=JZlGrVKV c=1 sm=1 tr=0 ts=67d894e1 p=jRReAhWk5nUTRhNdQP0A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=Vs1iUdzkB0EA:10 a=4ksC_waUAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=2XX_GODWLEoA:10 a=-FEs8UIgK8oA:10 a=cGappj5anFTV6Yr9HBFX:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=Ei8VtbVYXGVP1_HnMx-z:22 :: 100.00
+
+--1742247137-eximdsn-87152521
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tuI49-00AVjA-2U
+	for servicioalcliente@serkoi.com;
+	Mon, 17 Mar 2025 14:32:17 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tuI49-00AVjA-2U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 17 Mar 2025 14:32:09 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De:  . 
+Correo: . 
+Telefono: 648997864. 
+Mensaje: Hi,
+
+Let’s talk about what your current inbound phone system really costs:
+Traditional Answering Service:
+• $3+ per minute
+• Monthly minimums
+• Just takes messages
+• Limited availability = Thousands per month for missed opportunities
+
+Add to that:
+• Lost sales from missed calls
+• Frustrated customers who hang up on hold
+• Leads that slip through the cracks
+• Marketing dollars wasted = Even more revenue walking away
+
+Now imagine this instead: Your AI Smart Talk Agent handles everything for one flat monthly fee. 
+
+Check it out here:      https://swiy.co/sw4
+
+No per-minute charges. No missed opportunities. No lost customers.
+
+Plus, it:
+• Screens out spam and time-wasters
+• Distributes leads equally to your sales team
+• Books appointments automatically
+• Remembers customer preferences
+• Works 24/7/365
+
+The math is simple: Lower costs + More captured leads = Higher profits
+Ready to see the difference? 
+
+Check it out:     https://swiy.co/sw4
+
+Or call (360) 300-5426 now. Let our own AI Agent…Kathy… show you what your customers could experience.
+
+Or let’s crunch your specific numbers:  I will show you exactly how much you could save and gain.    https://swiy.co/sw4
+
+Tomorrow’s email will be my last on this topic. I’ll share how easy it is to get started - and why waiting could cost you more than you think.
+
+Best, Sterling
+
+P.S. Still skeptical? That’s exactly why we offer a risk-free trial. More about that
+tomorrow...
+
+
+
+
+30 N Goulds St.  Ste 48737
+Sheridan Wyoming 82801
+To Opt Out of receiving further emails click the link below
+https://optout.srs/?info=proditelsas.com. 
+
+
+--1742247137-eximdsn-87152521--

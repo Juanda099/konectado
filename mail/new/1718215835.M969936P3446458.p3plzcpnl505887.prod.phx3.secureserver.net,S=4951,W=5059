@@ -1,0 +1,108 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id yC/jOJvkaWa6ljQA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 12 Jun 2024 11:10:35 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 12 Jun 2024 11:10:35 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sHSQd-00Ezn8-2s
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 12 Jun 2024 11:10:35 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sHSQP-00EzLn-1T@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1718215835-eximdsn-579097962
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sHSQd-00Ezn8-2s@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 12 Jun 2024 11:10:35 -0700
+
+--1718215835-eximdsn-579097962
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 HSQdsnTBdwqT4 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Avcl3/9P c=1 sm=1 tr=0 ts=6669e49b p=YKBMc9VHAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=w_Kf4sdpWOqnp22dfRcA:9 a=1eUsfKxNq2aTowTivojg:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=I4x9cJo5T25DN6ql72Zo:22 ::
+    100.00
+
+--1718215835-eximdsn-579097962
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 HSQdsnTBdwqT4 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Avcl3/9P c=1 sm=1 tr=0 ts=6669e49b p=YKBMc9VHAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=w_Kf4sdpWOqnp22dfRcA:9 a=1eUsfKxNq2aTowTivojg:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=I4x9cJo5T25DN6ql72Zo:22 :: 100.00
+
+--1718215835-eximdsn-579097962
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sHSQP-00EzLn-1T
+	for servicioalcliente@serkoi.com;
+	Wed, 12 Jun 2024 11:10:35 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 77.36.123.178
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 77.36.123.178
+From:
+Message-Id: <E1sHSQP-00EzLn-1T@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 12 Jun 2024 11:10:21 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Ray Sullivan. 
+Correo: . 
+Telefono: 135451920. 
+Mensaje: Hi, 
+
+Unless you're living under a rock (remember that commercial) you have heard about AI (artificial intelligence), but do you know that you can use AI tools to get more money into your business? Did you know you can use AI tools to automate and save time on many of the tasks in your business? And, you can use that time to DO your business.
+
+Go to AI-Biz-Boosters.com to see a video showing how AI tools can revolutionize your business - Watch it to the end to get our free eboook "Unleash The Power of AI: Discover The 37 AI Tools Transforming Businesses."
+
+Regards, 
+Ray Sullivan
+AI-Biz-Boosters.com
+Hi, 
+
+Unless you're living under a rock (remember that commercial) you have heard about AI (artificial intelligence), but do you know that you can use AI tools to get more money into your business? Did you know you can use AI tools to automate and save time on many of the tasks in your business? And, you can use that time to DO your business.
+
+Get our free eboook "Unleash The Power of AI: Discover The 37 AI Tools Transforming Businesses" to start transforming YOUR business at 
+
+AI-Biz-Boosters.com
+
+Regards, 
+Ray Sullivan
+AI-Biz-Boosters.com
+
+
+
+
+
+Address: 
+2412 Irwin St
+Melbourne, FL 32901
+
+To Opt-out of this list reply with UNSUBSCRIBE in the subject.. 
+
+
+--1718215835-eximdsn-579097962--

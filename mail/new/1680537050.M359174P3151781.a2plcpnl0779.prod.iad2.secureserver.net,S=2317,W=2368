@@ -1,0 +1,51 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id iMCAE9r1KmSlFzAAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 03 Apr 2023 08:50:50 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 03 Apr 2023 08:50:50 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pjMSI-00DDvJ-89
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Mon, 03 Apr 2023 08:50:50 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pjMSD-00DDr1-Uz@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1pjMSI-00DDvJ-89@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 03 Apr 2023 08:50:50 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pjMSD-00DDr1-Uz
+	for servicioalcliente@serkoi.com;
+	Mon, 03 Apr 2023 08:50:45 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 191.96.168.156
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 191.96.168.156
+From:
+Message-Id: <E1pjMSD-00DDr1-Uz@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 03 Apr 2023 08:50:45 -0700
+
+De: SamuelMl. 
+Correo: . 
+Telefono: 86763611874. 
+Mensaje: ¡¡¡Crеа un clоn de ella en еѕte ϳuego!!! http://romindberfai.cf/prd-24587/
+Y follártelа sіn límitеѕ, сomо ѕіеmprе quіsistе. ¡Еllа no te rechazаrá!
+Sі ԛuіereѕ, fóllаte nо solо а ella, ѕіno tаmbіén a su noviа. ¡Ѕimultánеаmentеǃ
+... o tal vez quiеrеs que еlla tе fоlle? :) 
+. 
+

@@ -1,0 +1,98 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id aNw9N7TbVmU1EhsAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 16 Nov 2023 20:19:16 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 16 Nov 2023 20:19:16 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1r3pO0-007TqF-Q8
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 16 Nov 2023 20:19:16 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1r3pNv-007TpG-TN@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1700191156-eximdsn-1192377741
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1r3pO0-007TqF-Q8@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 16 Nov 2023 20:19:16 -0700
+
+--1700191156-eximdsn-1192377741
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 3pO0rByRURbmA :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=OJDhnwWB c=1 sm=1 tr=0 ts=6556dbb4 p=VNWm9AfgIqte7-jg4GoA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=BNY50KLci1gA:10 a=Yo2uAKt8AAAA:8 a=11f-UVoajDYA:10 a=m6PS90q2e0ktHE4bm_fy:22 a=I9zGZejlRu3vh5fRWnj4:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1700191156-eximdsn-1192377741
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 3pO0rByRURbmA :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=OJDhnwWB c=1 sm=1 tr=0 ts=6556dbb4 p=VNWm9AfgIqte7-jg4GoA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=BNY50KLci1gA:10 a=Yo2uAKt8AAAA:8 a=11f-UVoajDYA:10 a=m6PS90q2e0ktHE4bm_fy:22 a=I9zGZejlRu3vh5fRWnj4:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1700191156-eximdsn-1192377741
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1r3pNv-007TpG-TN
+	for servicioalcliente@serkoi.com;
+	Thu, 16 Nov 2023 20:19:16 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 192.177.165.247
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 192.177.165.247
+From:
+Message-Id: <E1r3pNv-007TpG-TN@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 16 Nov 2023 20:19:11 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Natasha. 
+Correo: . 
+Telefono: 0681 919 15 56. 
+Mensaje: Hey, I visited your site and I think that your content is amazing! It is really engaging and original, you must have worked so hard to generate such a quality content.
+
+My name is Natasha from ForeMedia and I help website owners with great websites to maximize the revenue they make from their website.
+
+I would love to buy Ad Spaces on your website and pay you per each impression of the ads on your site. We are Google Ad Exchange Premium partners and we work with more than 100 Ad Network & thousands of premium direct advertisers who would LOVE to buy Ads directly from your site and we can gurantee to increase your revenue by at least 45% compared to other advertising solutions you are currently using.
+
+You deserve to earn more for your content and maximize your earning potential and I will help you unlock that potential!
+
+There is no cost, you can register to our monetization platform for free on this link: https://go.foremedia.net/monetize
+
+I will be available for you on the Live Chat if you need any help, or you can email me back to: natasha@foremedia.net if you have any questions.
+
+I have at least 17 Premium Advertisers that have asked me to approach you because they would like to advertise on your website on Premium eCPM [cost per impressions] basis.
+
+Have a good day & feel free to ping me for any question!
+
+Click the link here for 1 minute registration to our platform [it's free!]: https://go.foremedia.net/monetize
+
+ForeMedia - Earn Money With Your Website
+https://go.foremedia.net/monetize. 
+
+
+--1700191156-eximdsn-1192377741--

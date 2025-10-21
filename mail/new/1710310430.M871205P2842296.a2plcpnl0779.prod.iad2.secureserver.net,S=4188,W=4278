@@ -1,0 +1,90 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id lnjAMR5E8WW4XisAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 12 Mar 2024 23:13:50 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 12 Mar 2024 23:13:50 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rkHs6-00BvPG-2G
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 12 Mar 2024 23:13:50 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rkHs1-00BvNY-20@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1710310430-eximdsn-1222254754
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rkHs6-00BvPG-2G@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 12 Mar 2024 23:13:50 -0700
+
+--1710310430-eximdsn-1222254754
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 kHtErNVEDMJ1h :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=M+vuKDws c=1 sm=1 tr=0 ts=65f14464 p=pJYE-xJk_l3vtwiLeJsA:9 p=SKA3RFsAmfMA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=K6JAEmCyrfEA:10 a=pGLkceISAAAA:8 a=3ZKOabzyN94A:10 a=PKqOvju1GwwA:10 a=CIit9hRsbqdchTdRs2Ao:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=_RCA6_6SrgvAcrNCV5P0:22 ::
+    100.00
+
+--1710310430-eximdsn-1222254754
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 kHtErNVEDMJ1h :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=M+vuKDws c=1 sm=1 tr=0 ts=65f14464 p=pJYE-xJk_l3vtwiLeJsA:9 p=SKA3RFsAmfMA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=K6JAEmCyrfEA:10 a=pGLkceISAAAA:8 a=3ZKOabzyN94A:10 a=PKqOvju1GwwA:10 a=CIit9hRsbqdchTdRs2Ao:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=_RCA6_6SrgvAcrNCV5P0:22 :: 100.00
+
+--1710310430-eximdsn-1222254754
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rkHs1-00BvNY-20
+	for servicioalcliente@serkoi.com;
+	Tue, 12 Mar 2024 23:13:50 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 91.90.121.158
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 91.90.121.158
+From:
+Message-Id: <E1rkHs1-00BvNY-20@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 12 Mar 2024 23:13:45 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Robbie Stockwell. 
+Correo: . 
+Telefono: 434 6387. 
+Mensaje: GAMIFY your videos and get viewers to happily give you their email and phone number.  
+
+There is no other tech like this..it’s the next big thing. As seen on CBS, NBC, FOX, and ABC.  
+
+See if you qualify for a free GAMIFICATION of your video.
+
+Contact me via my email or skype below for more details
+
+
+Robert
+email: gamifyvideo@gmail.com
+skype: live:.cid.d347be37995c0a8d. 
+
+
+--1710310430-eximdsn-1222254754--

@@ -1,0 +1,74 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id KNVXMnHxf2J9SCYAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 14 May 2022 11:14:09 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 14 May 2022 11:14:09 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	id 1npwHJ-00AYl1-Nv
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Sat, 14 May 2022 11:14:09 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1npwHI-00AYji-NM@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1652552049-eximdsn-883773621
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1npwHJ-00AYl1-Nv@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 14 May 2022 11:14:09 -0700
+
+--1652552049-eximdsn-883773621
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 pwHInrlfAFU4o :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Xuo/hXJ9 c=1 sm=1 tr=0 ts=627ff171 p=G8LcmcJEAAAA:8 p=-5RKlI_MviIA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=oZkIemNP1mAA:10 a=3abEneL_2_EA:10 a=ZikZxUS6vYgFj_ByNEUA:9 a=r1PJr0sab1QA:10 a=-FEs8UIgK8oA:10 a=2JJ3i4lo99cA:10 a=r5JmWfrgSH0A:10 a=zaNxpsUreuYA:10 a=VxAk22fqlfwA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=iSTivLJdcleb0OKORBvN:22 ::
+    100.00
+
+--1652552049-eximdsn-883773621
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 pwHInrlfAFU4o :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Xuo/hXJ9 c=1 sm=1 tr=0 ts=627ff171 p=G8LcmcJEAAAA:8 p=-5RKlI_MviIA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=oZkIemNP1mAA:10 a=3abEneL_2_EA:10 a=ZikZxUS6vYgFj_ByNEUA:9 a=r1PJr0sab1QA:10 a=-FEs8UIgK8oA:10 a=2JJ3i4lo99cA:10 a=r5JmWfrgSH0A:10 a=zaNxpsUreuYA:10 a=VxAk22fqlfwA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=iSTivLJdcleb0OKORBvN:22 :: 100.00
+
+--1652552049-eximdsn-883773621
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1npwHI-00AYji-NM
+	for servicioalcliente@serkoi.com; Sat, 14 May 2022 11:14:08 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 191.101.217.30
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 191.101.217.30
+From:
+Message-Id: <E1npwHI-00AYji-NM@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 14 May 2022 11:14:08 -0700
+
+De: DavidWag. 
+Correo: . 
+Telefono: 89744132376. 
+Mensaje: NFT with passive income http://o0jnt7v.azurecompact.life/19470ef1. 
+
+
+--1652552049-eximdsn-883773621--

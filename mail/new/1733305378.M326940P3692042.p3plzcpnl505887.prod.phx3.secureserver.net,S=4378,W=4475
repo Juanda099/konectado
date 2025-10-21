@@ -1,0 +1,97 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id GBizEiIkUGcKVjgA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 04 Dec 2024 02:42:58 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 04 Dec 2024 02:42:58 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tIluM-00FZVE-0o
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 04 Dec 2024 02:42:58 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tIlu9-00FZT1-2m@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1733305378-eximdsn-752542207
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tIluM-00FZVE-0o@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 04 Dec 2024 02:42:58 -0700
+
+--1733305378-eximdsn-752542207
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 IluLto3522Tdo :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=JK3Bs9Kb c=1 sm=1 tr=0 ts=67502422 p=nk9tKf3e-6HibDYj1bc8:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=RZcAm9yDv7YA:10 a=JFqkAMp0AAAA:8 a=TTmOwDrzgJJ4VROZq9gA:9 a=3ZKOabzyN94A:10 a=ZXulRonScM0A:10 a=QUX-bxtqBKFMbur4cTsc:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1733305378-eximdsn-752542207
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 IluLto3522Tdo :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=JK3Bs9Kb c=1 sm=1 tr=0 ts=67502422 p=nk9tKf3e-6HibDYj1bc8:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=RZcAm9yDv7YA:10 a=JFqkAMp0AAAA:8 a=TTmOwDrzgJJ4VROZq9gA:9 a=3ZKOabzyN94A:10 a=ZXulRonScM0A:10 a=QUX-bxtqBKFMbur4cTsc:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1733305378-eximdsn-752542207
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tIlu9-00FZT1-2m
+	for servicioalcliente@serkoi.com;
+	Wed, 04 Dec 2024 02:42:57 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 181.214.173.73
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 181.214.173.73
+From:
+Message-Id: <E1tIlu9-00FZT1-2m@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 04 Dec 2024 02:42:45 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Mike Mercer
+. 
+Correo: . 
+Telefono: 87178261354. 
+Mensaje: Hi, 
+ 
+Curious about how your website is performing? Discover its strengths and weaknesses with our Free SEO Check Tool! In just 2 minutes, you’ll get a detailed analysis of your website’s SEO health and actionable insights to help improve your rankings. 
+ 
+Take the first step towards better performance and growth. 
+ 
+Run Your Free SEO Check Now 
+https://www.speed-seo.net/check-site-seo-score/ 
+ 
+Don’t let overlooked SEO issues hold you back. Optimize your site today and stay ahead of the competition! 
+ 
+Best regards, 
+ 
+ 
+Mike Mercer
+ 
+Speed SEO 
+Whatsapp us: https://www.speed-seo.net/whatsapp-with-us/. 
+
+
+--1733305378-eximdsn-752542207--

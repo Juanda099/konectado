@@ -1,0 +1,95 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 6A5gCK9HhWcNPSAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 13 Jan 2025 10:04:47 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 13 Jan 2025 10:04:47 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tXNrr-0095zI-0F
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 13 Jan 2025 10:04:47 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tXNrf-0095wY-0i@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1736787887-eximdsn-2132609542
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tXNrr-0095zI-0F@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 13 Jan 2025 10:04:47 -0700
+
+--1736787887-eximdsn-2132609542
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 XNrrtWY1o45Jo :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=AP+dYgXq c=1 sm=1 tr=0 ts=678547af p=K2SEbBPVmNeNf2DYpNwA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=D_YFWNOLAAAA:8 a=zZCPvBJeAAAA:8 a=pGLkceISAAAA:8 a=3ZKOabzyN94A:10 a=iwuwXAeGhR8A:10 a=4jILLvDa26PAIOCPl4Fv:22 a=pFPePLqzRC7QO_ksvE11:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1736787887-eximdsn-2132609542
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 XNrrtWY1o45Jo :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=AP+dYgXq c=1 sm=1 tr=0 ts=678547af p=K2SEbBPVmNeNf2DYpNwA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=D_YFWNOLAAAA:8 a=zZCPvBJeAAAA:8 a=pGLkceISAAAA:8 a=3ZKOabzyN94A:10 a=iwuwXAeGhR8A:10 a=4jILLvDa26PAIOCPl4Fv:22 a=pFPePLqzRC7QO_ksvE11:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1736787887-eximdsn-2132609542
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tXNrf-0095wY-0i
+	for servicioalcliente@serkoi.com;
+	Mon, 13 Jan 2025 10:04:46 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tXNrf-0095wY-0i@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 13 Jan 2025 10:04:35 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Oman Daluz. 
+Correo: . 
+Telefono: 3738804343. 
+Mensaje: Hello,
+
+At Cateus Investment Company (CIC), we understand that securing the right funding is crucial for both startups and established businesses. That's why we offer flexible financing solutions designed to meet your specific needs.
+
+Here’s how we can help:
+
+Debt Financing: 3% annual interest with zero penalties for early repayment.
+Equity Financing: Venture capital support with a 10% equity stake—helping you expand while keeping control.
+We’re ready to explore the best option for your business. Simply send us your pitch deck or executive summary, and let’s discuss the ideal investment structure to fuel your growth.
+
+Looking forward to hearing from you.
+
+Best regards,
+Oman Rook
+Executive Investment Consultant/Director
+Cateus Investment Company (CIC)
+
+email:  oman-rook@cateusgroup.org   or  cateusgroup@gmail.com 
+https://cateusinvestmentgroup.com. 
+
+
+--1736787887-eximdsn-2132609542--

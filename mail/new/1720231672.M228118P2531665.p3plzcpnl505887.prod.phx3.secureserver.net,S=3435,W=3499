@@ -1,0 +1,64 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 0InGDPimiGZRoSYA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 05 Jul 2024 19:07:52 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 05 Jul 2024 19:07:52 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sPuq8-00AcwU-0U
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 05 Jul 2024 19:07:52 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sPupx-00ActZ-1Z@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sPuq8-00AcwU-0U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 05 Jul 2024 19:07:52 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sPupx-00ActZ-1Z
+	for servicioalcliente@serkoi.com;
+	Fri, 05 Jul 2024 19:07:41 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 149.34.252.16
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 149.34.252.16
+From:
+Message-Id: <E1sPupx-00ActZ-1Z@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 05 Jul 2024 19:07:41 -0700
+
+De: Randal Weld. 
+Correo: . 
+Telefono: 478 1427. 
+Mensaje: Dear,
+
+I hope this message finds you well. I am writing to introduce you to M.I.H, the premier digital marketing agency dedicated to transforming businesses and driving sales growth. Here’s how partnering with M.I.H can benefit your business:
+
+1. **Targeted SEO Strategies:** Enhance your online visibility and attract high-quality traffic to your website, leading to increased conversion rates.
+2. **Effective Social Media Campaigns:** Engage with your audience on various platforms, boosting brand awareness and customer loyalty.
+3. **Compelling Content Marketing:** Develop valuable content that resonates with your audience, establishing your brand as an industry leader.
+4. **Precision PPC Advertising:** Implement cost-effective PPC campaigns to reach potential customers actively searching for your products or services.
+5. **Data-Driven Insights:** Utilize advanced analytics to optimize marketing strategies continuously, ensuring maximum ROI.
+
+M.I.H's tailored approach and expertise across various industries ensure we understand and meet your unique business goals. Let’s discuss how M.I.H can help elevate your brand and drive sales growth.
+
+Please get in touch at marketingagency.mih@gmail.com to schedule a consultation. I look forward to exploring opportunities for collaboration.
+
+Best regards,
+M.I.H Marketing Agency
+marketingagency.mih@gmail.com
+https://mihmarketingagency.com/. 
+

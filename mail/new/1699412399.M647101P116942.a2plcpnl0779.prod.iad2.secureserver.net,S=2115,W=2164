@@ -1,0 +1,49 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id yNfCJK/5SmXOyAEAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 07 Nov 2023 19:59:59 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 07 Nov 2023 19:59:59 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1r0YnP-000X1d-FD
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 07 Nov 2023 19:59:59 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1r0YnK-000X0u-OZ@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1r0YnP-000X1d-FD@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 07 Nov 2023 19:59:59 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1r0YnK-000X0u-OZ
+	for servicioalcliente@serkoi.com;
+	Tue, 07 Nov 2023 19:59:54 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 185.217.127.65
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 185.217.127.65
+From:
+Message-Id: <E1r0YnK-000X0u-OZ@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 07 Nov 2023 19:59:54 -0700
+
+De: David Taylor. 
+Correo: . 
+Telefono: 06-30165980. 
+Mensaje: I will give high tf, da, DR permanent dofollow backlinks for SEO for 10$
+
+Link : https://worldogspot.com/backlinkservice. 
+

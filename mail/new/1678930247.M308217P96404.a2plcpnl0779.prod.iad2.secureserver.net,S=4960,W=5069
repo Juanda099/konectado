@@ -1,0 +1,109 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id uCgnEUdxEmSUeAEAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Wed, 15 Mar 2023 18:30:47 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Wed, 15 Mar 2023 18:30:47 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pccS7-000SvT-4w
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Wed, 15 Mar 2023 18:30:47 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pccS1-000Rle-OC@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1678930247-eximdsn-877188523
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pccS7-000SvT-4w@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 15 Mar 2023 18:30:47 -0700
+
+--1678930247-eximdsn-877188523
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 ccS7pUhppelrp :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Z7EqXldA c=1 sm=1 tr=0 ts=64127147 p=XjYnnF8-AAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=k__wU0fu6RkA:10 a=SQstoxNvAAAA:8 a=smrCSdiaAAAA:8 a=2Ql-koSR-E3QCP5CKPkA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=YjwBH3q6YNyC372_kmiz:22 a=a92wne86CCBJYp5se1PY:22 a=zJPOKlILaPO-Fusw5XLl:22 a=M9ZHoLuYIHMl9pbmgCZa:22 ::
+    100.00
+
+--1678930247-eximdsn-877188523
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 ccS7pUhppelrp :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Z7EqXldA c=1 sm=1 tr=0 ts=64127147 p=XjYnnF8-AAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=k__wU0fu6RkA:10 a=SQstoxNvAAAA:8 a=smrCSdiaAAAA:8 a=2Ql-koSR-E3QCP5CKPkA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=YjwBH3q6YNyC372_kmiz:22 a=a92wne86CCBJYp5se1PY:22 a=zJPOKlILaPO-Fusw5XLl:22 a=M9ZHoLuYIHMl9pbmgCZa:22 :: 100.00
+
+--1678930247-eximdsn-877188523
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pccS1-000Rle-OC
+	for servicioalcliente@serkoi.com;
+	Wed, 15 Mar 2023 18:30:46 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 107.174.235.141
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 107.174.235.141
+From:
+Message-Id: <E1pccS1-000Rle-OC@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 15 Mar 2023 18:30:41 -0700
+
+De: Neal Ponder. 
+Correo: . 
+Telefono: 0397 6826997. 
+Mensaje: I noticed your website isn’t ranking well in the search results. We have the exclusive ability to have your company on Google’s autocomplete for any search term you want. 
+
+For example, if someone searches Personal injury lawyer Las Vegas then Google will autocomplete the search to Learner and Rowe (Our client). Or dentist San Antonio, Google will autocomplete the search to Stone Oak (Our Client)
+
+This means you’ll 
+-	You’ll be taking over the search before users ever hit the search result (huge traffic)
+-	Get insane branding > looks like Google recommends you.
+
+This service is called Search-Box-Optimization (SBO), which we provide exclusively. 
+
+*Important – the search terms are exclusive, meaning once you own them, they are yours. 
+
+*Important - You Only Pay When We Get You In The Auto- Complete. "Pay For Results ONLY!"
+
+You can see the magic of SBO in a video Here: https://reachkings.com
+
+
+
+Regards,
+Neal
+
+
+
+
+
+
+
+
+If you no longer want to receive our messages click here to opt-out: https://optout.seobosslocal.com/wp/?site=proditelsas.com
+
+
+
+
+. 
+
+
+--1678930247-eximdsn-877188523--

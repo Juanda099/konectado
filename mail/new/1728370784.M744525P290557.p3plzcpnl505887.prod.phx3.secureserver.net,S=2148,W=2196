@@ -1,0 +1,48 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id G+xkKmDYBGf9bgQA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 07 Oct 2024 23:59:44 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 07 Oct 2024 23:59:44 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sy4C8-001DaH-22
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 07 Oct 2024 23:59:44 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sy4C1-001DZ6-2o@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sy4C8-001DaH-22@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 07 Oct 2024 23:59:44 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sy4C1-001DZ6-2o
+	for servicioalcliente@serkoi.com;
+	Mon, 07 Oct 2024 23:59:37 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 108.165.243.136
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 108.165.243.136
+From:
+Message-Id: <E1sy4C1-001DZ6-2o@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 07 Oct 2024 23:59:37 -0700
+
+De: Phil Stewart. 
+Correo: . 
+Telefono: 342-123-4456. 
+Mensaje: Want to get your content in front of millions without high costs?
+ Visit: http://g4j2ls.formblasting.xyz. 
+

@@ -1,0 +1,53 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 6KgXAopKhGcf2TMA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 12 Jan 2025 16:04:42 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 12 Jan 2025 16:04:42 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tX70b-00EIiA-39
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 12 Jan 2025 16:04:42 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tX70P-00EITT-0n@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1tX70b-00EIiA-39@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 12 Jan 2025 16:04:41 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tX70P-00EITT-0n
+	for servicioalcliente@serkoi.com;
+	Sun, 12 Jan 2025 16:04:29 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tX70P-00EITT-0n@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 12 Jan 2025 16:04:29 -0700
+
+De: Gennie McPhillamy. 
+Correo: . 
+Telefono: 7862526997. 
+Mensaje: Get more leads for your proditelsas.com website by using AI on Instagram. If you're looking to drive more traffic, generate leads, and grow your brand's reach, you can get more information and start a free trial here: https://shorten.world/OCCwP
+
+This is an AI-powered Instagram growth service that:
+-Increases followers with targeted, high-quality audiences.
+-Boosts engagement through smart AI algorithms.
+-Targets users based on hashtags and accounts they follow. 
+-Saves you time by automating tedious Instagram tasks.
+
+Our service focuses on real, organic growth—no bots, no fake followers. It’s perfect for brands like yours that want to turn Instagram into a lead generation powerhouse. Better yet, our service is provided on a month-by-month subscription basis so you can cancel any time you like. No contracts and a 7 day free trial.. 
+

@@ -1,0 +1,150 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id EPW+J5AMI2WOJhwAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sun, 08 Oct 2023 13:09:52 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sun, 08 Oct 2023 13:09:52 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qpa64-007kxU-HQ
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sun, 08 Oct 2023 13:09:52 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qpa5z-007kvJ-6s@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1696795792-eximdsn-1156835227
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qpa64-007kxU-HQ@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 08 Oct 2023 13:09:52 -0700
+
+--1696795792-eximdsn-1156835227
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 pa64qSeXJhQNa :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=LJigAra9 c=1 sm=1 tr=0 ts=65230c90 p=aegmnsKlAAAA:20 p=3fj6BTtdG4ZF1uKGl1gA:9 p=tuwZ5p68CsoG8KcVl7e2:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1696795792-eximdsn-1156835227
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 pa64qSeXJhQNa :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=LJigAra9 c=1 sm=1 tr=0 ts=65230c90 p=aegmnsKlAAAA:20 p=3fj6BTtdG4ZF1uKGl1gA:9 p=tuwZ5p68CsoG8KcVl7e2:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1696795792-eximdsn-1156835227
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qpa5z-007kvJ-6s
+	for servicioalcliente@serkoi.com;
+	Sun, 08 Oct 2023 13:09:52 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.81.61.213
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.81.61.213
+From:
+Message-Id: <E1qpa5z-007kvJ-6s@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 08 Oct 2023 13:09:47 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Alex Holland. 
+Correo: . 
+Telefono: 484 4557. 
+Mensaje: Hey Guys,
+
+In case you haven’t noticed, email marketing is getting a revamp.
+
+How? Thanks to this new-gen autoresponder that can handle email management better than you could ever do it yourself.
+ 
+We’re talking about 350 billion emails sent and received every day!
+
+That’s a clear sign you HAVE to step in and take your share.
+ 
+And what better way to do this than using an Ai-powered autoresponder that writes emails for you, finds you leads and comes with SMTP sending servers…all for a one-time price!
+ 
+=> Get started with this new “all inclusive” autoresponder
+===>>> https://bit.ly/EmailAIOffer
+  
+Today you can get stronger than ever before with your email marketing campaigns while leaving ALL hurdles behind.
+ 
+Introducing ProfitReply Ai – the best and only autoresponder you’ll ever need (99% uptime, 99% deliverability, 100% reliability!)
+ 
+It comes with built-in sending servers & dedicated IPs to get your offers inboxed in a matter of seconds.
+
+YES, smoothly send your emails to thousands of people at the same time without worrying about additional costs, restrictions or technical problems.
+ 
+Don’t have a list? Don’t know how to write an email? Ai to the rescue!
+ 
+Just watch it find top quality leads that you can upload, clean and start mailing from the very first moment.
+ 
+ProfitReply Ai even has an automated solution for email writing.
+
+No more racking your brains trying to become a copywriter overnight – let the Ai do the writing (subject lines included!)
+ 
+All these and more are waiting for you inside! 
+ 
+Go check it out HERE
+===>>> https://bit.ly/EmailAIOffer
+ 
+I bet you’re curious to know all about this cutting-edge cloud autoresponder so here are some of its main features:
+ 
+[+] Unlock the “unlimited” package – unlimited emails,
+leads, SMS texts, Instagram messages, email copy, imports
+[+] Dedicated SMTP sending servers already preconfigured
+[+] Dedicated IP pools preconfigured for optimal delivery
+[+] Ai gets you fresh leads to email right away
+[+] Ai does all the email writing for you on autopilot (no more
+stressing about being creative)
+[+] Proven top deliverability and uptime stats that never
+disappoint – watch the sales pour without restrictions
+[+] Highest list leads limit for an autoresponder (keep up to
+1 million leads!)
+[+] Instant import, no double opt-in/verification required
+[+] NEW: send SMS messages to ANYONE from the very same app
+[+] List cleaner included for high open rates
+[+] Zero monthly fees, pay once and enjoy the full benefits package
+FOREVER with no restrictions
+[+] Mobile responsive & newbie friendly (anyone can earn with it!)
+ 
+And there’s more but you really have to see it for yourself to believe it.
+ 
+ProfitReply Ai has exceeded all expectations.
+
+There are thousands of customers relying completely on this app for their email marketing needs and the feedback is incredible!
+ 
+The Ai component is taking everything to the next level: Zero work, maximum profit!
+ 
+Are you ready to enter this new age of email marketing with us?
+ 
+=> Secure your copy at the early bird price
+===>>> https://bit.ly/EmailAIOffer
+
+Good Luck, 
+Alex
+. 
+
+
+--1696795792-eximdsn-1156835227--

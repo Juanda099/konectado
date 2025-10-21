@@ -1,0 +1,60 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id km3EIAyVE2VmFz4AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 26 Sep 2023 19:35:56 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 26 Sep 2023 19:35:56 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qlKP6-00H4d9-De
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 26 Sep 2023 19:35:56 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qlKP1-00H4cM-Tf@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1qlKP6-00H4d9-De@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 26 Sep 2023 19:35:56 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qlKP1-00H4cM-Tf
+	for servicioalcliente@serkoi.com;
+	Tue, 26 Sep 2023 19:35:51 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.245.145.36
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.245.145.36
+From:
+Message-Id: <E1qlKP1-00H4cM-Tf@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 26 Sep 2023 19:35:51 -0700
+
+De: Laurinda. 
+Correo: . 
+Telefono: . 
+Mensaje: Hi there 
+ 
+Is your dog's nails getting too long? If you're tired of going to the vet or groomer to get them trimmed, why not try PawSafer™? 
+With PawSafer™, you can trim your dog's nails from the comfort of your own home, and it only takes a few minutes!
+
+PawSafer™ is the safest and most convenient way to trim your dog's nails, and it's very affordable. 
+
+Get it while it's still 50% OFF + FREE Shipping
+
+Buy here: https://pawsafer.net
+ 
+Enjoy, 
+ 
+Laurinda. 
+

@@ -1,0 +1,53 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id eMhoLggEMGQPYS0AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Fri, 07 Apr 2023 04:52:40 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Fri, 07 Apr 2023 04:52:40 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pkke0-00CUzr-LS
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Fri, 07 Apr 2023 04:52:40 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pkkdw-00CUyO-6W@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1pkke0-00CUzr-LS@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 07 Apr 2023 04:52:40 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pkkdw-00CUyO-6W
+	for servicioalcliente@serkoi.com;
+	Fri, 07 Apr 2023 04:52:36 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.94.53.35
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.94.53.35
+From:
+Message-Id: <E1pkkdw-00CUyO-6W@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 07 Apr 2023 04:52:36 -0700
+
+De: Warner Mayfield. 
+Correo: . 
+Telefono: 250-768-8561. 
+Mensaje: 
+Private Blog Network links, always have worked well for the ranks.
+We`ll write quality SEO content and get you listed permanently in quality PBN sites, unique domains.
+
+More info:
+https://www.seo-treff.de/product/private-blog-networks-backlinks/
+. 
+

@@ -1,0 +1,103 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id TRJmAn95fmW1xzUAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 16 Dec 2023 21:30:55 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 16 Dec 2023 21:30:55 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rEinm-00EmtD-2t
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sat, 16 Dec 2023 21:30:54 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rEinh-00EmsJ-24@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1702787454-eximdsn-1136497749
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rEinm-00EmtD-2t@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 16 Dec 2023 21:30:54 -0700
+
+--1702787454-eximdsn-1136497749
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 EinuraUue2oqZ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=UL8bXgTy c=1 sm=1 tr=0 ts=657e7987 p=5RfP2dZD08r3lApLoDsO:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=e2cXIFwxEfEA:10 a=smrCSdiaAAAA:8 a=Zd4pRW0nAAAA:8 a=1NMGcwUZkKusla3A4FcA:9 a=SVJntaqM230A:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=Cb6nRPa5jPn1rBTtxhP6:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=DaZ4D1_w3M7mDB2tr41Z:22 ::
+    100.00
+
+--1702787454-eximdsn-1136497749
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 EinuraUue2oqZ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=UL8bXgTy c=1 sm=1 tr=0 ts=657e7987 p=5RfP2dZD08r3lApLoDsO:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=e2cXIFwxEfEA:10 a=smrCSdiaAAAA:8 a=Zd4pRW0nAAAA:8 a=1NMGcwUZkKusla3A4FcA:9 a=SVJntaqM230A:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=Cb6nRPa5jPn1rBTtxhP6:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=DaZ4D1_w3M7mDB2tr41Z:22 :: 100.00
+
+--1702787454-eximdsn-1136497749
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rEinh-00EmsJ-24
+	for servicioalcliente@serkoi.com;
+	Sat, 16 Dec 2023 21:30:54 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 196.244.4.40
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 196.244.4.40
+From:
+Message-Id: <E1rEinh-00EmsJ-24@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 16 Dec 2023 21:30:49 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Eric Jones. 
+Correo: . 
+Telefono: 555-555-1212. 
+Mensaje: Dear proditelsas.com Admin. my name is Eric and I’m betting you’d like your website proditelsas.com to generate more leads.
+
+Here’s how:
+Web Visitors Into Leads is a software widget that’s works on your site, ready to capture any visitor’s Name, Email address and Phone Number.  It signals you as soon as they say they’re interested – so that you can talk to that lead while they’re still there at proditelsas.com.
+
+Web Visitors Into Leads – CLICK HERE https://rushleadgeneration.com for a live demo now.
+
+And now that you’ve got their phone number, our new SMS Text With Lead feature enables you to start a text (SMS) conversation – answer questions, provide more info, and close a deal that way.
+
+If they don’t take you up on your offer then, just follow up with text messages for new offers, content links, even just how you doing? notes to build a relationship.
+
+CLICK HERE https://rushleadgeneration.com to discover what Web Visitors Into Leads can do for your business.
+
+The difference between contacting someone within 5 minutes versus a half-hour means you could be converting up to 100X more leads today!
+
+Try Web Visitors Into Leads and get more leads now.
+
+Eric
+PS: The studies show 7 out of 10 visitors don’t hang around – you can’t afford to lose them!
+Web Visitors Into Leads offers a FREE 14 days trial – and it even includes International Long Distance Calling. 
+You have customers waiting to talk with you right now… don’t keep them waiting. 
+CLICK HERE https://rushleadgeneration.com to try Web Visitors Into Leads now.
+
+If you'd like to unsubscribe click here https://rushleadgeneration.com/unsubscribe.aspx?d=proditelsas.com
+. 
+
+
+--1702787454-eximdsn-1136497749--

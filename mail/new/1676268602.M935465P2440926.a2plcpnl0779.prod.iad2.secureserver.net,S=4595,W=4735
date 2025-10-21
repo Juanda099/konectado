@@ -1,0 +1,140 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id YGexNjrU6WPePiUAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sun, 12 Feb 2023 23:10:02 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sun, 12 Feb 2023 23:10:02 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pRS2M-00AG66-RA
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sun, 12 Feb 2023 23:10:02 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pRS2H-00AFsl-SN@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1676268602-eximdsn-918876390
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pRS2M-00AG66-RA@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 12 Feb 2023 23:10:02 -0700
+
+--1676268602-eximdsn-918876390
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 RS2MpdYGkJsb7 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=V8C7k8ri c=1 sm=1 tr=0 ts=63e9d43a p=QKHomNoTAAAA:8 p=XVEFRpEmAAAA:8 p=STLA3cHaTZk8PHenjusA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=m04uMKEZRckA:10 a=gYr8KtMdk_gA:10 a=smrCSdiaAAAA:8 a=KLelurR4isYAw5bZB4Jp:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=1jsCMnk6H_BGP0oGbKJn:22 a=y5sVf_D8qEkV7B6LZBhh:22 a=M9ZHoLuYIHMl9pbmgCZa:22 ::
+    100.00
+
+--1676268602-eximdsn-918876390
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 RS2MpdYGkJsb7 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=V8C7k8ri c=1 sm=1 tr=0 ts=63e9d43a p=QKHomNoTAAAA:8 p=XVEFRpEmAAAA:8 p=STLA3cHaTZk8PHenjusA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=m04uMKEZRckA:10 a=gYr8KtMdk_gA:10 a=smrCSdiaAAAA:8 a=KLelurR4isYAw5bZB4Jp:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=1jsCMnk6H_BGP0oGbKJn:22 a=y5sVf_D8qEkV7B6LZBhh:22 a=M9ZHoLuYIHMl9pbmgCZa:22 :: 100.00
+
+--1676268602-eximdsn-918876390
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pRS2H-00AFsl-SN
+	for servicioalcliente@serkoi.com;
+	Sun, 12 Feb 2023 23:10:02 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.105.143.71
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.105.143.71
+From:
+Message-Id: <E1pRS2H-00AFsl-SN@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 12 Feb 2023 23:09:57 -0700
+
+De: Kendrick Morin. 
+Correo: . 
+Telefono: 078 4291 0209. 
+Mensaje: Hello
+
+Do you feel like your business is not reaching its full potential? Do you believe that a negative mindset is holding you back?
+
+It's time to discover the power of manifestation and the law of attraction. 
+
+With Genie Script, a revolutionary tool that can alter your DNA and help you manifest 100 times faster.
+
+Say goodbye to slow results and hello to a bright future for your business.
+
+Click the link now to unleash the power of Genie Script and bring your business to new heights!
+geniemanifestation.com
+
+
+Nancy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+224 Westwood Cir, Dalton, GA  30721
+
+unsubscribe:
+optoutforever.com/?customer_domain=proditelsas.com. 
+
+
+--1676268602-eximdsn-918876390--

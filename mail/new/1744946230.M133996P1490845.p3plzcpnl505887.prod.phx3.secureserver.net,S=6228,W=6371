@@ -1,0 +1,143 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id qDQcBzbEAWidvxYA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 17 Apr 2025 20:17:10 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 17 Apr 2025 20:17:10 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1u5cE2-006TWq-0B
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 17 Apr 2025 20:17:10 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1u5cDp-006TFD-17@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1744946230-eximdsn-865841921
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1u5cE2-006TWq-0B@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 17 Apr 2025 20:17:10 -0700
+
+--1744946230-eximdsn-865841921
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 5cE1uUEszGQzw :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Js4LrN4C c=1 sm=1 tr=0 ts=6801c436 p=oW-qvZ7O_T9t5mD60gcA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=HpzmFC3PAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=PmXiIH4RHP-f5CiJp5SQ:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    97.00
+
+--1744946230-eximdsn-865841921
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 5cE1uUEszGQzw :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Js4LrN4C c=1 sm=1 tr=0 ts=6801c436 p=oW-qvZ7O_T9t5mD60gcA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=HpzmFC3PAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=PmXiIH4RHP-f5CiJp5SQ:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 97.00
+
+--1744946230-eximdsn-865841921
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1u5cDp-006TFD-17
+	for servicioalcliente@serkoi.com;
+	Thu, 17 Apr 2025 20:17:09 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1u5cDp-006TFD-17@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 17 Apr 2025 20:16:57 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Donald Wright. 
+Correo: . 
+Telefono: (02) 6177 6990. 
+Mensaje: Hey  proditelsas.com,
+
+Why are you still burning $20 to $200 every month on ChatGPT when there’s a smarter, faster, and way more powerful AI waiting for you?
+
+Introducing DeepSmartX – The AI that crushes ChatGPT & DeepSeek with NO limits, NO censorship, and 100% data privacy!
+
+And Generates All Types of Ai Videos, Music, Images, Text Content, Documents, Reads PDFs, and Website Content via URL – in Seconds!
+
+>> Watch the Powerful Demo in action: https://www.getmoreopportunities.info/deepsmartx 
+
+Why DeepSmartX Stands Out:
+
+[+] Built in the USA by VIDEOO – Trusted company since 2021
+
+[+] Deep Reasoning Models – Outperforms ChatGPT 4.5 & DeepSeek R1
+
+[+] Creates Any Kind of Text Content in Seconds – Professional documents, sales scripts, artistic writing, poetry, and more
+
+[+] Generates Mesmerising AI Videos – Perfect for Insta Reels & YouTube Shorts (missing in ChatGPT & DeepSeek)
+
+[+] Generates & Edits Stunning AI Images – One-click creativity
+
+[+] Generates All Types of Music – Tailored for video content (missing in ChatGPT & DeepSeek)
+
+[+] Reads or Summarises PDFs, Documents, or Any Content – Instantly
+
+[+] Voice Input – Converts speech to text in real-time for seamless, hands-free interaction
+
+[+] Pocket-Friendly – Get 10x more features than ChatGPT’s $200/month plan
+
+[+] No Censorship – No content restrictions.  Total creative freedom – unlike ChatGPT & DeepSeek
+
+[+] Replaces Dozens of AI Tools – For video, image, and text generation.  Saves thousands!
+
+[+] Lifetime Access at a Low One-Time Price – Smartest, most powerful AI ever!
+
+>> Checkout the Full List here and Grab DeepSmartX Before the Price Goes Up: https://www.getmoreopportunities.info/deepsmartx !
+
+������ EARLY BIRD EXCLUSIVE: INSANE BONUSES INSIDE!
+
+Because this is THE AI tool of the year, I’m hooking you up with VIP bonuses worth $4,997+!
+
+>> Get DeepSmartX + ALL Exclusive Bonuses NOW Before It’s Too Late: https://www.getmoreopportunities.info/deepsmartx !
+
+������ WARNING: THIS LAUNCH DEAL WON’T LAST!
+
+⏳ The DeepSmartX launch deal is going away FAST.
+
+Once we hit our limit, the price increases, and the bonuses DISAPPEAR—FOREVER.
+
+❌ No more VIP bonuses
+
+❌ No more one-time pricing
+
+>> FINAL CALL – Get DeepSmartX at the Best Price NOW: https://www.getmoreopportunities.info/deepsmartx !
+
+This is your ONLY shot at locking in the smartest AI with LIFETIME access.
+
+Are you in… or will you miss out forever?
+
+See you inside,
+Donald Wright
+
+
+UNSUBSCRIBE: https://www.getmoreopportunities.info/unsubscribe/?d=proditelsas.com 
+3569 Pickens Way
+Dallas, TX 75207. 
+
+
+--1744946230-eximdsn-865841921--

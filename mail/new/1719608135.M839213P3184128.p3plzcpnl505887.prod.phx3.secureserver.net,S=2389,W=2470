@@ -1,0 +1,81 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id RkniMEcjf2YAljAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 28 Jun 2024 13:55:35 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 28 Jun 2024 13:55:35 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sNId5-00DMKn-2N
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 28 Jun 2024 13:55:35 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sNIcv-00DM74-29@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sNId5-00DMKn-2N@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 28 Jun 2024 13:55:35 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sNIcv-00DM74-29
+	for servicioalcliente@serkoi.com;
+	Fri, 28 Jun 2024 13:55:25 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 34.73.70.83
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 34.73.70.83
+From:
+Message-Id: <E1sNIcv-00DM74-29@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 28 Jun 2024 13:55:25 -0700
+
+De: Maybell Pelletier. 
+Correo: . 
+Telefono: 314862276. 
+Mensaje: Want Free business data?
+
+Usage:
+
+https://leadsbox.biz
+
+(Lawyers in New york for example)
+
+71 Million business records in 202 countries
+
+Updated Daily
+
+Company Name
+countryCode
+countryName
+state
+county
+city
+street
+postalCode
+building
+lat
+lng
+Category
+Secondary Category
+Personal contacts
+Phones
+Fax
+Emails
+Reviews
+opening hours
+
+and more
+
+LeadsBox.biz. 
+

@@ -1,0 +1,90 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id +IekK9mgKWad6z4A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 24 Apr 2024 17:16:25 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 24 Apr 2024 17:16:25 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1rzmmn-00HJLL-28
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 24 Apr 2024 17:16:25 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1rzmmg-00HJJC-0F@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1714004185-eximdsn-746483809
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rzmmn-00HJLL-28@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 24 Apr 2024 17:16:25 -0700
+
+--1714004185-eximdsn-746483809
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 zmmnrRC7FoU6u :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=dtQQCEg4 c=1 sm=1 tr=0 ts=6629a0d9 p=1RXgkhlI6YIA:10 p=e3xAm4dxLDubmE1xpkpw:22 p=TJ5mVV-QU94RM7qWxYeA:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=raytVjVEu-sA:10 a=pGLkceISAAAA:8 a=c0tBzWV-BJ1G6JthzdoA:9 a=3ZKOabzyN94A:10 a=AuEKhLfUDNcA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1714004185-eximdsn-746483809
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 zmmnrRC7FoU6u :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=dtQQCEg4 c=1 sm=1 tr=0 ts=6629a0d9 p=1RXgkhlI6YIA:10 p=e3xAm4dxLDubmE1xpkpw:22 p=TJ5mVV-QU94RM7qWxYeA:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=raytVjVEu-sA:10 a=pGLkceISAAAA:8 a=c0tBzWV-BJ1G6JthzdoA:9 a=3ZKOabzyN94A:10 a=AuEKhLfUDNcA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1714004185-eximdsn-746483809
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1rzmmg-00HJJC-0F
+	for servicioalcliente@serkoi.com;
+	Wed, 24 Apr 2024 17:16:25 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 146.70.121.179
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 146.70.121.179
+From:
+Message-Id: <E1rzmmg-00HJJC-0F@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 24 Apr 2024 17:16:18 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Hellen Fish. 
+Correo: . 
+Telefono: 23-85-60-43. 
+Mensaje: Hi, My name is Helen and I'm an Online marketing specialist here in the UK. I've done some initial research on your website/sector, and I couldn't help but I notice that your online visibility is fairly low on Google. With your permission I’d like to send you a free report showing you a few things you can do on your own (without needing to hire anyone) to greatly improve these search results for you. 
+
+The report is very detailed and comes with its own detailed instructions. It will show you exactly what needs to be done to unleash rankings and traffic that make a difference! I'll also share some ideas and tips to generate more revenue through your website. 
+
+Would that be, okay? Again, this is completely free- no costs whatsoever just our way of making a super strong first impression as experts in digital marketing! Please email us at anna.fratellimarketing@gmail.com back for a free report. 
+
+Warm Regards, 
+Helen Waters, 
+Marketing Account Manager.  
+anna.fratellimarketing@gmail.com
+
+To unsubscribe please reply NO.. 
+
+
+--1714004185-eximdsn-746483809--

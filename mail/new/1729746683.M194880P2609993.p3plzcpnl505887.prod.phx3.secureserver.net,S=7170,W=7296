@@ -1,0 +1,126 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id OKPECvvWGWdJ0ycA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 23 Oct 2024 22:11:23 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 23 Oct 2024 22:11:23 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1t3q83-00Axg0-0N
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 23 Oct 2024 22:11:23 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1t3q7s-00Axda-0E@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1729746683-eximdsn-1516815751
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t3q83-00Axg0-0N@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 23 Oct 2024 22:11:23 -0700
+
+--1729746683-eximdsn-1516815751
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 3q83tYJHWcdLo :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=X8yZK3Te c=1 sm=1 tr=0 ts=6719d6fb p=EtmFE438YMQKB_tobqMA:9 p=-RNibe0bxHeAvtTJJZp8:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=smrCSdiaAAAA:8 a=eQBPJK_bAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=X9fPweFELI3g4u6mKOBy:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1729746683-eximdsn-1516815751
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 3q83tYJHWcdLo :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=X8yZK3Te c=1 sm=1 tr=0 ts=6719d6fb p=EtmFE438YMQKB_tobqMA:9 p=-RNibe0bxHeAvtTJJZp8:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=smrCSdiaAAAA:8 a=eQBPJK_bAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=M9ZHoLuYIHMl9pbmgCZa:22 a=X9fPweFELI3g4u6mKOBy:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1729746683-eximdsn-1516815751
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1t3q7s-00Axda-0E
+	for servicioalcliente@serkoi.com;
+	Wed, 23 Oct 2024 22:11:22 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.253.203
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.253.203
+From:
+Message-Id: <E1t3q7s-00Axda-0E@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 23 Oct 2024 22:11:12 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Nancy Bishop. 
+Correo: . 
+Telefono: 0474 94 10 55. 
+Mensaje: Hey proditelsas.com,
+
+TOKmate is the only tool that makes going viral in your niche both easy and effortless.     TikTok is the fastest-growing platform, and trying to grow manually or using paid ads is a difficult and costly path.     With TOKmate, going viral is as simple as: Find, Segment, Post.
+
+Find Viral Content: Instantly discover the most viral content in any niche via keywords, hashtags, or account searches.     Ì†ΩÌ¥ç
+
+Segment the Best: Let TOKmate analyze engagement metrics-likes, shares, views-and choose the winning content.     Ì†ºÌøÜÌ†ΩÌ¥•
+
+Post & Go Viral: 1-click to post or schedule, and let TOKmate handle the rest, sending your account viral on repeat.     Ì†ΩÌ∫Ä
+
+You can be in ANY niche and still go viral - the weirder, the better!     TikTok is where even 'boring' industries get massive traction.     Whether it's 'plumbertok' for plumbers, 'fittok' for fitness, or 'poketok' for Pokemon cards, there's an audience for everything.     With TOKmate, you can ethically re-share viral content to YOUR page and become the go-to source for your niche.
+
+Your chance to create viral accounts at the lowest price you can get a founders membership for is about to expire - CTA: This is your last chance in HISTORY to ever get the early bird founders price by using code 'toklucky', so go here now and grab it before it's too late as once the clock hits zero it expires for GOOD: https://www.busitoday.co/tokmate   !
+
+Why You Need to SecureTOKmateNow:
+
+6-Hour Coupon to Lower the Price: Use the "toklucky" coupon to get the price back down to $42 one final time - this is the last chance before it's gone for good.     ‚è∞
+
+Ease of Going Viral: Growing on TikTok manually is tough - TOKmate takes care of discovering, posting, and analyzing content for you, making going viral easier than ever.     Ì†æÌ∑†‚ú®
+
+Luke Maguire's Guarantee: Created by Luke Maguire, a giant in the industry known for releasing only the best tools, TOKmate comes with a double back guarantee - if you don't get results, we'll give you double your investment back.     No risk, just results.     Ì†ΩÌ≤∞Ì†ΩÌ≤µ
+
+See the Live Demo: Still unsure?     Check out the live demo on the sales page and see exactly how easy it is to take control of TikTok and send your content viral.
+
+Exclusive Bonuses if You Act Now:
+
+Unlimited Access During Launch: Lifetime access to the Infinity Pack - including unlimited searches, scheduling, posting, and more.
+
+Trending Module & Remix Tools: Tools that will 5x your engagement and keep you ahead of the curve, only available during launch week.
+
+Agency Rights Included: Use TOKmate for your clients and help them go viral while charging for the service - available for founding members.
+
+With over 1 billion active users and engagement rates 4x higher than Instagram, TikTok is where everyone is, and TOKmate is your chance to finally go viral, effortlessly.
+
+Use "toklucky" & Secure Your Early Bird Price Now: https://www.busitoday.co/tokmate   !  
+
+Don't miss out - this is your last chance to grab TOKmate at the best price possible.
+
+Grab Your Discount Before It Expires: https://www.busitoday.co/tokmate   !     
+
+To Your Viral Success,
+Nancy Bishop
+
+
+
+UNSUBSCRIBE: https://www.busitoday.co/unsubscribe/?d=proditelsas.com   
+Address: 2677 West Virginia Avenue
+Esperance, NY 12066. 
+
+
+--1729746683-eximdsn-1516815751--

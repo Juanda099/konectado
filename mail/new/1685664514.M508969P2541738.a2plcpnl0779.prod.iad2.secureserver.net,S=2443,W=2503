@@ -1,0 +1,60 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id qBXKGAIzeWSqyCYAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 01 Jun 2023 17:08:34 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 01 Jun 2023 17:08:34 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1q4sLK-00Afqo-43
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 01 Jun 2023 17:08:34 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1q4sLF-00AfeE-BM@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1q4sLK-00Afqo-43@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 01 Jun 2023 17:08:34 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1q4sLF-00AfeE-BM
+	for servicioalcliente@serkoi.com;
+	Thu, 01 Jun 2023 17:08:29 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 185.230.126.24
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 185.230.126.24
+From:
+Message-Id: <E1q4sLF-00AfeE-BM@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 01 Jun 2023 17:08:29 -0700
+
+De: Kelley. 
+Correo: . 
+Telefono: 0209 17 86 22. 
+Mensaje: Hey 
+
+I wanted to reach out and let you know about our new dog harness. It's really easy to put on and take off - in just 2 seconds - and it's personalized for each dog. 
+Plus, we offer a lifetime warranty so you can be sure your pet is always safe and stylish.
+
+We've had a lot of success with it so far and I think your dog would love it. 
+
+Get yours today with 50% OFF:  https://caredogbest.shop
+
+FREE Shipping - TODAY ONLY! 
+
+Kind Regards, 
+
+Kelley. 
+

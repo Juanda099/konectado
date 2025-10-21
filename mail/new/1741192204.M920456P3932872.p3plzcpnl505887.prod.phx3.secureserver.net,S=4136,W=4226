@@ -1,0 +1,90 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id SBFPNAx8yGfIAjwA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 05 Mar 2025 09:30:04 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 05 Mar 2025 09:30:04 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tprdE-00HFr0-2Q
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 05 Mar 2025 09:30:04 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tprd3-00HFZj-2V@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1741192204-eximdsn-410233171
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tprdE-00HFr0-2Q@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 05 Mar 2025 09:30:04 -0700
+
+--1741192204-eximdsn-410233171
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 prdEtoZupbZMM :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=WOOFXmsR c=1 sm=1 tr=0 ts=67c87c0c p=ojIXrISCMeduZFsik_wA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=Vs1iUdzkB0EA:10 a=xRIiZs02AAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=Vma-n8-gZlgtiTj8ucXI:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1741192204-eximdsn-410233171
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 prdEtoZupbZMM :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=WOOFXmsR c=1 sm=1 tr=0 ts=67c87c0c p=ojIXrISCMeduZFsik_wA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=Vs1iUdzkB0EA:10 a=xRIiZs02AAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=Vma-n8-gZlgtiTj8ucXI:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1741192204-eximdsn-410233171
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tprd3-00HFZj-2V
+	for servicioalcliente@serkoi.com;
+	Wed, 05 Mar 2025 09:30:04 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tprd3-00HFZj-2V@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 05 Mar 2025 09:29:53 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Leo Murray. 
+Correo: . 
+Telefono: 79 904 44 44. 
+Mensaje: Hey ,
+
+Say goodbye to the overwhelm and hello to simple, instant profits!   DFY Super Affiliate gives you a complete plug-and-play system that delivers proven results.   It’s exactly what buyers want—a system that works from day one: https://www.moredollar.info/dfysuperaffiliate .
+
+Our students are already seeing results, and now it’s your turn to join the action. 
+
+Best,
+Leo Murray
+
+ 
+UNSUBSCRIBE: https://www.moredollar.info/unsubscribe/?d=proditelsas.com 
+Address: 1888 Mutton Town Road
+Vancouver, WA 98663
+. 
+
+
+--1741192204-eximdsn-410233171--

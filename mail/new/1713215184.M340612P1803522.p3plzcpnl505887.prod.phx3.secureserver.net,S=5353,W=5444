@@ -1,0 +1,91 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id uDBtE9CWHWYChRsA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 15 Apr 2024 14:06:24 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 15 Apr 2024 14:06:24 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1rwTWy-007d7C-0s
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 15 Apr 2024 14:06:24 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1rwTWt-007d6O-1d@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1713215184-eximdsn-986130457
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rwTWy-007d7C-0s@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 15 Apr 2024 14:06:24 -0700
+
+--1713215184-eximdsn-986130457
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 wTWyrrHq5JCRo :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=KtGG2nWN c=1 sm=1 tr=0 ts=661d96d0 p=TyBY6cKUAAAA:20 p=wROYPh5QMHwA:10 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=raytVjVEu-sA:10 a=ZbeGi9e8wP1cUqUhpP4A:9 a=tRvwWCJrV6kIjDECIHsU:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1713215184-eximdsn-986130457
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 wTWyrrHq5JCRo :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=KtGG2nWN c=1 sm=1 tr=0 ts=661d96d0 p=TyBY6cKUAAAA:20 p=wROYPh5QMHwA:10 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=raytVjVEu-sA:10 a=ZbeGi9e8wP1cUqUhpP4A:9 a=tRvwWCJrV6kIjDECIHsU:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1713215184-eximdsn-986130457
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1rwTWt-007d6O-1d
+	for servicioalcliente@serkoi.com;
+	Mon, 15 Apr 2024 14:06:24 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 77.234.44.145
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 77.234.44.145
+From:
+Message-Id: <E1rwTWt-007d6O-1d@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 15 Apr 2024 14:06:19 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Mike S. 
+Correo: . 
+Telefono: 7005323725. 
+Mensaje: Michael here from Texas.  I'm a veteran and I want to compensate you for giving us a hand while we're helping homeless veterans get back on their feet across the country - I was one and I know the hardships.  I started ChildLight Candles to help homeless vets with 25% of the profit going to this cause.  I have my family helping with the business and we are making a difference, day by day.
+
+We could use your help without you having to do much of anything, in fact we'll pay you.  $3 for every candle sold - you would simply place a link on your site or social channels and earn everytime someone orders a candle from us to compensate you for your time/space.  We just launched recently and have sold about 70 candles with our first affiliate so far.  In one weeks time he's earned a little over 200 dollars.  Not too bad for simply placing a link on your site/socials to help veterans.
+
+Please help us get the word out and help our veterans by visiting us at https://cutt.ly/gw8xOcu8 and grabbing a unique link for yourself.  You'll be able to see how many people have visited your link, as well as how many sales you've produced in real time.  Once you're on the site, just visit the Affiliate area from the main menu and put in your details and a link will be generated for you.
+
+If you'd like custom graphics for your ad let us know, maybe even personal branding.  If you need helping placing it on your site please let us know, we'd be happy to help you place it on there free of charge.  Place your unique link anywhere you like, your social channels, your site, etc.
+
+
+Thanks in advance
+
+Ssg Michael Solano
+Childlight Candles. 
+
+
+--1713215184-eximdsn-986130457--

@@ -1,0 +1,83 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id YNh4K1ABXmbPgDUA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 03 Jun 2024 10:45:52 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 03 Jun 2024 10:45:52 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sEBkm-00EjWa-26
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 03 Jun 2024 10:45:52 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sEBkY-00EjPV-1f@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1717436752-eximdsn-1842858546
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sEBkm-00EjWa-26@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 03 Jun 2024 10:45:52 -0700
+
+--1717436752-eximdsn-1842858546
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 EBkmsgfRa4JLV :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Uu6oNPwB c=1 sm=1 tr=0 ts=665e0150 p=wdt_bAEOAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=CRieoONHz1354YRPONkA:9 a=3ZKOabzyN94A:10 a=aeuXFvzKnbQA:10 a=IawXvI9lP1MA:10 a=ZXulRonScM0A:10 a=34_xYJnUNp0h-ecj-iXV:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1717436752-eximdsn-1842858546
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 EBkmsgfRa4JLV :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Uu6oNPwB c=1 sm=1 tr=0 ts=665e0150 p=wdt_bAEOAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=CRieoONHz1354YRPONkA:9 a=3ZKOabzyN94A:10 a=aeuXFvzKnbQA:10 a=IawXvI9lP1MA:10 a=ZXulRonScM0A:10 a=34_xYJnUNp0h-ecj-iXV:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1717436752-eximdsn-1842858546
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sEBkY-00EjPV-1f
+	for servicioalcliente@serkoi.com;
+	Mon, 03 Jun 2024 10:45:52 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 103.190.14.141
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 103.190.14.141
+From:
+Message-Id: <E1sEBkY-00EjPV-1f@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 03 Jun 2024 10:45:38 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Nick Bloomer. 
+Correo: . 
+Telefono: 3901788191. 
+Mensaje: Ɗⲟ үⲟu feel а Resource Crunch in үօur Company? Ԝе offer on-demand developers οn ANY technology ⅼike JAVA, Dot Ⲛet, Node JS, React JS, Python аnd that tοߋ ѡithin 1 һⲟur. 
+
+Experience affordable pricing with fully signed NDA, 100% code security, ɑn easy exit policy, and ɑ 40-h᧐ur risk-free trial. Hire Үߋur Next Developer Confidently Ƭoday!
+
+https://bit.ly/3V61jPo. 
+
+
+--1717436752-eximdsn-1842858546--

@@ -1,0 +1,62 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id WGNHB2LWz2jFwBsA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 21 Sep 2025 03:41:38 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 21 Sep 2025 03:41:38 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1v0HVi-00000007kAN-02sw
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 21 Sep 2025 03:41:38 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1v0HVa-00000007k3h-2Icb@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1v0HVi-00000007kAN-02sw@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 21 Sep 2025 03:41:38 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1v0HVa-00000007k3h-2Icb
+	for servicioalcliente@serkoi.com;
+	Sun, 21 Sep 2025 03:41:30 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1v0HVa-00000007k3h-2Icb@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 21 Sep 2025 03:41:30 -0700
+
+De: Celeste Harless. 
+Correo: . 
+Telefono: 3170522069. 
+Mensaje: Hello,
+
+At Cateus Investment Company (CIC), we understand that the right funding structure can significantly accelerate your business growth. Whether you’re an early-stage startup or a scaling enterprise, our investment solutions are tailored to align with your vision and long-term success.
+
+We currently offer two primary financing options:
+	•	Debt Financing: Access capital at a competitive 3% annual interest rate, with no prepayment penalties—ideal for businesses seeking straightforward, low-cost funding while maintaining full ownership.
+	•	Convertible Debt Financing: A hybrid solution offering 3% annual interest with a conversion feature. After two years, the debt can convert into a 10–15% equity stake, providing both immediate funding and future alignment of interests.
+
+If you’re seeking strategic funding with flexibility, we invite you to share your pitch deck or executive summary. Our team is ready to work with you to identify the most effective investment structure to support your business trajectory.
+
+We look forward to exploring how CIC can partner with you to unlock your company’s full potential.
+
+Warm regards,
+Oman Rook
+Executive Investment Consultant | Director
+Cateus Investment Company (CIC)
+oman-rook@cateusgroup.org | cateusgroup@gmail.com
+www.cateusinvestmentsgroup.com. 
+

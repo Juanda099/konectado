@@ -1,0 +1,114 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id MIVEELKE+2eUljoA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 13 Apr 2025 02:32:34 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 13 Apr 2025 02:32:34 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1u3tha-00G9uq-0f
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 13 Apr 2025 02:32:34 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1u3thP-00G9fI-0Y@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1744536754-eximdsn-2111321695
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1u3tha-00G9uq-0f@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 13 Apr 2025 02:32:34 -0700
+
+--1744536754-eximdsn-2111321695
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 3thauTD1IXgPh :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=YNdlyQGx c=1 sm=1 tr=0 ts=67fb84b2 p=ouAenMEM15IiaYcRFtQA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=WfbHnZbdAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=IfkkEA1PoG1LQijzXGxd:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1744536754-eximdsn-2111321695
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 3thauTD1IXgPh :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=YNdlyQGx c=1 sm=1 tr=0 ts=67fb84b2 p=ouAenMEM15IiaYcRFtQA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=WfbHnZbdAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=IfkkEA1PoG1LQijzXGxd:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1744536754-eximdsn-2111321695
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1u3thP-00G9fI-0Y
+	for servicioalcliente@serkoi.com;
+	Sun, 13 Apr 2025 02:32:33 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1u3thP-00G9fI-0Y@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 13 Apr 2025 02:32:23 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Danny McNear. 
+Correo: . 
+Telefono: 02.90.39.98.94. 
+Mensaje: Hi,
+
+We noticed that you have an excellent website: proditelsas.com, here is a solution to help you earn more from it.
+
+According to recent reports, digital ad spend in the world is projected to reach US$271.20bn by the end of 2025. This means there are ample opportunities for publishers like you to carve out their own little piece of this pie. 
+
+But, monetizing your website effectively through ads is easier said than done. Platforms like Google AdSense come with a lot of restrictions and formats that aren’t that versatile.
+That’s where Monetag comes in. Even corporate websites also monetize their blog parts through Monetag.
+
+Monetag is one of the largest audience monetization platforms for publishers. You will EARN $5 TO $10 PER 1000 PAGE VIEWS via Monetag: https://www.greatbusi.info/monetag , Monetag brings publishers like you more income than AdSense usually does !
+
+The platform works for every type of audience, including desktop, mobile, and in app audiences. You get access to worldwide advertisers, clean ads, competitive CPMs, and convenient payment options. 
+
+Income growth is exciting, and the wait is worth it. In the beginning, advertisers typically test the quality of website traffic and collect demographic data of website visitors at low bids; then, advertisers raise their bids per day to compete for ad placements on your site;
+
+Now click here to maximize your website revenue: https://www.greatbusi.info/monetag 
+
+Pros: 
+
+	Works With Any Website: Monetag works perfectly with any site regardless of industry, size, or traffic levels. 	
+
+	Full Ad Coverage: Monetag offers 6 ad formats in 1 and is the ultimate AI-based technology for monetizing your website.
+
+	100% Fill Rate: Your ad inventory won’t be wasted because Monetag has access to advertisers worldwide.
+
+	MultiTag Feature: Removes the need for you to add several tags, test, analyze, and optimize yourself.
+
+	Clean and Safe Ads: No need to worry about malwarel or virus-infected ads thanks to well-vetted ads and anti-ad fraud protection tools. 
+
+Now click here to earn more dollars: https://www.greatbusi.info/monetag
+
+Regards,
+Danny McNear
+
+
+UNSUBSCRIBE: https://www.greatbusi.info/unsubscribe/?d=proditelsas.com 
+4365 Upton Avenue
+Greene, ME 04236. 
+
+
+--1744536754-eximdsn-2111321695--

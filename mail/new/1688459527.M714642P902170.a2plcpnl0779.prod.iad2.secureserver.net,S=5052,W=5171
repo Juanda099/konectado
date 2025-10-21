@@ -1,0 +1,119 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id yGAmKQfZo2QaxA0AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 04 Jul 2023 01:32:07 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 04 Jul 2023 01:32:07 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qGbSB-003osg-I2
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 04 Jul 2023 01:32:07 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qGbS6-003ohl-Ht@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1688459527-eximdsn-1839240824
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qGbSB-003osg-I2@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 04 Jul 2023 01:32:07 -0700
+
+--1688459527-eximdsn-1839240824
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 GbSBqNoFGDjHy :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=TuEgxhbh c=1 sm=1 tr=0 ts=64a3d907 p=6myjDd9KAAAA:20 p=wya0Ul8vpyARDRinxmsA:9 p=dKmFyGeuO6NVs3AqvKie:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1688459527-eximdsn-1839240824
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 GbSBqNoFGDjHy :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=TuEgxhbh c=1 sm=1 tr=0 ts=64a3d907 p=6myjDd9KAAAA:20 p=wya0Ul8vpyARDRinxmsA:9 p=dKmFyGeuO6NVs3AqvKie:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1688459527-eximdsn-1839240824
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qGbS6-003ohl-Ht
+	for servicioalcliente@serkoi.com;
+	Tue, 04 Jul 2023 01:32:07 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 168.91.65.206
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 168.91.65.206
+From:
+Message-Id: <E1qGbS6-003ohl-Ht@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 04 Jul 2023 01:32:02 -0700
+
+De: Jim Myers. 
+Correo: . 
+Telefono: 070 0291 2225. 
+Mensaje: Hey,
+
+I tried to get in touch with you but I couldn’t get through. Everything ok?
+
+I wanted to quickly tell you that CopyMate is closing it's lowest price $12 ever deal now
+
+It is top trending app and now my favourite too. CopyMate price is already increased to $19 and tonight again it is going to increase to $28 and then it will be turning to $197/month.
+
+Right now you can get it at its lowest price ever $12 and good new is that I have got a $7 OFF coupon for you, use COPYMATE7OFF
+
+Get CopyMate Right Now Before It Increased To $28: https://shorturl.at/gmPSX  
+
+
+Full Scoop:
+
+GPT4 is the most powerful A.I in the world, and there is only one software CopyMate which uses GPT4 to Create
+
+[+] Website content
+[+] Email campaigns
+[+] Social Media Posts
+[+] Videos and Video Scripts
+[+] Content for Videos
+[+] Articles, Ads, Reports, Sales Pages, and much more
+ 
+
+==> Watch the demo now: https://shorturl.at/gmPSX  
+
+
+It creates all kind of AI content, graphics, programming code, video scripts, emails, social media post, in seconds, literally.
+
+I thought you could use it in your business, or even sell it as a service to clients for some extra cash.
+
+Check it out here:
+
+
+> https://shorturl.at/gmPSX 
+
+
+Don't wait any longer, snatch up this amazing opportunity before it's gone and becomes a monthly plan.
+
+
+Sincerely, 
+
+Jim. 
+
+
+--1688459527-eximdsn-1839240824--

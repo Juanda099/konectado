@@ -1,0 +1,45 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id EKs8HNglSWgA/RsA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 10 Jun 2025 23:44:40 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 10 Jun 2025 23:44:40 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.1)
+	id 1uPFCS-00000008GOf-1f0U
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 10 Jun 2025 23:44:40 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uPFCR-00000008GOQ-1rX3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uPFCS-00000008GOf-1f0U@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 10 Jun 2025 23:44:40 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.1)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uPFCR-00000008GOQ-1rX3
+	for servicioalcliente@serkoi.com;
+	Tue, 10 Jun 2025 23:44:39 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uPFCR-00000008GOQ-1rX3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 10 Jun 2025 23:44:39 -0700
+
+De: Tamera Raker. 
+Correo: . 
+Telefono: 7735812076. 
+Mensaje: Need more clicks and conversions for Proditelsas? Watch this short video about our AI-powered traffic service: https://www.youtube.com/watch?v=0vQRdhaE2j8. 
+

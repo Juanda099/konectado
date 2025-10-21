@@ -1,0 +1,98 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id IFjsCcpKhGcf2TMA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 12 Jan 2025 16:05:46 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 12 Jan 2025 16:05:46 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tX71e-00EJJQ-0D
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 12 Jan 2025 16:05:46 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tX71U-00EJIb-1h@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1736723146-eximdsn-1698221263
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tX71e-00EJJQ-0D@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 12 Jan 2025 16:05:46 -0700
+
+--1736723146-eximdsn-1698221263
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 X71et6QLmP5lZ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=MNmamNZl c=1 sm=1 tr=0 ts=67844aca p=XAHqjh0CAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=tVXHuleidavzNK-SsyoA:9 a=3ZKOabzyN94A:10 a=KdAieMMkxzj0fRhsWX2A:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1736723146-eximdsn-1698221263
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 X71et6QLmP5lZ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=MNmamNZl c=1 sm=1 tr=0 ts=67844aca p=XAHqjh0CAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=tVXHuleidavzNK-SsyoA:9 a=3ZKOabzyN94A:10 a=KdAieMMkxzj0fRhsWX2A:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1736723146-eximdsn-1698221263
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tX71U-00EJIb-1h
+	for servicioalcliente@serkoi.com;
+	Sun, 12 Jan 2025 16:05:45 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tX71U-00EJIb-1h@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 12 Jan 2025 16:05:36 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Alycia Chun. 
+Correo: . 
+Telefono: 7273625974. 
+Mensaje: Hi
+
+https://usreviewers.com/twittertactics
+
+Ah, Twitter! The wild, chaotic carnival where everyone’s yelling into the void, and the only ones who seem to get any attention are politicians saying the wackiest things imaginable. Seriously, if you’re not tweeting about how you’re going to turn the moon into a giant cheese wheel or declaring that cats are the rightful rulers of Earth, good luck getting noticed! You could post the most profound thoughts on the meaning of life, and the only engagement you’ll get is from your mom and that one guy who thinks you’re a bot.
+So, what’s the secret to getting traffic on Twitter, you ask? Well, here’s the kicker: the only reliable method left is to reach out to influencers. Yes, those shiny, glamorous beings who seem to have a direct hotline to the Twitter algorithm and can turn a simple "Good morning!" into a viral sensation. But wait! There's a catch! Twitter has made it harder than ever to find lists of influencers. It’s like trying to find a needle in a haystack while blindfolded and on a rollercoaster. Good luck with that!
+
+But fear not, my fellow tweeter! There’s a secret method to beat the system, and it’s so sneaky you’ll feel like a ninja on a mission. Instead of begging at the altar of Lord Musk for his blessings or waiting for the algorithm to notice you (spoiler alert: it won’t), why not slide into the DMs of journalists and media people? Yes, that’s right! Journalists are your new best friends. They’re always on the lookout for juicy content, and if you can catch their attention, you might just hit the Twitter jackpot. And how to you find journalists and media persons on twitter? Aha, there is indeed an 'Open Sesame' trick that works!
+
+https://usreviewers.com/twittertactics    READ THIS ARTICLE!
+
+Think about it: while everyone else is shouting into the void, you’re going straight to the source! Craft a clever pitch, throw in a dash of humor, and voilà! You’re not just another voice in the crowd; you’re the headline everyone’s been waiting for. Plus, they’re used to dealing with crazy ideas—after all, they report on politicians, right?
+
+So, the next time you’re feeling like a forgotten potato in the Twitter vegetable aisle, remember: forget the influencers; go for the journalists! It’s like sneaking backstage at a concert instead of waiting in line for hours. And who knows? You might just become the next big thing without having to declare your love for cheese or start a feud with a fellow politician. 
+
+https://usreviewers.com/twittertactics
+
+Happy tweeting!
+
+Tom and Jessica
+
+. 
+
+
+--1736723146-eximdsn-1698221263--

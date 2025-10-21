@@ -1,0 +1,153 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 8HELLhKM82XKjhsAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 14 Mar 2024 16:45:22 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 14 Mar 2024 16:45:22 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rkulG-007bxN-23
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 14 Mar 2024 16:45:22 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rkulA-007bvI-25@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1710459922-eximdsn-1549928116
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rkulG-007bxN-23@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 14 Mar 2024 16:45:22 -0700
+
+--1710459922-eximdsn-1549928116
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 kulYrc0GxzUSb :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=PISs+uqC c=1 sm=1 tr=0 ts=65f38c24 p=_ekuES0FAAAA:8 p=qwT8Sjj6AzKP5Z82H6kA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=K6JAEmCyrfEA:10 a=pGLkceISAAAA:8 a=3ZKOabzyN94A:10 a=gERYE2Kh49M9j31VJKsi:22 a=sZIb7A2x3HkOkMvmFdLl:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1710459922-eximdsn-1549928116
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 kulYrc0GxzUSb :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=PISs+uqC c=1 sm=1 tr=0 ts=65f38c24 p=_ekuES0FAAAA:8 p=qwT8Sjj6AzKP5Z82H6kA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=K6JAEmCyrfEA:10 a=pGLkceISAAAA:8 a=3ZKOabzyN94A:10 a=gERYE2Kh49M9j31VJKsi:22 a=sZIb7A2x3HkOkMvmFdLl:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1710459922-eximdsn-1549928116
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rkulA-007bvI-25
+	for servicioalcliente@serkoi.com;
+	Thu, 14 Mar 2024 16:45:22 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.106.20.136
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.106.20.136
+From:
+Message-Id: <E1rkulA-007bvI-25@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 14 Mar 2024 16:45:16 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Smith Dawnson. 
+Correo: . 
+Telefono: (03) 6294 8513. 
+Mensaje: I've got something special for you today. It’s more influential than your star sign and contains the most precise and accurate guidance system you’ll ever get.
+
+I'm talking about your Moon Sign and Moon Phase!
+
+Yes -- the sign and phase of the moon at the exact moment of your birth reveals more about you than you could possibly imagine.
+
+Together they influence your strengths and passions...and reveal your potential for abundance, love and prosperity.
+
+So ...
+
+Were you born on an Aries Full Moon? Or was it a Libra Waning Gibbous? And what does it all mean?
+
+>> Get your free personalized video Moon Reading here: https://e4cd1vv3n7h4amblid86jg-jbk.hop.clickbank.net 
+
+
+
+I was born under a Pisces Full Moon, and it was eye opening to discover how that led me on the journey I have taken so far -- and what it means for my future.
+
+If you’d like to understand how the Moon shapes your very existence...
+
+Then you must find out what your Moon Sign & Moon Phase say about you.
+
+>> Get your Moon Reading here: https://e4cd1vv3n7h4amblid86jg-jbk.hop.clickbank.net 
+
+P.S. Your reading may reveal some highly personal and intimate information… so get ready and proceed with an open mind.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To unsubscribe reply with the word unsubscribe in the subject line must include your domain name to media.acquisition1@gmail.com
+. 
+
+
+--1710459922-eximdsn-1549928116--

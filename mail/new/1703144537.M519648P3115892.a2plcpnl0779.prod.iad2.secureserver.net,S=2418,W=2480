@@ -1,0 +1,62 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 9JNtHVnsg2V0iy8AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 21 Dec 2023 00:42:17 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 21 Dec 2023 00:42:17 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rGDhB-00D4a6-18
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 21 Dec 2023 00:42:17 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rGDh6-00D4Xs-1b@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rGDhB-00D4a6-18@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 21 Dec 2023 00:42:17 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rGDh6-00D4Xs-1b
+	for servicioalcliente@serkoi.com;
+	Thu, 21 Dec 2023 00:42:12 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 193.176.86.58
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 193.176.86.58
+From:
+Message-Id: <E1rGDh6-00D4Xs-1b@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 21 Dec 2023 00:42:12 -0700
+
+De: Mike Hawkins
+. 
+Correo: . 
+Telefono: 86762893543. 
+Mensaje: Hello 
+ 
+I have just checked  proditelsas.com for its SEO Trend and saw that your website could use a boost. 
+ 
+We will enhance your ranks organically and safely, using only state of the art AI and whitehat methods, while providing monthly reports and outstanding support. 
+ 
+More info: 
+https://www.digital-x-press.com/unbeatable-seo/ 
+ 
+December SALE -30% coupon: XMS30 
+ 
+Regards 
+Mike Hawkins
+ 
+Digital X SEO Experts. 
+

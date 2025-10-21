@@ -1,0 +1,103 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 2DWTJ/aC7Ge6/gkA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 01 Apr 2025 17:21:10 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 01 Apr 2025 17:21:10 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tzlqw-002z2F-1u
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 01 Apr 2025 17:21:10 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tzlql-002ymC-1r@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1743553270-eximdsn-1160879257
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tzlqw-002z2F-1u@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 01 Apr 2025 17:21:10 -0700
+
+--1743553270-eximdsn-1160879257
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 zlqwtCpD3aXxv :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=V6mH0fni c=1 sm=1 tr=0 ts=67ec82f6 p=wGcp-p1phtdKqrC5nFUA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=Yv54dSjnAAAA:8 a=vggBfdFIAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=khjitF4eWTVcZivGhQua:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1743553270-eximdsn-1160879257
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 zlqwtCpD3aXxv :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=V6mH0fni c=1 sm=1 tr=0 ts=67ec82f6 p=wGcp-p1phtdKqrC5nFUA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=Yv54dSjnAAAA:8 a=vggBfdFIAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=khjitF4eWTVcZivGhQua:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1743553270-eximdsn-1160879257
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tzlql-002ymC-1r
+	for servicioalcliente@serkoi.com;
+	Tue, 01 Apr 2025 17:21:10 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tzlql-002ymC-1r@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 01 Apr 2025 17:20:59 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Catherine Jones. 
+Correo: . 
+Telefono: 06-98563411. 
+Mensaje: (2 f ree items today: CERAVE MOISTURIZING CREAM and The Skincare Bible: Your No-Nonsense Guide to Great Skin)
+
+Receive a f ree s ample of CeraVe’s Moisturizing Cream in the mail with f ree shipping.  This f ree s ample is offered in partnership with SoPost.
+
+The cream helps to seal in moisture keeping your skin healthy, protected and beautiful.  
+
+Developed with dermatologists, CeraVe Moisturizing Cream for Face and Body has a unique formula that provides 24-hour hydration and helps restore the protective skin barrier with three essential ceramides.  
+The formula also contains hyaluronic acid to help retain skin’s natural moisture.  
+
+The moisturizing cream utilizes patented MVE controlled-release technology to help replenish ceramides and deliver long lasting moisturization.  
+
+The moisturizing cream is non-comedogenic, fragrance-free and oil-free.
+
+For U.S. citizens:
+To receive this f ree CeraVe s ample, fill out the s ample request form: https://www.growwealthy.info/ceravemoisturizing .  Your s ample will be delivered in the next few days.
+
+For citizens of other countries:
+As you know, international shipping is always an issue, but don't worry, you will get Amazon's best-selling kindle book for f ree: <<The Skincare Bible: Your No-Nonsense Guide to Great Skin>>, it's price is $14.99 on Amazon, you can check the price here: https://www.amazon.com/Skincare-Bible-No-Nonsense-Guide-Great/dp/0241309107/tag=se&keywords=skincare&qid=1743174322&s=books&sprefix=skincare2C682&sr=1-2 . To get this kindle book for f ree, fill out the request form: https://www.growwealthy.info/skincarebible  
+
+
+Best,
+Catherine Jones
+
+ 
+UNSUBSCRIBE: https://www.growwealthy.info/unsubscribe/?d=proditelsas.com 
+Address: 1868 Flinderation Road
+Wheeling, IL 60090. 
+
+
+--1743553270-eximdsn-1160879257--

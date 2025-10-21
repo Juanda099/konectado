@@ -1,0 +1,89 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id MNEUCPuTBmj4PBgA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 21 Apr 2025 11:52:43 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 21 Apr 2025 11:52:43 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1u6wG3-006sFZ-0C
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 21 Apr 2025 11:52:43 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1u6wFr-006s5I-21@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1745261563-eximdsn-1864557855
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1u6wG3-006sFZ-0C@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 21 Apr 2025 11:52:43 -0700
+
+--1745261563-eximdsn-1864557855
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 6wG3uoeY0Tg1g :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=cObgskeN c=1 sm=1 tr=0 ts=680693fb p=E5-ekeSA-iHmpKySXcQA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=svKqqNJeAAAA:8 a=sz_yDDm5AAAA:8 a=WjTy8czwgjUA:10 a=rKaotkMTyfhQnSChUotc:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1745261563-eximdsn-1864557855
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 6wG3uoeY0Tg1g :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=cObgskeN c=1 sm=1 tr=0 ts=680693fb p=E5-ekeSA-iHmpKySXcQA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=svKqqNJeAAAA:8 a=sz_yDDm5AAAA:8 a=WjTy8czwgjUA:10 a=rKaotkMTyfhQnSChUotc:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1745261563-eximdsn-1864557855
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1u6wFr-006s5I-21
+	for servicioalcliente@serkoi.com;
+	Mon, 21 Apr 2025 11:52:42 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1u6wFr-006s5I-21@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 21 Apr 2025 11:52:31 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Rosa Benner. 
+Correo: . 
+Telefono: 6343128976. 
+Mensaje: Hey there,
+
+I noticed you might be losing customers because you're not as active on TikTok.
+You can see that some of your competitors are crushing it at TikTok - Example here (https://vm.tiktok.com/ZSMnGh7jq/).
+
+
+I would be happy to help you with your socials! 
+My team and I have over 5.000 positive reviews from our US customers on Fiverr.
+https://redditfwd.com/Fiverr
+
+I can even offer you a free trial for a week if you want to see what we can do for your business.
+
+Let me know.. 
+
+
+--1745261563-eximdsn-1864557855--

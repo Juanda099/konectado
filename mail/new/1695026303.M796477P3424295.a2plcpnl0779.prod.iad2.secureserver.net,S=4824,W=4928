@@ -1,0 +1,104 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id WC1mLX8MCGUnQDQAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 18 Sep 2023 01:38:23 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 18 Sep 2023 01:38:23 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qi9lv-00EOI9-KZ
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Mon, 18 Sep 2023 01:38:23 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qi9lh-00EOBa-4E@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1695026303-eximdsn-148618073
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qi9lv-00EOI9-KZ@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 18 Sep 2023 01:38:23 -0700
+
+--1695026303-eximdsn-148618073
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 i9lvqzq5iwneO :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=eKjVzll1 c=1 sm=1 tr=0 ts=65080c7f p=8Z1muFR0AAAA:20 p=R6_XTyz-KWfTCeLGAKgA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=zNV7Rl7Rt7sA:10 a=ElL2piz2ihEA:10 a=wwlcz1s9tdtLypnQGkQX:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1695026303-eximdsn-148618073
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 i9lvqzq5iwneO :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=eKjVzll1 c=1 sm=1 tr=0 ts=65080c7f p=8Z1muFR0AAAA:20 p=R6_XTyz-KWfTCeLGAKgA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=zNV7Rl7Rt7sA:10 a=ElL2piz2ihEA:10 a=wwlcz1s9tdtLypnQGkQX:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1695026303-eximdsn-148618073
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qi9lh-00EOBa-4E
+	for servicioalcliente@serkoi.com;
+	Mon, 18 Sep 2023 01:38:23 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 142.91.118.244
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 142.91.118.244
+From:
+Message-Id: <E1qi9lh-00EOBa-4E@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 18 Sep 2023 01:38:09 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Michael Sinclair. 
+Correo: . 
+Telefono: 0375 0570784. 
+Mensaje: Hello,
+	
+I just wanted to see if you would be open to getting a Full-Time Virtual Assistant + an AI Agent team for one week FREE, and the best part is, there is no obligation to continue, and no credit card or payment required to try us out.
+
+But this offer is only good this week, for the first 20 clients, so you need to claim your Virtual Assistant and AI Team Now, before you miss out.  
+
+Click Here to Get Started: https://bit.ly/free-va-promo
+
+Using Our Virtual Assistants + an AI Agent Team will allow you to:
+
+- Handle a variety of tasks and projects for you so that your day is more productive
+- Follow up on internal/external resources to ensure that there is daily progress
+- Give you back time to focus on building your business instead of admin tasks
+
+... and much, MUCH more!
+
+This FREE Offer is worth over $400, and you are getting it for ABSOLUTELY FREE, so Don’t miss out!!! 
+
+Click Here to Get Started: https://bit.ly/free-va-promo
+		
+Best, 
+
+Michael Sinclair
+Business Development
+Myaa
+. 
+
+
+--1695026303-eximdsn-148618073--

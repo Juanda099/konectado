@@ -1,0 +1,69 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id cC6eJ8Q3/WO5ByEAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 27 Feb 2023 16:07:48 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 27 Feb 2023 16:07:48 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pWmay-0095aI-Iz
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Mon, 27 Feb 2023 16:07:48 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pWmat-0095YP-TP@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1pWmay-0095aI-Iz@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 27 Feb 2023 16:07:48 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pWmat-0095YP-TP
+	for servicioalcliente@serkoi.com;
+	Mon, 27 Feb 2023 16:07:43 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 154.29.105.40
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 154.29.105.40
+From:
+Message-Id: <E1pWmat-0095YP-TP@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 27 Feb 2023 16:07:43 -0700
+
+De: Mary Johnson. 
+Correo: . 
+Telefono: 06-76057650. 
+Mensaje: Why are you not using every means possible to grow your business? 
+
+You should be doing 50% more business than what you currently are. 
+
+Your website has issues that prevent it from getting organic traffic.
+
+We offer a free website anlysis that shows you what you need to improve on.
+
+https://AnalysisWebsite.com/
+
+Anderson Mason
+Owner/Director
+
+
+
+
+
+
+
+
+
+
+If you no longer want these messages unsubscribe here: https://123unsubscribe.com. 
+

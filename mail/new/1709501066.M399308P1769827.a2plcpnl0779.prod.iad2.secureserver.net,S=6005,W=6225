@@ -1,0 +1,220 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id otfqEorq5GVjARsAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sun, 03 Mar 2024 14:24:26 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sun, 03 Mar 2024 14:24:26 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rgtJq-007QPT-0R
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sun, 03 Mar 2024 14:24:26 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rgtJk-007QNf-2h@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1709501066-eximdsn-1064338082
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rgtJq-007QPT-0R@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 03 Mar 2024 14:24:26 -0700
+
+--1709501066-eximdsn-1064338082
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 gtL4rNatECgBA :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=fr1/Z04f c=1 sm=1 tr=0 ts=65e4ead6 p=rlx9E37dAAAA:8 p=xDYG4nUxk1-m4FKsXjEK:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=K6JAEmCyrfEA:10 a=pGLkceISAAAA:8 a=iH9U4nbKkC37ZSFRtNAA:9 a=3ZKOabzyN94A:10 a=f3RD_OutugSLaNsJdGNl:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1709501066-eximdsn-1064338082
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 gtL4rNatECgBA :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=fr1/Z04f c=1 sm=1 tr=0 ts=65e4ead6 p=rlx9E37dAAAA:8 p=xDYG4nUxk1-m4FKsXjEK:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=K6JAEmCyrfEA:10 a=pGLkceISAAAA:8 a=iH9U4nbKkC37ZSFRtNAA:9 a=3ZKOabzyN94A:10 a=f3RD_OutugSLaNsJdGNl:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1709501066-eximdsn-1064338082
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rgtJk-007QNf-2h
+	for servicioalcliente@serkoi.com;
+	Sun, 03 Mar 2024 14:24:25 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.241.243.206
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.241.243.206
+From:
+Message-Id: <E1rgtJk-007QNf-2h@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 03 Mar 2024 14:24:20 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Jordan Ronalds. 
+Correo: . 
+Telefono: 0361 9112097. 
+Mensaje: By far, the biggest mistake men make when they want to make a woman wet…
+
+
+Is thinking that LUSTING FOR YOU somehow comes from LIKING you.
+
+
+But nothing could be further from the truth.
+
+
+You see, whether or not a girl ‘likes’ you and approves of you…
+
+
+Has nothing to do with whether or not she wants to wrap her legs around you and draw you deep inside her.
+
+
+In fact…
+
+
+Women are more likely to fantasize about getting bent over and ravaged by a guy they don’t particularly “like” in the traditional sense.
+
+
+Discover how to make her fantasize about getting pounded by you here
+
+
+==> https://cb0b7yrgodl5gkf5flilycvjqe.hop.clickbank.net 
+
+
+
+That’s because LUST and LIKING exist in different areas of her brain…
+
+
+“Liking” is generated in the rational, logical part of the brain…
+
+
+And lust is activated in the deeper, more primal, animal part of the brain…
+
+
+The good news is…
+
+
+That a woman’s primal, animal brain is much more powerful than her logical, reasonable one…
+
+
+And guys who know how to activate it…
+
+
+Have an insane amount of choice with women..
+
+
+Here’s how to activate the LUST part of her brain
+
+
+https://cb0b7yrgodl5gkf5flilycvjqe.hop.clickbank.net <== Watch now
+
+
+
+
+When you think about it, we men aren’t that different:
+
+
+I’m sure there’s been a girl you didn’t particularly “like” or connect with…
+
+
+But you wouldn’t hesitate to slide into bed with her and tear her panties off.
+
+
+The main difference between men’s and women’s brains…
+
+
+Is where a man’s primal lust is triggered by a woman’s physical appearance…
+
+
+A woman’s primal lust is triggered by the signals his body language gives off…
+
+
+That’s why carrying yourself a certain way will make a woman squirm in her seat…
+
+
+It’ll make her want to reach down and start touching herself…
+
+
+And she’ll be picturing your face as she crests over…
+
+
+Learn how it’s done in this short, instructional video: https://cb0b7yrgodl5gkf5flilycvjqe.hop.clickbank.net 
+
+
+Thank me later...
+
+
+-Jordan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To unsubscribe reply with the word unsubscribe in the subject line and include your domain name to media.acquisition1@gmail.com
+. 
+
+
+--1709501066-eximdsn-1064338082--

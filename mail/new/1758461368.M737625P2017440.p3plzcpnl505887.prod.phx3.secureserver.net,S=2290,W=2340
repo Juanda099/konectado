@@ -1,0 +1,50 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id YPB6Krj9z2igyB4A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 21 Sep 2025 06:29:28 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 21 Sep 2025 06:29:28 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1v0K88-00000008s2L-2f27
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 21 Sep 2025 06:29:28 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1v0K7y-00000008s1f-3Pyo@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1v0K88-00000008s2L-2f27@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 21 Sep 2025 06:29:28 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1v0K7y-00000008s1f-3Pyo
+	for servicioalcliente@serkoi.com;
+	Sun, 21 Sep 2025 06:29:18 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1v0K7y-00000008s1f-3Pyo@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 21 Sep 2025 06:29:18 -0700
+
+De: Salina Kleeman. 
+Correo: . 
+Telefono: 251749759. 
+Mensaje: 
+Eager to maximize your website’s reach? Our AI-driven system brings targeted visitors through keywords or geographic filters from nations to local spots.  
+Seeking increased profits, dynamic visitors, or stronger online impact?  
+We customize it to suit your plan. Enjoy a 7-day free trial period with no contract. Begin here:
+
+https://ow.ly/iGGn50WXBiG. 
+

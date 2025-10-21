@@ -1,0 +1,66 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id OL3FF56xymQE6DMAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Wed, 02 Aug 2023 12:42:22 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Wed, 02 Aug 2023 12:42:22 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qRHji-00EIJN-4w
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Wed, 02 Aug 2023 12:42:22 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qRHjb-00EIG2-IK@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1qRHji-00EIJN-4w@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 02 Aug 2023 12:42:22 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qRHjb-00EIG2-IK
+	for servicioalcliente@serkoi.com;
+	Wed, 02 Aug 2023 12:42:15 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 149.50.212.8
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 149.50.212.8
+From:
+Message-Id: <E1qRHjb-00EIG2-IK@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 02 Aug 2023 12:42:15 -0700
+
+De: Jamaal Fuerst. 
+Correo: . 
+Telefono: 041 455 78 32. 
+Mensaje: Dear Sir,
+
+I hope this message finds you well. I wanted to share an exciting opportunity with you that could revolutionize your business and significantly boost your sales.
+
+Have you ever wondered how to reach your customers more effectively, just like we reached your inbox? Well, now you can tap into a multimillion-dollar opportunity by doing exactly that.
+
+It's incredibly simple – all you need to do is locate your customer database on our website and utilize it to connect with your potential buyers, presenting them with your outstanding products or services.
+
+Explore our extensive Catalog at: https://leadsblue.net
+
+As a token of our appreciation, we are offering a special 10% discount when you use the coupon code SAVE10.
+
+To ensure that you have constant support, our dedicated team is available 24/7 via email at contact@leadsblue.com. Additionally, you can conveniently reach out to us through the live chat feature on our website.
+
+Don't miss out on this remarkable opportunity to supercharge your business growth and take your sales to the next level.
+
+Thank you for considering LeadsBlue. We look forward to assisting you in achieving your business goals.
+
+Best regards,
+Sara. 
+

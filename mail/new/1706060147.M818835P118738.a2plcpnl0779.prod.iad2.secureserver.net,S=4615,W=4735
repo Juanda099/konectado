@@ -1,0 +1,120 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id AJ/+L3NpsGXSzwEAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 23 Jan 2024 18:35:47 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 23 Jan 2024 18:35:47 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rSSB9-000VYe-2O
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 23 Jan 2024 18:35:47 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rSSB4-000VXr-2U@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1706060147-eximdsn-751226957
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rSSB9-000VYe-2O@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 23 Jan 2024 18:35:47 -0700
+
+--1706060147-eximdsn-751226957
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 SSBIrfqdkYBN6 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=OfQ7DQTY c=1 sm=1 tr=0 ts=65b0697c p=6aVM5a7mhTBg3ONZNERs:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=dEuoMetlWLkA:10 a=eiEyI5KIAAAA:20 a=kpLrXaOKl3qmsUTXpbYA:9 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1706060147-eximdsn-751226957
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 SSBIrfqdkYBN6 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=OfQ7DQTY c=1 sm=1 tr=0 ts=65b0697c p=6aVM5a7mhTBg3ONZNERs:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=dEuoMetlWLkA:10 a=eiEyI5KIAAAA:20 a=kpLrXaOKl3qmsUTXpbYA:9 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1706060147-eximdsn-751226957
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rSSB4-000VXr-2U
+	for servicioalcliente@serkoi.com;
+	Tue, 23 Jan 2024 18:35:47 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 154.38.173.47
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 154.38.173.47
+From:
+Message-Id: <E1rSSB4-000VXr-2U@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 23 Jan 2024 18:35:42 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: praveen raj. 
+Correo: . 
+Telefono: 0455-4904317. 
+Mensaje: Hey,
+
+$5 links from Fiverr sound like a great idea in theory.
+
+But here's what you're *really* getting:
+
+ It's the same story every single time.....
+
+......I jump on a discovery call with an agency founder who has been trying to land links and they've tried it all before:
+
+ Go on Fiverr to look for VAs.
+ Who work for as low as 3-5$.
+ To land them backlinks.
+
+ Then they pay up and get:
+
+ Forum comments.
+ Social bookmarks.
+ Fake social media profiles.
+ Image comments.
+ Directory links.
+
+Look, Google's smart.
+
+Or they wouldn't be making billions of dollars every year.
+
+If spammy, low-quality links worked....
+
+.....people wouldn't pay thousands of dollars to work with us.
+
+When it comes to SEO and backlinks, remember:
+
+ There are no shortcuts.
+
+ Build them the right way.
+
+ Or one new update = you’ll lose all your traffic overnight.
+
+Period.
+
+Link to contact me : https://bit.ly/onpageSEOoptimizationss
+. 
+
+
+--1706060147-eximdsn-751226957--

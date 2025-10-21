@@ -1,0 +1,87 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id hP1NJ+CKuWb43ysA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 11 Aug 2024 21:09:04 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 11 Aug 2024 21:09:04 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sdMMi-00C412-1p
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 11 Aug 2024 21:09:04 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sdMMY-00C3kV-1A@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1723435744-eximdsn-1771204271
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sdMMi-00C412-1p@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 11 Aug 2024 21:09:04 -0700
+
+--1723435744-eximdsn-1771204271
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 dMMismizur8Ge :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Cth0cW4D c=1 sm=1 tr=0 ts=66b98ae0 p=Ur_u_aN3FPPUJQqaHcn5:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=PZ4jqSh1AAAA:20 a=RazoS7iNglqpHo9cl9sA:9 a=oW33pbKdY2IA:10 a=4bKmOxNXLREA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1723435744-eximdsn-1771204271
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 dMMismizur8Ge :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Cth0cW4D c=1 sm=1 tr=0 ts=66b98ae0 p=Ur_u_aN3FPPUJQqaHcn5:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=PZ4jqSh1AAAA:20 a=RazoS7iNglqpHo9cl9sA:9 a=oW33pbKdY2IA:10 a=4bKmOxNXLREA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1723435744-eximdsn-1771204271
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sdMMY-00C3kV-1A
+	for servicioalcliente@serkoi.com;
+	Sun, 11 Aug 2024 21:09:04 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 154.47.25.166
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 154.47.25.166
+From:
+Message-Id: <E1sdMMY-00C3kV-1A@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 11 Aug 2024 21:08:54 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Sam Veiga. 
+Correo: . 
+Telefono: 4756548528. 
+Mensaje: Hey dude
+
+Do you remember me from school? I was always the loud one! Anyways, I'm emailing because I set up a t-shirt store and I wanna give some samples out to friends and family and your email is on the list. 
+
+I got lots of good stuff that we loved back in the day like ACDC, Def Leppard, Journey and ZZ. Check out the shop here and lemme know if you interested in a shirt - Check em out - https://buff.ly/3Y2mQvD
+
+Rock on 
+
+Sam. 
+
+
+--1723435744-eximdsn-1771204271--

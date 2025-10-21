@@ -1,0 +1,50 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id CPHQDc4EVWgYdiYA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Thu, 19 Jun 2025 23:50:54 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Thu, 19 Jun 2025 23:50:54 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uSVaQ-0000000Bf6q-0aza
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Thu, 19 Jun 2025 23:50:54 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uSVaE-0000000Bf4K-3qZG@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uSVaQ-0000000Bf6q-0aza@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 19 Jun 2025 23:50:54 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uSVaE-0000000Bf4K-3qZG
+	for servicioalcliente@serkoi.com;
+	Thu, 19 Jun 2025 23:50:42 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uSVaE-0000000Bf4K-3qZG@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Thu, 19 Jun 2025 23:50:42 -0700
+
+De: Kara Stretch. 
+Correo: . 
+Telefono: 621802458. 
+Mensaje: 
+Eager to amplify your website traffic reach? Our AI-powered system attracts custom website traffic with keywords plus location data from nations to neighborhoods.
+Seeking increased revenue, boosted visitors, or greater digital impact?
+We fine-tune it to match your needs. Enjoy a 7-day free trial period with no contract. Dive in here:
+
+https://cutt.ly/arQWZOZj. 
+

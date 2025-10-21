@@ -1,0 +1,108 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id cL+QDSjxeWZebzIA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 24 Jun 2024 15:20:24 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 24 Jun 2024 15:20:24 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sLs2y-00DsQ3-0Y
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 24 Jun 2024 15:20:24 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sLs2m-00DsNG-0T@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1719267624-eximdsn-1581670599
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sLs2y-00DsQ3-0Y@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 24 Jun 2024 15:20:24 -0700
+
+--1719267624-eximdsn-1581670599
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Ls2ystH0pP0G4 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=CoR0cW4D c=1 sm=1 tr=0 ts=6679f128 p=jq93FWg1HoihO_AnE-AA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=WSp0h9tdAAAA:8 a=3ZKOabzyN94A:10 a=SPMzHhYRhxqV9v8XgJCj:22 a=glNOtlAk1ML6Y6i2-MZ5:22 a=brqA9eBfg98bLEmtfMzu:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1719267624-eximdsn-1581670599
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Ls2ystH0pP0G4 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=CoR0cW4D c=1 sm=1 tr=0 ts=6679f128 p=jq93FWg1HoihO_AnE-AA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=WSp0h9tdAAAA:8 a=3ZKOabzyN94A:10 a=SPMzHhYRhxqV9v8XgJCj:22 a=glNOtlAk1ML6Y6i2-MZ5:22 a=brqA9eBfg98bLEmtfMzu:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1719267624-eximdsn-1581670599
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sLs2m-00DsNG-0T
+	for servicioalcliente@serkoi.com;
+	Mon, 24 Jun 2024 15:20:24 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 38.57.150.214
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 38.57.150.214
+From:
+Message-Id: <E1sLs2m-00DsNG-0T@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 24 Jun 2024 15:20:12 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Warner Galea. 
+Correo: . 
+Telefono: 864-493-3106. 
+Mensaje: Free Report –  Discover your online business reputation score!
+
+This is a detailed report that covers several areas such as Reputation, Directory Visibility, social media, website, etc. Each section is graded and shows items that may need attention.   
+
+Just click on the link and get your detailed report quickly: https://capstone.repgrader.com/MjQwNzQ=
+
+You will find this information extremely valuable use it you your advantage.  
+
+If you have any questions or need assistance feel free to reach. 
+
+Thanks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+
+--1719267624-eximdsn-1581670599--

@@ -1,0 +1,128 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 2H6RDcsl32bnqCMA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 09 Sep 2024 09:43:55 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 09 Sep 2024 09:43:55 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1snhUZ-00A1dm-0Y
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 09 Sep 2024 09:43:55 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1snhUO-00A1bW-0V@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1725900235-eximdsn-54724695
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1snhUZ-00A1dm-0Y@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 09 Sep 2024 09:43:55 -0700
+
+--1725900235-eximdsn-54724695
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 nhUYsjMKqYxvc :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=c99gQg9l c=1 sm=1 tr=0 ts=66df25cb p=YAY7PGELAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=smrCSdiaAAAA:8 a=Y7GRFUt1FoQasvqPVYUA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=WEXbPxiiYV-ZcxGQiZHT:22 a=qoe4e1GUmYkj57OlD7h0:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1725900235-eximdsn-54724695
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 nhUYsjMKqYxvc :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=c99gQg9l c=1 sm=1 tr=0 ts=66df25cb p=YAY7PGELAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=smrCSdiaAAAA:8 a=Y7GRFUt1FoQasvqPVYUA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=WEXbPxiiYV-ZcxGQiZHT:22 a=qoe4e1GUmYkj57OlD7h0:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1725900235-eximdsn-54724695
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1snhUO-00A1bW-0V
+	for servicioalcliente@serkoi.com;
+	Mon, 09 Sep 2024 09:43:54 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.171.168
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.171.168
+From:
+Message-Id: <E1snhUO-00A1bW-0V@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 09 Sep 2024 09:43:44 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Thomas Large. 
+Correo: . 
+Telefono: 0676 457 24 27. 
+Mensaje: Hey ,
+
+Dreaming of creating and monetizing mobile apps without the hassle of coding?  Your dream is about to become a reality with OpenApp AI - the all-in-one solution for building, customizing, and selling Android & iOS apps effortlessly!
+
+OpenApp AI isn't just another app builder;  it's your key to unlocking the potential of app entrepreneurship.  Our groundbreaking platform allows you to transform any your ideas, keywords, website URL, blogs, pages, and e-commerce stores into polished mobile apps in less than 60 seconds!
+
+==> Watch OpenApp AI Demo In Action: https://www.truevaule.xyz/appprofit  
+
+Generate highly advanced Mobile apps and upload them on different app stores Like Google-Play & Apple App Store…
+
+... To easily make huge profits weekly, monthly and annually on complete autopilot...
+
+Here's why OpenApp AI is your ultimate companion on the path to app success:
+Create Unlimited Android & IOS Mobile Apps Using Al
+Transform Any Website Url, Keywords, Blogs, Pages & Ecom Store into A Fully Functional Stunning Mobile Apps
+Built-in 1500+ Professional Templates: Create Personal Or Business Mobile Apps For Any Niche Using Al
+Publish Your App on Google-Play and Apple store In Less Than 60 Seconds
+Payment Integration, accept payments in your app through Payment Gateways
+Send Push Notifications To Your App Users And Get Up To 98% Open Rate.
+Send Unlimited Emails & SMS Directly To Your Users
+Add Unlimited Custom Domains & Subdomains Without Any Restrictions.
+Built-In Interactive elementsa to add Coupon, Loyalty Program, Appointment and event booking,
+Convert existing website URL into Android/iOS App
+Generate native android and iOS apps
+Built-in App Monetization
+Lifetime Access With No Recurring Monthly Payments
+
+Don't miss out on this opportunity to join the ranks of successful app entrepreneurs.  Join the OpenApp AI revolution and start building your app empire today!
+
+Access OpenApp AI Now and Build Your Dream Mobile App in Seconds: https://www.truevaule.xyz/appprofit  
+
+Oops, did I forget to mention…
+You’re also getting exclusive bonuses worth $....  that will make this deal an unforgettable affair. 
+
+But these are available for a very limited time.
+So, don’t you dare miss out on this.
+
+Grab OpenApp AI With Limited Time Bonuses Today: https://www.truevaule.xyz/appprofit  
+
+To Your Success,
+
+Thomas Large
+
+P.S- We bet it’s the best you could get at such a low price.  So don't waste a second and get this before the prices go beyond your limits.
+
+
+
+UNSUBSCRIBE: https://www.truevaule.xyz/unsubscribe/?d=proditelsas.com  
+Address: 3152 Feathers Hooves Drive
+Riverhead, NY 11901. 
+
+
+--1725900235-eximdsn-54724695--

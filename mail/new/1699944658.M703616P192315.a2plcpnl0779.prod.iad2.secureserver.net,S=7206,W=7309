@@ -1,0 +1,103 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id UPl+KNIYU2U77wIAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 13 Nov 2023 23:50:58 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 13 Nov 2023 23:50:58 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1r2nGE-000xvx-HZ
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Mon, 13 Nov 2023 23:50:58 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1r2nG8-000xue-U1@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1699944658-eximdsn-1989872454
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1r2nGE-000xvx-HZ@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 13 Nov 2023 23:50:58 -0700
+
+--1699944658-eximdsn-1989872454
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 2nGErWTL5kE45 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=e/3AC4l/ c=1 sm=1 tr=0 ts=655318d2 p=NUiRU_vC2H0A:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=BNY50KLci1gA:10 a=2ee1_FyQAAAA:8 a=kiXdTlLgzcQiAlZ3qEUA:9 a=f4-M1qTcmxQA:10 a=7NpSlWXiUSwA:10 a=now7Lo5nnjZmy3Er_AYv:22 a=1P360H3MiZw7AwWYisQT:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1699944658-eximdsn-1989872454
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 2nGErWTL5kE45 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=e/3AC4l/ c=1 sm=1 tr=0 ts=655318d2 p=NUiRU_vC2H0A:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=BNY50KLci1gA:10 a=2ee1_FyQAAAA:8 a=kiXdTlLgzcQiAlZ3qEUA:9 a=f4-M1qTcmxQA:10 a=7NpSlWXiUSwA:10 a=now7Lo5nnjZmy3Er_AYv:22 a=1P360H3MiZw7AwWYisQT:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1699944658-eximdsn-1989872454
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1r2nG8-000xue-U1
+	for servicioalcliente@serkoi.com;
+	Mon, 13 Nov 2023 23:50:57 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 89.149.87.89
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 89.149.87.89
+From:
+Message-Id: <E1r2nG8-000xue-U1@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 13 Nov 2023 23:50:52 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Buddyker. 
+Correo: . 
+Telefono: 86575926224. 
+Mensaje: тысячи автолюбителей сейчас не тревожатся о своей резине до тех пор, пока не столкнутся с проблемами. 
+ 
+если протектор становится излишне тонким, то колеса приходят в плохое состояние. Держите в памяти! Одной из главных обновок, которые совершают владельцы авто, действительно являются скаты. 
+ 
+Согласно советам наших профи, правильная замена шин вашего автомобиля важна для безопасности на трассе. 
+<a href=https://lista.md/companie/herculesmd>https://lista.md/companie/herculesmd</a> 
+ 
+ 
+покупка новой резины может оказаться каверзной проблемой. Вы сталкиваетесь с немаленьким ассортиментом брендов, размеров и моделей шин , следовательно мгновенно можно потеряться. 
+ 
+чтобы получить радость от поездки, приобретайте резину, которая под стать вашему стилю вождения. 
+ 
+Возникли вопросы в выборе подходящих покрышек для вашего железного коня? наша фирма профессиональных экспертов поможет вам своими знаниями. 
+ 
+Вам нравится удобная езда? Или вы избираете ощущать каждый поворот? Замечательно! наши опытные ребята моментально отыщут вам идеальные покрышки! 
+ 
+нереальное число факторов вредят вашим скатам. Начиная от лежачих полицейских и заканчивая озоном. 
+ 
+в том случае, когда вы закажите  неправильные шины, то вы можете ухудшить эффективность вашего авто и его навык справляться с любой погодой. Скаты вашей машины прилежно трудятся всякий раз, когда вы выезжаете на линию. 
+ 
+лучшее средство понять, пришло ли время заказывать новые шины для вашего автомобиля, — это доверить их диагностику  профессионалу. 
+ 
+в нашем магазине вы сможете присмотреть себе "обувь" для автомобилей всяких марок и брендов! И все по привлекательным ценам! Поможем купить нужным вам! 
+ 
+наша автомастерскую ставит на первое место пожелания клиента. по этой причине большое количество автолюбителей полагаются на нас! Мы гарантируем качество! заглядывайте! И убедитесь сами!. 
+
+
+--1699944658-eximdsn-1989872454--

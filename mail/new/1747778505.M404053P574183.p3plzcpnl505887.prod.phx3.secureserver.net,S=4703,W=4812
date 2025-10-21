@@ -1,0 +1,109 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 6LI+F8n7LGjnwggA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 20 May 2025 15:01:45 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 20 May 2025 15:01:45 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1uHV1t-002V79-13
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 20 May 2025 15:01:45 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uHV1i-002V4D-1R@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1747778505-eximdsn-1827285067
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1uHV1t-002V79-13@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 20 May 2025 15:01:45 -0700
+
+--1747778505-eximdsn-1827285067
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 HV1tuBhSUstPa :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=cLngskeN c=1 sm=1 tr=0 ts=682cfbc9 p=0Y1oZiQDD12JMsq4RH0A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=dt9VzEwgFbYA:10 a=WfbHnZbdAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=IfkkEA1PoG1LQijzXGxd:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1747778505-eximdsn-1827285067
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 HV1tuBhSUstPa :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=cLngskeN c=1 sm=1 tr=0 ts=682cfbc9 p=0Y1oZiQDD12JMsq4RH0A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=dt9VzEwgFbYA:10 a=WfbHnZbdAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=IfkkEA1PoG1LQijzXGxd:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1747778505-eximdsn-1827285067
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uHV1i-002V4D-1R
+	for servicioalcliente@serkoi.com;
+	Tue, 20 May 2025 15:01:45 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uHV1i-002V4D-1R@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 20 May 2025 15:01:34 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Morris Whitman. 
+Correo: . 
+Telefono: 06581 57 48 27. 
+Mensaje: Hi proditelsas.com,
+
+Ready to unlock the future of AI technology without the burden of monthly fees? 
+
+TotalAi offers you seamless access to the most advanced AI tools available, all from one easy-to-use dashboard—no recurring costs involved: https://www.greatbusi.info/totalaife .
+
+What’s inside TotalAi? 
+
+✅ ChatGPT 4.0 & ChatGPT 4 – The latest in conversational AI 
+
+✅ Gemini Pro – Advanced multi-modal capabilities 
+
+✅ DALL·E 3 – Stunning AI-generated images 
+
+✅ Leonardo AI – Innovative design and creative solutions 
+
+✅ Microsoft Copilot Pro – Boost productivity with AI assistance 
+
+✅ Meta Llama 3 – Powerful language models 
+
+✅ Stable Diff XL – Enhanced image synthesis 
+
+✅ PaLM 2 – Next-level natural language processing
+
+Don’t miss out on this opportunity to streamline your AI experience and save on monthly fees. Get Started with TotalAi Today: https://www.greatbusi.info/totalaife !
+
+Morris Whitman
+
+
+UNSUBSCRIBE: https://www.greatbusi.info/unsubscribe/?d=proditelsas.com   
+Address: 2515 Beechwood Avenue
+Newark, NJ 07102
+. 
+
+
+--1747778505-eximdsn-1827285067--

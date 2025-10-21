@@ -1,0 +1,136 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id QEfnCRLw42XSwysAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 02 Mar 2024 20:35:46 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 02 Mar 2024 20:35:46 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rgcde-00C2OQ-02
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sat, 02 Mar 2024 20:35:46 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rgcdX-00C2NI-2q@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1709436945-eximdsn-335538577
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rgcde-00C2OQ-02@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 02 Mar 2024 20:35:46 -0700
+
+--1709436945-eximdsn-335538577
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 gcesrJVo7CgBA :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=fr1/Z04f c=1 sm=1 tr=0 ts=65e3f05f p=VPTGYr-KAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=K6JAEmCyrfEA:10 a=c6NTMit9yYS9R69fxSkA:9 a=3ZKOabzyN94A:10 a=GvXk4BENL60A:10 a=f5REHqTqh9a4xURsb8-U:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1709436945-eximdsn-335538577
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 gcesrJVo7CgBA :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=fr1/Z04f c=1 sm=1 tr=0 ts=65e3f05f p=VPTGYr-KAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=K6JAEmCyrfEA:10 a=c6NTMit9yYS9R69fxSkA:9 a=3ZKOabzyN94A:10 a=GvXk4BENL60A:10 a=f5REHqTqh9a4xURsb8-U:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1709436945-eximdsn-335538577
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rgcdX-00C2NI-2q
+	for servicioalcliente@serkoi.com;
+	Sat, 02 Mar 2024 20:35:44 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 185.245.25.65
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 185.245.25.65
+From:
+Message-Id: <E1rgcdX-00C2NI-2q@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 02 Mar 2024 20:35:39 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Mae Greiner. 
+Correo: . 
+Telefono: 01.43.53.88.45. 
+Mensaje: Hey, 
+
+Every business owner needs ultra fast loading websites to convert random website visitors to lifetime happy customers.
+
+But,
+
+Finding a suitable hosting technology that gives ultra fast performance without charging a fortune is a tough nut to crack.
+
+Now, 
+
+If you too faced this issue,
+
+It’s time to take a breather as we present…
+
+Never Seen Before Technology That Hosts Unlimited WordPress Websites & Domains on Most Reliable, Blazing Fast Ultraport Servers for Life For A Low, One Time Price.
+
+Check it now: https://bit.ly/3Tgh6M0
+
+Using WP Host, 
+
+Anyone Can Save Thousands Of Dollars That Expensive Third Party Hosting Platforms Charge.
+
+Here are some of its benefits:
+
+- Host & Market UNLIMITED WordPress Websites & Domains On The Most Reliable Ultraport Servers On The Planet
+- Get UNLIMITED Bandwidth To Get Blazing Fast Load Times & Manage High Traffic Volume At No Extra Or Monthly Cost 
+- Get 100s Of Premium WP Themes & Plugins Without Paying A Cent Extra
+- Free End-To-End SSL Encryption To Ensure 100% Website & Data Safety
+- Get Free Website Migration To Migrate Any Existing Website To WP Host Without Any Downtime 
+- One-Click WordPress Installer To Get New Sites Live In Minutes 
+- Enhanced DDOS Protection To Disarm Potential Hackers & Threats
+- Enjoy 100% Uptime Guarantee, Minimal Latency And Lightning-Fast Speed At No Extra Cost
+- Stop Paying Through The Nose On Money Sucking Hosting Companies Forever
+- Detect And Remove Harmful Files Completely With A Malware Scanner
+- Included WordPress Installer With Sophisticated Control Panel
+- Find Out How Even Newbies Are Saving Anywhere Between $975 To $18945 Monthly From Expensive Hosting Platforms Using Our Technology: https://bit.ly/3Tgh6M0
+- Proprietary Tech Helps Join Thousands Of Marketers Who’re Using WordPress Hosting To Attract Hordes Of Customers & Make Billions Of Dollars 
+
+Just imagine the kind of growth prospects in store without any huge investment, third party dependency or experience?
+
+It’s all going to soon become your reality.
+
+Get WP Host At Low Earlybird Price Here: https://bit.ly/3Tgh6M0
+
+So, I highly recommend you to get your hands on this like all serious & top marketers do.
+
+I can bet there’s nothing easier and smarter than this. 
+
+BTW if you get something good, hit me up and I’ll be up to it right away?
+
+Get WP Host With Cool Bonuses: https://bit.ly/3Tgh6M0
+
+Let’s Succeed Together,
+
+John
+
+P.S- There’s nothing like this available at such a low price. So, grab it today before it goes away forever: https://bit.ly/3Tgh6M0
+. 
+
+
+--1709436945-eximdsn-335538577--

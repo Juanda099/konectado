@@ -1,0 +1,48 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id uJxDF/fEhWcRwTkA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 13 Jan 2025 18:59:19 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 13 Jan 2025 18:59:19 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tXWD9-00Fy6C-14
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 13 Jan 2025 18:59:19 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tXWCy-00Fy53-27@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1tXWD9-00Fy6C-14@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 13 Jan 2025 18:59:19 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tXWCy-00Fy53-27
+	for servicioalcliente@serkoi.com;
+	Mon, 13 Jan 2025 18:59:08 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tXWCy-00Fy53-27@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 13 Jan 2025 18:59:08 -0700
+
+De: Carol Prerauer. 
+Correo: . 
+Telefono: 617241828. 
+Mensaje: Are you making the most of the potential of your proditelsas.com website? Many sites overlook thousands of visitors daily simply due to a lack of targeted exposure. With our AI-driven traffic solution, we can help you unlock this unrealized audience.
+
+To prove the value, we’re offering a free trial that delivers 4,000 highly targeted visitors to your site. Once you see the results, you can scale up with packages that provide up to 250K visitors per month. Let’s amplify your website traffic and turn more visitors into opportunities. Get more information here: https://shorten.is/3amtL
+. 
+

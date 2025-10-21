@@ -1,0 +1,61 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id cCalLRUyy2jpcBcA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 17 Sep 2025 15:11:33 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 17 Sep 2025 15:11:33 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uz0NB-00000007Nvv-2sWO
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 17 Sep 2025 15:11:33 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uz0N0-00000007Nt3-3Fs8@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uz0NB-00000007Nvv-2sWO@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 17 Sep 2025 15:11:33 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uz0N0-00000007Nt3-3Fs8
+	for servicioalcliente@serkoi.com;
+	Wed, 17 Sep 2025 15:11:22 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uz0N0-00000007Nt3-3Fs8@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 17 Sep 2025 15:11:22 -0700
+
+De: Andre. 
+Correo: . 
+Telefono: 409608525. 
+Mensaje: Good Morning 
+
+Looking to improve your posture and live a healthier life? Our Medico Postura™ Body Posture Corrector is here to help!
+
+Experience instant posture improvement with Medico Postura™. This easy-to-use device can be worn anywhere, anytime – at home, work, or even while you sleep.
+
+Made from lightweight, breathable fabric, it ensures comfort all day long.
+
+Grab it today at a fantastic 60% OFF: https://medicopostura.com
+
+Plus, enjoy FREE shipping for today only!
+
+Don't miss out on this amazing deal. Get yours now and start transforming your posture!
+
+Kind Regards, 
+
+Andre. 
+

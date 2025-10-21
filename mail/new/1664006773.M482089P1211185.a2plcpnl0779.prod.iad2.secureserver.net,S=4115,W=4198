@@ -1,0 +1,83 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id kPTYGnW6LmMxexIAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 24 Sep 2022 01:06:13 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 24 Sep 2022 01:06:13 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	id 1oc0Av-005701-Al
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Sat, 24 Sep 2022 01:06:13 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1oc0Av-0056zg-17@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1664006773-eximdsn-1806605270
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1oc0Av-005701-Al@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 24 Sep 2022 01:06:13 -0700
+
+--1664006773-eximdsn-1806605270
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 c0AvoqXEwJUZZ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=G5XZr/o5 c=1 sm=1 tr=0 ts=632eba75 p=9a2Xw-iyppQA:10 p=aMjWSuVBXEyYdAcGNHMA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=xOM3xZuef0cA:10 a=cYGy9rMjAAAA:8 a=JN8o_oEwn9gA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=Ecuey-mzhzUtUuUvOdcG:22 ::
+    100.00
+
+--1664006773-eximdsn-1806605270
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 c0AvoqXEwJUZZ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=G5XZr/o5 c=1 sm=1 tr=0 ts=632eba75 p=9a2Xw-iyppQA:10 p=aMjWSuVBXEyYdAcGNHMA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=xOM3xZuef0cA:10 a=cYGy9rMjAAAA:8 a=JN8o_oEwn9gA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=Ecuey-mzhzUtUuUvOdcG:22 :: 100.00
+
+--1664006773-eximdsn-1806605270
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1oc0Av-0056zg-17
+	for servicioalcliente@serkoi.com; Sat, 24 Sep 2022 01:06:13 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 82.165.115.89
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 82.165.115.89
+From:
+Message-Id: <E1oc0Av-0056zg-17@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 24 Sep 2022 01:06:13 -0700
+
+De: Stephen Jones. 
+Correo: . 
+Telefono: 316-871-3895. 
+Mensaje: Hi,
+
+I’ve been meaning to up my video creation game for a while now, so I spent some time over the weekend trying various tools.
+I came across something amazing. This web based software enabled me to make some stunning videos in just a few minutes.
+
+I think you’ll really like it, they have a free trial.
+Check it out here: http://www.eject-media.com
+
+Regards
+Stephen. 
+
+
+--1664006773-eximdsn-1806605270--

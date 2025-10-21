@@ -1,0 +1,87 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id ADgwLv+uE2dv0wAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 19 Oct 2024 06:07:11 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 19 Oct 2024 06:07:11 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1t29Al-000ELa-2H
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 19 Oct 2024 06:07:11 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1t29Aa-000E8E-2a@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1729343231-eximdsn-863128920
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t29Al-000ELa-2H@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 19 Oct 2024 06:07:11 -0700
+
+--1729343231-eximdsn-863128920
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 29Altc2MkU3Nm :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Ub6aS7SN c=1 sm=1 tr=0 ts=6713aeff p=D4syalRsAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=kkQZqPzUWLcY9ZNH18wA:9 a=3ZKOabzyN94A:10 a=DhUseV7ojiYA:10 a=zgiPjhLxNE0A:10 a=2OyfdQKWefueP60qnqKg:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1729343231-eximdsn-863128920
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 29Altc2MkU3Nm :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Ub6aS7SN c=1 sm=1 tr=0 ts=6713aeff p=D4syalRsAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=kkQZqPzUWLcY9ZNH18wA:9 a=3ZKOabzyN94A:10 a=DhUseV7ojiYA:10 a=zgiPjhLxNE0A:10 a=2OyfdQKWefueP60qnqKg:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1729343231-eximdsn-863128920
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1t29Aa-000E8E-2a
+	for servicioalcliente@serkoi.com;
+	Sat, 19 Oct 2024 06:07:11 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 37.218.214.209
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 37.218.214.209
+From:
+Message-Id: <E1t29Aa-000E8E-2a@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 19 Oct 2024 06:07:00 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Randy m. 
+Correo: . 
+Telefono: 7058865751. 
+Mensaje: Hey,
+I have an offer you can’t refuse.
+I’m here to improve your SEO and get your site noticed—for free.
+No payment, no risk—I’m sure you’ll love the results.I specialize in on-page SEO optimization.
+If you’re interested, you can contact me here: https://bit.ly/randy-seo-optimizations 
+Plus, I offer a extra $1,000 refund if you’re not satisfied—your trust is important to me.
+Or if you know any other people who might be interested please forward it to them.
+Best,
+Randy M.. 
+
+
+--1729343231-eximdsn-863128920--

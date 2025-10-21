@@ -1,0 +1,124 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 6DkSOrLwKGeSZzcA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 04 Nov 2024 09:05:06 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 04 Nov 2024 09:05:06 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1t7zZi-00FJ4U-2v
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 04 Nov 2024 09:05:06 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1t7zZT-00FIkD-1T@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1730736306-eximdsn-1819941442
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t7zZi-00FJ4U-2v@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 04 Nov 2024 09:05:06 -0700
+
+--1730736306-eximdsn-1819941442
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 7zZitmYOQpXml :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=GancnhXL c=1 sm=1 tr=0 ts=6728f0b2 p=J_6GPAh8AAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=VlfZXiiP6vEA:10 a=smrCSdiaAAAA:8 a=vrz0TKHWo9T439XpIBcA:9 a=-FEs8UIgK8oA:10 a=kmzzAfaztqepJgVeqiXS:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=Rs6WJNaaI7vqF0WlzYVz:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1730736306-eximdsn-1819941442
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 7zZitmYOQpXml :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=GancnhXL c=1 sm=1 tr=0 ts=6728f0b2 p=J_6GPAh8AAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=VlfZXiiP6vEA:10 a=smrCSdiaAAAA:8 a=vrz0TKHWo9T439XpIBcA:9 a=-FEs8UIgK8oA:10 a=kmzzAfaztqepJgVeqiXS:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=Rs6WJNaaI7vqF0WlzYVz:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1730736306-eximdsn-1819941442
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1t7zZT-00FIkD-1T
+	for servicioalcliente@serkoi.com;
+	Mon, 04 Nov 2024 09:05:06 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.144.129
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.144.129
+From:
+Message-Id: <E1t7zZT-00FIkD-1T@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 04 Nov 2024 09:04:51 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Ann Lamm. 
+Correo: . 
+Telefono: 079 6675 2352. 
+Mensaje: Hi proditelsas.com,
+
+You've no-doubt heard about the success of Udemy and other eLearning platforms like it.
+
+Last year Udemy alone did in the range of $600-700 Million, and the industry as a whole is around $400 Billion.
+
+But here's a dirty little secret about the business: Udemy isn't even making profits yet.
+
+OK, technically it's not a secret since they're a publicly-held company, but most of their instructors and customers are certainly not aware of it.
+
+Along with their competitors in the industry, they're focused on growth, and as a result they're losing tens of millions of dollars every quarter.
+
+That's not to say that it's a bad business, or won't become profitable.
+
+However, I bring this up to make two points:
+
+1) There's a better way for most of us to start an eLearning business.
+
+2) You really can compete with platforms like Udemy.
+
+Here's a brand new AI solution that allowed you to start your own Udemy-like academies in a matter of minutes: https://www.increasetraffic.shop/profitcourse 
+
+While companies like Udemy are building their business like a typical startup in the world of Fortune 500 companies (raising gazillions from investors, taking years to become profitable, etc.), individual entrepreneurs can create a profitable business immediately.
+
+No red tape to cut through.   No investors to keep happy and pay back.   You can start for pennies and be profitable from day one.
+
+In that sense, you REALLY can compete with platforms like Udemy.
+
+Using this new AI platform called CourseMateAi, you can also compete with them in other ways.
+
+By harnessing the power of AI, you can generate new courses on any topic, at any time.
+
+That gives you an edge over those other platforms.   Suppose there is a new trend or breakthrough in a niche.   You can create a course with the AI and launch it within minutes, while instructors on Udemy are scrambling for weeks to do the same.
+
+Again, all this is not to say that the mega-platforms like Udemy and Coursera are bad.   Just to say that you can beat them at their own game by leveraging this new technology today: https://www.increasetraffic.shop/profitcourse 
+
+Right now CourseMateAi is super affordable during the launch special, but the price will be increasing to a monthly subscription due to huge demand.   Get in now before it's too late.
+
+To your success,
+
+Ann Lamm
+
+
+UNSUBSCRIBE: https://www.increasetraffic.shop/unsubscribe/?d=proditelsas.com  
+Address: 297 Jadewood Drive
+South Bend, IN 46625. 
+
+
+--1730736306-eximdsn-1819941442--

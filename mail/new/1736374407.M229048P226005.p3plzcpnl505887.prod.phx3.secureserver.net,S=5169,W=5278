@@ -1,0 +1,109 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id MIrtDIf4fmfVcgMA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 08 Jan 2025 15:13:27 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 08 Jan 2025 15:13:27 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tVeIp-0011F4-0W
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 08 Jan 2025 15:13:27 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tVeIf-0011D6-0v@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1736374407-eximdsn-351299387
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tVeIp-0011F4-0W@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 08 Jan 2025 15:13:27 -0700
+
+--1736374407-eximdsn-351299387
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 VeIpttbw4JdTK :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=RrI/LDmK c=1 sm=1 tr=0 ts=677ef887 p=M-488HUcAAAA:8 p=BCW3GkEH-H16Bi5-s40A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=FfDA6-JPvLTYfqfzrkE6:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1736374407-eximdsn-351299387
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 VeIpttbw4JdTK :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=RrI/LDmK c=1 sm=1 tr=0 ts=677ef887 p=M-488HUcAAAA:8 p=BCW3GkEH-H16Bi5-s40A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=FfDA6-JPvLTYfqfzrkE6:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1736374407-eximdsn-351299387
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tVeIf-0011D6-0v
+	for servicioalcliente@serkoi.com;
+	Wed, 08 Jan 2025 15:13:27 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tVeIf-0011D6-0v@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 08 Jan 2025 15:13:17 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Christopher Jones. 
+Correo: . 
+Telefono: (03) 5325 9346. 
+Mensaje: 
+If you have used AIs before and want a cheat code to access more of them without paying a dime, you now have access to the Premium versions in just one Dashboard.
+
+… Without a monthly subscription
+
+>>  Click here to get the 100+ AIs on a single dashboard: https://www.dollartip.info/neuro .
+
+You can now access premium AI apps like ChatGPT, Leonard AI, DALL-E, Canva AI, Claude, Gemini, Copilot, ElevenLab, Bard AI, MidJourney, Jasper, Stable Diffusion, Synthesia and 90+ More Powerful AI Models
+
+Which you can never easily get on a normal day without paying for them.
+
+It has equally saved me over $1000 monthly that I can invest back into my business for 2x profit…
+
+This means you get backdoor access to create any kind of  4k Images, Articles, Write Ads, Branding, Logos, Business Cards, 8k  Motion Videos, Funnels, Voiceovers, Clone Voice, Turn Speech To Text, Create AI Assistant ChatBots, And Much Much More.
+
+>>Get INSTANT access here: https://www.dollartip.info/neuro 
+
+All you need is- give an instruction and voila you simply generate anything.
+
+No matter the business you run online,
+
+This is the cheapest way to get an AI Model that makes running a business online easy with automated profit - without joggling between paid AI apps.
+
+Finally, this will save you thousands of dollars monthly/yearly
+
+>>  Click here to get the 100+ AIs on a single dashboard: https://www.dollartip.info/neuro .
+
+Christopher Jones
+
+
+UNSUBSCRIBE: https://www.dollartip.info/unsubscribe/?d=proditelsas.com 
+Address: 840 Maud Street
+Dover, DE 19901. 
+
+
+--1736374407-eximdsn-351299387--

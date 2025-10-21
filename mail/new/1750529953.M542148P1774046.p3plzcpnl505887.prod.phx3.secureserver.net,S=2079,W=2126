@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id wI6mHqH3VmjeERsA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 21 Jun 2025 11:19:13 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 21 Jun 2025 11:19:13 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uT2o5-00000007Zwm-1h4f
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 21 Jun 2025 11:19:13 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uT2nm-00000007Zc6-3HxK@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uT2o5-00000007Zwm-1h4f@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 21 Jun 2025 11:19:13 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uT2nm-00000007Zc6-3HxK
+	for servicioalcliente@serkoi.com;
+	Sat, 21 Jun 2025 11:18:54 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uT2nm-00000007Zc6-3HxK@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 21 Jun 2025 11:18:54 -0700
+
+De: Erna Angus. 
+Correo: . 
+Telefono: 159360012. 
+Mensaje: Need a boost in website traffic? Our AI tool drives targeted visitors to increase your conversions. Try it free for 7 days.
+
+https://cutt.ly/QrWe7XgE. 
+

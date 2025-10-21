@@ -1,0 +1,97 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id QbFoBd4n4WWA6iMAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 29 Feb 2024 17:57:02 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 29 Feb 2024 17:57:02 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rfrCv-009sK7-2v
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 29 Feb 2024 17:57:02 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rfrCr-009sCO-00@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1709254621-eximdsn-1923045919
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rfrCv-009sK7-2v@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 29 Feb 2024 17:57:01 -0700
+
+--1709254621-eximdsn-1923045919
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 frDNrFhlOzUSb :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=PISs+uqC c=1 sm=1 tr=0 ts=65e127f9 p=X5IE9zuuAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=k7vzHIieQBIA:10 a=mWtHW5BVhLtyX5fXOjkA:9 a=XYHxX-Hs8YUA:10 a=zZCYzV9kfG8A:10 a=W-RWBOuVnmkVbo8inbZh:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1709254621-eximdsn-1923045919
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 frDNrFhlOzUSb :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=PISs+uqC c=1 sm=1 tr=0 ts=65e127f9 p=X5IE9zuuAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=k7vzHIieQBIA:10 a=mWtHW5BVhLtyX5fXOjkA:9 a=XYHxX-Hs8YUA:10 a=zZCYzV9kfG8A:10 a=W-RWBOuVnmkVbo8inbZh:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1709254621-eximdsn-1923045919
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rfrCr-009sCO-00
+	for servicioalcliente@serkoi.com;
+	Thu, 29 Feb 2024 17:57:01 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 154.85.101.70
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 154.85.101.70
+From:
+Message-Id: <E1rfrCr-009sCO-00@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 29 Feb 2024 17:56:57 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Suzanne Parson. 
+Correo: . 
+Telefono: . 
+Mensaje: Hey,
+
+If you're looking to set up a woodworking shop, you've got to check out this video right now: https://bit.ly/43bvWH7
+
+In Ralph's free presentation, he'll reveal the 3 most common mistakes when setting up shop and how YOU can avoid them!
+ 
+And it doesn't matter if you have no money, tools or space to set up a shop.
+
+Because in the presentation, Ralph will reveal a secret tool source that can save you at least 70% off tool prices. (and its not Harbor Freight...)
+
+You'll also discover EXACTLY how to setup a fully functioning workshop for under $1000...even if you do not have a large space.
+
+Watch the free video presentation here >> https://bit.ly/43bvWH7
+
+To your perfect shop,
+
+Dennis
+
+P.S: There's lots of lessons that are invaluable in the presentation so watch it till the end and let me know what you think!. 
+
+
+--1709254621-eximdsn-1923045919--

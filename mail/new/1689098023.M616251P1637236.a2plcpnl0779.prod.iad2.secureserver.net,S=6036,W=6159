@@ -1,0 +1,123 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id sOFKIyeXrWR0+xgAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 11 Jul 2023 10:53:43 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 11 Jul 2023 10:53:43 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qJHYV-006teU-Go
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 11 Jul 2023 10:53:43 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qJHYN-006tb4-El@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1689098023-eximdsn-976657292
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qJHYV-006teU-Go@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 11 Jul 2023 10:53:43 -0700
+
+--1689098023-eximdsn-976657292
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 JHYVqNSiqoC56 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=PYY5xAtd c=1 sm=1 tr=0 ts=64ad9727 p=IGTDUec0AAAA:20 p=038iGqRdoz3c-lE7RbYF:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=aeiPuZvYPTNM_X3uK9YA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1689098023-eximdsn-976657292
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 JHYVqNSiqoC56 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=PYY5xAtd c=1 sm=1 tr=0 ts=64ad9727 p=IGTDUec0AAAA:20 p=038iGqRdoz3c-lE7RbYF:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=aeiPuZvYPTNM_X3uK9YA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1689098023-eximdsn-976657292
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qJHYN-006tb4-El
+	for servicioalcliente@serkoi.com;
+	Tue, 11 Jul 2023 10:53:41 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 136.0.45.36
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 136.0.45.36
+From:
+Message-Id: <E1qJHYN-006tb4-El@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 11 Jul 2023 10:53:35 -0700
+
+De: Johnny Gifford. 
+Correo: . 
+Telefono: 024 526 72 99. 
+Mensaje: Heyy there…
+
+What if all you knew about ranking on Google could be simplified into just a few clicks of the button? I mean getting the best and optimized keywords, ranking on the first page on Google and driving quality buyer traffic to your videos.
+
+Best part is you don't have to stress about writing content, building backlinks, researching keywords and finding the best tags.
+
+With a new AI tool in the market, you can worry less about getting your content ranked on Google.
+
+This is the ultimate SEO super weapon. With this new AI tool, you can start looking forward to 4 figures daily in income. RapidRank AI is the ultimate SEO tool on the market right now. 
+
+With RapidRank AI, you can easily exploit Google search results and rank on page 1 of Google in just a few clicks. You can put your video content in the face of thousands of people with no stress at all.
+
+Imagine what you could do with having your video in front of over 5,000 people. If you had a product to sell for $30 a pop and you convert let's say 5% of those people. That's a cool $7,500 sitting pretty for you.
+
+Best part, that's just a little of what you can make. You can definitely make more with the massive buyer traffic from Google ranking.
+
+ 
+It all works in 3 steps…
+
+Step #1 - Access
+ 
+Click on any of the links to get instant access to RapidRank AI https://shorturl.at/bgwU2 
+
+ 
+Step #2 - Choose Your Niche
+
+Just choose your niche of choice…
+
+And RapidRanker AI will do everything else for you…
+
+
+Step #3 - Rank
+
+Within minutes, our videos are on the first page of google.
+
+Do this right and you could be on your way to a steady daily windfall of cash.
+
+And the best thing about RapidRank AI is that:
+
+❌you​ ​won’t​ ​have​ ​to​ ​learn​ ​a​ ​thing​ ​about​ ​SEO.
+❌You​ ​don’t​ ​have​ ​to​ ​know​ ​a​ ​damn​ ​thing​ ​about​ ​backlinks…
+❌And​ ​you​ ​don’t​ ​need​ ​a​ ​huge​ ​budget​ ​to​ ​take​ ​advantage​ ​of​ ​this
+
+All you need to do is get your access to RapidRank AI and start ranking videos on the first page of Google. Sit back and watch how buyer traffic starts to put money in your pocket in no time.
+
+You don't want to miss out on this! Grab your copy now. https://shorturl.at/bgwU2 
+
+Johnny. 
+
+
+--1689098023-eximdsn-976657292--

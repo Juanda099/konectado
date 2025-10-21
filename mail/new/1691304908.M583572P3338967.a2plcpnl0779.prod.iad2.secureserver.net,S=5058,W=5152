@@ -1,0 +1,94 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 8XELGsxDz2TX8jIAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 05 Aug 2023 23:55:08 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 05 Aug 2023 23:55:08 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qSXfP-00E0c9-WF
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sat, 05 Aug 2023 23:55:08 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qSXfJ-00E09m-Bw@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1691304907-eximdsn-464406637
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qSXfP-00E0c9-WF@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 05 Aug 2023 23:55:07 -0700
+
+--1691304907-eximdsn-464406637
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 SXfOqcBjmPeVg :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=EN7AkXVC c=1 sm=1 tr=0 ts=64cf43cb p=rJnZum7jZPitqz5HSQXM:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=UttIx32zK-AA:10 a=smrCSdiaAAAA:8 a=feHJ9b5uAAAA:8 a=rgWPBPiS7zfHmPKlAmoA:9 a=M9ZHoLuYIHMl9pbmgCZa:22 a=JlnBv7lPgDpqdZKqtvkR:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1691304907-eximdsn-464406637
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 SXfOqcBjmPeVg :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=EN7AkXVC c=1 sm=1 tr=0 ts=64cf43cb p=rJnZum7jZPitqz5HSQXM:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=UttIx32zK-AA:10 a=smrCSdiaAAAA:8 a=feHJ9b5uAAAA:8 a=rgWPBPiS7zfHmPKlAmoA:9 a=M9ZHoLuYIHMl9pbmgCZa:22 a=JlnBv7lPgDpqdZKqtvkR:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1691304907-eximdsn-464406637
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qSXfJ-00E09m-Bw
+	for servicioalcliente@serkoi.com;
+	Sat, 05 Aug 2023 23:55:06 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.241.168.18
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.241.168.18
+From:
+Message-Id: <E1qSXfJ-00E09m-Bw@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 05 Aug 2023 23:55:01 -0700
+
+De: Susan Karsh. 
+Correo: . 
+Telefono: . 
+Mensaje: Hello,
+
+I recently reviewed your website at proditelsas.com and I am fascinated by what you guys are doing. So, I thought of sharing a powerful tool that could interest you. 
+
+Artificial Intelligence (AI) is quickly shaping the future of work, right from entry-level positions to the top ranks of CEOs. Easy-to-use AI programs such as ChatGPT are already being adopted for boosting productivity and making work more convenient.
+
+That's where 'Myaa' steps in. It's not your usual AI platform; it's a platform that hosts thousands of AI agents. Picture Myaa's agents like your colleagues - reliable, knowledgeable, and ready to aid in almost any job you throw at it.
+
+Small business, big business, or something in-between - no matter your size, every business can benefit from the helpful hand of an AI partner like Myaa. The best part? You can use it for free.
+
+Feel free to explore more at promo.myaa.com and sign up for your free account. Embrace the ease of AI with Myaa and stay ahead of the game!
+
+Looking forward to hearing how Myaa is revolutionizing your workspace.
+
+Best,
+Susan Karsh
+Myaa
+
+P.S. Don't wait for the future to catch up to you. Head over to promo.myaa.com, learn about all the perks Myaa brings to the table, and sign up for a free account today.. 
+
+
+--1691304907-eximdsn-464406637--

@@ -1,0 +1,167 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id cGdpD6m01WQmtjoAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 10 Aug 2023 21:10:17 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 10 Aug 2023 21:10:17 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qUJTd-00GAmv-3v
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 10 Aug 2023 21:10:17 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qUJTV-00GAkE-Lh@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1691727017-eximdsn-1312280070
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qUJTd-00GAmv-3v@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 10 Aug 2023 21:10:17 -0700
+
+--1691727017-eximdsn-1312280070
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 UJTdqUDLaCHyn :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=MOam2uVl c=1 sm=1 tr=0 ts=64d5b4a9 p=LQKC2NJTP8X-l09UzFMA:9 p=SbR5P768gDa1bgIb8kdS:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=UttIx32zK-AA:10 a=adSrtDhgAAAA:8 a=smrCSdiaAAAA:8 a=FYz5FRhcnStxngzl1aAI:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1691727017-eximdsn-1312280070
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 UJTdqUDLaCHyn :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=MOam2uVl c=1 sm=1 tr=0 ts=64d5b4a9 p=LQKC2NJTP8X-l09UzFMA:9 p=SbR5P768gDa1bgIb8kdS:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=UttIx32zK-AA:10 a=adSrtDhgAAAA:8 a=smrCSdiaAAAA:8 a=FYz5FRhcnStxngzl1aAI:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1691727017-eximdsn-1312280070
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qUJTV-00GAkE-Lh
+	for servicioalcliente@serkoi.com;
+	Thu, 10 Aug 2023 21:10:15 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.252.134.34
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.252.134.34
+From:
+Message-Id: <E1qUJTV-00GAkE-Lh@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 10 Aug 2023 21:10:09 -0700
+
+De: Ron Gadsden. 
+Correo: . 
+Telefono: . 
+Mensaje: Dear Business Leader,
+
+Introducing the Power of ChatGPT-4 Plugins.  Most people have heard of ChatGPT and are aware of fundamental weaknesses it has.  It can't read files and only has knowledge through 2021 but not anymore.  ChatGPT is a product of OpenAI.  OpenAI's latest state-of-the-art language model is ChatGPI-4. It has revolutionized the way we interact with technology, enabling human-like text generation with just a few keystrokes. But that's not all - the true magic of ChatGPT-4 lies in its powerful plugins.
+
+These plugins extend the capabilities of the core model, enabling it to do much more than just generate text. From web search to document analysis, they empower ChatGPT-4 to perform tasks that were once unimaginable.
+
+Imagine being able to extract information from lengthy PDFs, get quick answers from research papers, or engage in conversations with PDF documents. Picture automating repetitive web browsing tasks, generating visual diagrams from textual descriptions, or even transcribing audio and video recordings into text. These are just a few examples of what ChatGPT-4 plugins can do.
+
+Whether you're a professional, a student, an entrepreneur, or simply an AI enthusiast, ChatGPT-4 plugins offer a world of possibilities. They can enhance productivity, improve research efficiency, and spark innovation in ways you've never experienced before.
+
+To help you get started, we have prepared an exclusive  ChatGPT-4 plugins guide. Click the link below to access your free guide and explore the wonders of AI and ChatGPT.
+
+https://ronsays.com/chatgpt-plugins-guide  
+
+Join us in this AI revolution and experience the future of technology firsthand. Click the link above to claim your free guide now!
+
+///////////E x a m p l e  without using the Prompt Perfect Plugin/////////////////////
+
+E x a m p l e   Of   U s i n g  ChatGPT in your business
+
+Here is an example of how chatgpt-4 and the "Perfect Prompt" plugin can do when you need to do sales analysis, just to make it real world.
+
+User = Me ( this is what I asked of ChatGPt with the "Perfect Prompt" plugin turned on)
+I need to analyze sales data monthly for all our regions.  Give me five sample prompts and what they will return.  doable?
+
+
+ChatGPT Responds ...
+Certainly! Here are five sample prompts you can use to analyze monthly sales data for all your regions, along with a description of what each prompt will return:
+
+1. Prompt: "Show me the total sales for each region for the month of [Month, Year]."
+Returns: This will provide a summary of the total sales figures for each region for the specified month and year. You'll get a breakdown by region, allowing you to compare performance across different areas.
+
+2. Prompt: "Compare the monthly sales growth rate for all regions for the past six months."
+Returns: This will return a comparison of the monthly sales growth rates for all regions over the past six months. It will help you identify trends and see which regions are growing or declining in sales.
+
+3. Prompt: "List the top 5 products by sales in each region for the month of [Month, Year]."
+Returns: This will provide a list of the top 5 best-selling products in each region for the specified month and year. It will help you understand what products are performing well in different regions.
+
+4. Prompt: "Show me the sales conversion rate for each region for the month of [Month, Year]."
+Returns: This will return the sales conversion rate (i.e., the percentage of leads that turned into sales) for each region for the specified month and year. It will help you assess the effectiveness of your sales efforts in different regions.
+
+5. Prompt: "Provide a breakdown of sales by category for all regions for the month of [Month, Year]."
+Returns: This will give you a detailed breakdown of sales by category (e.g., electronics, clothing, etc.) for all regions for the specified month and year. It will allow you to see how different product categories are performing across various regions.
+
+////////////E n d  of  E x a m p l e ... Pretty good but see this same prompt after triggering Prompt Perfect below ////////////////////
+
+
+[[[[[[[[[[[ To use prompt perfect, just put the word perfect in front of the standard GPT prompt ]]]]]]]]]]]
+
+[[[[[[[[[[[[[[[[[[[[[ N e w  E x a m p l e same prompt input but with the plugin triggered ]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+
+Perfect, I need to analyze sales data monthly for all our regions.  Give me five sample prompts and what they will return.  doable?
+
+ChatGPT
+Used Prompt Perfect
+Certainly! Here are five specific prompts that you can use to retrieve and analyze comprehensive monthly sales data for all regions:
+
+Prompt: "Retrieve the total monthly sales figures for all regions for the past year, and display them in a tabular format."
+Returns: This will provide a table showing the total sales figures for each region, broken down by month for the past year. It will allow you to see trends and compare sales across regions.
+
+Prompt: "Calculate the month-over-month percentage change in sales for all regions, and present the data in a line chart."
+Returns: This will return a line chart illustrating the month-over-month percentage change in sales for all regions. It will help you identify growth or decline trends in different regions.
+
+Prompt: "List the top 3 sales representatives by total sales in each region for the last month, along with their contact information."
+Returns: This will provide a list of the top 3 sales representatives in each region based on total sales for the last month, along with their contact details. It will help you recognize and reach out to top performers.
+
+Prompt: "Show the sales distribution by product category for all regions for the selected month, and represent the data in a pie chart."
+Returns: This will return a pie chart showing the sales distribution by product category for all regions for a selected month. It will allow you to understand the product mix and how different categories contribute to sales.
+
+Prompt: "Provide a heat map showing the sales density by region for the past six months, with color coding to represent sales volume."
+Returns: This will provide a heat map that visually represents sales density by region for the past six months. Regions with higher sales volumes will be color-coded differently, allowing you to quickly identify high-performing and underperforming areas.
+
+These prompts are designed to elicit precise and high-quality responses, providing you with a comprehensive view of your monthly sales data across all regions. You can use them with your data analysis tools or share them with your analytics team to gain valuable insights into your sales performance.
+
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[ End of New Prompt ]]]]]]]]]]]]]]]]]]]]]]]]]]]
+
+You can look like a hero for your company.  Learn to do this kind of thing in your own work with ChatGPT.  Be the go to guy or gal. Just saysing, right ?
+
+Think of this free guide as your first step in learning the power of AI.  Now you don't have to do the plugins but they are just amazing.
+ChatGPT is already powerful all by itself.  With the plugin extentions that allow it to read and analyze data, contents and more, its a total no brainer.  
+
+Get the guide.  Thank me later! Here is the link to the guide. https://ronsays.com/chatgpt-plugins-guide  
+
+
+Best regards,
+
+
+Ron Gadsden
+***Opt out of future messages by replying to the messages and saying opt out. proditelsas.com
+
+7031 Sand Cherry Way 
+Clinton, MD 20735. 
+
+
+--1691727017-eximdsn-1312280070--

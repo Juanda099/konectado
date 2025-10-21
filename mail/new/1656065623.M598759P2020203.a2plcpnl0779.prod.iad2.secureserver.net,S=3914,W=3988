@@ -1,0 +1,74 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id ULMTIFeOtWJr0x4AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Fri, 24 Jun 2022 03:13:43 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Fri, 24 Jun 2022 03:13:43 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	id 1o4gJr-008YVs-DA
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Fri, 24 Jun 2022 03:13:43 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1o4gJq-008YVO-Tu@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1656065623-eximdsn-587309027
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1o4gJr-008YVs-DA@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 24 Jun 2022 03:13:43 -0700
+
+--1656065623-eximdsn-587309027
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 4gJrofnkX4fSh :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Pek6Ogtd c=1 sm=1 tr=0 ts=62b58e57 p=5yfRPWEFKosA:10 p=d5HOGMgjAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=JPEYwPQDsx4A:10 a=LqMokK8rJNObba6dUT8A:9 a=IawXvI9lP1MA:10 a=KjkNdZPOpIMA:10 a=zcCDhtp5qFsA:10 a=DVKqRkKJf1IA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1656065623-eximdsn-587309027
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 4gJrofnkX4fSh :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Pek6Ogtd c=1 sm=1 tr=0 ts=62b58e57 p=5yfRPWEFKosA:10 p=d5HOGMgjAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=JPEYwPQDsx4A:10 a=LqMokK8rJNObba6dUT8A:9 a=IawXvI9lP1MA:10 a=KjkNdZPOpIMA:10 a=zcCDhtp5qFsA:10 a=DVKqRkKJf1IA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1656065623-eximdsn-587309027
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1o4gJq-008YVO-Tu
+	for servicioalcliente@serkoi.com; Fri, 24 Jun 2022 03:13:43 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 212.102.33.44
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 212.102.33.44
+From:
+Message-Id: <E1o4gJq-008YVO-Tu@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 24 Jun 2022 03:13:42 -0700
+
+De: Adele Rolleston. 
+Correo: . 
+Telefono: 05.02.28.49.63. 
+Mensaje: Good job on the new site! Now go ahead and submit it to our free directory here https://bit.ly/submityoursite1000. 
+
+
+--1656065623-eximdsn-587309027--

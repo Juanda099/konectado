@@ -1,0 +1,115 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id EF0UEBva3WZKsCAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 08 Sep 2024 10:08:43 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 08 Sep 2024 10:08:43 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1snLP1-009GRD-0g
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 08 Sep 2024 10:08:43 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1snLOn-009G3c-1Q@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1725815323-eximdsn-1820085996
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1snLP1-009GRD-0g@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 08 Sep 2024 10:08:43 -0700
+
+--1725815323-eximdsn-1820085996
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 nLP1sDPxeaaaV :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=A5anPLWG c=1 sm=1 tr=0 ts=66ddda1b p=tfA_TzRyAAAA:8 p=4wjzFo7uz4QNPueJI0QA:9 p=MOiIo4LeJWUR67CblZvb:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=1hLqZxhoj7b8J0iEYjPs:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1725815323-eximdsn-1820085996
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 nLP1sDPxeaaaV :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=A5anPLWG c=1 sm=1 tr=0 ts=66ddda1b p=tfA_TzRyAAAA:8 p=4wjzFo7uz4QNPueJI0QA:9 p=MOiIo4LeJWUR67CblZvb:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=1hLqZxhoj7b8J0iEYjPs:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1725815323-eximdsn-1820085996
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1snLOn-009G3c-1Q
+	for servicioalcliente@serkoi.com;
+	Sun, 08 Sep 2024 10:08:42 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.138.203
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.138.203
+From:
+Message-Id: <E1snLOn-009G3c-1Q@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 08 Sep 2024 10:08:29 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Pasquale Morrow. 
+Correo: . 
+Telefono: (07) 5366 5934. 
+Mensaje: 
+I didn’t know it…
+
+And I regret not knowing it sooner…
+
+The biggest platform on earth, sending me daily commissions?   YES PLEASE…
+
+But getting those commissions is not quite easy…
+
+You need a system to promote their products correctly, to see results…
+
+BUT - what if there is a way to do that easily…
+…without any experience skills, or any upfront cost…
+
+You just paste in your Amazon affiliate link, and that’s it…
+
+How?   By using a one-of-a-kind app that does all of the work for you…
+
+Blink: https://www.earnmillions.xyz/amazon  
+
+With Blink
+
+You don’t need to write reviews
+You don’t need to build websites
+You don’t need to do SEO
+You don’t need to run ads
+
+Click here now and watch Blink works in action >> https://www.earnmillions.xyz/amazon  
+
+Cheers,
+Pasquale Morrow
+
+
+UNSUBSCRIBE: https://www.earnmillions.xyz/unsubscribe/?d=proditelsas.com   
+Address: 3821 Lost Creek Road
+Philadelphia, PA 19103
+. 
+
+
+--1725815323-eximdsn-1820085996--

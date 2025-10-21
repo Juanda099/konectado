@@ -1,0 +1,55 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id aLzAKUiPtGW7Uh8AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Fri, 26 Jan 2024 22:06:16 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Fri, 26 Jan 2024 22:06:16 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rTatU-008d1r-1q
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Fri, 26 Jan 2024 22:06:16 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rTatQ-008d0l-0j@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1rTatU-008d1r-1q@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 26 Jan 2024 22:06:16 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rTatQ-008d0l-0j
+	for servicioalcliente@serkoi.com;
+	Fri, 26 Jan 2024 22:06:12 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.81.152.68
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.81.152.68
+From:
+Message-Id: <E1rTatQ-008d0l-0j@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Fri, 26 Jan 2024 22:06:12 -0700
+
+De: Mark Shultz. 
+Correo: . 
+Telefono: 0341 8779862. 
+Mensaje: Boost your business revenue effortlessly with ProfitMarc! Our AI-driven platform writes and sends high-converting emails for you, targeting fresh, pre-qualified leads. 
+
+With our state-of-the-art delivery system, see a significant increase in engagement and sales. Don't miss out on the easiest way to enhance your marketing strategy and drive profits. 
+
+Click Below to explore ProfitMarc and start generating leads!
+
+https://aiandcompanybest.com
+
+Mark. 
+

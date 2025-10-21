@@ -1,0 +1,56 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 2L+IJd97z2hcWxAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 20 Sep 2025 21:15:27 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 20 Sep 2025 21:15:27 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1v0BTz-00000004wzW-2IoW
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 20 Sep 2025 21:15:27 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1v0BTr-00000004wxq-3XB0@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1v0BTz-00000004wzW-2IoW@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 20 Sep 2025 21:15:27 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1v0BTr-00000004wxq-3XB0
+	for servicioalcliente@serkoi.com;
+	Sat, 20 Sep 2025 21:15:19 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1v0BTr-00000004wxq-3XB0@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 20 Sep 2025 21:15:19 -0700
+
+De: Kelvin Salas. 
+Correo: . 
+Telefono: 4333150. 
+Mensaje: Hi,
+
+We came across your website proditelsas.com and consider it an informative and neatly organized platform.
+
+We are looking to know more regarding your site reach, specifically if the site receives more than 1,000+ people per day.
+
+If proditelsas.com has such reach, we would be interested to explore potential collaboration, be it through ownership transfer or audience engagement.
+
+Please reach out to us at ryland.rivas.1973+proditelsas.com@gmail.com so we can look into this more closely. We look forward to your reply.
+
+Sincerely,  
+Kelvin Salas. 
+

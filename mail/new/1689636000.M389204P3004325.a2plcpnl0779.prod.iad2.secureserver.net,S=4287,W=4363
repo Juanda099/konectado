@@ -1,0 +1,76 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 4HWFFaDMtWSl1y0AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 17 Jul 2023 16:20:00 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 17 Jul 2023 16:20:00 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qLXVY-00CcjJ-7e
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Mon, 17 Jul 2023 16:20:00 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qLXVR-00CcgO-0F@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1689636000-eximdsn-543340799
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qLXVY-00CcjJ-7e@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 17 Jul 2023 16:20:00 -0700
+
+--1689636000-eximdsn-543340799
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 LXVYqKlWJWbB0 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Dp2Qukz+ c=1 sm=1 tr=0 ts=64b5cca0 p=t0NB52FZDbYdqI2GaJDK:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=smrCSdiaAAAA:8 a=2HoU6zkLlS6ikbkU1NQA:9 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1689636000-eximdsn-543340799
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 LXVYqKlWJWbB0 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Dp2Qukz+ c=1 sm=1 tr=0 ts=64b5cca0 p=t0NB52FZDbYdqI2GaJDK:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=smrCSdiaAAAA:8 a=2HoU6zkLlS6ikbkU1NQA:9 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1689636000-eximdsn-543340799
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qLXVR-00CcgO-0F
+	for servicioalcliente@serkoi.com;
+	Mon, 17 Jul 2023 16:19:59 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 63.141.51.92
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 63.141.51.92
+From:
+Message-Id: <E1qLXVR-00CcgO-0F@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 17 Jul 2023 16:19:53 -0700
+
+De: Deandre Rickert. 
+Correo: . 
+Telefono: 01.06.87.24.26. 
+Mensaje: Hi, I'm sending you this message via your contact form on your website at proditelsas.com. By reading this message you're living proof that contact form advertising works! Do you want to blast your ad to millions of contact forms? Maybe you prefer a more targeted approach and only want to blast our ad out to websites in certain business categories? Pay just $99 to blast your ad to 1 million contact forms. Volume discounts available. I have more than 35 million contact forms. Let's get the conversation started, contact me via Skype here:  live:.cid.83c9da999a4f9f. 
+
+
+--1689636000-eximdsn-543340799--

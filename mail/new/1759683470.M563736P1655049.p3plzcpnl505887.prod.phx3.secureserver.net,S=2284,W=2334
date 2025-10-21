@@ -1,0 +1,50 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id YMGpII6j4mgJQRkA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 05 Oct 2025 09:57:50 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 05 Oct 2025 09:57:50 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1v5S3S-000000072Ho-1vNC
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 05 Oct 2025 09:57:50 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1v5S3J-000000072GT-1m5R@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1v5S3S-000000072Ho-1vNC@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 05 Oct 2025 09:57:50 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1v5S3J-000000072GT-1m5R
+	for servicioalcliente@serkoi.com;
+	Sun, 05 Oct 2025 09:57:41 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1v5S3J-000000072GT-1m5R@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 05 Oct 2025 09:57:41 -0700
+
+De: Edwina Emma. 
+Correo: . 
+Telefono: 681769123. 
+Mensaje: 
+Ready to amplify your website traffic? Our AI-enhanced delivers targeted visitors through keywords with geographic precision from continents to city blocks.  
+Looking for increased revenue, engaged users, or wider online reach?  
+We adjust it to fit your goals. Enjoy a 7-day free trial period with no contract. Dive in here:
+
+https://ow.ly/njfb50WXBjw. 
+

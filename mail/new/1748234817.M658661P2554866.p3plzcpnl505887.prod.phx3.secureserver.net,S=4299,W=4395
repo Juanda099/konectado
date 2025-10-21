@@ -1,0 +1,96 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id KJJCJkHyM2jy+yYA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 25 May 2025 21:46:57 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 25 May 2025 21:46:57 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1uJPjl-00DiCI-1q
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 25 May 2025 21:46:57 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uJPjU-00Dhz1-0x@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1748234817-eximdsn-1491539742
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1uJPjl-00DiCI-1q@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 25 May 2025 21:46:57 -0700
+
+--1748234817-eximdsn-1491539742
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 JPjlu5H3P4sv3 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=BJezrEQG c=1 sm=1 tr=0 ts=6833f241 p=zmxtXM75OkLR58e3WoIA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=dt9VzEwgFbYA:10 a=gjCJhEfIAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=ZXulRonScM0A:10 a=lZEUJAQODnKXUOvq1D6u:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=-ZXtTBWf0nLpu9caLWNm:22 ::
+    100.00
+
+--1748234817-eximdsn-1491539742
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 JPjlu5H3P4sv3 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=BJezrEQG c=1 sm=1 tr=0 ts=6833f241 p=zmxtXM75OkLR58e3WoIA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=dt9VzEwgFbYA:10 a=gjCJhEfIAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=ZXulRonScM0A:10 a=lZEUJAQODnKXUOvq1D6u:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=-ZXtTBWf0nLpu9caLWNm:22 :: 100.00
+
+--1748234817-eximdsn-1491539742
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uJPjU-00Dhz1-0x
+	for servicioalcliente@serkoi.com;
+	Sun, 25 May 2025 21:46:57 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uJPjU-00Dhz1-0x@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 25 May 2025 21:46:40 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Ira Goodson. 
+Correo: . 
+Telefono: 508-665-0996. 
+Mensaje: Hi,
+
+Look — I’m not gonna pretend this is some secret code.
+
+It’s called xBesh.
+You type what you want built — it builds the actual SaaS product.   Real backend.   Real payments.
+
+Then?   People are flipping what they build.
+Like “quiz app with login + credits”?   Prompted it.   Built it in 40 minutes.
+Guy posted it.   Made 7 sales.   First day.
+
+Zero code.   Zero wait.   Just straight income: https://www.growthmarketingnow.info/xbesh .
+
+Ira Goodson
+
+
+
+UNSUBSCRIBE: https://www.growthmarketingnow.info/unsubscribe/?d=proditelsas.com 
+4400 Crummit Lane
+Bennington, NE 68007. 
+
+
+--1748234817-eximdsn-1491539742--

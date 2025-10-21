@@ -1,0 +1,56 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id qSCEIphylWZ6zjYA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 15 Jul 2024 12:03:52 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 15 Jul 2024 12:03:52 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sTQzI-00F4OA-1e
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 15 Jul 2024 12:03:52 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sTQz6-00F4LY-2l@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sTQzI-00F4OA-1e@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 15 Jul 2024 12:03:52 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sTQz6-00F4LY-2l
+	for servicioalcliente@serkoi.com;
+	Mon, 15 Jul 2024 12:03:40 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 35.225.239.47
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 35.225.239.47
+From:
+Message-Id: <E1sTQz6-00F4LY-2l@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 15 Jul 2024 12:03:40 -0700
+
+De: Eunice Lamilami. 
+Correo: . 
+Telefono: 6022031074. 
+Mensaje: Hello,
+
+It is with sad regret that after 12 years, LeadsMax.biz is shutting down.
+
+We have made all our databases available on our website.
+
+25 Million companies
+527 Million People
+
+LeadsMax.biz. 
+

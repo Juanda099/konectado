@@ -1,0 +1,49 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id oNXqEljEzmivJj8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 20 Sep 2025 08:12:24 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 20 Sep 2025 08:12:24 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uzzGC-0000000HWQo-0y01
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 20 Sep 2025 08:12:24 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uzzG5-0000000HWNz-12m6@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uzzGC-0000000HWQo-0y01@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 20 Sep 2025 08:12:24 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uzzG5-0000000HWNz-12m6
+	for servicioalcliente@serkoi.com;
+	Sat, 20 Sep 2025 08:12:17 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uzzG5-0000000HWNz-12m6@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 20 Sep 2025 08:12:17 -0700
+
+De: IsaacVef. 
+Correo: . 
+Telefono: 89741488165. 
+Mensaje: Your parcel with an iPhone 16 Pro will arrive in 60 days. https://telegra.ph/Win-iPhones-Samsung-09-18-1482?9x5n9s4w3x9qkvw 
+INSIDE THE BOX: YOUR NEW APPLE IPHONE 16 PRO 512GB. https://telegra.ph/Win-iPhones-Samsung-09-18-38?1f5m6a5w6z6mfe2 
+Someone just won a flagship. Will it be you next? https://telegra.ph/Win-iPhones-Samsung-09-18-3651?1a5k0l3i3n9r9g9 
+Your winnings are in “Inventory” – sell or ship your S24 Ultra. https://telegra.ph/Win-iPhones-Samsung-09-18-2681?5r3m7h4o7w9tnk4 
+Halfway through the event. iPhone 16 Pros still available. https://telegra.ph/Win-iPhones-Samsung-09-18-993?0r8n8k1r7y7qz30. 
+

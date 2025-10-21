@@ -1,0 +1,51 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id CMioAbWD+mYAFA8A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 30 Sep 2024 03:55:49 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 30 Sep 2024 03:55:49 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1svE4C-00493x-34
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 30 Sep 2024 03:55:48 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1svE42-00491s-1r@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1svE4C-00493x-34@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 30 Sep 2024 03:55:48 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1svE42-00491s-1r
+	for servicioalcliente@serkoi.com;
+	Mon, 30 Sep 2024 03:55:38 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 216.41.233.196
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 216.41.233.196
+From:
+Message-Id: <E1svE42-00491s-1r@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 30 Sep 2024 03:55:38 -0700
+
+De: Constance Murph. 
+Correo: . 
+Telefono: 233608463. 
+Mensaje: Nice to meet you proditelsas.com 
+
+Need to make your videos stand out? Facetune’s AI-powered video editor can adjust lighting, apply effects, and transform your content fast. Edit on the go for professional results!
+
+https://slimex365.com/8kw47 . 
+

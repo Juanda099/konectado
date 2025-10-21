@@ -1,0 +1,154 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id qOW/G2RqyWRsTwYAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 01 Aug 2023 13:26:12 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 01 Aug 2023 13:26:12 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qQvwa-001lbt-Ak
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 01 Aug 2023 13:26:12 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qQvwR-001lTR-RC@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1690921572-eximdsn-719780301
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qQvwa-001lbt-Ak@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 01 Aug 2023 13:26:12 -0700
+
+--1690921572-eximdsn-719780301
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 QvwZqx5oUoC56 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=PYY5xAtd c=1 sm=1 tr=0 ts=64c96a63 p=kS7NEIIIAAAA:20 p=XAoRRpflzzeWDqWnF1SG:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=UttIx32zK-AA:10 a=c5qy0exxMyAi0vh1MUMA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1690921572-eximdsn-719780301
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 QvwZqx5oUoC56 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=PYY5xAtd c=1 sm=1 tr=0 ts=64c96a63 p=kS7NEIIIAAAA:20 p=XAoRRpflzzeWDqWnF1SG:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=UttIx32zK-AA:10 a=c5qy0exxMyAi0vh1MUMA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1690921572-eximdsn-719780301
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qQvwR-001lTR-RC
+	for servicioalcliente@serkoi.com;
+	Tue, 01 Aug 2023 13:26:11 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 107.186.67.112
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 107.186.67.112
+From:
+Message-Id: <E1qQvwR-001lTR-RC@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 01 Aug 2023 13:26:03 -0700
+
+De: John Carlson. 
+Correo: . 
+Telefono: 0356 9559154. 
+Mensaje: Every business owner needs to make the best use of Artificial intelligence to grow their business & get maximum customers hooked.
+
+But,
+
+A majority of AI tools available today in the market are either too complex or damn expensive with limited functionalities.
+
+Now,
+
+Just imagine what if we combined both and offered something that’ll take the AI universe by the storm…
+
+Presenting AI Ninja Kit
+
+World’s First, Chat GPT 4 Powered AI Technology That Comes Loaded With 200+ Premium Business Boosting Tools To Create & Sell Amazing Marketing Content For Any Offer & Niche With Zero Prior Skills Or Experience
+
+
+Check It out: bit.ly/AINinjaKit
+
+ 
+
+Here are some of its amazing features-
+
+·        Create 200+ passive income streams without spending a dime
+
+·        No complicated setup, no tech hassles, no installation or any other headache
+
+·        Get 200+ power packed artificial intelligence tools for the price of peanuts
+
+·        Completely automate your business & take industry by the storm
+
+·        Each tool crafted with utmost perfection by industry experts
+
+·        Stop paying huge fees monthly to expensive third-party apps
+
+·        Grow your business while your competitors are left biting the dust
+
+·        No Complicated Setup - Get Up And Running In Under 60 Seconds
+
+·        ZERO Upfront Cost Or Huge Investment
+
+·        Nothing To Download, Install Or Customize – Get Started In Seconds
+
+·        Limited Time Commercial License Included
+
+·        100% Easy To Use, Newbie Friendly Technology
+
+·        Iron Clad 30 Day Money Back Guarantee Included
+
+
+
+Sounds amazing, right?
+
+
+See Complete Scoop For AI Ninja Kit Here: bit.ly/AINinjaKit
+
+
+Here’s the really good news…
+
+
+Right now,
+
+AI Ninja Kit is available for a crazy low one-time discounted price.
+
+And, this crazy discounted price is going to increase very soon.
+
+I highly recommend checking it out today, all serious marketers will need this in their arsenal without fail.
+
+
+So, what are you waiting for?
+
+
+Grab AI Ninja Kit At Low Earlybird Price Here: bit.ly/AINinjaKit
+
+
+To Your Success,
+
+John
+
+
+P.S- Using artificial intelligence to boost your business just got simpler. So, act now & grab your copy before you’re left with nothing at your end…. 
+
+
+--1690921572-eximdsn-719780301--

@@ -1,0 +1,83 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id YH8lIzXysGYh+xUA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 05 Aug 2024 08:39:33 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 05 Aug 2024 08:39:33 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sazo5-0064nW-1f
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 05 Aug 2024 08:39:33 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sazo0-0064WN-1r@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1722872373-eximdsn-1960069862
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sazo5-0064nW-1f@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 05 Aug 2024 08:39:33 -0700
+
+--1722872373-eximdsn-1960069862
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 azo5s6OtNnGCX :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=PJ7E+uqC c=1 sm=1 tr=0 ts=66b0f235 p=1P1zaDo3dSq_RYmzfL6o:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=MmRkAALw4dMaMfS04tAA:9 a=_7aarQy8x9YA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1722872373-eximdsn-1960069862
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 azo5s6OtNnGCX :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=PJ7E+uqC c=1 sm=1 tr=0 ts=66b0f235 p=1P1zaDo3dSq_RYmzfL6o:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=yoJbH4e0A30A:10 a=MmRkAALw4dMaMfS04tAA:9 a=_7aarQy8x9YA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1722872373-eximdsn-1960069862
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sazo0-0064WN-1r
+	for servicioalcliente@serkoi.com;
+	Mon, 05 Aug 2024 08:39:33 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 169.150.205.144
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 169.150.205.144
+From:
+Message-Id: <E1sazo0-0064WN-1r@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 05 Aug 2024 08:39:28 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Malinda Jackey. 
+Correo: . 
+Telefono: 434 20 242. 
+Mensaje: My name is Ahmet. I'm a bank staff in a Turkish bank. I've been looking for someone who has the same nationality as you. A citizen of your country died in the recent earthquake in Turkey, he had in our bank fixed deposit of $11.5 million. 
+
+My Bank management is yet to know of his death. If my bank executive finds out about his death ,They would use the funds for themselves and get richer and I would like to prevent that from happening only if I get your cooperation, I knew about it because I was his account manager. Last week my bank management held a meeting for the purpose of a bank audit to note the dormant and abandoned deposit accounts.  I know this will happen and that's why I'm looking for a solution to deal with this situation because if my bank discovers his death, they will divert the funds to the board of directors.  I don't want that to happen. 
+ 
+I request your cooperation to introduce you as the kin/heir of the account as you are of the same nationality as him.  There is no risk;  the transaction is carried out under a legal agreement that protects you from infringement. I suggest we split the funds, 60/40 and 40 for me. I need this fund for my daughter's surgery so keep this info confidential. email me so i can provide you with more info  reachahmet@proton.me. 
+
+
+--1722872373-eximdsn-1960069862--

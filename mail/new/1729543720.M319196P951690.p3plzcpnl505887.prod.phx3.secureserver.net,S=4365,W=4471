@@ -1,0 +1,106 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id u2VeEii+FmeKhQ4A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 21 Oct 2024 13:48:40 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 21 Oct 2024 13:48:40 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1t2zKS-003zZk-0m
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 21 Oct 2024 13:48:40 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1t2zKN-003zZG-1D@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1729543720-eximdsn-1544565152
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1t2zKS-003zZk-0m@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 21 Oct 2024 13:48:40 -0700
+
+--1729543720-eximdsn-1544565152
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 2zKStFEd089MU :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Z9knH2RA c=1 sm=1 tr=0 ts=6716be28 p=aBAQhc4Q70oX7z6C5FgA:9 p=rf2UORIxZ4Zg1bCU2gpA:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=UqCG9HQmAAAA:8 a=3ZKOabzyN94A:10 a=zgiPjhLxNE0A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1729543720-eximdsn-1544565152
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 2zKStFEd089MU :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Z9knH2RA c=1 sm=1 tr=0 ts=6716be28 p=aBAQhc4Q70oX7z6C5FgA:9 p=rf2UORIxZ4Zg1bCU2gpA:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=DAUX931o1VcA:10 a=UqCG9HQmAAAA:8 a=3ZKOabzyN94A:10 a=zgiPjhLxNE0A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1729543720-eximdsn-1544565152
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1t2zKN-003zZG-1D
+	for servicioalcliente@serkoi.com;
+	Mon, 21 Oct 2024 13:48:40 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 138.199.59.40
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 138.199.59.40
+From:
+Message-Id: <E1t2zKN-003zZG-1D@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 21 Oct 2024 13:48:35 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Ashok. 
+Correo: . 
+Telefono: 3730432121. 
+Mensaje: Hello! If you're looking for a professional website developer or a responsive website designer, you're in the right place. With 15 years of experience, I specialize in WordPress design and development, full stack development, creating responsive and mobile-friendly sites, and integrating payment gateways. My expertise also includes speed optimization, custom development, and building eCommerce solutions. I can troubleshoot and fix bugs, ensuring your website performs at its best. Let’s collaborate to create the perfect website for your needs!
+
+Feel free to send me an email at webdesignservices111@outlook.com to collaborate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+
+
+--1729543720-eximdsn-1544565152--

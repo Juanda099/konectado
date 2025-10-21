@@ -1,0 +1,117 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id IHSlG7GZOmdIyQIA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 17 Nov 2024 18:34:41 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 17 Nov 2024 18:34:41 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tCqf3-000yan-1H
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 17 Nov 2024 18:34:41 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tCqes-000yPB-35@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1731893681-eximdsn-1249408306
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tCqf3-000yan-1H@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 17 Nov 2024 18:34:41 -0700
+
+--1731893681-eximdsn-1249408306
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Cqf2tACfu5FYA :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Qd2cvtbv c=1 sm=1 tr=0 ts=673a99b1 p=IVS9jppu_ThPKHiYBEYA:9 p=5HYJVMcq6ALJMbk2bhLc:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=VlfZXiiP6vEA:10 a=eQBPJK_bAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=X9fPweFELI3g4u6mKOBy:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1731893681-eximdsn-1249408306
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Cqf2tACfu5FYA :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Qd2cvtbv c=1 sm=1 tr=0 ts=673a99b1 p=IVS9jppu_ThPKHiYBEYA:9 p=5HYJVMcq6ALJMbk2bhLc:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=VlfZXiiP6vEA:10 a=eQBPJK_bAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=X9fPweFELI3g4u6mKOBy:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1731893681-eximdsn-1249408306
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tCqes-000yPB-35
+	for servicioalcliente@serkoi.com;
+	Sun, 17 Nov 2024 18:34:40 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.145.106
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.145.106
+From:
+Message-Id: <E1tCqes-000yPB-35@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 17 Nov 2024 18:34:30 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Robert Banks. 
+Correo: . 
+Telefono: 0511-5493677. 
+Mensaje: Hi,
+
+You can now have a freelancing business that operates itself and still makes daily profits from clients even in your absence.
+
+This doesn't have anything to do with being a freelancer or not
+
+All you need is the FreelancingPro AI,
+
+>> Click here to get access: https://www.busitoday.co/freelancerproai  
+
+Here is how it works…
+
+This software creates a DFY Freelancing platform like Fiverr and Upwork with 30+ AI robot experts in different skill sets preloaded with a high-paying client database that will pay for services on your Freelancing platform.
+
+No Monthly Fee for maintenance
+Easy-to-use Dashboard
+
+>> Click here to Launch your Freelancing Business: https://www.busitoday.co/freelancerproai  
+
+You can customize it to suit your brand…In just 3 clicks you can have your complete freelancing platform ready;
+
+Login: Login to Al Freelancer-based app (Nothing to Install)
+Setup: Just I-Click To Setup Your Al-Driven Freelancing platform
+Profit: Your Profit-Pulling Al-Driven Freelancing platform Is Ready To pull in Huge Bucks For You Automatically
+
+That’s how easy it is to use the FreelancerPro AI to start getting top-dollar payments from clients.
+
+But the catch is,
+
+We have just limited slots for the FreelancerPro AI earlybird access and this means if you don’t take action now you might have to pay double later.
+
+>> Click here to Launch your Freelancing Business: https://www.busitoday.co/freelancerproai  
+
+Robert Banks
+
+
+UNSUBSCRIBE: https://www.busitoday.co/unsubscribe/?d=proditelsas.com   
+Address: 1802 Angus Road
+New York, NY 10029. 
+
+
+--1731893681-eximdsn-1249408306--

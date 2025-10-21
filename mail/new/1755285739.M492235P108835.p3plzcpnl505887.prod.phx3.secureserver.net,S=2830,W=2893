@@ -1,0 +1,63 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id UKIZHOuIn2gjqQEA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 15 Aug 2025 12:22:19 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 15 Aug 2025 12:22:19 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1un00J-00000001W5n-1e4G
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 15 Aug 2025 12:22:19 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1un00A-00000001W48-0GPx@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1un00J-00000001W5n-1e4G@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 15 Aug 2025 12:22:19 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1un00A-00000001W48-0GPx
+	for servicioalcliente@serkoi.com;
+	Fri, 15 Aug 2025 12:22:10 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1un00A-00000001W48-0GPx@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 15 Aug 2025 12:22:10 -0700
+
+De: Joeann Muskett. 
+Correo: . 
+Telefono: 691134536. 
+Mensaje: Hello,
+
+We have a promotional offer for your website proditelsas.com.
+
+
+ No Product. No Skills. No Work. No Talking. No Selling…
+
+World’s First AI App That Lets You Launch A Fully-Automated Freelancing Business Without Doing Any Of The Freelancing Yourself & Without Hiring Anyone
+Just Pick Your Built-In AI Worker (Copywriter, Designer, Developer, Assistant, & More)...
+Let Them Deliver Jobs For You… While You Sit Back & Get Paid…
+No Experience - No Skills - No Upfront Cost - No Waiting - Instant Results
+
+See it in action: https://www.novaai.expert/TaskManAI
+
+You are receiving this message because we believe our offer may be relevant to you. 
+If you do not wish to receive further communications from us, please click here to UNSUBSCRIBE:
+https://www.novaai.expert/unsubscribe?domain=proditelsas.com
+Address: 209 West Street Comstock Park, MI 49321
+Looking out for you, Ethan Parker. 
+

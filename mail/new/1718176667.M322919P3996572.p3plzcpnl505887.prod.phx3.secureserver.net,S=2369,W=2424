@@ -1,0 +1,55 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id iPo7D5tLaWac+zwA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 12 Jun 2024 00:17:47 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 12 Jun 2024 00:17:47 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sHIEt-00Gsn3-0C
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 12 Jun 2024 00:17:47 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sHIEo-00Gsh0-09@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sHIEt-00Gsn3-0C@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 12 Jun 2024 00:17:47 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sHIEo-00Gsh0-09
+	for servicioalcliente@serkoi.com;
+	Wed, 12 Jun 2024 00:17:42 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 148.72.214.53
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 148.72.214.53
+From:
+Message-Id: <E1sHIEo-00Gsh0-09@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 12 Jun 2024 00:17:42 -0700
+
+De: sellmybusiness. 
+Correo: . 
+Telefono: . 
+Mensaje: Built a thriving small business? Now considering your next step? 
+ 
+We can help owners like you achieve their exit goals discreetly and get top dollar from our network of small business buyers. 
+ 
+The consultation is free, explore your options and market value. 
+ 
+Click to Schedule Now: 
+ 
+https://novacodex.site/business_acquisition.html. 
+

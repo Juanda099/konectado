@@ -1,0 +1,110 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id j8cvJ13/HmXtVDoAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 05 Oct 2023 11:24:29 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 05 Oct 2023 11:24:29 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qoT1R-00G2UR-GM
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 05 Oct 2023 11:24:29 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qoT1M-00G2SG-Nu@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1696530269-eximdsn-1048513532
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qoT1R-00G2UR-GM@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 05 Oct 2023 11:24:29 -0700
+
+--1696530269-eximdsn-1048513532
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 oT1RqMSXBSIhO :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=es8ZjKlX c=1 sm=1 tr=0 ts=651eff5d p=qLmCdFfUAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=UOv3b1PIAAAA:8 a=c_1e0qbxhHP2eTKXl4IA:9 a=y_jGRfeMbc8A:10 a=uRYH2Sv9phGCvdghy8tm:22 a=1R8BSlfJXvw7FmQKU8cU:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1696530269-eximdsn-1048513532
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 oT1RqMSXBSIhO :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=es8ZjKlX c=1 sm=1 tr=0 ts=651eff5d p=qLmCdFfUAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=bhdUkHdE2iEA:10 a=UOv3b1PIAAAA:8 a=c_1e0qbxhHP2eTKXl4IA:9 a=y_jGRfeMbc8A:10 a=uRYH2Sv9phGCvdghy8tm:22 a=1R8BSlfJXvw7FmQKU8cU:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1696530269-eximdsn-1048513532
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qoT1M-00G2SG-Nu
+	for servicioalcliente@serkoi.com;
+	Thu, 05 Oct 2023 11:24:29 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.241.162.217
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.241.162.217
+From:
+Message-Id: <E1qoT1M-00G2SG-Nu@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 05 Oct 2023 11:24:24 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Chris Caltabiano. 
+Correo: . 
+Telefono: 630-377-1811. 
+Mensaje: Hi,
+
+Are you tired of losing money on credit card fees every month? I'm Chris Caltabiano, the founder of Calta Payments, an all-in-one Merchant Services Provider. We have the perfect solution for your business.
+
+Many business owners like you are unaware that they could be paying significantly lower fees for credit card processing. With Calta Payments, you can start making money on every transaction instead of losing it to fees. We offer the lowest credit card transaction fees in the industry, guaranteed.
+
+That's not all. We also provide top-quality processing equipment and software for seamless transactions and fast customer flows. Our dedicated support team is available 24/7 to assist you with any technical issues or questions.
+
+Here are the key takeaways:
+
+1. Lowest fees in the industry or no fees at all - guaranteed never to go up.
+2. Local customer support and 24/7 technical assistance.
+3. Top-quality and reliable processing equipment.
+4. The potential to make money on every transaction instead of losing it to credit card fees.
+
+To see the savings for yourself, we offer a free "Cost Savings Analysis" comparing your current fees to what you could save with Calta Payments.
+
+Schedule your appointment today and take advantage of this limited time offer. Join the businesses who are choosing Calta Payments as their preferred Merchant Services Provider.
+
+Click here: --> https://bit.ly/caltapayments 
+
+Don't settle for high fees and subpar service. Schedule your appointment with Calta Payments today and start saving on credit card fees immediately.
+
+Warm regards,
+
+Chris Caltabiano
+Founder, Calta Payments
+[Phone Number]
+[Website: www.CaltaPayments.com]
+
+P.S. As a bonus, our Merchant Multiplier Program lets you earn additional income by processing transactions through us.
+. 
+
+
+--1696530269-eximdsn-1048513532--

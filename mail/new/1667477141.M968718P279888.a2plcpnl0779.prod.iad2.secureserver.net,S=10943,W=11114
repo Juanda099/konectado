@@ -1,0 +1,171 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 0ID+N5WuY2NQRQQAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 03 Nov 2022 05:05:41 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 03 Nov 2022 05:05:41 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	id 1oqYyb-001BrL-Py
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Thu, 03 Nov 2022 05:05:41 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1oqYyb-001Bqr-9W@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1667477141-eximdsn-287270649
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1oqYyb-001BrL-Py@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 03 Nov 2022 05:05:41 -0700
+
+--1667477141-eximdsn-287270649
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 qYyboqMnBwRiJ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=AM9vU0Rf c=1 sm=1 tr=0 ts=6363ae95 p=uEQCjkqgAAAA:8 p=7QMtt-1JAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=9xFQ1JgjjksA:10 a=jytowVngwcoA:10 a=NC6w4VDIP3X-o9UmDfMA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=Ze_oAmffeHHe5k3n004V:22 a=nFFjNVGfoSlG1Vi7Lnti:22 ::
+    100.00
+
+--1667477141-eximdsn-287270649
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 qYyboqMnBwRiJ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=AM9vU0Rf c=1 sm=1 tr=0 ts=6363ae95 p=uEQCjkqgAAAA:8 p=7QMtt-1JAAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=9xFQ1JgjjksA:10 a=jytowVngwcoA:10 a=NC6w4VDIP3X-o9UmDfMA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=Ze_oAmffeHHe5k3n004V:22 a=nFFjNVGfoSlG1Vi7Lnti:22 :: 100.00
+
+--1667477141-eximdsn-287270649
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1oqYyb-001Bqr-9W
+	for servicioalcliente@serkoi.com; Thu, 03 Nov 2022 05:05:41 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 160.202.90.36
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 160.202.90.36
+From:
+Message-Id: <E1oqYyb-001Bqr-9W@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 03 Nov 2022 05:05:41 -0700
+
+De: Janell Kurtz. 
+Correo: . 
+Telefono: 67 183 25 92. 
+Mensaje: 
+
+The only way to really know is to look for the NSF Label on all your supplement products. If it does nt have the NSF label, just say no!
+
+
+What is an NSF facility / FDA Registered Facility and Why These are Important?
+
+
+Today, going to the store is not all about picking up what you need, paying for it, and heading back home. You have to research and check
+ the ingredients. Manufacturers are chasing sales and cutting losses by using highly processed ingredients, some of which might have adverse long-term effects.
+
+Most companies are FDA-approved. But for brands that take extra precautions and value the well-being and safety of their customers, 
+for instance fixing brand alignment issues, NSF certification is the gold standard. Only a handful of companies meet the requirements of NSF certification, and ours is one of them. 
+
+What is NSF? 
+
+The National Sanitation Foundation (NSF) is a third-party testing and validation foundation that has been in operation since 1944. The foundation has grown
+ in popularity among consumers and manufacturers because of its strict measures and dedication to improving global human health.
+
+While the FDA is highly regarded, the NSF is the GOLD STANDARD in terms of consumer safety. Its standards help to protect food, water, consumer 
+products, and the environment through testing, auditing, and certifying products and systems.
+
+What is an NSF Facility? 
+
+An NSF facility is any facility that has qualified and received NSF certification. In some cases, you might notice facilities that claim to have 
+goods “tested to NSF standards.” This is not the same or equal to having NSF certification. 
+
+To have NSF certification, the facility needs to; 
+
+Have their claims of reduced contaminants in their products and production lines verified and proven.
+Their systems must be tested to ensure they don’t add harmful products to the water or foods that they process or handle.
+The facility must have structurally sound systems that meet the stringent measures and requirements of the NSF.
+The advertising literature and labeling used in the products are verified and accurate.
+The materials and production processes are thoroughly tested to guarantee quality products over time.
+It is not enough that a brand claims to have products’ tested to NSF standards’; these claims have to be verified. Vava’s nutritional supplements are produced
+ in an NSF-certified facility meaning all the claims like being vegan-friendly, non-GMO, Cruelty-free, and organic are verified and validated. Our customers have 
+complete confidence in the value they get inside our supplement bottles. 
+
+How Do You Know If a Product and Facility is NSF Certified? 
+
+Simple! All NSF-certified products and facilities carry the NSF mark. The mark is a symbol of assurance the packaging claims are accurate and work as expected. 
+
+That means you no longer have to worry about going through the confusing ingredients list, or the misleading marketing literature. All you need to do is check for the NSF mark. 
+
+Why is it essential for consumers to check for NSF certification?
+
+With the rampant food safety outbreaks and recalls, taking care of your body and guaranteeing the hygiene and care used to make consumer products or foods is becoming harder. 
+
+Brands are becoming more deceptive in a bid to increase market share, and increasingly dangerous ingredients are finding their way into your foods.
+
+We understand that your health and overall well-being are your focal points. That’s why all our supplements and health support products are produced in an NSF-registered CGMP facility. Why is this important? 
+
+NSF-registered Facilities build trust
+ 
+Consumer trust is at an all-time low. More than half of the customers aren’t satisfied with the information available on product labels. 
+
+One of the ways brands can build trust with their customers is by including trusted certifications on their product packaging and labeling. 
+
+Being an independent public health organization, NSF is one of the most credible sources, and its blue symbol is recognized globally. 
+
+NSF Facilities are Health code compliant 
+
+Healthy living is more than the food you eat. It’s also about the appliances and products you use to prepare your food. Even though not everything in your kitchen needs to be NSF certified, NSF certified appliances meet and exceed the standards of quality and health set by local, state, and federal health codes. 
+
+For restaurateurs and other business operators that require frequent inspection, the NSF certification mark is a quick hint to inspectors of compliance and quality. 
+
+The NSF symbol represents consumer protection 
+
+The CDC estimates that over 48 million people contract foodborne illnesses annually. Up to 128,000 of those require medical attention in a hospital around 3,000 people die from such complications. 
+
+These are bone-chilling numbers. Poorly designed equipment is mainly to blame for the cross-contamination and endangering of millions of lives.
+
+The checks and balances done by the NSF are aimed to reduce the risk of contamination by ensuring food-grade equipment and food produce are handled in the proper environment using safety equipment. The NSF symbol only appears on foods and consumer products that pass these checks, meaning the chances of cross-contamination are lower.
+
+Accuracy: You get what’s on the label
+
+It’s common practice for brands to exaggerate what’s on offer. Consumers are up in arms, taking drastic measures to adopt healthier lifestyles. Brands take note of this and label their products accordingly. As you might have noticed, in most cases, the labeling is misleading.
+
+With consumer products that carry the NSF symbol, the claims on the labeling and packaging are verified and validated. If you buy bread with a label indicating “made with real carrots,” then the bread contains real carrots as an ingredient.
+
+The NSF mark symbolizes truth and transparency in the claims on the product label. 
+
+The Takeaway 
+
+Getting NSF certification is not easy. There is a ton of qualifications and standards that have to be met. In some states, it’s a requirement that specific equipment, especially those used in the restaurant business, be approved and certified by NSF International. There’s also a seven-step process that products must pass through to meet the NSF criteria. 
+
+Good health is your most valuable asset, and you should guard it jealously. That’s why we find it necessary to go through the stringent NSF measures to provide you with products that not only support your body in being the best it can be but also made from the best practices that are safe for the environment as well. 
+
+Sorry guys, nothing to sell you in this email. Just education. Hope You have a safe and happy hiliday season, and only buy supplements form NSF approved facilities.
+Many Of Our Customers Get great results when they add carb cycling to their routine. We have an entire course and ebook to help you shed more unwanted pounds.
+Check it out here.
+
+https://specialzap.com/carb-cycling-download-3406
+
+
+Opt out here
+https://redeyedeal.com/opt-out-2954
+. 
+
+
+--1667477141-eximdsn-287270649--

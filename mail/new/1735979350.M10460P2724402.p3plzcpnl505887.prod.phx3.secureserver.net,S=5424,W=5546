@@ -1,0 +1,122 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 0FuEO1XxeGcykikA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 04 Jan 2025 01:29:09 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 04 Jan 2025 01:29:10 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tTzWv-00Baw2-32
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 04 Jan 2025 01:29:09 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tTzWl-00BaYC-2y@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1735979349-eximdsn-749225024
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tTzWv-00Baw2-32@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 04 Jan 2025 01:29:09 -0700
+
+--1735979349-eximdsn-749225024
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 TzWvtUPywnSjh :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=F92tdrhN c=1 sm=1 tr=0 ts=6778f155 p=yzv3oAy7AAAA:8 p=HU6NkZZFFsJx_ICZcJwA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=6CUbmu8wzR5cHnZd1JIn:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1735979349-eximdsn-749225024
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 TzWvtUPywnSjh :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=F92tdrhN c=1 sm=1 tr=0 ts=6778f155 p=yzv3oAy7AAAA:8 p=HU6NkZZFFsJx_ICZcJwA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=6CUbmu8wzR5cHnZd1JIn:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1735979349-eximdsn-749225024
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tTzWl-00BaYC-2y
+	for servicioalcliente@serkoi.com;
+	Sat, 04 Jan 2025 01:29:09 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tTzWl-00BaYC-2y@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 04 Jan 2025 01:28:59 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Pam Bergeron. 
+Correo: . 
+Telefono: 40-45-47-18. 
+Mensaje: What if you can get access to a central point that controls all the AIs you can find online with just a keyword?
+
+So Instead of monthly expenses on different AI Chatbot, YOU CAN USE THEM ALL FOR FREE
+
+That's what you are getting with Neuro.
+
+>> Click here to access Neuro, the Only Universal AI App you will ever need: https://www.getprofitnow.info/neuro 
+
+Gone are the days, when you have to pay to access the most sufficient and productive premium version of any AI.
+
+I have created Neuro to interconnect any AI you ever think of using,  but don't have the funds or capacity for,
+
+All from a central point with just a keyword, you automate any tasks like;
+
+Create mind-blowing videos and photos
+Generate graphics, Logos and designs
+Generate content, voice-overs and podcast
+Develop chatbots, Apps and so much more
+
+The ability of Neuro is limitless - more valuable than any AI you have ever paid for.
+
+>> Click here to access Neuro, the Only Universal AI App you will ever need: https://www.getprofitnow.info/neuro 
+
+I can easily charge thousands of dollars for Neuro but you are getting Full access at just a ridiculously one-time low price.
+
+It’s simple to use
+It’s faster than your regular AI
+It comes with more improved features
+
+Which makes optimizing sales and profits easy for any business.
+
+But, here is the catch,
+
+Neuro is the World's first AI Vault to any AI you want to use which means we are not giving early-bird access to everyone,,.
+
+So you have to hurry so you get access to Neuro at a whopping discount before the price triples…
+
+>> Click here to access Neuro, the Only Universal AI App you will ever need: https://www.getprofitnow.info/neuro 
+
+Pam Bergeron
+
+
+UNSUBSCRIBE: https://www.getprofitnow.info/unsubscribe/?d=proditelsas.com 
+Address: 2484 Pin Oak Drive
+Pomona, CA 91766
+. 
+
+
+--1735979349-eximdsn-749225024--

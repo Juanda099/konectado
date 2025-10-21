@@ -1,0 +1,91 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id ULaqJt5gn2Vv5B0AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Wed, 10 Jan 2024 20:30:38 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Wed, 10 Jan 2024 20:30:38 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rNlmA-008EJu-1e
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Wed, 10 Jan 2024 20:30:38 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rNlm5-008EFa-32@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1704943838-eximdsn-1855872289
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rNlmA-008EJu-1e@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 10 Jan 2024 20:30:38 -0700
+
+--1704943838-eximdsn-1855872289
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 NlmTrqUlJoOjD :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Cs15MF0D c=1 sm=1 tr=0 ts=659f60f1 p=gOz0FXE6AAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=dEuoMetlWLkA:10 a=qA-CAsoCOZYQm-GJIy0A:9 a=ZN7RmrGZmEMA:10 a=07xw_mpMHrxy5DdLti2w:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1704943838-eximdsn-1855872289
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 NlmTrqUlJoOjD :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Cs15MF0D c=1 sm=1 tr=0 ts=659f60f1 p=gOz0FXE6AAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=dEuoMetlWLkA:10 a=qA-CAsoCOZYQm-GJIy0A:9 a=ZN7RmrGZmEMA:10 a=07xw_mpMHrxy5DdLti2w:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1704943838-eximdsn-1855872289
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rNlm5-008EFa-32
+	for servicioalcliente@serkoi.com;
+	Wed, 10 Jan 2024 20:30:38 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.245.113.88
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.245.113.88
+From:
+Message-Id: <E1rNlm5-008EFa-32@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 10 Jan 2024 20:30:33 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Ravi Hansman. 
+Correo: . 
+Telefono: 0485 12 76 59. 
+Mensaje: Hi,
+My name is Ravi, owner of Webomaze Australia. You have finally found an SEO Company that GETS RESULTS. The proof is my 24,800+ reviews out of which 98.6% are 5-STAR REVIEWS.
+ I recently grew my client’s organic search traffi with high google search ranking  by 166% in 4 months. We’re an SEO Company with a difference.Our focus is Customer Delight.
+
+And we do everything to make it a great experience of working with us. We are in touch with you at every stage of the project. Even after we deliver the project, I will support you with any query you have. 
+
+
+Contact me today and get a FREE SEO AUDIT for your website
+
+Click here to start ====> http://tinyurl.com/yycmkjf6
+
+
+. 
+
+
+--1704943838-eximdsn-1855872289--

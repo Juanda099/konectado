@@ -1,0 +1,84 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id CKRiHgSMlmfZKwUA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 26 Jan 2025 12:24:52 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 26 Jan 2025 12:24:52 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tc8FY-001VR8-1S
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 26 Jan 2025 12:24:52 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tc8FN-001VPt-1Q@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1737919492-eximdsn-576242399
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tc8FY-001VR8-1S@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 26 Jan 2025 12:24:52 -0700
+
+--1737919492-eximdsn-576242399
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 c8FYtCLTBD9OF :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=C6YTyRP+ c=1 sm=1 tr=0 ts=67968c04 p=EOZKhwxRAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=O4-1GNWPbw57tU7h6gYA:9 a=3ZKOabzyN94A:10 a=Fc-C_ouLL-8A:10 a=IawXvI9lP1MA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1737919492-eximdsn-576242399
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 c8FYtCLTBD9OF :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=C6YTyRP+ c=1 sm=1 tr=0 ts=67968c04 p=EOZKhwxRAAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=O4-1GNWPbw57tU7h6gYA:9 a=3ZKOabzyN94A:10 a=Fc-C_ouLL-8A:10 a=IawXvI9lP1MA:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1737919492-eximdsn-576242399
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tc8FN-001VPt-1Q
+	for servicioalcliente@serkoi.com;
+	Sun, 26 Jan 2025 12:24:52 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tc8FN-001VPt-1Q@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 26 Jan 2025 12:24:41 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Emelia Neumann. 
+Correo: . 
+Telefono: 4251582109. 
+Mensaje: World’s First AI Studio That Generates Legal “DeepFake” Videos of Anyone You Like with a Simple Click…
+
+Anything You Want, In Any Language You Want With Human-Like Emotions & Movements…
+
+Turn Any Celebrity, Character, Or Personal Picture Into Realistic Talking, & Singing Videos With Any Voice Clone You Like!!!
+
+Learn More: https://bit.ly/WPRevio
+. 
+
+
+--1737919492-eximdsn-576242399--

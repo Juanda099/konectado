@@ -1,0 +1,59 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id oKatGmaymGN4TT8AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 13 Dec 2022 10:12:06 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 13 Dec 2022 10:12:06 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1p58p4-00HPEo-AA
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 13 Dec 2022 10:12:06 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1p58ow-00HOgm-Gb@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1p58p4-00HPEo-AA@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 13 Dec 2022 10:12:06 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1p58ow-00HOgm-Gb
+	for servicioalcliente@serkoi.com;
+	Tue, 13 Dec 2022 10:11:58 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 102.129.143.30
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 102.129.143.30
+From:
+Message-Id: <E1p58ow-00HOgm-Gb@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 13 Dec 2022 10:11:58 -0700
+
+De: Sabrina Salemi. 
+Correo: . 
+Telefono: 88264525777. 
+Mensaje: Ciao, 
+Sono Sabrina Salemi,  consulente  https://followerimmediati.it  , Azienda Italiana che si occupa di aumento di Followers Instagram. 
+Vogliamo proporti il nostro servizio con lo SCONTO DEL 70%  ! 
+Basta andare su https://bit.ly/FollowerImmediatiPromo  e inserisci il codice promozionale “NATALE70” Per ottenere IMMEDIATAMENTE lo sconto del 70 % su qualsiasi acquisto! 
+Approfittane subito perché il codice sconto resterà valido solo per le prossime 24 ore. 
+-	Servizio Italiano 
+-	Consegna in pochi minuti 
+-	Profili permanenti 
+-	Garanzia di reintegro 
+-	Assistenza 7/7 
+Il nostro servizio è attualmente il più utilizzato in Italia e vincitore del best site in 2022 grazie a ben 980 recensioni positive certificate nell'ultimo anno con una media di 4.9 su 5 . 
+Prova subito il nostro servizio! 
+Sabrina Salemi | Consulente https://followerimmediati.it. 
+

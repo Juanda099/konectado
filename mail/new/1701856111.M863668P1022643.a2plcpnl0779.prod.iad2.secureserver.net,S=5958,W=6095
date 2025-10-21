@@ -1,0 +1,137 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id mO4nM29DcGWzmg8AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Wed, 06 Dec 2023 02:48:31 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Wed, 06 Dec 2023 02:48:31 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rAoW7-004I9B-2N
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Wed, 06 Dec 2023 02:48:31 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rAoW2-004I5F-1D@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1701856111-eximdsn-1428880407
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rAoW7-004I9B-2N@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 06 Dec 2023 02:48:31 -0700
+
+--1701856111-eximdsn-1428880407
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 AoW7rc5nvUs7h :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=d6wzizvE c=1 sm=1 tr=0 ts=6570436f p=DuN_re4gAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=e2cXIFwxEfEA:10 a=lB66oY2f_mfrHU_8VosA:9 a=1Tp3AloMEtfO8Tdjt5aZ:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1701856111-eximdsn-1428880407
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 AoW7rc5nvUs7h :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=d6wzizvE c=1 sm=1 tr=0 ts=6570436f p=DuN_re4gAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=e2cXIFwxEfEA:10 a=lB66oY2f_mfrHU_8VosA:9 a=1Tp3AloMEtfO8Tdjt5aZ:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1701856111-eximdsn-1428880407
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rAoW2-004I5F-1D
+	for servicioalcliente@serkoi.com;
+	Wed, 06 Dec 2023 02:48:31 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.106.26.140
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.106.26.140
+From:
+Message-Id: <E1rAoW2-004I5F-1D@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Wed, 06 Dec 2023 02:48:26 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Oscar Willson. 
+Correo: . 
+Telefono: 0321 6496771. 
+Mensaje: AI is here to change the world, and people are going crazy over it
+
+So the question is, would you like a piece of that pie?
+
+BrainBox - The World’s First AI App Let You Launch Your Own “ChatGPT-like” AI Chatbot with 50 stunning AI features
+
+You can even customize this AI Chatbot with your own domain, branding and style and charge people for using it.
+
+Forget paying huge fees for Content Writers, Programmers, Designers, Translators, Video Editors, SEO Experts, Customer Support, etc
+
+BrainBox handles all of that for you 100% 
+
+>> Click Here To See The Live Demo & Get Full Access Before Price Increases
+=> https://bit.ly/BrainBoxBlackFriday
+
+To get access to BrainBox you need just 4 easy steps away 
+
+Step1: Login to BrainBox Cloud-Based App ( super-easy to navigate dashboard)
+
+Step 2: Create- With Just One Click, Create Your Very Own ChatGPT-Like AI Chatbot( this takes just few minutes)
+
+Step 3: Now Launch- You’re Ready To Charge Millions Of Hungry Customers For Using Your Very Own AI Chatbot.
+
+Step 4: Start Getting Paid by your Customers and Clients 
+
+
+BrainBox comes with over 50 AI features that which includes ;
+
+Write engaging, high quality content for videos, blogs, scripts, emails, newsletters, ebooks literally anything
+
+Turn plain text into engaging, professional videos that attract thousands of free hits of traffic
+
+Generate the best AI designs that put 99% of graphic designers to shame, in just seconds
+
+Design salespages, sales funnels, fully functional blogs
+
+Proofread your writing without paying anything
+
+Translate your writing to over 50 different languages and profit
+
+That’s just a tiny fraction of all the features that BrainBox has to offer…
+
+
+Using BrainBox will give you full control and cut down your expenses on hiring freelancers that give you low service .
+
+>> Get Unlimited Access to BrainBox AI Technology 
+=> https://bit.ly/BrainBoxBlackFriday
+
+And to make this a no-brainer, the first 25 people will get full access to my 100 bonuses.
+
+(List your bonuses here).
+
+Hurry! Price is increasing every hour and my bonuses is time sensitive
+
+>> Click Here To Get Access: https://bit.ly/BrainBoxBlackFriday
+
+
+Cheers
+Oscar. 
+
+
+--1701856111-eximdsn-1428880407--

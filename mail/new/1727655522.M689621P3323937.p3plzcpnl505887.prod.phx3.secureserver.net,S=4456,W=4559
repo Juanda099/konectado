@@ -1,0 +1,103 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id uBsxKGLu+WYhuDIA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 29 Sep 2024 17:18:42 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 29 Sep 2024 17:18:42 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sv47e-00Dy2M-1w
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 29 Sep 2024 17:18:42 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sv47U-00Dxw8-03@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1727655522-eximdsn-1802401717
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sv47e-00Dy2M-1w@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 29 Sep 2024 17:18:42 -0700
+
+--1727655522-eximdsn-1802401717
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 v47esp0zdqxYJ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=bqmHB1ai c=1 sm=1 tr=0 ts=66f9ee62 p=-_JKTdaZAAAA:8 p=b9cH_EvyC2sLk9YbBh8A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=ZgFmqT6sAAAA:8 a=3ZKOabzyN94A:10 a=ZXulRonScM0A:10 a=2SFUbj-FeQC5eUpL4JZO:22 a=lYmuSB4b2inRpV2PzFv1:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1727655522-eximdsn-1802401717
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 v47esp0zdqxYJ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=bqmHB1ai c=1 sm=1 tr=0 ts=66f9ee62 p=-_JKTdaZAAAA:8 p=b9cH_EvyC2sLk9YbBh8A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=EaEq8P2WXUwA:10 a=ZgFmqT6sAAAA:8 a=3ZKOabzyN94A:10 a=ZXulRonScM0A:10 a=2SFUbj-FeQC5eUpL4JZO:22 a=lYmuSB4b2inRpV2PzFv1:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1727655522-eximdsn-1802401717
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sv47U-00Dxw8-03
+	for servicioalcliente@serkoi.com;
+	Sun, 29 Sep 2024 17:18:42 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 45.67.178.184
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 45.67.178.184
+From:
+Message-Id: <E1sv47U-00Dxw8-03@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 29 Sep 2024 17:18:32 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Felica Ragland. 
+Correo: . 
+Telefono: 212080503. 
+Mensaje:  Hi There....
+
+OK, so the reason I reached out is because we are looking for partners that have cold lead lists.
+
+We have a database reactivation software that “Wakes Up” your cold leads the sales team has given up on.
+
+The requested callback on the case study was a whopping 20%. 
+
+We have a case study below to show you how this all works. 
+
+https://vimeo.com/998726542
+
+The case study is in the debt consolidation but this can work in any industry or niche. Real estate, banking, Life insurence, roofing, etc. 
+
+If your interested implementing this in your business, please reach out to me. 
+
+
+Scott Riefler
+
++66800528082
+sales@pskdevelopment.com
+
+
+
+. 
+
+
+--1727655522-eximdsn-1802401717--

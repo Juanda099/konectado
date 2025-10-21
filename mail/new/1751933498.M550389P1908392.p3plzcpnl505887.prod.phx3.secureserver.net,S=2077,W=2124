@@ -1,0 +1,47 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id gC+HHjpibGioHh0A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 07 Jul 2025 17:11:38 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 07 Jul 2025 17:11:38 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uYvvu-00000008D12-1iLB
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 07 Jul 2025 17:11:38 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uYvvh-00000008Ce9-0lhr@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uYvvu-00000008D12-1iLB@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 07 Jul 2025 17:11:38 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uYvvh-00000008Ce9-0lhr
+	for servicioalcliente@serkoi.com;
+	Mon, 07 Jul 2025 17:11:25 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uYvvh-00000008Ce9-0lhr@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 07 Jul 2025 17:11:25 -0700
+
+De: Eva Laurens. 
+Correo: . 
+Telefono: 3618051664. 
+Mensaje: Not seeing enough website leads? Our AI service drives targeted traffic to boost your results. Test it free for 7 days.
+
+https://cutt.ly/5rT4ctlL. 
+

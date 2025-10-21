@@ -1,0 +1,159 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id IFLIJKk+9WcuCj0A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 08 Apr 2025 08:20:09 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 08 Apr 2025 08:20:09 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1u2AkD-00HW2z-1f
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 08 Apr 2025 08:20:09 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1u2Ajv-00HVZP-2j@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1744125609-eximdsn-81391478
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1u2AkD-00HW2z-1f@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 08 Apr 2025 08:20:09 -0700
+
+--1744125609-eximdsn-81391478
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 2AkDu4pKk4IxV :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=CMPQXQrD c=1 sm=1 tr=0 ts=67f53ea9 p=raQOZLGPpANwyXGcQb8A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=CvkoyNBKAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=4j8oHe2iTLcA:10 a=Z0n-gXxEXAsA:10 a=yqxBCVLG7cQCub8Sv58b:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    98.00
+
+--1744125609-eximdsn-81391478
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 2AkDu4pKk4IxV :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=CMPQXQrD c=1 sm=1 tr=0 ts=67f53ea9 p=raQOZLGPpANwyXGcQb8A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=XR8D0OoHHMoA:10 a=CvkoyNBKAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=4j8oHe2iTLcA:10 a=Z0n-gXxEXAsA:10 a=yqxBCVLG7cQCub8Sv58b:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 98.00
+
+--1744125609-eximdsn-81391478
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1u2Ajv-00HVZP-2j
+	for servicioalcliente@serkoi.com;
+	Tue, 08 Apr 2025 08:20:09 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1u2Ajv-00HVZP-2j@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 08 Apr 2025 08:19:51 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Jayrn Marques. 
+Correo: . 
+Telefono: 92215292. 
+Mensaje: 
+Dan Kennedy often uses a simple analogy to illustrate a common marketing mistake:
+
+Imagine walking into a store and being swarmed by a salesperson who starts pitching everything they sell—refrigerators, running shoes, blenders—without once asking what you’re actually looking for. It’s frustrating, ineffective… and exactly what most businesses do in their marketing.
+
+Instead of speaking directly to prospects’ specific needs or concerns, most businesses blast the same generic message to everyone. And according to Dan, that’s a surefire way to water down your impact—and your profits.
+
+He points to Weight Watchers as a prime example.
+
+They serve two distinct types of customers:
+
+Health Buyers – motivated by medical reasons, like a doctor’s orders or an upcoming surgery.
+
+Event-Driven Buyers – focused on short-term goals, like fitting into a dress for a wedding or looking good for a vacation.
+
+These two audiences have completely different motivations. One wants to avoid a health crisis. The other wants to feel confident on the beach. But for years, Weight Watchers hesitated to segment their leads and tailor their message accordingly—despite the fact that segmentation could’ve easily doubled their effectiveness.
+
+And this issue isn’t limited to weight loss companies.
+
+At Magnetic Marketing, Dan Kennedy and his team have identified seven distinct interest categories among their audience—from wealth attraction to direct marketing and beyond. If they tried to send one message to all seven groups, they’d fail to deeply connect with any of them.
+
+Dan compares this to politics: voters often care about one primary issue. Your leads are no different. Some are driven by fear. Others by ambition. And others by a very specific short-term goal.
+
+Consider three different prospects in the finance space:
+
+One fears running out of money in retirement.
+
+Another wants to protect wealth for their grandchildren.
+
+A third wants to maximize investment returns.
+
+A single message trying to appeal to all three ends up resonating with none of them.
+
+That’s why segmentation is so powerful—and profitable.
+
+By tailoring messages to meet prospects where they are mentally and emotionally, businesses instantly build trust, create relevance, and position themselves as the only solution that truly gets the customer.
+
+Dan outlines a simple framework for doing this:
+
+1.Use a Self-Select Mechanism
+Ask your audience questions like:
+“Are you looking to grow your wealth?”
+“Do you want to protect your assets for your family?”
+
+2.Tailor the Follow-Up
+Once they identify their concern, follow up with stories, testimonials, and offers that directly address it.
+
+3.Watch Response Rates Soar
+A personalized message turns cold leads into warm conversations—and buyers.
+
+Dan stresses this strategy works in every industry. He’s seen it boost performance in colleges, financial firms, info-product businesses, and even local service providers.
+
+Take colleges, for example. A dad wants to know his kid will get a job after graduation. A mom wants safety and solid food options. The student just wants to know they’ll make friends. Smart schools speak directly to each one—and enrollment improves dramatically.
+
+If segmentation sounds like a mystery to you, Dan lays it all out in plain English in The No B.S. Guide to Direct Marketing. In it, he reveals:
+
+The art of message-to-market match—how to say the right thing to the right people.
+
+How to build self-select mechanisms that get prospects to reveal what they want—without a survey.
+
+His exact process for creating segmented campaigns that maximize every dollar spent.
+
+������ Click Here to Claim Your FREE Copy of The No B.S. Guide to Direct Marketing + $6,193 in Exclusive Bonuses:
+
+https://marketersmentor.com/direct-marketing-book.php?refer=proditelsas.com&real=yes
+
+Dan Kennedy has watched businesses transform overnight simply by getting smarter with how they segment and speak to their audience.
+
+Don’t waste another marketing dollar talking to everyone. Start speaking to someone—the right someone—and watch your results soar.
+
+Dedicated to Multiplying Your Income,
+
+Hanna
+
+P.S. Dan always reminds his clients:
+Whoever can spend the most to acquire a customer—wins.Segmentation helps you do just that… profitably.
+
+
+Unsubscribe: 
+https://marketersmentor.com/unsubscribe.php?d=proditelsas.com&real=yes
+
+
+. 
+
+
+--1744125609-eximdsn-81391478--

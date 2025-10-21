@@ -1,0 +1,88 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id SEcXJ7ll/mLInDkAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 18 Aug 2022 09:15:53 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 18 Aug 2022 09:15:53 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	id 1oOiBV-00Fqm7-HW
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net; Thu, 18 Aug 2022 09:15:53 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1oOiBV-00FqlO-4Z@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1660839353-eximdsn-390920491
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1oOiBV-00Fqm7-HW@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 18 Aug 2022 09:15:53 -0700
+
+--1660839353-eximdsn-390920491
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 OiBVoFbHM1sq2 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=N//sq0xB c=1 sm=1 tr=0 ts=62fe65b9 p=IXmzN_e7AAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=biHskzXt2R4A:10 a=RL1NCUja4JUA:10 a=7CftiHBVAAAA:8 a=smrCSdiaAAAA:8 a=_9LF8D_1WHZXzJiti6cA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=t1dNmk-xG0nbx_8LPsm8:22 a=QQsY0-BbfcTs3coEhrA6:22 a=M9ZHoLuYIHMl9pbmgCZa:22 ::
+    100.00
+
+--1660839353-eximdsn-390920491
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 OiBVoFbHM1sq2 :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=N//sq0xB c=1 sm=1 tr=0 ts=62fe65b9 p=IXmzN_e7AAAA:8 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=biHskzXt2R4A:10 a=RL1NCUja4JUA:10 a=7CftiHBVAAAA:8 a=smrCSdiaAAAA:8 a=_9LF8D_1WHZXzJiti6cA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=t1dNmk-xG0nbx_8LPsm8:22 a=QQsY0-BbfcTs3coEhrA6:22 a=M9ZHoLuYIHMl9pbmgCZa:22 :: 100.00
+
+--1660839353-eximdsn-390920491
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.94.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1oOiBV-00FqlO-4Z
+	for servicioalcliente@serkoi.com; Thu, 18 Aug 2022 09:15:53 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 173.232.124.174
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 173.232.124.174
+From:
+Message-Id: <E1oOiBV-00FqlO-4Z@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 18 Aug 2022 09:15:53 -0700
+
+De: Josh Towner. 
+Correo: . 
+Telefono: 480-123-4567. 
+Mensaje: Hello Business Owner,
+
+ I am the Automation Dad, also a business owner and I am a referral partner for Luminous Payments. Do you mind taking a few minutes to learn about how you can save money on credit card processing!
+
+I wouldn't be filling out this contact form unless I thought this was legit and worth your time.
+
+If you can't save money, Luminous will pay you a $1000.00. I am sure you get a lot of requests like this, but I believe this will be worth your time! 
+
+Please click here to learn more: https://automationdad.com/luminouspayments
+
+Thank you for your time!
+
+Automation Dad
+
+You can opt of of future mesages by forwarding this message to optout@automationad.com and I will remove the following domain from future messages proditelsas.com. 
+
+
+--1660839353-eximdsn-390920491--

@@ -1,0 +1,58 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id EWRgJU7lO2RXxT0AoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sun, 16 Apr 2023 05:08:46 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sun, 16 Apr 2023 05:08:46 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1po1BW-00Gz7g-FV
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sun, 16 Apr 2023 05:08:46 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1po1BR-00Gz5z-MY@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1po1BW-00Gz7g-FV@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 16 Apr 2023 05:08:46 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1po1BR-00Gz5z-MY
+	for servicioalcliente@serkoi.com;
+	Sun, 16 Apr 2023 05:08:41 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 156.146.54.85
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 156.146.54.85
+From:
+Message-Id: <E1po1BR-00Gz5z-MY@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 16 Apr 2023 05:08:41 -0700
+
+De: Florine. 
+Correo: . 
+Telefono: 070 8350 3839. 
+Mensaje: Hi,
+
+Do you ever worry about your belongings when you travel? I know I do.  Our Sling Bags are drop-proof, anti-theft, scratch-resistant, and come with a USB charging port. They're perfect for keeping your belongings safe when you're on the go.
+
+I think these would make an excellent addition to your travel gear. I'm confident you'll love them as much as I do.
+
+50% OFF for the next 24 Hours ONLY + FREE Worldwide Shipping for a LIMITED time
+
+Buy now: https://fashiondaily.shop
+
+Best Wishes, 
+Florine. 
+

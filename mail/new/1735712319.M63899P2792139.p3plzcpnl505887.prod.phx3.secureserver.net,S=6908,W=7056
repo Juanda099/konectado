@@ -1,0 +1,148 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id ePYVAz/edGfLmioA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 31 Dec 2024 23:18:39 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 31 Dec 2024 23:18:39 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tSs3y-00C0jp-37
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 31 Dec 2024 23:18:39 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tSs3o-00C0UM-1j@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1735712318-eximdsn-1802866608
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tSs3y-00C0jp-37@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 31 Dec 2024 23:18:38 -0700
+
+--1735712318-eximdsn-1802866608
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Ss3ytdWxTJdTK :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=RrI/LDmK c=1 sm=1 tr=0 ts=6774de3e p=wiI189ihFd8BIPb71W4A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=RZcAm9yDv7YA:10 a=FZe4IdtlAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=IDExwFCc2qN6fL7Blqvf:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    96.00
+
+--1735712318-eximdsn-1802866608
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Ss3ytdWxTJdTK :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=RrI/LDmK c=1 sm=1 tr=0 ts=6774de3e p=wiI189ihFd8BIPb71W4A:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=RZcAm9yDv7YA:10 a=FZe4IdtlAAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=IDExwFCc2qN6fL7Blqvf:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 96.00
+
+--1735712318-eximdsn-1802866608
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tSs3o-00C0UM-1j
+	for servicioalcliente@serkoi.com;
+	Tue, 31 Dec 2024 23:18:38 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tSs3o-00C0UM-1j@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 31 Dec 2024 23:18:28 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Peter Beattie. 
+Correo: . 
+Telefono: 0314 6445398. 
+Mensaje: 
+A few months ago I was involved in a serious mountain bike crash that left me with…
+
+A concussion…
+
+Multiple broken bones, AND…
+
+Just ONE working arm!
+
+Needless to say, I was TERRIFIED, and didn’t know how I could continue running my marketing agency through all of this.
+
+������Then, I got a CRAZY idea…
+
+“What IF I could clone myself into an AI bot that was trained on the most valuable money making skill I spent YEARS learning the hard way…
+
+…that allowed me to go from BROKE & JOBLESS to literally making MILLIONS from my coffee table and ripping around in a $200k Lamborghini: https://www.goldtip.shop/petebot  
+
+…and then get that AI clone to make money FOR ME at the push of a few buttons, while I sit on the couch recovering from my injuries?”
+
+Yea, I know lol that sounds kinda crazy but hey…it’s 2024, and crazy stuff like this is now possible with AI!
+
+So, long story short, I created “PeteBot.ai”, a self-operating AI clone of myself, to run my marketing agency, FOR ME  : https://www.goldtip.shop/petebot 
+
+PeteBot.ai helps bring me an endless stream of new high paying local business clients, THEN…
+
+He delivers a much needed service to those clients IN SECONDS…
+
+Which usually results in tens - sometimes hundreds - of thousands of dollars in sales in just a few days.     ������
+
+Local businesses are happily paying me between $1,000 - $18,340.09 for this service, BUT…
+
+They don’t know PeteBot.    ai is doing all the work, as I sit back and watch behind the scenes.
+
+Thanks to PeteBot.    ai, I now only focus on my agency for less than 10 mins per day but I can still pull in 1k+ per day in the process…
+
+…even with just ONE working arm!
+
+I call this new business “The 10 Min Copybot Workday”, and I’m revealing ALL today
+
+CLICK HERE TO GRAB PETEBOT: https://www.goldtip.shop/petebot 
+
+More specifically, I’ll be showing you 5 things:
+
+How PeteBot.    ai can help you win your first Copybot Project that pays at least 1k without selling anything to anyone - as soon as the day AFTER the training.
+
+(I’ve won Copybot Projects worth 100k+ but you gotta start somewhere)
+
+How to get PeteBot.    ai to do all the work and deliver results to the client for you - in less than 5 minutes.
+
+(just give PeteBot.    ai the website of the business and he does the rest)
+
+How to SCALE your new “AI Copybot Agency” to as little as 1k per month all the way up to 6 figure months.
+
+How to SELL your new “AI Copybot Agency” to an investor or bigger brand for a 5, 6 or even 7 figure lump sum after operating it for a year or so (optional retirement money).
+
+PLUS!     How to be an absolute dumbass with money, yet still make as much as you want - whenever you need it.     WITHOUT…
+
+[X] a website, [X] a product, [X] a list/audience, [X] learning how to sell, [X] technical skills, [X] business skills [X] paid ads, [X] showing your face on video, [X] or posting on social media pretending to be a guru.
+
+CLICK HERE TO GRAB PETEBOT: https://www.goldtip.shop/petebot 
+
+Don’t miss out!
+
+CLICK HERE TO GRAB PETEBOT: https://www.goldtip.shop/petebot 
+
+See you there,
+
+Peter Beattie (and “PeteBot.ai”)
+
+UNSUBSCRIBE: https://www.goldtip.shop/unsubscribe/?d=proditelsas.com   
+Address: 3425 May Street
+Lexington, KY 40505. 
+
+
+--1735712318-eximdsn-1802866608--

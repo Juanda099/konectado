@@ -1,0 +1,45 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id MAc1FuYBP2jj9hAA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 03 Jun 2025 07:08:38 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 03 Jun 2025 07:08:38 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.1)
+	id 1uMSJi-00000004h1k-1AJX
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 03 Jun 2025 07:08:38 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uMSJh-00000004h1U-0t3Z@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uMSJi-00000004h1k-1AJX@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 03 Jun 2025 07:08:38 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.1)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uMSJh-00000004h1U-0t3Z
+	for servicioalcliente@serkoi.com;
+	Tue, 03 Jun 2025 07:08:37 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1uMSJh-00000004h1U-0t3Z@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 03 Jun 2025 07:08:37 -0700
+
+De: Angelia Bouton. 
+Correo: . 
+Telefono: 498349378. 
+Mensaje: Struggling to get targeted leads to your Proditelsas website? Watch this: https://www.youtube.com/watch?v=0vQRdhaE2j8. 
+

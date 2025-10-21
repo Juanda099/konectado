@@ -1,0 +1,215 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id ErM/Dp+ftWWItxYAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 27 Jan 2024 17:28:15 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 27 Jan 2024 17:28:15 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rTt1z-006FIP-0R
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sat, 27 Jan 2024 17:28:15 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rTt1t-006FGr-0x@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1706401695-eximdsn-2065880648
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rTt1z-006FIP-0R@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 27 Jan 2024 17:28:15 -0700
+
+--1706401695-eximdsn-2065880648
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Tt1xr1mjoF3fr :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=ZIZ0mm7b c=1 sm=1 tr=0 ts=65b59f9e p=my4DXnYi52IqnSGA09kA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=dEuoMetlWLkA:10 a=smrCSdiaAAAA:8 a=9ACL3RQLAAAA:20 a=pGLkceISAAAA:8 a=tASNy3IFurnQAEudaIJd:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1706401695-eximdsn-2065880648
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Tt1xr1mjoF3fr :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=ZIZ0mm7b c=1 sm=1 tr=0 ts=65b59f9e p=my4DXnYi52IqnSGA09kA:9 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=dEuoMetlWLkA:10 a=smrCSdiaAAAA:8 a=9ACL3RQLAAAA:20 a=pGLkceISAAAA:8 a=tASNy3IFurnQAEudaIJd:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1706401695-eximdsn-2065880648
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rTt1t-006FGr-0x
+	for servicioalcliente@serkoi.com;
+	Sat, 27 Jan 2024 17:28:14 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.241.168.161
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.241.168.161
+From:
+Message-Id: <E1rTt1t-006FGr-0x@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 27 Jan 2024 17:28:09 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: David Quillson. 
+Correo: . 
+Telefono: (03) 9735 9041. 
+Mensaje: proditelsas.com, “Tell” THIS to Chat-GPT... For $440 Days
+
+You're just one "copy-and-paste"...
+
+From being a $1,000/hour software engineer - with Chat-GPT.
+
+That way you can make APPS like a Silicon valley nerd…
+
+While getting paid like a Wall Street banker!
+
+It’s all because of a weird “app-building” AI this guy just released.
+
+See the DEMO here:
+
+⇒ bit.ly/InfiniteAIApps
+
+
+
+See, I already knew that this guy Chris made $100K so far this year.
+
+And I knew he made that money selling apps.
+
+But… Chris is an expert builder of tools.
+
+So.. I just assumed he hired a $10k developer.
+
+But.. actually Chris has been harboring a SECRET.
+
+It turns out he no longer hires developers.
+
+Instead, he uses a CUSTOM Chat-Gpt “App Builder”.
+
+A NEW “AI ALIEN TECH” that BUILDS his apps for him!
+
+
+
+It’s bizarre and actually very simple:
+
+1. Enter the name of your app
+2. Enter a few settings
+3. Deploy your app (no hosting required).
+
+I wouldn’t have believed it myself, but…
+
+On THIS page Chris shows REAL proof of FOUR apps he built this way.
+
+==> bit.ly/InfiniteAIApps
+
+
+
+And get this.. They made him over $100k!
+
+So.. want to join him? Then good news…
+
+All you need to do, is open the software..
+
+Either choose one of the pre-made app templates…
+
+Or build your own UNIQUE, 100% CUSTOM AND NEW APP - from scratch.
+
+
+
+Click ONCE to run the CUSTOM app-building AI…
+
+And your brand new cloud-based app is complete!
+
+Then, you could be making commissions, every day of 2023!
+
+Just like the ClickBank super affiliate who built this...
+
+He's been making HUNDREDS OF THOUSANDS with this in 2023.
+
+See how he did it, with this method here:
+
+==> bit.ly/InfiniteAIApps
+
+
+
+Today this new app opens to the public...
+
+So YOU can do this from your browser…
+
+Without writing a single thing, or needing any techie skills whatsoever!
+
+All you need is the AI.. the desire to become an AI software owner…
+
+And this very strange new "Done For You" addon for Chat-GPT
+
+(that way you can run your OWN custom commission-getting AI model in your browser)
+
+So… are you in?
+
+OK, great...
+
+Click here now
+
+==>   bit.ly/InfiniteAIApps
+
+But do it RIGHT NOW, as the price increases in the next minutes (and every hour after that)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+149 N West Ave, Jackson, MI 49205
+
+To Avoid Future Marketing, Messege your domain name to Here: 
+fullwebsiteaudit@gmail.com 
+
+. 
+
+
+--1706401695-eximdsn-2065880648--

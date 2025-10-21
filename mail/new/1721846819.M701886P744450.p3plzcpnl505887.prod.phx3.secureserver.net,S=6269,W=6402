@@ -1,0 +1,133 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id MDp8KCNMoWYCXAsA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 24 Jul 2024 11:46:59 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 24 Jul 2024 11:46:59 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sWh0t-0038Qg-20
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 24 Jul 2024 11:46:59 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sWh0g-0038O0-2W@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1721846819-eximdsn-840622890
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sWh0t-0038Qg-20@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 24 Jul 2024 11:46:59 -0700
+
+--1721846819-eximdsn-840622890
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Wh0ts4UhKrjNY :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=K+jpHDWI c=1 sm=1 tr=0 ts=66a14c23 p=uSsajUsOAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=4kmOji7k6h8A:10 a=smrCSdiaAAAA:8 a=fdIvoWzzn5dvuSGrj4gA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=qRr0y8YYIUhREU6QHW-r:22 a=Jf6AfXr-RaiJE0ysf_LX:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1721846819-eximdsn-840622890
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Wh0ts4UhKrjNY :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=K+jpHDWI c=1 sm=1 tr=0 ts=66a14c23 p=uSsajUsOAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=4kmOji7k6h8A:10 a=smrCSdiaAAAA:8 a=fdIvoWzzn5dvuSGrj4gA:9 a=3ZKOabzyN94A:10 a=-FEs8UIgK8oA:10 a=qRr0y8YYIUhREU6QHW-r:22 a=Jf6AfXr-RaiJE0ysf_LX:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1721846819-eximdsn-840622890
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sWh0g-0038O0-2W
+	for servicioalcliente@serkoi.com;
+	Wed, 24 Jul 2024 11:46:59 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 104.168.169.194
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 104.168.169.194
+From:
+Message-Id: <E1sWh0g-0038O0-2W@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 24 Jul 2024 11:46:46 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Michael Cloer. 
+Correo: . 
+Telefono: 06-87048352. 
+Mensaje: Hi,
+Are you ready to transform your business with cutting-edge technology?
+
+We’re thrilled to introduce the revolutionary AI app called:
+
+AI Rider: Inspired by Elon Musk’s latest AI tech, “Optimus.”  This 2024 breakthrough creates fully automated online cab booking platforms like “Uber & Lyft” in just 60 seconds flat!
+
+And that’s not all…
+
+Here’s where it gets even better…
+
+Our app includes a built-in automatic ride finder, enabling you to secure unlimited daily cab rides and rentals while earning $10,000 to $20,000 per day on complete autopilot.
+
+>> Click To Launch Your Uber-Like Platform NOW: https://www.solveques.xyz/airider !
+
+Key Features:
+
+✅ Create Cab-Booking Websites & Apps in less than 60 seconds – no writing or coding needed!
+✅ Launch Android & iOS Apps instantly on Google Play & AppStore.
+✅ Automatic Ride Finder for unlimited daily rides & rentals.
+✅ GPS & Google Maps Integration for live location tracking.
+✅ Instant Pick-up & Drop Location feature for easy rides.
+✅ Multiple Vehicle Options like sedans, SUVs, and hatchbacks.
+✅ 1-Click Payment Integration for seamless transactions.
+✅ Driver Review & Rating to choose the best drivers.
+✅ In-App LIVE Chat & Call for instant communication.
+✅ Drag-N-Drop Editor to customize your sites & apps easily.
+✅ Built-In Security against hackers and malware.
+✅ Ultra-Fast Servers with 100% uptime guarantee.
+✅ Analytics Tool to track performance.
+
+This is more than just an app;  it's a massive life-changing opportunity!
+
+>> Watch The DEMO Video: https://www.solveques.xyz/airider 
+
+Special $4 Off Coupon- ‘CAB04’ (Expires In An Hour Time)
+
+According to the latest Global Vehicle Traffic Monitoring research, approximately 5.2 billion people worldwide are carless due to rising car prices and challenges like parking costs and safety.
+
+As a result, online cab booking services like Uber and Lyft are in high demand, and the industry is exploding in growth.
+
+Don’t miss out on this incredible opportunity to revolutionize your business and achieve unprecedented success!
+
+Ready to get started?
+
+>> Click [here] to learn more and take the first step towards transforming your business with our AI-powered cab booking platform: https://www.solveques.xyz/airider .
+
+ 
+Michael Cloer
+
+
+
+UNSUBSCRIBE: https://www.solveques.xyz/unsubscribe/?d=proditelsas.com   
+Address: 3065 Elk Rd Little
+Tucson, AZ 85714. 
+
+
+--1721846819-eximdsn-840622890--

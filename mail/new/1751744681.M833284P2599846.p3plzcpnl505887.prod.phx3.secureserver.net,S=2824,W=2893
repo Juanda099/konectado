@@ -1,0 +1,69 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 4KP/MKmAaWimqycA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 05 Jul 2025 12:44:41 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 05 Jul 2025 12:44:41 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	id 1uY8oT-0000000B6l0-3BaS
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 05 Jul 2025 12:44:41 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1uY8oK-0000000B6bw-0RmG@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1uY8oT-0000000B6l0-3BaS@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 05 Jul 2025 12:44:41 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.98.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1uY8oK-0000000B6bw-0RmG
+	for servicioalcliente@serkoi.com;
+	Sat, 05 Jul 2025 12:44:32 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:mike@monkeydigital.co
+Message-Id: <E1uY8oK-0000000B6bw-0RmG@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 05 Jul 2025 12:44:32 -0700
+
+De: Mike Alexander Van Dijk
+. 
+Correo: mike@monkeydigital.co. 
+Telefono: 85337577331. 
+Mensaje: Hello, 
+ 
+This is Mike from Monkey Digital, 
+I am contacting you to discuss a mutual collaboration. 
+ 
+How would you like to place our promotions on your platform and connect via your custom referral link towards high-demand SEO solutions from our business? 
+ 
+This way, you make a recurring 35% commission, month after month from any sales that come in from your website. 
+ 
+Think about it, everyone need SEO, so this is a huge opportunity. 
+ 
+We already have over 12,000 affiliates and our commissions are paid out monthly. 
+Last month, we reached over $27,000 in commissions to our affiliates. 
+ 
+If interested, kindly message us here: 
+https://monkeydigital.co/affiliates-whatsapp/ 
+ 
+Or join us today: 
+https://www.monkeydigital.co/join-our-affiliate-program/ 
+ 
+Cheers, 
+Mike Alexander Van Dijk
+ 
+Phone/whatsapp: +1 (775) 314-7914. 
+

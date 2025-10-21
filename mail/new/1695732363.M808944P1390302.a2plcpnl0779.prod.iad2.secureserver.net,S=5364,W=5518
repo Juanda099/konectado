@@ -1,0 +1,154 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id qPKzLovSEmXeNhUAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Tue, 26 Sep 2023 05:46:03 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Tue, 26 Sep 2023 05:46:03 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1ql7Rz-005qqE-Lx
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Tue, 26 Sep 2023 05:46:03 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1ql7Rv-005qVe-3b@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1695732363-eximdsn-132572070
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ql7Rz-005qqE-Lx@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 26 Sep 2023 05:46:03 -0700
+
+--1695732363-eximdsn-132572070
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 l7Rzq6KWodPud :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=W5P+Fzak c=1 sm=1 tr=0 ts=6512d28b p=TooY9yfxAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=zNV7Rl7Rt7sA:10 a=CDxd3ererET1GOLmz0kA:9 a=5VhZwESUfm0aKNjyg2_a:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1695732363-eximdsn-132572070
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 l7Rzq6KWodPud :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=W5P+Fzak c=1 sm=1 tr=0 ts=6512d28b p=TooY9yfxAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=zNV7Rl7Rt7sA:10 a=CDxd3ererET1GOLmz0kA:9 a=5VhZwESUfm0aKNjyg2_a:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1695732363-eximdsn-132572070
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1ql7Rv-005qVe-3b
+	for servicioalcliente@serkoi.com;
+	Tue, 26 Sep 2023 05:46:03 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.106.26.190
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.106.26.190
+From:
+Message-Id: <E1ql7Rv-005qVe-3b@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Tue, 26 Sep 2023 05:45:59 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Chris Johnson. 
+Correo: . 
+Telefono: 0370 2487852. 
+Mensaje: You're just one click...
+
+From plugging Chat-GPT…
+
+Into Amazon, ClickBank…
+
+Product launches, Warrior…
+
+In fact: ANY affiliate program making $100k pm!
+
+LOOK:
+
+⇒  bit.ly/AICashCow
+
+OK, so..
+
+I’m sure you’ve heard the hype about Chat-GPT.
+
+How it’s changing everything we do as marketers.
+
+BUT… THERE’S A PROBLEM WITH CHAT-GPT.
+
+Basically, Chat GPT’s training data ENDS in 2021.
+
+That means it has NO idea about anything in 2023.
+
+That’s BAD news for marketers like us, who want to..
+
+- Promote the hottest affiliate programs
+- Sell today’s new hot product
+- Jump on new trending niches
+- Crush new ecom opportnities
+- Profit on the bleeding-edge
+
+So, what’s the solution?
+
+Well, up until now there wasn’t one.
+
+You were stuck trying to shoe-horn “2021 GPT” into your 2023 use-case.
+
+But today, all that changes.
+
+Now, you can give the most powerful AI LIVE access to EVERYTHING.
+
+How? By plugging Chat-GPT into 1000s of affiliate programs:
+
+⇒  bit.ly/AICashCow
+
+
+This new AI tool plugs your copy of GPT…
+
+Into EVERY new and top-selling affiliate program…
+
+On ClickBank, Amazon, Digi, Warrior and more…
+
+Simply load the app and browse 1000s of affiliate programs…
+
+Then click on one and watch as GPT builds your campaign!
+
+The feed refreshes EVERY DAY - as does your AI CASH FLOW!
+
+If you are looking for a HUGE edge over even other GPT users?
+
+Then upgrade your copy of Chat-GPT NOW!
+
+⇒ bit.ly/AICashCow
+
+
+PS. Do it now, the price jumps IN THE NEXT FEW MINUTES.
+
+And then again.. and AGAIN.. EVERY hour after that!
+
+
+⇒  bit.ly/AICashCow
+
+CJ,. 
+
+
+--1695732363-eximdsn-132572070--

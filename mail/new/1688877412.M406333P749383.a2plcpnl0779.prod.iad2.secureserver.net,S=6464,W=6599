@@ -1,0 +1,135 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id FcaUDGQ5qmRHbwsAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 08 Jul 2023 21:36:52 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 08 Jul 2023 21:36:52 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qIMAF-0038wi-S6
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sat, 08 Jul 2023 21:36:51 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qIMA9-0038v9-E6@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1688877411-eximdsn-1947490398
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qIMAF-0038wi-S6@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 08 Jul 2023 21:36:51 -0700
+
+--1688877411-eximdsn-1947490398
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 IMAFqyvJJDjHy :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=TuEgxhbh c=1 sm=1 tr=0 ts=64aa3963 p=QJPP9hbUAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=wkQwAMAKAAAA:20 a=UHY1lkkQ_4zN-ZSfX3UA:9 a=_tlQQzZ2cz4A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 a=ADhwMcFerlQ3mV0cNeEF:22 ::
+    100.00
+
+--1688877411-eximdsn-1947490398
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 IMAFqyvJJDjHy :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=TuEgxhbh c=1 sm=1 tr=0 ts=64aa3963 p=QJPP9hbUAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=ws7JD89P4LkA:10 a=wkQwAMAKAAAA:20 a=UHY1lkkQ_4zN-ZSfX3UA:9 a=_tlQQzZ2cz4A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 a=ADhwMcFerlQ3mV0cNeEF:22 :: 100.00
+
+--1688877411-eximdsn-1947490398
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qIMA9-0038v9-E6
+	for servicioalcliente@serkoi.com;
+	Sat, 08 Jul 2023 21:36:50 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 27.34.104.80
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 27.34.104.80
+From:
+Message-Id: <E1qIMA9-0038v9-E6@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 08 Jul 2023 21:36:45 -0700
+
+De: Marita Hand. 
+Correo: . 
+Telefono: 032 870 71 90. 
+Mensaje: Hi,
+
+Mike Filsaime here. You know, many people have trouble coming up with products to sell.
+
+It's tough in today's marketplace because creating, developing, selling, and maintaining software is a major undertaking only possible with good funding and lots of expensive help. I know. That's the business I'm in.
+
+What's an entrepreneur to do?
+
+That's why I always recommend they start with an information product. Everyone has some sort of know-how that is of value to others who don't "know how."
+
+Today it's easier than ever to create information products and people buy them up like hotcakes.
+
+EVERYONE Needs Information Products…
+
+eBooks and PDFs have been around since the beginning of the internet. We’re talking over 25 years! They have been called by various names, such as lead magnets, guides, whitepapers, and reports.
+
+However, one thing is certain, they’re not going anywhere yet!
+
+They have such a broad mass appeal because you can use them in numerous ways by all types of people in any industry.
+
+Compared to making time consuming videos, eBooks are the easiest way to build an email list or create an info product to sell for profits, in ANY niche online.
+
+From weight loss, personal development, DIY, finance, sports, business and more. You can even become an instant author by creating an eBook for Amazon Kindle!
+
+However, it's not all milk and honey.
+
+If you’ve ever tried to build a list or create ebooks to sell then you know it can be a pain to make them…
+
+Even though it’s a necessity, and you can’t do without them in an online business.
+ 
+It takes time to design, and write the darn thing (or outsource it for hundreds).
+
+But NOT anymore!
+
+A brand NEW software has just been released that will…
+
+– Create a beautiful ebook for you…
+– Instantly fill it with real content…
+– Style, format and export it…
+
+All in under a minute with just a few clicks!
+
+It’s probably the best tool I’ve seen.
+ 
+Thanks to this new, revolutionary technology, you’ll now be able to generate high quality eBooks with automatic content to attract leads, clients and sales, with a push of a few buttons in minutes, AUTOMATICALLY, and “ON-DEMAND.”
+
+Because it can add CONTENT for you you'll be saving time and $100’s or $1000’s in outsourcing costs.
+
+You'll be able to build your list faster, sell to your customers, or even to your clients as a service, thanks to the “Commercial License” AND agency website that’s included as a bonus!
+
+Click Here To Watch a Full DEMO
+>>>> https://bit.ly/43lnqn8
+
+To Your Success
+
+Mike Filsaime
+78 Road St, NYC
+===============
+Click here to Unsubscribe.
+https://forms.gle/PPk1PGMCJDU2EmX79. 
+
+
+--1688877411-eximdsn-1947490398--

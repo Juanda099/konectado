@@ -1,0 +1,97 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id yGBpCXK1cGaKxi4A8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Mon, 17 Jun 2024 15:15:14 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Mon, 17 Jun 2024 15:15:14 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sJKd8-00Cuf5-0G
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Mon, 17 Jun 2024 15:15:14 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sJKcv-00CuH3-0L@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1718662514-eximdsn-1366988613
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sJKd8-00Cuf5-0G@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 17 Jun 2024 15:15:14 -0700
+
+--1718662514-eximdsn-1366988613
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 JKd8sBZt9dNnL :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=YO1UygGx c=1 sm=1 tr=0 ts=6670b572 p=ZGSH_gTZVK3BFag3rYcA:9 p=_-CBJry_SVogYtaMsug9:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=zhARoXc6AAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=VqzR4gPQrouRrx9v5G0W:22 a=M9ZHoLuYIHMl9pbmgCZa:22 ::
+    100.00
+
+--1718662514-eximdsn-1366988613
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 JKd8sBZt9dNnL :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=YO1UygGx c=1 sm=1 tr=0 ts=6670b572 p=ZGSH_gTZVK3BFag3rYcA:9 p=_-CBJry_SVogYtaMsug9:22 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=zhARoXc6AAAA:8 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=5ZVTF8RY2NLlgb4Yx1la:22 a=VqzR4gPQrouRrx9v5G0W:22 a=M9ZHoLuYIHMl9pbmgCZa:22 :: 100.00
+
+--1718662514-eximdsn-1366988613
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sJKcv-00CuH3-0L
+	for servicioalcliente@serkoi.com;
+	Mon, 17 Jun 2024 15:15:13 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 172.94.95.22
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 172.94.95.22
+From:
+Message-Id: <E1sJKcv-00CuH3-0L@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Mon, 17 Jun 2024 15:15:01 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Samuel Duffy. 
+Correo: . 
+Telefono: 714285982. 
+Mensaje: Hi, 
+
+Struggling to reach more customers and boost your sales in the competitive online market?
+
+Without a user-friendly and attractive e-commerce website, you might be missing out on significant opportunities to grow your business and enhance your brand visibility.
+
+At OutsourceBPO, we create stunning, custom e-commerce websites designed to meet your unique business needs. Here's how we can help:
+
+- **Custom Design:** Reflects your brand’s identity.
+- **User-Friendly:** Easy navigation on all devices.
+- **Essential Features:** Secure checkout, customer accounts, and more.
+- **SEO & Marketing:** Optimized and integrated to drive sales.
+- **Ongoing Support:** Continuous maintenance and updates.
+- **Affordable Pricing:** Packages to fit your budget.
+
+Let’s schedule a free consultation to discuss your goals and how we can help you achieve them. Visit https://outsource-bpo.com/website/?proditelsas.com for more details .
+
+Best regards,
+Sam. 
+
+
+--1718662514-eximdsn-1366988613--

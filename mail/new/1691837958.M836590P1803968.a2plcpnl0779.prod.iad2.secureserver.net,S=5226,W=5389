@@ -1,0 +1,163 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id eFFbMAZm12TAhhsAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sat, 12 Aug 2023 03:59:18 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sat, 12 Aug 2023 03:59:18 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qUmL0-007dSj-MC
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sat, 12 Aug 2023 03:59:18 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qUmKv-007dQL-Go@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1691837958-eximdsn-1779491066
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qUmL0-007dSj-MC@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 12 Aug 2023 03:59:18 -0700
+
+--1691837958-eximdsn-1779491066
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 UmL0qc5r6EHFq :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=D5GBaNdj c=1 sm=1 tr=0 ts=64d76606 p=7ddDGm0mjAU-baxreBZ9:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=UttIx32zK-AA:10 a=OJbrFHvrAAAA:20 a=d4-l8bbw4SqBtRM4wwsA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 ::
+    100.00
+
+--1691837958-eximdsn-1779491066
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 UmL0qc5r6EHFq :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=D5GBaNdj c=1 sm=1 tr=0 ts=64d76606 p=7ddDGm0mjAU-baxreBZ9:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=UttIx32zK-AA:10 a=OJbrFHvrAAAA:20 a=d4-l8bbw4SqBtRM4wwsA:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=ZT_8zCgGubuJgGonBfBE:22 :: 100.00
+
+--1691837958-eximdsn-1779491066
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qUmKv-007dQL-Go
+	for servicioalcliente@serkoi.com;
+	Sat, 12 Aug 2023 03:59:18 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 63.161.77.30
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 63.161.77.30
+From:
+Message-Id: <E1qUmKv-007dQL-Go@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sat, 12 Aug 2023 03:59:13 -0700
+
+De: James Gordon. 
+Correo: . 
+Telefono: . 
+Mensaje: What if I told you that you can start generating
+
+massive FREE traffic in under 23 seconds
+
+
+ by exploiting a new secret AI-powered app
+
+ That’s called “the Chat GPT Killer?”
+
+
+I know it sounds like science fiction, but believe
+
+it or not, it’s 100% possible!
+
+
+This super exciting app is called “Apex”, and it’s 
+
+taking the internet by storm…
+
+
+With "Apex," you can generate 4,458 clicks using
+
+ONLY free traffic (no paid ads, ever.). 
+
+
+Imagine what you could do with that kind of traffic!
+
+
+=> Click Here To Get Instant Access To “Apex” Now: https://bit.ly/LimitedApex
+
+
+And the best part? 
+
+
+You don't need any hosting or domain to get started!
+
+
+Here are some of the benefits you can expect
+
+from "Apex"
+
+
+Get 4,458 clicks using ONLY free traffic
+
+Crank out money sites that work 24/7
+
+Never worry about SEO or writing content yourself
+
+No hosting or domain is needed
+
+No learning curve
+
+
+=> Click Here To Get Instant Access To “Apex” Now: https://bit.ly/LimitedApex
+
+
+If you want to take advantage of this “Chat GPT” killer
+
+software, this is your chance.
+
+
+But, you have to be quick.
+
+
+I heard rumors that “Apex” won’t be online for 
+
+long, and the team is planning to pull it off the 
+
+market since they’re getting thousands of new
+
+users as you read this.
+
+
+That’s why time is of the essence.
+
+
+Be quick and grab your personal copy of “Apex” 
+
+before it’s gone forever!
+
+
+=> Click Here To Get Started Now: https://bit.ly/LimitedApex
+
+
+I'll see you inside,
+
+
+James. 
+
+
+--1691837958-eximdsn-1779491066--

@@ -1,0 +1,122 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id mUSHLp+0BmULvSUAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Sun, 17 Sep 2023 01:11:11 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Sun, 17 Sep 2023 01:11:11 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1qhms3-00ANOc-KQ
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Sun, 17 Sep 2023 01:11:11 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1qhmry-00ANLu-CH@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1694938271-eximdsn-1801548772
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1qhms3-00ANOc-KQ@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 17 Sep 2023 01:11:11 -0700
+
+--1694938271-eximdsn-1801548772
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 hms3qZ5rvLeYs :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=C+kviyD+ c=1 sm=1 tr=0 ts=6506b49f p=u2I4DFl1LUfbAUsTUBdK:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=zNV7Rl7Rt7sA:10 a=Fyunv-tXAAAA:8 a=tdXpFmjzAAAA:8 a=agcTE3Mw_Ii76mQx0TAA:9 a=Cfy3nkBtMiYhrr56oLhA:22 a=-wrnZZL_8f30bW4DQS1g:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1694938271-eximdsn-1801548772
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 hms3qZ5rvLeYs :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=C+kviyD+ c=1 sm=1 tr=0 ts=6506b49f p=u2I4DFl1LUfbAUsTUBdK:22 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=vNFNZZkJ8twA:10 a=zNV7Rl7Rt7sA:10 a=Fyunv-tXAAAA:8 a=tdXpFmjzAAAA:8 a=agcTE3Mw_Ii76mQx0TAA:9 a=Cfy3nkBtMiYhrr56oLhA:22 a=-wrnZZL_8f30bW4DQS1g:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1694938271-eximdsn-1801548772
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1qhmry-00ANLu-CH
+	for servicioalcliente@serkoi.com;
+	Sun, 17 Sep 2023 01:11:11 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 169.150.205.248
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 169.150.205.248
+From:
+Message-Id: <E1qhmry-00ANLu-CH@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Sun, 17 Sep 2023 01:11:06 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Silas Woolner. 
+Correo: . 
+Telefono: 02.48.40.14.01. 
+Mensaje: Quick question to ask you...
+ 
+Are you aware that in 2023, email marketing still works? 
+The fact that you are reading these lines is proof of that.
+
+Email marketing is underrated, and yet it works so well.  
+All you have to do is find some emails, send a message and cash in.
+
+For example, to find emails you can use this service: https://garymarketing.com/go/scrap-gmap
+
+It extracts emails, phone numbers, and lots of other information from Google Map listings.
+
+Of course, there are plenty of other ways to get in touch with your ideal customers.
+Contact me on Skype and let's discuss what will work for your product/service. 
+- My Skype ID: live:.cid.6b79b1d5a11a2ec7
+- My Blog : garymarketing.com
+
+
+Regards,
+Gary & Ophélie
+
+
+
+------ 
+
+J'ai une petite question à vous poser...
+
+Savez-vous qu'en 2023, l'email marketing fonctionne toujours très bien ? 
+La preuve, vous lisez ces lignes.
+
+L'email marketing est clairement sous-couté,
+Il  suffit de trouver les coordonnées de vos clients idéaux, d'entrer en contact, et d'encaisser.
+
+Pour trouver les coordonnées d'entreprise, vous pouvez par exemple utiliser ce service : scrapmybusiness.com
+Il permet d'extraire les emails, les numéros de téléphone et de nombreuses autres informations a partir des fiches entreprises de Google Map.
+
+Bien sur il y'a plein d'autre solutions pour entrer en contact avec vos clients idéaux
+
+Ajouter moi sur Skype et discutons de ce qui conviendrait le plus pour promouvoir votre produit/service.
+- Identifiant Skype: live:.cid.83c9da999a4f9f
+- Mon Blog : http://garymarketing.com
+
+Cordialement,
+Ophélie et Gary.. 
+
+
+--1694938271-eximdsn-1801548772--

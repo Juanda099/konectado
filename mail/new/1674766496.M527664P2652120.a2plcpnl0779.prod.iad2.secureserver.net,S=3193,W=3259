@@ -1,0 +1,66 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id AMRJH6Do0mPYdygAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 26 Jan 2023 13:54:56 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 26 Jan 2023 13:54:56 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pL9Gq-00BBve-Ct
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 26 Jan 2023 13:54:56 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pL9Gl-00BBuR-Sj@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1pL9Gq-00BBve-Ct@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 26 Jan 2023 13:54:56 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pL9Gl-00BBuR-Sj
+	for servicioalcliente@serkoi.com;
+	Thu, 26 Jan 2023 13:54:51 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.95.18.99
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.95.18.99
+From:
+Message-Id: <E1pL9Gl-00BBuR-Sj@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 26 Jan 2023 13:54:51 -0700
+
+De: Nick James. 
+Correo: . 
+Telefono: 305-419-1382. 
+Mensaje: Hello,
+
+My name is Nick James and I help organizations like yours take advantage of the Employee Retention Credit (ERC) program, a federal grant from the IRS that allows businesses to recover taxes and wages.
+
+I know that many companies are unaware of this program or assume they do not qualify. However, recent changes in the eligibility requirements mean that your organization may now be eligible to claim up to $26,000 per employee. Since the start of the ERC program, our company has filed over 19,000 claims for organizations just like yours, totaling over $3.2 billion in grants.
+
+If you would allow me 10 minutes for a quick call, I can let you know if this program would be a fit for your business. There is no up-front cost and we only get paid for our services if we secure a grant for you. 
+
+Please book a call on my calendar at the bottom of my website https://bottomlinesavingstax.com or send me a text at 305-419-1382.
+
+If you are not the appropriate person to speak with, I would be grateful if you could point me in the right direction or forward my information to the appropriate person.
+
+Thank you for your time.
+
+Best regards,
+
+Nick James
+305-419-1382
+https://bottomlinesavingstax.com
+. 
+

@@ -1,0 +1,107 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id 0ELTMjoSdmZNODwA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Fri, 21 Jun 2024 16:52:26 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Fri, 21 Jun 2024 16:52:26 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sKo3O-00GZ3n-2Z
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Fri, 21 Jun 2024 16:52:26 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sKo3E-00GZ21-1d@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1719013946-eximdsn-522018101
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1sKo3O-00GZ3n-2Z@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 21 Jun 2024 16:52:26 -0700
+
+--1719013946-eximdsn-522018101
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 Ko3OsXj7DlAwQ :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=eYL2fKEH c=1 sm=1 tr=0 ts=6676123a p=gtvjkE73AAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=3Fkg8L_KAAAA:20 a=IKHx-WEmi1ykQ9LdSGcA:9 a=JazO-hkWAWgA:10 a=JOcUeDFmR71rEPlKSA59:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1719013946-eximdsn-522018101
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 Ko3OsXj7DlAwQ :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=eYL2fKEH c=1 sm=1 tr=0 ts=6676123a p=gtvjkE73AAAA:20 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=T1WGqf2p2xoA:10 a=3Fkg8L_KAAAA:20 a=IKHx-WEmi1ykQ9LdSGcA:9 a=JazO-hkWAWgA:10 a=JOcUeDFmR71rEPlKSA59:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1719013946-eximdsn-522018101
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sKo3E-00GZ21-1d
+	for servicioalcliente@serkoi.com;
+	Fri, 21 Jun 2024 16:52:26 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 166.88.224.61
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 166.88.224.61
+From:
+Message-Id: <E1sKo3E-00GZ21-1d@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Fri, 21 Jun 2024 16:52:16 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Christian Wiley. 
+Correo: . 
+Telefono: 1. 
+Mensaje: The Ultimate brain health supplement: SNAP
+
+Discover the transformative power of SNAP, the brain health supplement crafted for both children and adults. 
+
+SNAP is designed to promote emotional stability and enhance mental well-being, SNAP is your companion in handling stress and enhancing your mood.
+
+#### Why Choose SNAP?
+
+- **Natural Ingredients**: Our formula integrates rigorously tested, pure natural ingredients that support brain function.
+- **Holistic Approach**: Whether you're facing daily pressures or persistent anxieties, SNAP promotes emotional balance.
+- **Neurotransmitter Support**: By targeting key imbalances, SNAP promotes mental clarity and stability.
+
+#### Benefits of SNAP
+
+- **Improved Mood**: Experience a more positive and uplifted mood.
+- **Reduced Anxiety**: Handle stress with calm and effectiveness.
+- **Better Emotional Regulation**: Maintain a balanced and stable mental state.
+
+Experience a gentler, more effective way to support your brain health. Select SNAP for a positive outlook on life. 
+
+#### Ready to transform your mental well-being?
+
+Learn more and get started today at https://bit.ly/3XvnO3a
+
+
+
+
+Unsubscribe here if you don't want to get these awesome deals: bit.ly/unsubscribepls
+Kammelenbergstrasse 76, Lockport, NY, US, 3978. 
+
+
+--1719013946-eximdsn-522018101--

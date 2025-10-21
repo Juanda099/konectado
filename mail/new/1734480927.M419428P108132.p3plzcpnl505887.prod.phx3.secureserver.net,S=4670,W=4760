@@ -1,0 +1,90 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id eGreFh8UYmdkpgEA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Tue, 17 Dec 2024 17:15:27 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Tue, 17 Dec 2024 17:15:27 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tNhip-000dka-10
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Tue, 17 Dec 2024 17:15:27 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tNhig-000dhj-04@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1734480927-eximdsn-70942917
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tNhip-000dka-10@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 17 Dec 2024 17:15:27 -0700
+
+--1734480927-eximdsn-70942917
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 NhiptRqD2ziwv :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Moqo63ae c=1 sm=1 tr=0 ts=6762141f p=8fMZSTkpwoTix-9mjQAA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=RZcAm9yDv7YA:10 a=FoSmnn7wAAAA:8 a=_E6fifRWAAAA:8 a=3ZKOabzyN94A:10 a=wGRtEAVxnvRGYazrWzFr:22 a=_LSIusZ-WMtor4YVZIq6:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1734480927-eximdsn-70942917
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 NhiptRqD2ziwv :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Moqo63ae c=1 sm=1 tr=0 ts=6762141f p=8fMZSTkpwoTix-9mjQAA:9 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=RZcAm9yDv7YA:10 a=FoSmnn7wAAAA:8 a=_E6fifRWAAAA:8 a=3ZKOabzyN94A:10 a=wGRtEAVxnvRGYazrWzFr:22 a=_LSIusZ-WMtor4YVZIq6:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1734480927-eximdsn-70942917
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tNhig-000dhj-04
+	for servicioalcliente@serkoi.com;
+	Tue, 17 Dec 2024 17:15:27 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tNhig-000dhj-04@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Tue, 17 Dec 2024 17:15:18 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Janeen Dougharty. 
+Correo: . 
+Telefono: +13522173320. 
+Mensaje: Hello, I discovered your website on Google Maps, and I’ve gotta point out that it’s not really set up the way it should be. You’re probably losing a lot of leads because of this. The awesome part? I’ve put together a video course that will help you optimize everything in just 90 minutes or less.
+
+I also noticed that your SEO could use a little boost. Here’s the deal: If you get my course on Google Maps optimization for only $27, I’ll make you this promise: if you don’t get a ton of leads after implementing what you learn, I’ll work for free until you do.
+
+It’s simple—get the course, implement the strategies, and experience the leads roll in. If you don’t, I’ll keep working with you at no extra charge. You only pay the $27.
+
+Purchase the course here: https://www.unlimitedclientengine.com
+
+Once you get it, just reply to the confirmation email with "I want the SEO analysis for my site: [yourwebsite.com]" and I’ll send over a custom SEO report within 2-3 days.
+
+Let’s make this happen
+JP,
+Unlimited Client Engine
+https://www.unlimitedclientengine.com. 
+
+
+--1734480927-eximdsn-70942917--

@@ -1,0 +1,54 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id SMy+BFVeYGZgdjUA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Wed, 05 Jun 2024 05:47:17 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Wed, 05 Jun 2024 05:47:17 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1sEq2v-00Erf7-02
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Wed, 05 Jun 2024 05:47:17 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1sEq2i-00Eray-07@p3plzcpnl505887.prod.phx3.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1sEq2v-00Erf7-02@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 05 Jun 2024 05:47:17 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1sEq2i-00Eray-07
+	for servicioalcliente@serkoi.com;
+	Wed, 05 Jun 2024 05:47:04 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 146.70.181.231
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 146.70.181.231
+From:
+Message-Id: <E1sEq2i-00Eray-07@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Wed, 05 Jun 2024 05:47:04 -0700
+
+De: Dave Caban. 
+Correo: . 
+Telefono: 0246-2649185. 
+Mensaje: You may wish to save this email for future reference.  There is no need to unsubscribe because this is a one-time email from Se-REM.  This announcement is a public service for a not-for-profit program that has saved and restored lives shattered by abuse and trauma.
+  
+     Have you heard of Se-REM? (Self effective - Rapid Eye Movement). Many people don't know that REM brain activity dramatically improves the processing of traumatic emotion. It creates peace and empowers the listener. Se-REM is an advanced version of EMDR therapy. It is more powerful because it combines elements of 6 different therapies, EMDR, hypnosis, mindfulness, Gestalt child within work, music therapy, and Awe therapy,(connecting profoundly with nature).
+ 
+     It has helped thousands of people overcome PTSD, and anxiety. But it is also helpful in a great many situations, loss of any kind, grief, phobias and even marital counseling. The mission statement is "Trauma relief at as close to free as possible". This program downloads to a smart phone or computer and can be used in an office or at home. Read about it, hear samples, and download at: Se-REM.com. Once you own the program, you are encouraged to give it away to others who will benefit. I provide free consultation to all who use the program. 
+Se-REM.com has a 95% rating on Trustpilot and is in use in 33 countries.
+ 
+     If you would like to know more you can watch a UK Podcast at: https://lockedupliving.podbean.com. 
+

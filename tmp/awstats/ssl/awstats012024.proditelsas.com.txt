@@ -1,0 +1,838 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202401 will be lost/reset.
+# Last config file used to build this data file was /home/z1h9uk8mq9i3/tmp/awstats/ssl/awstats.proditelsas.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2692                
+POS_VISITOR 19839               
+POS_DAY 23085               
+POS_DOMAIN 3409                
+POS_LOGIN 3845                
+POS_ROBOT 4000                
+POS_WORMS 4633                
+POS_EMAILSENDER 4764                
+POS_EMAILRECEIVER 4907                
+POS_SESSION 23761               
+POS_SIDER 23919               
+POS_FILETYPES 5042                
+POS_DOWNLOADS 5234                
+POS_OS 5512                
+POS_BROWSER 5755                
+POS_SCREENSIZE 6585                
+POS_UNKNOWNREFERER 6659                
+POS_UNKNOWNREFERERBROWSER 7220                
+POS_ORIGIN 7687                
+POS_SEREFERRALS 7823                
+POS_PAGEREFS 7967                
+POS_SEARCHWORDS 8115                
+POS_KEYWORDS 8267                
+POS_MISC 2356                
+POS_ERRORS 8326                
+POS_CLUSTER 3701                
+POS_SIDER_404 8453                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240201053949 1 0 17430064231655
+FirstTime 20240101064453
+LastTime 20240131070737
+LastUpdate 20240202051238 1 0 0 0 0
+TotalVisits 91                  
+TotalUnique 82                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 82                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 4264 11 13 81338
+1 4 4 42937 6 28 283514
+2 3 3 21029 8 31 449473
+3 3 3 19219 6 14 11651
+4 5 5 42337 4 16 51218
+5 7 21 2305683 12 25 57321
+6 7 7 38087 2 10 47047
+7 7 7 30460 1 9 4264
+8 7 7 42622 5 16 9669
+9 1 1 17038 4 13 313937
+10 3 3 12792 7 14 49752
+11 3 3 10989 22 37 223457
+12 0 0 0 45 53 179968
+13 4 4 42937 23 39 171155
+14 3 26 6931914 11 25 1432341
+15 6 6 51196 5 16 16923
+16 1 1 4264 5 17 32268
+17 7 35 4577714 6 38 738833
+18 2 11 4650613 6 11 483155
+19 10 19 4723787 2 4 21914
+20 22 45 2400988 345 354 31197
+21 10 10 40870 7 10 6922
+22 7 7 29827 1 9 0
+23 2 2 8528 5 21 88729
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+us 64 87 2702238
+gb 13 13 55475
+ca 7 7 65272
+co 7 90 23063049
+gr 6 6 24382
+se 5 5 21320
+nl 5 5 29559
+cn 5 5 34094
+ir 3 3 12066
+de 3 3 12792
+ro 1 1 4264
+ru 1 1 4264
+il 1 1 4264
+bg 1 1 4264
+tr 1 1 4264
+eu 1 1 4264
+in 1 1 4264
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+AhrefsBot/ 65 742517 20240131121120 0
+crawl 64 220972 20240124113950 0
+Applebot/ 36 224010 20240122133315 0
+bingbot/ 27 1348793 20240127112801 0
+SemrushBot/ 22 73063 20240127235529 0
+spider 14 88974 20240108233506 0
+nbot 11 1129619 20240127144927 0
+no_user_agent 11 197830 20240128135147 0
+(firefox/)([0-9]\.|[0-1][0]\.) 3 12792 20240125070648 0
+bot[\s_+:,\.\;\/\\-] 2 8528 20240121205213 0
+feed 2 680947 20240107170916 0
+Googlebot\-Image/ 1 19165 20240127162047 0
+Googlebot/ 1 4264 20240125133351 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 14 13223 0 0
+js 44 542588 0 0
+pdf 7 2013252 0 0
+jpg 24 8796412 0 0
+php 44 198352 0 0
+png 17 13971491 0 0
+html 81 514777 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 7
+/atencion.pdf 3 0 567603
+/ficha%20tecnica.pdf 3 0 1475238
+/contrato.pdf 3 0 1273293
+/ELEMENTOS%20DE%20SEGURIDAD.pdf 2 0 800888
+/Decreto%201524%20de%202002.pdf 2 0 601808
+/Decreto%20067.pdf 1 0 10225
+/disponibilidad.pdf 1 0 196301
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+android 2 2
+linuxubuntu 1 1
+macosx10 2 2
+linux 29 29
+androidmarshmallow 1 1
+win10 89 32
+winlong 1 1
+macosx15 28 28
+winxp 5 3
+Unknown 24 8
+win7 18 14
+android10 30 3
+macosx13 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 40
+opera11.50 4 3
+chrome100.0.4896.60 4 4
+chrome117.0.0.0 7 7
+firefox118.0 2 2
+chrome74.0.3729.169 1 1
+firefox56.0 1 1
+chrome83.0.4103.97 1 1
+firefox52.0 3 2
+opera10.00 1 0
+chrome69.0.3497.81 1 1
+chrome55.0.2883.87 1 1
+chrome114.0.0.0 22 22
+chrome65.0.3325.146 1 1
+opera11.00 2 2
+chrome87.0.4280.141 1 1
+firefox48.0 1 1
+chrome71.0.2623.112 1 1
+chrome57.0.2987.133 1 0
+Unknown 20 4
+firefox57.0 2 2
+chrome115.0.0.0 6 6
+opera11.11 2 1
+chrome121.0.0.0 10 1
+firefox117.0 4 4
+chrome105.0.0.0 5 5
+chrome76.0.3809.87 1 1
+chrome103.0.5042.0 1 1
+chrome68.0.3440.106 1 0
+chrome106.0.0.0 1 1
+firefox41.0 1 0
+netscape5.0 4 4
+chrome120.0.0.0 81 7
+chrome101.0.4951.67 1 1
+chrome110.0.0.0 1 1
+chrome116.0.0.0 4 4
+opera10.54 3 3
+chrome108.0.0.0 25 25
+msie7.0 1 1
+chrome40.0.2214.93 1 1
+msie11.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+colly_-_https://github.com/gocolly/colly/v2 20240116202009
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240118102034
+Mozilla/5.0 20240114193537
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240106085541
+Python/3.11_aiohttp/3.9.1 20240119051100
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Python/3.11_aiohttp/3.9.1 20240119051100
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240106085541
+colly_-_https://github.com/gocolly/colly/v2 20240116202009
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 97 113
+From1 9 9
+From2 0 0
+From3 0 0
+From4 19 109
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 1 0
+422 6 32016
+404 528 0
+301 9 2191
+401 8 365
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 382
+/Pacific/Honolulu 1 -
+/chosen.php 1 -
+/pqr/upload/js/image/png 1 -
+/data/ajax 1 -
+/pqr/upload/js/redactor.js 1 -
+/pqr/upload/js/select2.js 1 -
+/Asia/Kolkata 1 -
+/pqr/upload/js/results 1 -
+/pqr/upload/js/Asia/Kabul 1 -
+/pqr/upload/js/data/maximumInputLength 1 -
+/selection/search 1 -
+/select2/data/tokenizer 1 -
+/pqr/upload/js/i18n/ 1 -
+/pqr/upload/js/America/New_York 1 -
+/pqr/upload/js/Asia/Kolkata 1 -
+/pqr/upload/js/jquery-ui-1.10.3.custom.js 1 -
+/pqr/upload/js/compat/containerCss 1 -
+/select2/options 1 -
+/keys 1 -
+/pqr/upload/js/select2/data/maximumSelectionLength 1 -
+/Etc/UTC 1 -
+/pqr/upload/js/America/Sao_Paulo 1 -
+/Asia/Krasnoyarsk 1 -
+/America/Anchorage 1 -
+/pqr/upload/js/select2/diacritics 1 -
+/dropdown 1 -
+/results 1 -
+/America/Denver 1 -
+/pqr/upload/js/selection/placeholder 1 -
+/America/Bogota 1 -
+/pqr/upload/js/Asia/Shanghai 1 -
+/Asia/Jerusalem 1 -
+/simple.php 1 -
+/pqr/upload/js/defaults 1 -
+/Europe/Helsinki 1 -
+/utils 1 -
+/pqr/upload/js/select2/dropdown/search 1 -
+/America/Santo_Domingo 1 -
+/wp-includes/js/jquery/jquery.js 2 -
+/America/Caracas 1 -
+/pqr/upload/js/compat/inputData 1 -
+/defaults 1 -
+/pqr/upload/js/America/Goose_Bay 1 -
+/pqr/upload/js/select 1 -
+/pqr/upload/js/Australia/Darwin 1 -
+/jquery/text/plain 1 -
+/pqr/upload/js/select2/options 1 -
+/.well-known/security.txt 1 -
+/pqr/upload/js/text/plain 1 -
+/pqr/upload/js/Pacific/Marquesas 1 -
+/pqr/upload/js/Asia/Rangoon 1 -
+/America/Havana 1 -
+/America/Chicago 1 -
+/text/html 1 -
+/pqr/upload/js/Europe/Helsinki 1 -
+/sitemap_index.xml 1 -
+/Europe/Moscow 1 -
+/pqr/upload/js/data/ajax 1 -
+/data/maximumInputLength 1 -
+/sitemaps.xml 2 -
+/Asia/Rangoon 1 -
+/pqr/upload/js/Asia/Karachi 1 -
+/pqr/upload/js/Asia/Jerusalem 1 -
+/pqr/upload/js/Asia/Baghdad 1 -
+/pqr/upload/js/America/Montevideo 1 -
+/navbar.js 8 -
+/jquery-1.11.3.min.js 8 -
+/pqr/upload/js/America/Mazatlan 1 -
+/pqr/upload/js/Asia/Vladivostok 1 -
+/pqr/upload/js/select2/selection/base 1 -
+/pqr/upload/js/select2/dropdown/selectOnClose 1 -
+/pqr/upload/js/America/Phoenix 1 -
+/pqr/upload/js/select2/selection/single 1 -
+/Pacific/Auckland 1 -
+/pqr/upload/js/dropdown 1 -
+/select 1 -
+/diacritics 1 -
+/Australia/Adelaide 1 -
+/pqr/upload/js/dropdown/infiniteScroll 1 -
+/select2/selection/single 1 -
+/compat/initSelection 1 -
+/select2/dropdown/closeOnSelect 1 -
+/compat/inputData 1 -
+/wp-content/plugins/dummyyummy/wp-signup.php 1 www.google.com
+/Pacific/Gambier 1 -
+/dropdown/infiniteScroll 1 -
+/compat/query 1 -
+/America/Campo_Grande 1 -
+/pqr/upload/js/dropdown/hidePlaceholder 1 -
+/select2/dropdown/attachBody 1 -
+/api/.git/config 1 -
+/select2/translation 1 -
+/mm/dd/yy 1 -
+/jquery/application/x-www-form-urlencoded 1 -
+/Asia/Yakutsk 1 -
+/select2/dropdown/search 1 -
+/Asia/Omsk 1 -
+/pqr/upload/js/Europe/London 1 -
+/pqr/upload/js/America/Anchorage 1 -
+/pqr/upload/js/Pacific/Chatham 1 -
+/pqr/upload/js/Africa/Windhoek 1 -
+/image/jpeg 1 -
+/select2/defaults 1 -
+/pqr/upload/js/selection/search 1 -
+/select2/dropdown/minimumResultsForSearch 1 -
+/select2/dropdown/infiniteScroll 1 -
+/pqr/upload/js/Atlantic/Cape_Verde 1 -
+/America/Montevideo 1 -
+/attach 1 -
+/pqr/upload/js/text/css 1 -
+/pqr/upload/js/jquery-1.11.2.js 1 -
+/dropdown/minimumResultsForSearch 1 -
+/selection/placeholder 1 -
+/pqr/upload/js/Etc/UTC 1 -
+/options 1 -
+/jquery.easing.1.3.js 8 -
+/pqr/upload/js/America/Los_Angeles 1 -
+/pqr/upload/js/America/Asuncion 1 -
+/select2/data/base 1 -
+/sitemap.xml 4 -
+/Pacific/Fiji 1 -
+/pqr/upload/js/Pacific/Pago_Pago 1 -
+/Pacific/Apia 1 -
+/jquery.mousewheel.js 8 -
+/pqr/upload/js/select2/data/array 1 -
+/data/array 1 -
+/Africa/Cairo 1 -
+/selection/single 1 -
+/pqr/upload/js/select2/dropdown/attachBody 1 -
+/wp-content/plugins/dummyyummy/sss.php 1 -
+/pqr/upload/js/Asia/Kathmandu 1 -
+/Pacific/Tarawa 1 -
+/dropdown/search 1 -
+/pqr/upload/js/Asia/Irkutsk 1 -
+/Europe/Istanbul 1 -
+/pqr/upload/js/Asia/Beirut 1 -
+/data/tokenizer 1 -
+/Asia/Kamchatka 1 -
+/pqr/upload/js/data/minimumInputLength 1 -
+/select2/selection/search 1 -
+/pqr/upload/js/America/Santiago 1 -
+/i18n/en 1 -
+/selection/allowClear 1 -
+/pqr/upload/js/Europe/Minsk 1 -
+/pqr/upload/js/Asia/Kamchatka 1 -
+/pqr/upload/js/Pacific/Pitcairn 1 -
+/wp-content/plugins/td-composer/license.txt 4 -
+/radio.php 1 www.google.com
+/select2/utils 1 -
+/pqr/upload/js/Asia/Damascus 1 -
+/pqr/upload/js/selection/eventRelay 1 -
+/wp-json 4 -
+/pqr/upload/js/Pacific/Easter 1 -
+/pqr/upload/js/Pacific/Honolulu 1 -
+/pqr/upload/js/select2/selection/eventRelay 1 -
+/inputs.php 1 www.google.com
+/Pacific/Chatham 1 -
+/Pacific/Marquesas 1 -
+/Australia/Brisbane 1 -
+/pqr/upload/js/Asia/Dubai 1 -
+/wp-admin/js/user-suggest.js 1 -
+/pqr/upload/js/select2/selection/search 1 -
+/select2/dropdown/hidePlaceholder 1 -
+/Africa/Windhoek 1 -
+/pqr/upload/js/Asia/Gaza 1 -
+/wp-apxupx.php 3 www.google.com
+/pqr/upload/js/dropdown/search 1 -
+/Asia/Gaza 1 -
+/America/Santa_Isabel 1 -
+/pqr/upload/js/America/Havana 1 -
+/jquery/text/html 1 -
+/pqr/upload/js/text/xml 1 -
+/Asia/Shanghai 1 -
+/select2/selection/placeholder 1 -
+/pqr/upload/js/Asia/Tehran 1 -
+/compat/containerCss 1 -
+/pqr/upload/js/base 1 -
+/data/tags 1 -
+/sitemap.txt 4 -
+/pqr/upload/js/Pacific/Noumea 1 -
+/pqr/upload/js/America/Campo_Grande 1 -
+/select2/data/maximumInputLength 1 -
+/pqr/upload/js/Pacific/Tongatapu 1 -
+/pqr/upload/js/dropdown/minimumResultsForSearch 1 -
+/Europe/Berlin 1 -
+/pqr/upload/js/compat/initSelection 1 -
+/pqr/upload/js/Pacific/Auckland 1 -
+/wp-cron.php 4 -
+/select2/data/array 1 -
+/Atlantic/Cape_Verde 1 -
+/Asia/Yekaterinburg 1 -
+/pqr/upload/js/i18n/en 1 -
+/wp-json/wpgmza/v1/markers 1 -
+/pqr/upload/js/America/Halifax 1 -
+/pqr/upload/js/Europe/Berlin 1 -
+/pqr/upload/js/Australia/Lord_Howe 1 -
+/pqr/upload/js/Asia/Tokyo 1 -
+/Asia/Baku 1 -
+/pqr/upload/js/Asia/Dhaka 1 -
+/pqr/upload/js/America/Bogota 1 -
+/America/New_York 1 -
+//kit.fontawesome.com/be342632af.js 8 -
+/pqr/upload/js/utils 1 -
+/pqr/upload/js/select2/dropdown/closeOnSelect 1 -
+/pqr/upload/js/America/Santo_Domingo 1 -
+/Asia/Beirut 1 -
+/Australia/Lord_Howe 1 -
+/pqr/upload/js/Asia/Krasnoyarsk 1 -
+/pqr/upload/js/America/Godthab 1 -
+/robots.txt 82 -
+/pqr/upload/js/data/tags 1 -
+/app/.env 1 -
+/America/Miquelon 1 -
+/pqr/upload/js/data/select 1 -
+/pqr/upload/js/select2/data/maximumInputLength 1 -
+/Pacific/Pago_Pago 1 -
+/select2/dropdown 1 -
+/dropdown/hidePlaceholder 1 -
+/select2/selection/eventRelay 1 -
+/pqr/upload/js/select2/data/tokenizer 1 -
+/America/St_Johns 1 -
+/pqr/upload/js/America/Caracas 1 -
+/America/Sao_Paulo 1 -
+/Asia/Kathmandu 1 -
+/selection/multiple 1 -
+/text/plain 1 -
+/general.php 4 www.google.com
+/select2/data/select 1 -
+/America/Adak 1 -
+/America/Goose_Bay 1 -
+/pqr/upload/js/Asia/Baku 1 -
+/pqr/upload/js/America/Argentina/Buenos_Aires 1 -
+/pqr/upload/js/select2/results 1 -
+/Asia/Baghdad 1 -
+/pqr/upload/js/America/Santa_Isabel 1 -
+/Atlantic/Azores 1 -
+/pqr/upload/js/application/x-www-form-urlencoded 1 -
+/pqr/upload/js/select2/data/base 1 -
+/pqr/upload/js/select2/dropdown 1 -
+/pqr/upload/js/Australia/Eucla 1 -
+/America/Halifax 1 -
+/America/Asuncion 1 -
+/pqr/upload/js/America/Chicago 1 -
+/America/Mexico_City 1 -
+/text/xml 1 -
+/Pacific/Noumea 1 -
+/Asia/Karachi 1 -
+/pqr/upload/js/Africa/Johannesburg 1 -
+/pqr/upload/js/data/array 1 -
+/pqr/upload/js/Pacific/Kiritimati 1 -
+/plugins/.git/config 1 -
+/Africa/Johannesburg 1 -
+/Australia/Sydney 1 -
+/selection/eventRelay 1 -
+/Asia/Kabul 1 -
+/select2/results 1 -
+/style.php 7 www.google.com
+/Pacific/Tongatapu 1 -
+/select2/selection/allowClear 1 -
+/pqr/upload/js/compat/query 1 -
+/select2/data/minimumInputLength 1 -
+/pqr/upload/js/Pacific/Apia 1 -
+/pqr/upload/js/select2/selection/placeholder 1 -
+/pqr/upload/js/select2/selection/allowClear 1 -
+/pqr/upload/js/dropdown/attachBody 1 -
+/jquery/text/xml 1 -
+/Asia/Vladivostok 1 -
+/select2/i18n/en 1 -
+/pqr/upload/js/options 1 -
+/pqr/upload/js/keys 1 -
+/Pacific/Easter 1 -
+/.git/config 1 -
+/data/maximumSelectionLength 1 -
+/Australia/Perth 1 -
+/America/Godthab 1 -
+/pqr/upload/js/America/Adak 1 -
+/pqr/upload/js/select2/dropdown/infiniteScroll 1 -
+/pqr/upload/js/Pacific/Tarawa 1 -
+/array 1 -
+/Asia/Tokyo 1 -
+/dropdown/attachBody 1 -
+/pqr/upload/js/compat/dropdownCss 1 -
+/Pacific/Norfolk 1 -
+/pqr/upload/js/Pacific/Fiji 1 -
+/translation 1 -
+/Asia/Tehran 1 -
+/pqr/upload/js/data/tokenizer 1 -
+/pqr/upload/js/America/Guatemala 1 -
+/pqr/upload/js/Australia/Adelaide 1 -
+/jquery/jquery-1.11.3.js 1 -
+/America/Guatemala 1 -
+/pqr/upload/js/America/Denver 1 -
+/Australia/Darwin 1 -
+/pqr/upload/js/select2/keys 1 -
+/Australia/Eucla 1 -
+/pqr/upload/js/Europe/Istanbul 1 -
+/pqr/upload/js/America/Mexico_City 1 -
+/Ley%20679%20de%202001.pdf 3 https://proditelsas.com/procedimientos.php
+/America/Santiago 1 -
+/pqr/upload/js/Asia/Yakutsk 1 -
+/select2/diacritics 1 -
+/Pacific/Pitcairn 1 -
+/pqr/upload/js/array 1 -
+/pqr/upload/js/data/maximumSelectionLength 1 -
+/pqr/upload/js/select2/i18n/en 1 -
+/pqr/upload/js/text/html 1 -
+/pqr/upload/js/America/Miquelon 1 -
+/pqr/upload/js/select2/defaults 1 -
+/select2/keys 1 -
+/pqr/upload/js/select2/utils 1 -
+/elp.php 1 -
+/Pacific/Kiritimati 1 -
+/pqr/upload/js/selection/allowClear 1 -
+/data/select 1 -
+/pqr/upload/js/select2/dropdown/hidePlaceholder 1 -
+/Europe/London 1 -
+/wzy.php 1 www.google.com
+/pqr/upload/js/Africa/Cairo 1 -
+/image/png 1 -
+/pqr/upload/js/select2/core 1 -
+/pqr/upload/js/selection/single 1 -
+/America/Mazatlan 1 -
+/pqr/upload/js/selection/multiple 1 -
+/pqr/upload/js/dropdown/selectOnClose 1 -
+/Asia/Damascus 1 -
+/Asia/Irkutsk 1 -
+/sitemap.xml.gz 1 -
+/pqr/upload/js/Australia/Sydney 1 -
+/pqr/upload/js/Africa/Lagos 1 -
+/wp-content/plugins/text-popover/new.php 1 www.google.com
+/pqr/upload/js/select2/data/minimumInputLength 1 -
+/pqr/upload/js/mm/dd/yy 1 -
+/pqr/upload/js/translation 1 -
+/pqr/upload/js/Pacific/Norfolk 1 -
+/Asia/Jakarta 1 -
+/pqr/upload/js/image/jpeg 1 -
+/pqr/upload/js/select2/data/tags 1 -
+/data/minimumInputLength 1 -
+/wp-includes/js/admin-bar.js 1 -
+/pqr/upload/js/Asia/Omsk 1 -
+/pqr/upload/js/select2/data/ajax 1 -
+/pqr/upload/js/America/St_Johns 1 -
+/wp-json/wp/v2/posts 1 -
+/application/x-www-form-urlencoded 1 -
+/select2/selection/multiple 1 -
+/America/Los_Angeles 1 -
+/pqr/upload/js/select2/dropdown/minimumResultsForSearch 1 -
+/Africa/Lagos 1 -
+/select2/data/ajax 1 -
+/pqr/upload/js/jstz.js 1 -
+/select2/core 1 -
+/pqr/upload/js/fabric.js 1 -
+/Asia/Dubai 1 -
+/select2/data/tags 1 -
+/pqr/upload/js/select2/translation 1 -
+/pqr/upload/keys 1 -
+/pqr/upload/js/Australia/Perth 1 -
+/text/css 1 -
+/pqr/upload/js/Pacific/Gambier 1 -
+/dropdown/closeOnSelect 1 -
+/.env 1 -
+/Asia/Dhaka 1 -
+/pqr/upload/js/Australia/Brisbane 1 -
+/pqr/upload/js/Asia/Jakarta 1 -
+/pqr/upload/js/select2/selection/multiple 1 -
+/base 1 -
+/pqr/upload/js/select2/data/select 1 -
+/America/Phoenix 1 -
+/select2/data/maximumSelectionLength 1 -
+/pqr/upload/js/Europe/Moscow 1 -
+/pqr/upload/js/Atlantic/Azores 1 -
+/Europe/Minsk 1 -
+/pqr/upload/js/diacritics 1 -
+/pqr/upload/utils 1 -
+/pqr/upload/js/dropdown/closeOnSelect 1 -
+/select2/dropdown/selectOnClose 1 -
+/dropdown/selectOnClose 1 -
+/compat/dropdownCss 1 -
+/America/Argentina/Buenos_Aires 1 -
+/i18n/ 1 -
+/select2/selection/base 1 -
+/pqr/upload/js/Asia/Yekaterinburg 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 82
+3.255.230.11 16 39 2353054 20240116202000
+217.182.193.41 10 10 42640 20240111085611
+92.118.169.241 5 5 21320 20240130223321
+192.144.39.139 3 3 38673 20240114012156
+186.155.16.56 3 30 13942653 20240126192347
+192.144.39.93 3 3 38673 20240107130519
+192.144.39.146 3 3 38673 20240116192726
+137.226.113.44 3 3 12792 20240118102034
+54.88.179.33 2 2 34076 20240125201110
+181.61.208.67 2 30 4560198 20240131054333
+5.133.192.88 2 2 8528 20240128044142
+190.67.202.0 2 30 4560198 20240115172739
+35.171.144.152 2 2 34076 20240125201106
+64.23.174.56 1 1 4264 20240113051329
+188.166.155.171 1 1 4264 20240116155731
+35.87.128.101 1 1 4264 20240102220506
+142.93.167.76 1 1 4328 20240116172734
+205.210.31.147 1 1 17038 20240106085541
+137.184.160.250 1 1 2494 20240116204119
+42.83.147.54 1 1 4264 20240114212803
+188.166.116.206 1 1 12503 20240116063446
+88.230.11.42 1 1 4264 20240118190001
+44.227.242.80 1 1 4264 20240125161709
+128.199.36.137 1 1 4264 20240129065447
+104.236.73.216 1 1 4876 20240116190755
+3.235.10.33 1 1 4264 20240125150952
+142.93.71.123 1 1 4264 20240111074812
+134.209.186.233 1 1 4264 20240123060240
+161.35.85.47 1 1 4264 20240127063017
+159.203.24.71 1 1 4264 20240105071128
+178.62.17.72 1 1 4264 20240125071521
+134.122.44.23 1 1 4264 20240131070737
+5.133.192.135 1 1 4264 20240121213130
+143.198.52.129 1 1 4243 20240123223133
+198.235.24.102 1 1 17038 20240102092720
+188.166.69.50 1 1 4264 20240128000745
+123.14.250.206 1 1 4264 20240120012938
+93.158.91.11 1 1 4264 20240115141232
+188.166.71.124 1 1 4264 20240101064453
+161.35.88.20 1 1 4264 20240118082130
+157.245.38.75 1 1 4264 20240115051615
+68.183.86.66 1 1 12507 20240102044928
+142.93.167.203 1 1 3072 20240116170737
+159.223.192.196 1 1 12504 20240102030901
+198.235.24.117 1 1 17038 20240102193906
+138.197.28.251 1 1 4264 20240107064121
+91.92.241.173 1 1 4264 20240102083243
+36.32.3.154 1 1 4264 20240129071041
+206.189.125.232 1 1 4264 20240116171951
+171.12.10.165 1 1 4264 20240104040634
+167.71.107.131 1 1 2857 20240123190648
+37.27.34.215 1 1 4264 20240127191809
+5.161.116.89 1 1 4876 20240123075917
+164.92.154.23 1 1 3072 20240122115648
+93.158.91.12 1 1 4264 20240103022834
+54.188.207.21 1 1 4264 20240116054933
+45.55.135.188 1 1 4264 20240103064141
+138.68.169.165 1 1 4264 20240117070658
+167.71.103.5 1 1 2857 20240116203935
+142.93.167.19 1 1 2494 20240124214502
+164.92.237.242 1 1 4264 20240114021814
+64.23.139.71 1 1 4264 20240103231434
+164.90.159.212 1 1 3653 20240117034201
+46.101.125.33 1 1 4264 20240127230125
+159.203.132.67 1 1 12501 20240130024604
+147.235.208.117 1 1 4264 20240116132230
+77.74.177.119 1 1 4264 20240109155641
+104.236.73.211 1 1 4264 20240121204955
+104.236.73.172 1 1 3062 20240116181432
+183.136.225.44 1 1 17038 20240122044620
+178.128.27.38 1 1 3062 20240123032616
+128.199.111.179 1 1 4328 20240122153335
+128.199.111.233 1 1 4243 20240116204132
+164.90.158.22 1 1 4264 20240119054003
+103.215.127.179 1 1 4264 20240114193537
+5.78.90.191 1 1 2926 20240122170557
+64.227.41.190 1 1 4264 20240114044953
+167.71.103.6 1 1 3653 20240122113708
+81.181.56.5 1 1 4264 20240119051100
+157.230.81.32 1 1 4264 20240109053504
+167.99.141.224 1 1 2926 20240116172318
+146.190.123.101 1 1 4264 20240122112441
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20240101 1 1 4264 1
+20240102 6 6 67615 6
+20240103 5 5 46868 5
+20240104 2 2 8528 2
+20240105 8 8 34112 2
+20240106 1 1 17038 1
+20240107 4 4 42937 2
+20240109 3 3 12792 3
+20240110 1 15 2280099 1
+20240111 5 5 21320 3
+20240113 1 1 4264 1
+20240114 7 7 55729 5
+20240115 4 32 4568726 3
+20240116 32 55 2449144 15
+20240117 2 2 7917 2
+20240118 3 3 12792 3
+20240119 2 2 8528 2
+20240120 1 1 4264 1
+20240121 2 2 8528 2
+20240122 7 16 4682832 7
+20240123 5 5 19302 5
+20240124 1 1 2494 1
+20240125 5 5 46868 5
+20240126 2 20 9295102 2
+20240127 3 3 12792 3
+20240128 2 2 8528 2
+20240129 2 2 8528 2
+20240130 6 6 33821 2
+20240131 2 16 2284363 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+5mn-15mn 1
+0s-30s 90
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 16
+/ 80 513201 68 64
+/informacion_crc.php 6 36765 2 5
+/contactenos.php 6 44838 2 2
+/residenciales.php 6 17418 5 5
+/index.php 4 17056 2 2
+/caracteristicas.php 3 12984 2 2
+/corporativo.php 3 8778 2 2
+/factores.php 3 10959 2 2
+/medidor.php 3 8571 2 2
+/control.php 3 12729 2 2
+/procedimientos.php 3 14628 2 2
+/pqr/upload/view.php 1 1758 0 0
+/pqr/upload/index.php 1 1575 0 0
+/pqr/upload/account.php 1 7377 0 1
+/pqr/upload/open.php 1 2916 0 0
+/pqr/upload/ 1 1576 0 0
+END_SIDER

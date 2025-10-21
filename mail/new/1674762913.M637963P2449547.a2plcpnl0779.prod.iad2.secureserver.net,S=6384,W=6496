@@ -1,0 +1,112 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id gE7GJKHa0mOLYCUAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Thu, 26 Jan 2023 12:55:13 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Thu, 26 Jan 2023 12:55:13 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1pL8L3-00AMBx-FK
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Thu, 26 Jan 2023 12:55:13 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1pL8Ky-00AMA5-6j@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1674762913-eximdsn-1744604388
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pL8L3-00AMBx-FK@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 26 Jan 2023 12:55:13 -0700
+
+--1674762913-eximdsn-1744604388
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 L8L3pXAUSy0IM :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=DbjR6NhW c=1 sm=1 tr=0 ts=63d2daa1 p=C21gv6WUGIYA:10 p=iN7Q5yMHLDsA:10 p=2Lip6yiJjLQA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=0GKau7S5yvIA:10 a=RvmDmJFTN0MA:10 a=smrCSdiaAAAA:8 a=NKn706gz2RZ-lU1AFZ0A:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=M9ZHoLuYIHMl9pbmgCZa:22 ::
+    100.00
+
+--1674762913-eximdsn-1744604388
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 L8L3pXAUSy0IM :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=DbjR6NhW c=1 sm=1 tr=0 ts=63d2daa1 p=C21gv6WUGIYA:10 p=iN7Q5yMHLDsA:10 p=2Lip6yiJjLQA:10 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=gQX1269ULFhLm4Thdby34LUHVW0=:19 a=0GKau7S5yvIA:10 a=RvmDmJFTN0MA:10 a=smrCSdiaAAAA:8 a=NKn706gz2RZ-lU1AFZ0A:9 a=5ZVTF8RY2NLlgb4Yx1la:22 a=M9ZHoLuYIHMl9pbmgCZa:22 :: 100.00
+
+--1674762913-eximdsn-1744604388
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1pL8Ky-00AMA5-6j
+	for servicioalcliente@serkoi.com;
+	Thu, 26 Jan 2023 12:55:13 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: www.proditelsas.com/send.php for 212.102.57.23
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 212.102.57.23
+From:
+Message-Id: <E1pL8Ky-00AMA5-6j@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Thu, 26 Jan 2023 12:55:08 -0700
+
+De: Elinor Flaherty. 
+Correo: . 
+Telefono: 0350 0685609. 
+Mensaje: Your Site Has Been Hacked
+
+PLEASE FORWARD THIS EMAIL TO SOMEONE IN YOUR COMPANY WHO IS ALLOWED TO MAKE IMPORTANT DECISIONS!
+
+We have hacked your website http://www.proditelsas.com and extracted your databases.
+
+How did this happen?
+
+Our team has found a vulnerability within your site that we were able to exploit. After finding the vulnerability we were able to get your database credentials and extract your entire database and move the information to an offshore server.
+
+What does this mean?
+
+We will systematically go through a series of steps of totally damaging your reputation. First your database will be leaked or sold to the highest bidder which they will use with whatever their intentions are. Next if there are e-mails found they will be e-mailed that their information has been sold or leaked and your http://www.proditelsas.com was at fault thusly damaging your reputation and having angry customers/associates with whatever angry customers/associates do. Lastly any links that you have indexed in the search engines will be de-indexed based off of blackhat techniques that we used in the past to de-index our targets.
+
+How do I stop this?
+
+We are willing to refrain from destroying your site’s reputation for a small fee. The current fee is $3000 in bitcoins (0.14 BTC).
+
+The amount(approximately): $3000 (0.14 BTC)
+The Address Part 1: bc1qc7ujzextq352sygfk
+The Address Part 2: qcs4tsg7e88m0ktmc9jng
+
+So, you have to manually copy + paste Part1 and Part2 in one string made of 42 characters with no space between the parts that start with "b" and end with "g" is the actually address where you should send the money to.
+
+ Once you have paid we will automatically get informed that it was your payment. Please note that you have to make payment within 72 hours after receiving this message or the database leak, e-mails dispatched, and de-index of your site WILL start!
+
+How do I get Bitcoins?
+
+You can easily buy bitcoins via several websites or even offline from a Bitcoin-ATM. 
+
+What if I don’t pay?
+
+If you decide not to pay, we will start the attack at the indicated date and uphold it until you do, there’s no counter measure to this, you will only end up wasting more money trying to find a solution. We will completely destroy your reputation amongst google and your customers.
+
+This is not a hoax, do not reply to this email, don’t try to reason or negotiate, we will not read any replies. Once you have paid we will stop what we were doing and you will never hear from us again!
+
+Please note that Bitcoin is anonymous and no one will find out that you have complied.. 
+
+
+--1674762913-eximdsn-1744604388--

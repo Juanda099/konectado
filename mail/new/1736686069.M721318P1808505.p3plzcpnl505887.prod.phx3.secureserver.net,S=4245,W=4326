@@ -1,0 +1,81 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id sP1FKvW5g2d5mBsA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sun, 12 Jan 2025 05:47:49 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sun, 12 Jan 2025 05:47:49 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1tWxNd-007eSC-25
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sun, 12 Jan 2025 05:47:49 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1tWxNR-007eP5-2x@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1736686069-eximdsn-687768267
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tWxNd-007eSC-25@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 12 Jan 2025 05:47:49 -0700
+
+--1736686069-eximdsn-687768267
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 WxNdttoV5nSjh :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=F92tdrhN c=1 sm=1 tr=0 ts=6783b9f5 p=CFNEJXYnAAAA:8 p=UPmT9_8KJMVxGwdI_gAA:9 p=aGo64kcQDBYA:10 p=hY_VBEvCjrMA:10 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=DG8RdKPbU5QA:10 a=27SxaIuBhY5rPlt89Ii3:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    100.00
+
+--1736686069-eximdsn-687768267
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 WxNdttoV5nSjh :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=F92tdrhN c=1 sm=1 tr=0 ts=6783b9f5 p=CFNEJXYnAAAA:8 p=UPmT9_8KJMVxGwdI_gAA:9 p=aGo64kcQDBYA:10 p=hY_VBEvCjrMA:10 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=VdSt8ZQiCzkA:10 a=smrCSdiaAAAA:8 a=3ZKOabzyN94A:10 a=DG8RdKPbU5QA:10 a=27SxaIuBhY5rPlt89Ii3:22 a=M9ZHoLuYIHMl9pbmgCZa:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 100.00
+
+--1736686069-eximdsn-687768267
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1tWxNR-007eP5-2x
+	for servicioalcliente@serkoi.com;
+	Sun, 12 Jan 2025 05:47:49 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+From:
+Message-Id: <E1tWxNR-007eP5-2x@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sun, 12 Jan 2025 05:47:37 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Leah Garibay. 
+Correo: . 
+Telefono: 232709696. 
+Mensaje: 
+What if your website proditelsas.com could see a significant boost in traffic starting today? Many sites unknowingly miss out on hundreds—even thousands—of potential visitors daily. Our AI-powered solution ensures you don’t fall into that category.
+
+Get started with a 4,000 visitors at no cost so you can see the results firsthand. Beyond the trial, we deliver plans for up to a quarter million visitors monthly, all targeted to align with your niche. Let’s expand your site’s reach together. Get more information here: https://shorten.so/lBkc6
+. 
+
+
+--1736686069-eximdsn-687768267--

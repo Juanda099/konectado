@@ -1,0 +1,677 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202101 will be lost/reset.
+# Last config file used to build this data file was /home/z1h9uk8mq9i3/tmp/awstats/ssl/awstats.proditelsas.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2694                
+POS_VISITOR 15298               
+POS_DAY 16030               
+POS_DOMAIN 3326                
+POS_LOGIN 3602                
+POS_ROBOT 3757                
+POS_WORMS 4075                
+POS_EMAILSENDER 4206                
+POS_EMAILRECEIVER 4349                
+POS_SESSION 16581               
+POS_SIDER 16749               
+POS_FILETYPES 4484                
+POS_DOWNLOADS 4651                
+POS_OS 5029                
+POS_BROWSER 5162                
+POS_SCREENSIZE 5468                
+POS_UNKNOWNREFERER 5542                
+POS_UNKNOWNREFERERBROWSER 5775                
+POS_ORIGIN 5976                
+POS_SEREFERRALS 6111                
+POS_PAGEREFS 6255                
+POS_SEARCHWORDS 6403                
+POS_KEYWORDS 6555                
+POS_MISC 2358                
+POS_ERRORS 6614                
+POS_CLUSTER 3458                
+POS_SIDER_404 6763                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210201003433 2 158 10283818881662
+FirstTime 20210101182631
+LastTime 20210130050028
+LastUpdate 20210201051034 2 0 1 0 0
+TotalVisits 68                  
+TotalUnique 17                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 17                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 0 3 4 30644
+1 8 8 18546 5 104 34843
+2 3 3 0 3 3 0
+3 3 3 0 5 7 34908
+4 2 2 0 4 4 13572
+5 6 6 22065 3 3 13537
+6 2 2 0 2 2 18546
+7 1 1 0 1 1 9273
+8 4 4 8528 3 5 50039
+9 3 3 4264 3 4 8528
+10 2 2 4264 3 3 4299
+11 3 3 4264 3 5 27143
+12 32 33 119392 5 7 18684
+13 4 4 0 6 8 54303
+14 3 3 9273 2 2 9273
+15 25 25 189566 15 22 100142
+16 38 46 215947 224 368 1899823
+17 20 20 81016 2 2 48600
+18 3 3 0 11 13 110719
+19 4 4 9273 3 3 26311
+20 3 3 0 3 4 73680
+21 1 1 0 3 5 22134
+22 3 3 0 1 3 16904
+23 1 1 0 2 2 26311
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 163 172 618713
+cn 7 7 44875
+nz 2 2 18546
+de 2 2 0
+ca 1 1 4264
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+AhrefsBot/ 62 330049 20210131135305 21
+bot[\s_+:,\.\;\/\\-] 6 117359 20210130033307 0
+no_user_agent 5 175161 20210113201138 0
+curl 1 32220 20210116180349 0
+unknown 1 69 20210103161310 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+html 61 461476 0 0
+Unknown 8 40792 0 0
+env 1 4264 0 0
+js 1 4264 0 0
+txt 8 35815 0 0
+php 105 139787 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 8
+/wp-includes/ID3/readme.txt 1 0 10266
+/wp-includes/js/tinymce/license.txt 1 0 9359
+/wp-includes/ID3/license.commercial.txt 1 0 608
+/wp-includes/ID3/license.txt 1 0 461
+/wp-includes/js/plupload/license.txt 1 0 6838
+/wp-includes/js/swfupload/license.txt 1 0 844
+/wp-includes/images/crystal/license.txt 1 0 143
+/license.txt 1 0 7296
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win7 7 7
+win8.1 1 1
+linux 4 4
+Unknown 67 67
+win10 103 94
+macosx 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 12
+chrome81.0.4044.129 3 3
+chrome83.0.4103.97 1 1
+Unknown 64 64
+firefox81.0 3 3
+chrome40.0.2214.85 2 2
+chrome63.0.3239.132 1 1
+chrome68.0.3440.106 1 1
+netscape5.0 3 3
+chrome72.0.3626.119 1 1
+firefox57.0 1 1
+chrome84.0.4147.125 102 93
+chrome76.0.3809.132 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0 20210106192306
+WordPress/5.4.2;_https://www.proditelsas.com 20210120005458
+WordPress/5.4.2;_http://www.proditelsas.com 20210103161506
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/5.4.2;_http://www.proditelsas.com 20210103161506
+WordPress/5.4.2;_https://www.proditelsas.com 20210120005458
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 93 102
+From1 0 0
+From2 0 0
+From3 0 0
+From4 82 82
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+500 1 1063
+301 33 0
+401 2 70
+302 8 0
+400 10 210
+405 1 60
+404 453 1991691
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 335
+/haraj.zip 2 -
+/Desktop.ini 1 -
+/wordpress-5.5.tar.gz 2 -
+/wordpress-5.4.2%20%281%29.zip 2 -
+/wordpress-5.2.1.zip 2 -
+/wp-content/plugins/angwp/assets/dist/angwp.bundle.js.css 2 -
+/phpcs.xml 1 -
+/sitemap.xml 1 -
+/bk.zip 2 -
+/wp-config-backup1.txt 1 -
+/wp-includes/access.log 1 -
+/wp-content/themes/NativeChurch/download/download.php 1 -
+/wp-content/plugins/ultimate-member/assets/js/um-modal.js 2 -
+/.nsf..winntwin.ini 1 -
+/.plan 1 -
+/wp-config.SAVE 1 -
+/wp-config.ZIP 1 -
+/wp-load.zip 2 -
+/.bashrc 1 -
+/php.ini 1 -
+/public_html.zip 2 -
+/wp-content.zip 2 -
+/myadmin 1 -
+/.htaccess.bak 1 -
+/fruits.zip 2 -
+/wp-content/themes/listingpro/assets/js/main.js 1 -
+/wp-config.COPY 1 -
+/wp-config.ORIG 1 -
+/.wp-config.php.swp 1 -
+/wp-config.php.TAR.GZ 1 -
+/wp-config.backup 1 -
+/soprasotto.zip 2 -
+/wp-config.php.bak 1 -
+/.lynx_cookies 1 -
+/Thumbs.db 1 -
+/wp-admin_old.zip 2 -
+/.wp-config.php.SWP 1 -
+/.php_cs.dist 1 -
+/wp-content/plugins/media-library-assistant/includes/mla-file-downloader.php 1 -
+/wp-config.BAK 1 -
+/wordpress%20%281%29.zip 2 -
+/wp-content/plugins/advanced-uploader/upload.php 1 -
+/.proclog 1 -
+/wordpress.rar 2 -
+/config.bak 1 -
+/wp-config.php.BACKUP 1 -
+/.meta 2 -
+/wordpress-5.3-fa_IR.zip 2 -
+/js.zip 2 -
+/.procmailrc 1 -
+/wp-admin.zip 2 -
+/wp-config.php.2 1 -
+/wp-config.php.3 1 -
+/wp-includes.7z 2 -
+/wp-content/plugins/cherry-plugin/admin/import-export/download-content.php 1 -
+/wp-config.php.old 1 -
+/cgi-bin.zip 2 -
+/resources.xml 1 -
+/wp-content/plugins/aspose-doc-exporter/aspose_doc_exporter_download.php 1 -
+/a-y-t.zip 2 -
+/sts.zip 2 -
+/wp-config.php.original 1 -
+/.access 1 -
+/wordpress-3.3.2.zip 2 -
+/.bash_history 1 -
+/wordpress.zip 2 -
+/.ssh 1 -
+/fitness.zip 2 -
+/wordpress-5.5.1.zip 2 -
+/wordpress%204.9.8-fa.zip 2 -
+/pma 1 -
+/wp-config.TEST 1 -
+/wp-config_inc 1 -
+/proditelsascom.zip 2 -
+/weblogic.xml 2 -
+/.gitignore 2 -
+/.history 1 -
+/latest.tar.gz 2 -
+/wp-content/plugins/recent-backups/download-file.php 1 -
+/rest.zip 2 -
+/sqladmin 1 -
+/.env 1 -
+/installer.zip 2 -
+/wp-content/themes/churchope/lib/downloadlink.php 1 -
+/wp-config.php_BAK 1 -
+/Makefile.in 1 -
+/wp-config.TXT 1 -
+/.gitattributes 1 -
+/wp-config.php.test 1 -
+/bac.zip 2 -
+/wp-content/plugins/sniplets/modules/syntax_highlight.php 1 -
+/.well-known.zip 2 -
+/wp-config 2 -
+/config.json 1 -
+/wp-includes.zip 2 -
+/wp-config.TMP 1 -
+/wp-content/plugins/wp-support-plus-responsive-ticket-system/includes/admin/downloadAttachment.php 1 -
+/wp-content/themes/holding_pattern/admin/upload-file.php 1 -
+/debug.log 1 -
+/readme.txt 1 -
+/.mysql_history 1 -
+/wp-content/themes/twentythirteen/fonts/LICENSE.txt 1 -
+/node.xml 1 -
+/account 2 -
+/Robots.txt 1 -
+/wordpress5.2.zip 2 -
+/wp-config.back 1 -
+/wordpress-5.3.zip 2 -
+/wp-config.phpe 1 -
+/.web 2 -
+/wp-content/plugins/ait-csv-import-export/admin/assets/scripts/scripts.js 2 -
+/wp-config_INC 1 -
+/force-download.php 1 -
+/wp-config.old 1 -
+/vse.zip 2 -
+/.nsconfig 1 -
+/wp-config.php._inc 1 -
+/wp-config.txt 1 -
+/wp-content/access.log 1 -
+/.htaccess.zip 2 -
+/tags.txt 1 -
+/www.proditelsas.com.zip 2 -
+/proditelsas.zip 2 -
+/.travis.yml 1 -
+/wordpress-5.5.3.zip 2 -
+/wp-content-backup.zip 2 -
+/wp-config.phpOLD 1 -
+/wp-content/debug.log 1 -
+/wp-config-backup 1 -
+/wp-config.TAR.GZ 1 -
+/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/js/dnd-upload-cf7.js 2 -
+/proditelsas.com.zip 2 -
+/wordpress-5.3.2.zip 2 -
+/wp-config.copy 1 -
+/wp-config.test 1 -
+/tg.zip 2 -
+/wp-config.phpa 1 -
+/logs.txt 1 -
+/wordpress-5.5.zip 2 -
+/wordpress-5.1.1.zip 2 -
+/ALL_FILES.zip 2 -
+/LICENSE.txt 1 -
+/.user.ini 1 -
+/wp-config.php.1 1 -
+/archive.zip 2 -
+/.addressbook 1 -
+/server.xml 1 -
+/2019-bk.zip 2 -
+/VERSION 1 -
+/all.zip 2 -
+/.profile 1 -
+/wordpress-5.2.3.zip 2 -
+/.rhosts 1 -
+/wordpress-5.2.2.zip 2 -
+/db 1 -
+/wp-content/plugins/ungallery/source_editf3.php 1 -
+/pre.zip 2 -
+/wp.zip 2 -
+/serverindex.xml 1 -
+/xxx.zip 2 -
+/wp-config.php.txt 1 -
+/infected.tar.gz 2 -
+/2020-new.zip 2 -
+/logs/php-errors.log 1 -
+/back.zip 2 -
+/wp-admin/debug.log 1 -
+/config.inc 1 -
+/access.log 1 -
+/adminer.php 1 -
+/.wwwacl 1 -
+/wordpress-scan.zip 2 -
+/wp-content/plugins/tera-charts/charts/treemap.php 1 -
+/wp-content/themes/mTheme-Unus/css/css.php 1 -
+/wp-content/php_errors.log 1 -
+/barcode.zip 2 -
+/wp-login.php.zip 2 -
+/wp-config.php.SAVE 1 -
+/my-account 2 -
+/web.config 1 -
+/wp-content/plugins/newsletter/admin.js 2 -
+/wp-content/plugins/mini-mail-dashboard-widgetwp-mini-mail.php 1 -
+/wordpress-5.4.1.zip 2 -
+/.well-known/security.txt 1 https://proditelsas.com/.well-known/security.txt
+/php_error.log 1 -
+/wp-config%20fix.txt 1 -
+/wp-config.php.dat 1 -
+/wp-content/plugins/eshop-magic/download.php 1 -
+/wp-config.original 1 -
+/assets.zip 2 -
+/php.ini.sample 1 -
+/wp-config.zip 1 -
+/wp-config.php.COPY 1 -
+/.htaccess 2 -
+/.htpasswd 2 -
+/wp-config.php-old 1 -
+/wp-config.php.TXT 1 -
+/Archive.zip 2 -
+/sitemap.xml.gz 1 -
+/Backup.zip 2 -
+/wp-content/plugins/db-backup/download.php 1 -
+/wp-config.BACK 1 -
+/.sh_history 1 -
+/woo.zip 2 -
+/.wp-config.php.BCK 1 -
+/wp-config.php.swo 1 -
+/phpmy 1 -
+/wp-content/plugins/mygallery/myfunctions/mygallerybrowser.php 1 -
+/wp-content/uploads/ 1 -
+/config.xml 1 -
+/backup.zip 2 -
+/wp-config.php.zip 1 -
+/robots 1 -
+/latest.zip 2 -
+/wordpress-5.3.2-ru_RU.zip 2 -
+/mysqladmin 1 -
+/wp-admin/access.log 1 -
+/wp-config.php.bck 1 -
+/wp-content/force-download.php 1 -
+/security.xml 1 -
+/without%20wp-content%20wordpress.zip 2 -
+/speed.zip 2 -
+/.pinerc 1 -
+/.FBCIndex 1 -
+/config.ini 1 -
+/wordpress-4.9.9.tar.gz 2 -
+/wp-config.php.TMP 1 -
+/wp-config.ORIGINAL 1 -
+/backup.tar 2 -
+/web.xml 2 -
+/wp-config.php.db 1 -
+/wordpress-5.5.3.tar.gz 2 -
+/new.zip 2 -
+/wp-config.php.ORIG 1 -
+/wordpress-5.3.2%20%282%29.zip 2 -
+/user.ini 1 -
+/wp-config.tar.gz 1 -
+/wordpress-4.9.1-fa_IR.zip 2 -
+/.lscache_htaccess_bak.zip 2 -
+/.passwd 1 -
+/error.txt 1 -
+/.svn 1 -
+/register 4 -
+/errors.txt 1 -
+/wp-config.php.SWO 1 -
+/wp-content/uploads/wpcf7_uploads 1 -
+/file-backup.zip 2 -
+/.dockerignore 1 -
+/wp-config.php.DB 1 -
+/wp-config.php._INC 1 -
+/wp-config.php.ORIGINAL 1 -
+/wordpress-4.8.14.tar.gz 2 -
+/betheme.zip 2 -
+/wp-config.php.orig 1 -
+/version.xml 1 -
+/wp-config.OLD 1 -
+/composer.json 1 -
+/wp-config.save 1 -
+/.psql_history 1 -
+/public_html.tar.gz 2 -
+/readme.html 1 -
+/test.txt 1 -
+/site.zip 2 -
+/.DS_Store 2 -
+/wp-config.php.DAT 1 -
+/nutri1.zip 2 -
+/mysql 1 -
+/.quarantine.zip 2 -
+/wp-config.php~ 1 -
+/wp-includes/debug.log 1 -
+/wp-config.dat 1 -
+/admin.zip 2 -
+/wp-config.php.restore 1 -
+/wp-config.db 1 -
+/wp-content/plugins/mac-dock-gallery/macdownload.php 1 -
+/wp-config-backup.txt 1 -
+/log.txt 1 -
+/wp-includes/js/plupload/changelog.txt 1 -
+/wordpress-5.4.zip 2 -
+/Archive1.zip 2 -
+/wp-admin/code87/uwu.php 1 -
+/wp-config.tmp 1 -
+/wp-content/plugins/wptf-image-gallery/lib-mbox/ajax_load.php 1 -
+/wp-config.php.bkp 1 -
+/wp-config.php.copy 1 -
+/wordpress-5.5.1%20%281%29.zip 2 -
+/.htaccess.sample 1 -
+/phpmanager 1 -
+/wp-config.php.BCK 1 -
+/wp-config.php.OLD 1 -
+/wp-content/plugins/simple-image-manipulator/controller/download.php 1 -
+/wp-includes/js/tinymce/plugins/spellchecker/changelog.txt 1 -
+/wp-config.php_bak 1 -
+/wp-config.BACKUP 1 -
+/wp-config.php.ZIP 1 -
+/1.zip 2 -
+/wp-content/plugins/google-document-embedder/libs/pdf.php 1 -
+/wp-config.bak 1 -
+/wordpress-4.9.8.zip 2 -
+/wp-content/plugins/google-mp3-audio-player/direct_download.php 1 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 2 -
+/.git 1 -
+/wp-config.php.BACK 1 -
+/wp-content/plugins/sf-booking/lib/downloads.php 1 -
+/wp-config.php.save 1 -
+/php_errors.log 1 -
+/wp-content/plugins/easy-wp-smtp/ 2 -
+/CHANGELOG.md 1 -
+/wp-config.php.tmp 1 -
+/wp-content.tar 2 -
+/.wp-config.php.bck 1 -
+/wp-config.php.backup 1 -
+/wp-content/plugins/ungallery/source_vuln.php 1 -
+/wp-config.php.TEST 1 -
+/soapConfig.xml 1 -
+/wplatest.zip 2 -
+/wp-config.php.swp 1 -
+/README.md 1 -
+/old.zip 2 -
+/wp-content/themes/twentythirteen/fonts/COPYING.txt 1 -
+/config.status 1 -
+/.well-known.tar.gz 2 -
+/wp-config.php.tar.gz 1 -
+/wp-config.php.SWP 1 -
+/wp-config.php.back 1 -
+/.perf 1 -
+/phpmyadmin 2 https://www.proditelsas.com:443/phpmyadmin
+/wp-config.php.BAK 1 -
+/wordpress-5.4.2.zip 2 -
+/.eslintignore 1 -
+/.www_acl 1 -
+/wp-config.DB 1 -
+/wp-config.orig 1 -
+/.forward 1 -
+/website.zip 2 -
+/wp-config.DAT 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 17
+107.180.46.150 64 64 0 20210120005458
+52.174.47.48 27 28 119392 20210121120935
+68.183.205.7 26 34 206674 20210103161509
+72.167.225.34 22 22 157397 20210106154348
+206.189.235.21 19 19 81016 20210125173752
+221.2.155.200 3 3 27819 20210106192306
+18.188.137.173 2 2 8528 20210124081227
+138.246.253.24 2 2 0 20210128014900
+45.67.58.147 2 2 18546 20210111010100
+47.74.183.52 1 1 4264 20210129111504
+119.118.21.240 1 1 4264 20210130050024
+34.76.210.60 1 1 9273 20210119050630
+119.3.173.22 1 1 4264 20210128104937
+221.205.139.157 1 1 4264 20210130050025
+111.224.235.174 1 1 4264 20210130050028
+34.220.45.254 1 1 4264 20210128090520
+3.21.37.6 1 1 32169 20210109155244
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20210101 1 1 0 1
+20210102 2 2 0 2
+20210103 38 46 206674 5
+20210104 1 1 0 1
+20210105 1 1 0 1
+20210106 34 34 185216 12
+20210107 2 2 0 2
+20210108 1 1 0 1
+20210109 8 8 32169 7
+20210110 4 4 0 3
+20210111 6 6 18546 3
+20210112 1 1 0 1
+20210113 7 7 0 6
+20210114 2 2 0 2
+20210115 3 3 0 3
+20210116 1 1 0 1
+20210117 2 2 0 2
+20210118 1 1 0 1
+20210119 3 3 9273 2
+20210120 1 1 0 1
+20210121 28 29 119392 2
+20210124 2 2 8528 1
+20210125 19 19 81016 1
+20210128 3 3 8528 3
+20210129 1 1 4264 1
+20210130 3 3 12792 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 2
+5mn-15mn 3
+0s-30s 63
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 25
+/wp-cron.php 63 0 49 48
+/ 61 461476 18 16
+/wp-login.php 18 45979 0 1
+/shop 3 19472 0 0
+/wp-admin/admin-ajax.php 3 8528 0 1
+/wp-beckup.php 2 8528 0 0
+/cachee.php 2 8528 0 1
+/wp-blockup.php 2 8528 0 0
+/wp-stream.php 2 8528 0 0
+/wp-blog-header.php 2 8528 0 0
+/engl/pages.php 2 8528 0 0
+/register 2 8528 0 0
+/media-admin.php 1 4264 0 0
+/wp-admin/options-general.php 1 4264 0 0
+/.well-known/acme-challenge/engl/pages.php 1 4264 0 0
+/index.php 1 4264 0 0
+/my-account 1 4264 0 0
+/wp-config.php 1 0 0 0
+/engl/css/index.php 1 4264 0 0
+/wp-content/engl/pages.php 1 4264 0 0
+/account 1 4264 0 0
+/wp-content/themes/engl/pages.php 1 4264 0 0
+/wp-itapi.php 1 4264 0 0
+/login 1 4264 0 1
+/.env 1 4264 1 0
+END_SIDER

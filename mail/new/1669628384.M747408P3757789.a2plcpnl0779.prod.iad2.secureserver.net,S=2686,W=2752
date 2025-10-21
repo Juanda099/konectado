@@ -1,0 +1,66 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 2PKmKeCBhGPdVjkAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 28 Nov 2022 02:39:44 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 28 Nov 2022 02:39:44 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	id 1ozac4-00FnYS-I9
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Mon, 28 Nov 2022 02:39:44 -0700
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1ozabz-00FnSX-BC@a2plcpnl0779.prod.iad2.secureserver.net>
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1ozac4-00FnYS-I9@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 28 Nov 2022 02:39:44 -0700
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  This message was classified as SPAM and may not be delivered
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.95)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1ozabz-00FnSX-BC
+	for servicioalcliente@serkoi.com;
+	Mon, 28 Nov 2022 02:39:39 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 23.105.145.5
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 23.105.145.5
+From:
+Message-Id: <E1ozabz-00FnSX-BC@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 28 Nov 2022 02:39:39 -0700
+
+De: Chastity Tinsley. 
+Correo: . 
+Telefono: . 
+Mensaje: Hello there,
+
+If you have been considering buying in Florida, we have every build project in the state listed on 
+our website. Builders are slashing prices and wheeling and dealing trying to sell fast due to the 
+rapidly changing market.
+
+Builders have way more projects than buyers and are offering big discounts right from the start.
+Many can even help with more creative financing so they don't take a loss.
+
+If you think prices are too high, this website may surprise you.
+
+Get huge price cuts, incentives and possibly even help with financing for your brand spanking new home right here at
+
+https://specialzap.com/FLNewConstruction
+
+All the best,
+
+
+Opt OUt Here
+https://redeyedeal.com/opt-out-2954. 
+

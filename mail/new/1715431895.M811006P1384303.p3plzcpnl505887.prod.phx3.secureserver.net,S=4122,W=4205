@@ -1,0 +1,83 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Received: from p3plzcpnl505887.prod.phx3.secureserver.net
+	by p3plzcpnl505887.prod.phx3.secureserver.net with LMTP
+	id xGt0L9dpP2ZvHxUA8FQiWg
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>; Sat, 11 May 2024 05:51:35 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+Delivery-date: Sat, 11 May 2024 05:51:35 -0700
+Received: from mailnull by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	id 1s5mCN-005o7M-2M
+	for z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net;
+	Sat, 11 May 2024 05:51:35 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plzcpnl505887.prod.phx3.secureserver.net>
+To: z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net
+References: <E1s5mCB-005nrS-2T@p3plzcpnl505887.prod.phx3.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1715431895-eximdsn-1915497091
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1s5mCN-005o7M-2M@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 11 May 2024 05:51:35 -0700
+
+--1715431895-eximdsn-1915497091
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host p3nlsmtpcp01-v01.prod.phx3.secureserver.net [132.148.124.48]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 5mCNsc5YoUBkk :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=FOzQxPos c=1 sm=1 tr=0 ts=663f69d7 p=QoGtB9sFAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=lGVfK4XFQBZ7gSF_jsYA:9 a=gcbkTC6dJqEA:10 a=d1EBB6rutA0fuNKKvUqK:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=uqiX92OymXnm-wjIbegj:22 ::
+    100.00
+
+--1715431895-eximdsn-1915497091
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plzcpnl505887.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp01-v01.prod.phx3.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 5mCNsc5YoUBkk :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=FOzQxPos c=1 sm=1 tr=0 ts=663f69d7 p=QoGtB9sFAAAA:8 a=xYvQq5hmYUp9UrEdZ97h8g==:117 a=vNFNZZkJ8twA:10 a=TpHVaj0NuXgA:10 a=lGVfK4XFQBZ7gSF_jsYA:9 a=gcbkTC6dJqEA:10 a=d1EBB6rutA0fuNKKvUqK:22 a=5ZVTF8RY2NLlgb4Yx1la:22 a=uqiX92OymXnm-wjIbegj:22 :: 100.00
+
+--1715431895-eximdsn-1915497091
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>
+Received: from z1h9uk8mq9i3 by p3plzcpnl505887.prod.phx3.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@p3plzcpnl505887.prod.phx3.secureserver.net>)
+	id 1s5mCB-005nrS-2T
+	for servicioalcliente@serkoi.com;
+	Sat, 11 May 2024 05:51:35 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 173.244.55.129
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 173.244.55.129
+From:
+Message-Id: <E1s5mCB-005nrS-2T@p3plzcpnl505887.prod.phx3.secureserver.net>
+Date: Sat, 11 May 2024 05:51:23 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-shz
+X-ENVIRONMENT: prod
+
+De: Phil Stewart. 
+Correo: . 
+Telefono: 342-123-4456. 
+Mensaje: Hey, looking to boost your ad game? Picture your message hitting website contact forms worldwide, grabbing attention from potential customers everywhere! Starting at just under a hundred bucks my budget-friendly packages are designed to make an impact. Drop me an email now to discuss how you can get more leads and sales now!
+
+P. Stewart
+Email: ls98rm@submitmaster.xyz
+Skype: form-blasting. 
+
+
+--1715431895-eximdsn-1915497091--

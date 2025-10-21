@@ -1,0 +1,111 @@
+Return-Path: <>
+Delivered-To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Received: from a2plcpnl0779.prod.iad2.secureserver.net
+	by a2plcpnl0779.prod.iad2.secureserver.net with LMTP
+	id 0BevE0hbwWWl8AYAoisFWw
+	(envelope-from <>)
+	for <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>; Mon, 05 Feb 2024 15:03:52 -0700
+Return-path: <>
+Envelope-to: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+Delivery-date: Mon, 05 Feb 2024 15:03:52 -0700
+Received: from mailnull by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	id 1rX74C-001yJU-0f
+	for z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net;
+	Mon, 05 Feb 2024 15:03:52 -0700
+X-Failed-Recipients: servicioalcliente@serkoi.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0779.prod.iad2.secureserver.net>
+To: z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net
+References: <E1rX746-001yI9-2J@a2plcpnl0779.prod.iad2.secureserver.net>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1707170632-eximdsn-220571925
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1rX74C-001yJU-0f@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 05 Feb 2024 15:03:52 -0700
+
+--1707170632-eximdsn-220571925
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  servicioalcliente@serkoi.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 X74Krxkz7Uh6Z :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.4 cv=Gfe0nhXL c=1 sm=1 tr=0 ts=65c15b50 p=CphXZfCdAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=k7vzHIieQBIA:10 a=UCmgRUQ6sIwajVjeiG8A:9 a=qnIuYI-EMhyJtzwlTpqp:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 ::
+    98.00
+
+--1707170632-eximdsn-220571925
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0779.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;servicioalcliente@serkoi.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 X74Krxkz7Uh6Z :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.4 cv=Gfe0nhXL c=1 sm=1 tr=0 ts=65c15b50 p=CphXZfCdAAAA:20 a=dzUv0OF/GqCC23Xtg2zDBA==:117 a=dzUv0OF/GqCC23Xtg2zDBA==:17 a=vNFNZZkJ8twA:10 a=k7vzHIieQBIA:10 a=UCmgRUQ6sIwajVjeiG8A:9 a=qnIuYI-EMhyJtzwlTpqp:22 a=ZT_8zCgGubuJgGonBfBE:22 a=5ZVTF8RY2NLlgb4Yx1la:22 :: 98.00
+
+--1707170632-eximdsn-220571925
+Content-type: message/rfc822
+
+Return-path: <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>
+Received: from z1h9uk8mq9i3 by a2plcpnl0779.prod.iad2.secureserver.net with local (Exim 4.96.2)
+	(envelope-from <z1h9uk8mq9i3@a2plcpnl0779.prod.iad2.secureserver.net>)
+	id 1rX746-001yI9-2J
+	for servicioalcliente@serkoi.com;
+	Mon, 05 Feb 2024 15:03:51 -0700
+To: servicioalcliente@serkoi.com
+Subject: Contacto Pagina Web
+X-PHP-Script: proditelsas.com/send.php for 38.57.149.198
+X-PHP-Filename: /home/z1h9uk8mq9i3/public_html/send.php REMOTE_ADDR: 38.57.149.198
+From:
+Message-Id: <E1rX746-001yI9-2J@a2plcpnl0779.prod.iad2.secureserver.net>
+Date: Mon, 05 Feb 2024 15:03:46 -0700
+X-BRAND: GoDaddy
+X-PRODUCT: cpanel-sh
+X-ENVIRONMENT: prod
+
+De: Orlando Walch. 
+Correo: . 
+Telefono: 04.64.40.61.95. 
+Mensaje: This is going to surprise you...
+
+A little-known whistleblowing doctor walked into a top US hospital with this common pantry food, prepared it and gave it to the overweight patients...
+
+And within weeks 96% of them had dropped an average of 29.4 lbs, supporting healthy blood sugar and blood pressure...
+
+How the doctor's unusual method works is nothing short of incredible... and it has changed everything we thought we knew about weight loss.
+
+The craziest part?
+
+You can do this method for yourself in less than 30 seconds a day...
+
+With one simple pantry food.
+
+Try it for yourself now:
+
+https://hi.switchy.io/KqI_
+
+Skeptical?
+
+I was too, but then I saw this shocking proof for myself.
+
+To your health,
+Orlando
+
+PS. If you have weight concerns, you should try this method for yourself right now. The $80 billion dollar weight loss industry do not want you to see this video and discover the amazing fat-melting pantry food. Watch it now before it's too late.
+
+
+
+
+To unsubscribe reply with the word "unsubscribe" in the subject.
+
+. 
+
+
+--1707170632-eximdsn-220571925--
