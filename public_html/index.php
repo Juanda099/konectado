@@ -37,15 +37,15 @@
 							<a href="#soporte"><div id="button" class="w14 tableo borderl but">
 								<span class="tablei">Soporte</span>
 							</div></a>
-							<a href="#proteccion"><div id="button" class="w14 tableo borderl but">
-								<span class="tablei">Proteccion</span>
-							</div></a>
-							<a href="https://www.zonapagos.com/t_Proditelsas" target="_blank"><div id="button" class="w14 tableo borderl but">
-								<span class="tablei">Pagar Factura</span>
-							</div></a>
-							<a href="contactenos.php"><div id="button" class="w14 tableo borderl borderr but">
-								<span class="tablei">Contactenos</span>
-							</div></a>
+						<a href="#proteccion"><div id="button" class="w14 tableo borderl but">
+							<span class="tablei">Proteccion</span>
+						</div></a>
+						<a href="pagar-factura.php"><div id="button" class="w14 tableo borderl but">
+							<span class="tablei">Pagar Factura</span>
+						</div></a>
+						<a href="contactenos.php"><div id="button" class="w14 tableo borderl borderr but">
+							<span class="tablei">Contactenos</span>
+						</div></a>
 						</div>
 					</div>
 
