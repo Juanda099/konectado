@@ -6,7 +6,7 @@ if ($_POST) {
     $username = $_POST['username'] ?? '';
     $password = $_POST['password'] ?? '';
     
-    $conn = new mysqli('localhost', 'root', 'admin123', 'pqr');
+    $conn = new mysqli('localhost', 'konectando_user', 'Iuf+E2AZ+H~+gC(z', 'konectando_pqr');
     $conn->set_charset("utf8");
     
     $username = $conn->real_escape_string($username);
