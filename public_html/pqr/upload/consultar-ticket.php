@@ -68,7 +68,7 @@
             
             // Procesar respuesta del cliente
             if (isset($_POST['reply_message']) && isset($_POST['ticket_id'])) {
-                $conn = new mysqli('localhost', 'root', 'admin123', 'pqr');
+                $conn = new mysqli('localhost', 'konectando_user', 'Iuf+E2AZ+H~+gC(z', 'konectando_pqr');
                 $conn->set_charset("utf8");
                 
                 $ticket_id = intval($_POST['ticket_id']);
@@ -131,7 +131,7 @@
             
             // Buscar ticket
             if (isset($_POST['ticket_number']) || isset($_POST['ticket_id'])) {
-                $conn = new mysqli('localhost', 'root', 'admin123', 'pqr');
+                $conn = new mysqli('localhost', 'konectando_user', 'Iuf+E2AZ+H~+gC(z', 'konectando_pqr');
                 $conn->set_charset("utf8");
                 
                 if (isset($_POST['ticket_number'])) {
@@ -303,7 +303,7 @@
                     
                     <?php
                     // Obtener mensajes del thread
-                    $conn = new mysqli('localhost', 'root', 'admin123', 'pqr');
+                    $conn = new mysqli('localhost', 'konectando_user', 'Iuf+E2AZ+H~+gC(z', 'konectando_pqr');
                     $conn->set_charset("utf8");
                     
                     $thread_query = "SELECT te.*, 

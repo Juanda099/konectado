@@ -6,7 +6,7 @@ if (!isset($_SESSION['staff_logged']) || $_SESSION['staff_logged'] !== true) {
     exit;
 }
 
-$conn = new mysqli('localhost', 'root', 'admin123', 'pqr');
+$conn = new mysqli('localhost', 'konectando_user', 'Iuf+E2AZ+H~+gC(z', 'konectando_pqr');
 $conn->set_charset("utf8");
 
 echo "<!DOCTYPE html><html><head><meta charset='UTF-8'><title>Lista de Tickets</title>";

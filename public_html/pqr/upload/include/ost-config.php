@@ -40,9 +40,9 @@ define('ADMIN_EMAIL','diegorocha@aycnetworks.net');
 # Mysql Login info
 define('DBTYPE','mysql');
 define('DBHOST','localhost');
-define('DBNAME','pqr');
-define('DBUSER','root');
-define('DBPASS','');
+define('DBNAME','konectando_pqr');
+define('DBUSER','konectando_user');
+define('DBPASS',']tQGFRaTjX{(L?t}');
 
 # Table prefix
 define('TABLE_PREFIX','ost_');

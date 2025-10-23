@@ -69,7 +69,7 @@ if (!isset($_SESSION['staff_logged']) || $_SESSION['staff_logged'] !== true) {
         $ticket_number = '';
         
         if ($_POST) {
-            $conn = new mysqli('localhost', 'root', 'admin123', 'pqr');
+            $conn = new mysqli('localhost', 'konectando_user', 'Iuf+E2AZ+H~+gC(z', 'konectando_pqr');
             $conn->set_charset("utf8");
             
             // Validar datos obligatorios
