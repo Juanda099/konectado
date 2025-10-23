@@ -1,6 +1,7 @@
 <section id="cobertura">
 				<div id="map_canvas" class="bordert" style="width: 100%; height: 376px;"></div>
-						<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBLsIXyGWmytDNc91Mq2VMfEH9oytRp9Ec&callback=initMap"></script>
+						<!-- ⚠️ REEMPLAZAR CON TU GOOGLE MAPS API KEY -->
+						<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=TU_GOOGLE_MAPS_API_KEY_AQUI&callback=initMap"></script>
 						<script>
 						// This example displays a marker at the center of Australia.
 						// When the user clicks the marker, an info window opens.
