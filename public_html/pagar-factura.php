@@ -61,8 +61,8 @@
 		text-align: center;
 		position: relative;
 		perspective: 1000px;
-		min-height: 500px;
 		cursor: pointer;
+		height: auto;
 	}
 	
 	.qr-card::before {
@@ -84,7 +84,7 @@
 	.qr-card-inner {
 		position: relative;
 		width: 100%;
-		height: 100%;
+		min-height: 600px;
 		text-align: center;
 		transition: transform 0.6s;
 		transform-style: preserve-3d;
@@ -97,6 +97,9 @@
 	.qr-card-front, .qr-card-back {
 		position: absolute;
 		width: 100%;
+		min-height: 600px;
+		top: 0;
+		left: 0;
 		backface-visibility: hidden;
 		border-radius: 15px;
 		padding: 40px;
@@ -104,6 +107,9 @@
 		background: white;
 		border: 3px solid transparent;
 		transition: all 0.3s ease;
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-start;
 	}
 	
 	.qr-card-front {
@@ -343,6 +349,15 @@
 		}
 		
 		.qr-card {
+			padding: 30px 20px;
+		}
+		
+		.qr-card-inner {
+			min-height: 550px;
+		}
+		
+		.qr-card-front, .qr-card-back {
+			min-height: 550px;
 			padding: 30px 20px;
 		}
 		
