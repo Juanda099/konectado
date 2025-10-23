@@ -56,14 +56,13 @@
 	}
 	
 	.qr-card {
-		background: white;
+		background: transparent;
 		border-radius: 15px;
-		padding: 40px;
-		box-shadow: 0 5px 20px rgba(0,0,0,0.1);
 		text-align: center;
-		transition: all 0.3s ease;
-		border: 3px solid transparent;
 		position: relative;
+		perspective: 1000px;
+		min-height: 500px;
+		cursor: pointer;
 	}
 	
 	.qr-card::before {
@@ -75,14 +74,49 @@
 		width: 80%;
 		height: 3px;
 		background: linear-gradient(90deg, transparent, #e0e0e0, transparent);
+		z-index: 10;
 	}
 	
 	.qr-card:first-child::before {
 		display: none;
 	}
 	
-	.qr-card:hover {
-		transform: scale(1.02);
+	.qr-card-inner {
+		position: relative;
+		width: 100%;
+		height: 100%;
+		text-align: center;
+		transition: transform 0.6s;
+		transform-style: preserve-3d;
+	}
+	
+	.qr-card.flipped .qr-card-inner {
+		transform: rotateY(180deg);
+	}
+	
+	.qr-card-front, .qr-card-back {
+		position: absolute;
+		width: 100%;
+		backface-visibility: hidden;
+		border-radius: 15px;
+		padding: 40px;
+		box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+		background: white;
+		border: 3px solid transparent;
+		transition: all 0.3s ease;
+	}
+	
+	.qr-card-front {
+		z-index: 2;
+		transform: rotateY(0deg);
+	}
+	
+	.qr-card-back {
+		transform: rotateY(180deg);
+	}
+	
+	.qr-card:hover .qr-card-front,
+	.qr-card:hover .qr-card-back {
 		box-shadow: 0 15px 40px rgba(0,0,0,0.15);
 	}
 	
@@ -147,6 +181,50 @@
 		color: #333;
 		margin: 0;
 		font-weight: 500;
+	}
+	
+	.click-to-reveal {
+		background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+		color: white;
+		padding: 20px 40px;
+		border-radius: 50px;
+		font-size: 14pt;
+		font-weight: bold;
+		display: inline-flex;
+		align-items: center;
+		gap: 10px;
+		margin: 30px auto;
+		box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+		animation: pulse 2s infinite;
+	}
+	
+	@keyframes pulse {
+		0%, 100% {
+			transform: scale(1);
+		}
+		50% {
+			transform: scale(1.05);
+		}
+	}
+	
+	.click-to-close {
+		background: #6c757d;
+		color: white;
+		padding: 15px 30px;
+		border-radius: 50px;
+		font-size: 12pt;
+		font-weight: bold;
+		display: inline-flex;
+		align-items: center;
+		gap: 10px;
+		margin: 20px auto;
+		cursor: pointer;
+		transition: all 0.3s ease;
+	}
+	
+	.click-to-close:hover {
+		background: #5a6268;
+		transform: scale(1.05);
 	}
 	
 	.qr-image-container {
@@ -343,86 +421,206 @@
 					<div class="qr-grid">
 						
 						<!-- Nequi -->
-						<div class="qr-card nequi">
-							<div class="qr-card-header">
-								<div class="qr-card-number" style="color: #fc2779;">1</div>
-								<i class="fas fa-mobile-alt"></i>
-								<h2>Nequi</h2>
-							</div>
-							<p style="font-size: 12pt; color: #666; margin-bottom: 20px; font-weight: 500;">
-								<i class="fas fa-arrow-down"></i> Escanea SOLO este código QR desde tu app Nequi <i class="fas fa-arrow-down"></i>
-							</p>
-							
-							<div class="qr-image-container">
-								<img src="img/NequiQR.png" alt="Código QR Nequi" class="qr-image">
-							</div>
-							
-							<div class="qr-instructions">
-								<h3><i class="fas fa-list-ol"></i> Cómo pagar:</h3>
-								<ol>
-									<li>Abre la app <strong>Nequi</strong></li>
-									<li>Toca el botón <strong>"Pagar con QR"</strong></li>
-									<li>Escanea este código QR</li>
-									<li>Ingresa el monto de tu factura</li>
-									<li>Confirma el pago</li>
-									<li>Envía el comprobante por WhatsApp</li>
-								</ol>
+						<div class="qr-card nequi" onclick="flipCard(this)">
+							<div class="qr-card-inner">
+								<!-- Frente de la tarjeta -->
+								<div class="qr-card-front">
+									<div class="qr-card-header">
+										<div class="qr-card-number" style="color: #fc2779;">1</div>
+										<i class="fas fa-mobile-alt"></i>
+										<h2>Nequi</h2>
+									</div>
+									
+									<div style="padding: 40px 20px;">
+										<i class="fab fa-cc-visa fa-5x" style="color: #fc2779; opacity: 0.3; margin-bottom: 20px;"></i>
+										<h3 style="font-size: 18pt; color: #333; margin-bottom: 20px;">
+											Paga con tu app Nequi
+										</h3>
+										<p style="font-size: 12pt; color: #666; line-height: 1.8em; margin-bottom: 30px;">
+											Escanea el código QR desde tu aplicación Nequi para realizar el pago de forma rápida y segura.
+										</p>
+										
+										<div class="click-to-reveal">
+											<i class="fas fa-hand-pointer"></i>
+											Click para ver el código QR
+											<i class="fas fa-qrcode"></i>
+										</div>
+									</div>
+									
+									<div class="qr-instructions">
+										<h3><i class="fas fa-list-ol"></i> Pasos para pagar:</h3>
+										<ol>
+											<li>Click aquí para voltear y ver el QR</li>
+											<li>Abre la app <strong>Nequi</strong></li>
+											<li>Toca <strong>"Pagar con QR"</strong></li>
+											<li>Escanea el código que aparece</li>
+											<li>Ingresa el monto de tu factura</li>
+											<li>Confirma el pago</li>
+										</ol>
+									</div>
+								</div>
+								
+								<!-- Reverso de la tarjeta -->
+								<div class="qr-card-back">
+									<div class="qr-card-header">
+										<div class="qr-card-number" style="color: #fc2779;">1</div>
+										<i class="fas fa-mobile-alt"></i>
+										<h2>Código QR Nequi</h2>
+									</div>
+									
+									<p style="font-size: 13pt; color: #fc2779; margin: 20px 0; font-weight: bold;">
+										<i class="fas fa-arrow-down"></i> Escanea ESTE código desde Nequi <i class="fas fa-arrow-down"></i>
+									</p>
+									
+									<div class="qr-image-container">
+										<img src="img/NequiQR.png" alt="Código QR Nequi" class="qr-image">
+									</div>
+									
+									<p style="font-size: 11pt; color: #666; margin-top: 20px;">
+										<i class="fas fa-info-circle"></i> Después de pagar, envía el comprobante por WhatsApp
+									</p>
+									
+									<div class="click-to-close">
+										<i class="fas fa-undo"></i>
+										Click para regresar
+									</div>
+								</div>
 							</div>
 						</div>
 						
 						<!-- Daviplata -->
-						<div class="qr-card daviplata">
-							<div class="qr-card-header">
-								<div class="qr-card-number" style="color: #ed1c24;">2</div>
-								<i class="fas fa-credit-card"></i>
-								<h2>Daviplata</h2>
-							</div>
-							<p style="font-size: 12pt; color: #666; margin-bottom: 20px; font-weight: 500;">
-								<i class="fas fa-arrow-down"></i> Escanea SOLO este código QR desde tu app Daviplata <i class="fas fa-arrow-down"></i>
-							</p>
-							
-							<div class="qr-image-container">
-								<img src="img/DaviplataQR.png" alt="Código QR Daviplata" class="qr-image">
-							</div>
-							
-							<div class="qr-instructions">
-								<h3><i class="fas fa-list-ol"></i> Cómo pagar:</h3>
-								<ol>
-									<li>Abre la app <strong>Daviplata</strong></li>
-									<li>Selecciona <strong>"Pagar con QR"</strong></li>
-									<li>Escanea este código QR</li>
-									<li>Ingresa el valor a pagar</li>
-									<li>Confirma la transacción</li>
-									<li>Envía el comprobante por WhatsApp</li>
-								</ol>
+						<div class="qr-card daviplata" onclick="flipCard(this)">
+							<div class="qr-card-inner">
+								<!-- Frente de la tarjeta -->
+								<div class="qr-card-front">
+									<div class="qr-card-header">
+										<div class="qr-card-number" style="color: #ed1c24;">2</div>
+										<i class="fas fa-credit-card"></i>
+										<h2>Daviplata</h2>
+									</div>
+									
+									<div style="padding: 40px 20px;">
+										<i class="fas fa-wallet fa-5x" style="color: #ed1c24; opacity: 0.3; margin-bottom: 20px;"></i>
+										<h3 style="font-size: 18pt; color: #333; margin-bottom: 20px;">
+											Paga con tu app Daviplata
+										</h3>
+										<p style="font-size: 12pt; color: #666; line-height: 1.8em; margin-bottom: 30px;">
+											Escanea el código QR desde tu aplicación Daviplata para realizar el pago de forma rápida y segura.
+										</p>
+										
+										<div class="click-to-reveal">
+											<i class="fas fa-hand-pointer"></i>
+											Click para ver el código QR
+											<i class="fas fa-qrcode"></i>
+										</div>
+									</div>
+									
+									<div class="qr-instructions">
+										<h3><i class="fas fa-list-ol"></i> Pasos para pagar:</h3>
+										<ol>
+											<li>Click aquí para voltear y ver el QR</li>
+											<li>Abre la app <strong>Daviplata</strong></li>
+											<li>Selecciona <strong>"Pagar con QR"</strong></li>
+											<li>Escanea el código que aparece</li>
+											<li>Ingresa el valor a pagar</li>
+											<li>Confirma la transacción</li>
+										</ol>
+									</div>
+								</div>
+								
+								<!-- Reverso de la tarjeta -->
+								<div class="qr-card-back">
+									<div class="qr-card-header">
+										<div class="qr-card-number" style="color: #ed1c24;">2</div>
+										<i class="fas fa-credit-card"></i>
+										<h2>Código QR Daviplata</h2>
+									</div>
+									
+									<p style="font-size: 13pt; color: #ed1c24; margin: 20px 0; font-weight: bold;">
+										<i class="fas fa-arrow-down"></i> Escanea ESTE código desde Daviplata <i class="fas fa-arrow-down"></i>
+									</p>
+									
+									<div class="qr-image-container">
+										<img src="img/DaviplataQR.png" alt="Código QR Daviplata" class="qr-image">
+									</div>
+									
+									<p style="font-size: 11pt; color: #666; margin-top: 20px;">
+										<i class="fas fa-info-circle"></i> Después de pagar, envía el comprobante por WhatsApp
+									</p>
+									
+									<div class="click-to-close">
+										<i class="fas fa-undo"></i>
+										Click para regresar
+									</div>
+								</div>
 							</div>
 						</div>
 						
 						<!-- Bancolombia -->
-						<div class="qr-card bancolombia">
-							<div class="qr-card-header">
-								<div class="qr-card-number" style="color: #004b93;">3</div>
-								<i class="fas fa-university"></i>
-								<h2>Bancolombia</h2>
-							</div>
-							<p style="font-size: 12pt; color: #666; margin-bottom: 20px; font-weight: 500;">
-								<i class="fas fa-arrow-down"></i> Escanea SOLO este código QR desde tu app Bancolombia <i class="fas fa-arrow-down"></i>
-							</p>
-							
-							<div class="qr-image-container">
-								<img src="img/BancolombiaQR.png" alt="Código QR Bancolombia" class="qr-image">
-							</div>
-							
-							<div class="qr-instructions">
-								<h3><i class="fas fa-list-ol"></i> Cómo pagar:</h3>
-								<ol>
-									<li>Abre la app <strong>Bancolombia</strong></li>
-									<li>Ve a <strong>"Pagar con QR"</strong></li>
-									<li>Escanea este código QR</li>
-									<li>Ingresa el monto de tu factura</li>
-									<li>Autoriza el pago</li>
-									<li>Envía el comprobante por WhatsApp</li>
-								</ol>
+						<div class="qr-card bancolombia" onclick="flipCard(this)">
+							<div class="qr-card-inner">
+								<!-- Frente de la tarjeta -->
+								<div class="qr-card-front">
+									<div class="qr-card-header">
+										<div class="qr-card-number" style="color: #004b93;">3</div>
+										<i class="fas fa-university"></i>
+										<h2>Bancolombia</h2>
+									</div>
+									
+									<div style="padding: 40px 20px;">
+										<i class="fas fa-building fa-5x" style="color: #004b93; opacity: 0.3; margin-bottom: 20px;"></i>
+										<h3 style="font-size: 18pt; color: #333; margin-bottom: 20px;">
+											Paga con tu app Bancolombia
+										</h3>
+										<p style="font-size: 12pt; color: #666; line-height: 1.8em; margin-bottom: 30px;">
+											Escanea el código QR desde tu aplicación Bancolombia para realizar el pago de forma rápida y segura.
+										</p>
+										
+										<div class="click-to-reveal">
+											<i class="fas fa-hand-pointer"></i>
+											Click para ver el código QR
+											<i class="fas fa-qrcode"></i>
+										</div>
+									</div>
+									
+									<div class="qr-instructions">
+										<h3><i class="fas fa-list-ol"></i> Pasos para pagar:</h3>
+										<ol>
+											<li>Click aquí para voltear y ver el QR</li>
+											<li>Abre la app <strong>Bancolombia</strong></li>
+											<li>Ve a <strong>"Pagar con QR"</strong></li>
+											<li>Escanea el código que aparece</li>
+											<li>Ingresa el monto de tu factura</li>
+											<li>Autoriza el pago</li>
+										</ol>
+									</div>
+								</div>
+								
+								<!-- Reverso de la tarjeta -->
+								<div class="qr-card-back">
+									<div class="qr-card-header">
+										<div class="qr-card-number" style="color: #004b93;">3</div>
+										<i class="fas fa-university"></i>
+										<h2>Código QR Bancolombia</h2>
+									</div>
+									
+									<p style="font-size: 13pt; color: #004b93; margin: 20px 0; font-weight: bold;">
+										<i class="fas fa-arrow-down"></i> Escanea ESTE código desde Bancolombia <i class="fas fa-arrow-down"></i>
+									</p>
+									
+									<div class="qr-image-container">
+										<img src="img/BancolombiaQR.png" alt="Código QR Bancolombia" class="qr-image">
+									</div>
+									
+									<p style="font-size: 11pt; color: #666; margin-top: 20px;">
+										<i class="fas fa-info-circle"></i> Después de pagar, envía el comprobante por WhatsApp
+									</p>
+									
+									<div class="click-to-close">
+										<i class="fas fa-undo"></i>
+										Click para regresar
+									</div>
+								</div>
 							</div>
 						</div>
 						
@@ -487,6 +685,48 @@
 			margin-top: 16px;
 		}
 	</style>
+	
+	<script>
+	// Función para voltear tarjeta
+	function flipCard(card) {
+		// Si la tarjeta ya está volteada, desvoltearlo
+		if (card.classList.contains('flipped')) {
+			card.classList.remove('flipped');
+		} else {
+			// Quitar el flip de todas las tarjetas primero
+			document.querySelectorAll('.qr-card').forEach(function(c) {
+				c.classList.remove('flipped');
+			});
+			
+			// Voltear la tarjeta actual
+			card.classList.add('flipped');
+			
+			// Hacer scroll suave a la tarjeta volteada
+			setTimeout(function() {
+				card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+			}, 100);
+		}
+		
+		// Prevenir la propagación del evento
+		event.stopPropagation();
+	}
+	
+	// Cerrar tarjetas si se hace click fuera de ellas
+	document.addEventListener('click', function(event) {
+		if (!event.target.closest('.qr-card')) {
+			document.querySelectorAll('.qr-card').forEach(function(card) {
+				card.classList.remove('flipped');
+			});
+		}
+	});
+	
+	// Prevenir que el click en la tarjeta cierre otras tarjetas
+	document.querySelectorAll('.qr-card').forEach(function(card) {
+		card.addEventListener('click', function(event) {
+			event.stopPropagation();
+		});
+	});
+	</script>
 	
 </body>
 </html>
