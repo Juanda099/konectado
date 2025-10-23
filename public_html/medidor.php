@@ -25,7 +25,85 @@
 			  <span class="tablei wtitle">MEDIDOR DE VELOCIDAD</span>
 			</div>
 		  
-            <iframe style="display:block; opacity: 1;" width="100%" height="650px" frameborder="0" src="https://aycnetworks.speedtestcustom.com"></iframe><br>
+            <!-- Test de Velocidad Integrado -->
+            <div style="max-width: 900px; margin: 40px auto; padding: 20px;">
+                <div style="background: white; border-radius: 15px; padding: 40px; box-shadow: 0 5px 20px rgba(0,0,0,0.1);">
+                    <h2 style="text-align: center; color: #2068b0; margin-bottom: 30px;">
+                        <i class="fas fa-tachometer-alt"></i> Test de Velocidad
+                    </h2>
+                    <p style="text-align: center; color: #666; margin-bottom: 30px; line-height: 1.6;">
+                        Haz clic en el botón para iniciar la medición de tu velocidad de internet.
+                        El test medirá tu velocidad de descarga, carga y latencia (ping).
+                    </p>
+                    
+                    <!-- Botón Principal Speedtest -->
+                    <div style="text-align: center; margin: 40px 0;">
+                        <a href="https://www.speedtest.net/es" 
+                           target="_blank" 
+                           style="display: inline-block; background: linear-gradient(135deg, #2068b0 0%, #0aaeef 100%); 
+                                  color: white; padding: 25px 60px; text-decoration: none; border-radius: 12px; 
+                                  font-weight: 700; font-size: 20px; transition: all 0.3s; box-shadow: 0 5px 20px rgba(32,104,176,0.4);
+                                  text-transform: uppercase; letter-spacing: 1px;">
+                            <i class="fas fa-bolt" style="margin-right: 10px;"></i> INICIAR TEST DE VELOCIDAD
+                        </a>
+                        <p style="color: #888; margin-top: 15px; font-size: 14px;">
+                            Se abrirá Speedtest.net en una nueva pestaña
+                        </p>
+                    </div>
+                    
+                    <!-- Opciones alternativas -->
+                    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 40px;">
+                        <a href="https://fast.com" target="_blank" 
+                           style="text-decoration: none; background: #f8f9fa; padding: 25px; border-radius: 10px; 
+                                  border: 2px solid #e0e0e0; transition: all 0.3s; text-align: center;">
+                            <div style="font-size: 40px; margin-bottom: 10px;">⚡</div>
+                            <h3 style="color: #2068b0; margin-bottom: 10px; font-size: 18px;">Fast.com</h3>
+                            <p style="color: #666; font-size: 14px; line-height: 1.6;">Test rápido de Netflix. Solo mide velocidad de descarga.</p>
+                        </a>
+                        
+                        <a href="https://www.speedcheck.org/es/" target="_blank" 
+                           style="text-decoration: none; background: #f8f9fa; padding: 25px; border-radius: 10px; 
+                                  border: 2px solid #e0e0e0; transition: all 0.3s; text-align: center;">
+                            <div style="font-size: 40px; margin-bottom: 10px;">📊</div>
+                            <h3 style="color: #2068b0; margin-bottom: 10px; font-size: 18px;">SpeedCheck</h3>
+                            <p style="color: #666; font-size: 14px; line-height: 1.6;">Alternativa completa con historial de pruebas.</p>
+                        </a>
+                        
+                        <a href="https://www.nperf.com/es/" target="_blank" 
+                           style="text-decoration: none; background: #f8f9fa; padding: 25px; border-radius: 10px; 
+                                  border: 2px solid #e0e0e0; transition: all 0.3s; text-align: center;">
+                            <div style="font-size: 40px; margin-bottom: 10px;">🎯</div>
+                            <h3 style="color: #2068b0; margin-bottom: 10px; font-size: 18px;">nPerf</h3>
+                            <p style="color: #666; font-size: 14px; line-height: 1.6;">Test detallado con calidad de streaming.</p>
+                        </a>
+                    </div>
+                    
+                    <!-- Información adicional -->
+                    <div style="margin-top: 40px; padding: 20px; background: #f8f9fa; border-radius: 10px; border-left: 4px solid #2068b0;">
+                        <h3 style="color: #2068b0; margin-bottom: 15px; font-size: 18px;">
+                            <i class="fas fa-info-circle"></i> ¿Qué significan los resultados?
+                        </h3>
+                        <ul style="color: #555; line-height: 2; list-style: none; padding-left: 0;">
+                            <li><strong style="color: #2068b0;">📥 Descarga (Download):</strong> Velocidad al recibir datos (navegar, ver videos, descargar archivos)</li>
+                            <li><strong style="color: #2068b0;">📤 Subida (Upload):</strong> Velocidad al enviar datos (videollamadas, subir archivos, transmitir)</li>
+                            <li><strong style="color: #2068b0;">⚡ Ping/Latencia:</strong> Tiempo de respuesta (importante para juegos y videollamadas). Menor es mejor.</li>
+                        </ul>
+                    </div>
+                    
+                    <div style="margin-top: 30px; padding: 20px; background: linear-gradient(135deg, #f0f7fc 0%, #e8f4f8 100%); border-radius: 10px; text-align: center;">
+                        <p style="color: #2068b0; font-weight: 600; margin-bottom: 10px;">
+                            <i class="fas fa-lightbulb"></i> Consejos para una medición precisa
+                        </p>
+                        <ul style="color: #666; line-height: 1.8; display: inline-block; text-align: left; list-style: none; padding-left: 0;">
+                            <li>✓ Conecta tu dispositivo por cable Ethernet si es posible</li>
+                            <li>✓ Cierra otras aplicaciones que usen internet</li>
+                            <li>✓ Realiza varias pruebas en diferentes horarios</li>
+                            <li>✓ Desconecta otros dispositivos de la red durante la prueba</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <br>
             
 		  <span id="fecha"></span>
      		

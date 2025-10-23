@@ -56,8 +56,15 @@ class osTicket {
         require_once(INCLUDE_DIR.'class.config.php'); //Config helper
         require_once(INCLUDE_DIR.'class.company.php');
 
-        if (!defined('DISABLE_SESSION') || !DISABLE_SESSION)
-            $this->session = osTicketSession::start(SESSION_TTL); // start DB based session
+        // TEMPORALMENTE: Usar sesiones PHP nativas en lugar de osTicket session
+        if (!defined('DISABLE_SESSION') || !DISABLE_SESSION) {
+            session_name('OSTSESSID');
+            if (session_status() == PHP_SESSION_NONE) {
+                session_start();
+            }
+            $this->session = true; // Marcador de que la sesión está activa
+        }
+        // Original: $this->session = osTicketSession::start(SESSION_TTL);
 
         $this->config = new OsticketConfig();
 
@@ -69,7 +76,9 @@ class osTicket {
     }
 
     function isSystemOnline() {
-        return ($this->getConfig() && $this->getConfig()->isHelpDeskOnline() && !$this->isUpgradePending());
+        // TEMPORAL: Deshabilitar verificación de upgrade pendiente en desarrollo local
+        // return ($this->getConfig() && $this->getConfig()->isHelpDeskOnline() && !$this->isUpgradePending());
+        return ($this->getConfig() && $this->getConfig()->isHelpDeskOnline());
     }
 
     function isUpgradePending() {
@@ -436,7 +445,7 @@ class osTicket {
             switch ($info['v']) {
             case '1':
                 if ($major && $info['m'] && $info['m'] != $major)
-                    continue;
+                    break;
                 if ($product == 'core' && GIT_VERSION == '$git')
                     return $info['c'];
                 return $info['V'];

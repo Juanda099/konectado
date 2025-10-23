@@ -41,8 +41,8 @@ define('ADMIN_EMAIL','diegorocha@aycnetworks.net');
 define('DBTYPE','mysql');
 define('DBHOST','localhost');
 define('DBNAME','pqr');
-define('DBUSER','proditelsas');
-define('DBPASS','HjArR3in');
+define('DBUSER','root');
+define('DBPASS','');
 
 # Table prefix
 define('TABLE_PREFIX','ost_');

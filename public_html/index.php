@@ -243,15 +243,15 @@
    		  <section id="soporte" style="padding-top: 0px; background-color: #fbfbfb;">
    			  <div id="banner-back">
    			  
-					<div class="inwidth-block">
-						<a href="pqr/upload"><div class="w25">
-					  	  <div class="wi90p20 borders" style="background-color: white; text-align: center;">						
-								 <i class="fas fa-file-alt fa-3x" style="color:#1c64ac"></i>
+				<div class="inwidth-block">
+					<a href="pqr/upload/portal-pqr.php"><div class="w25">
+				  	  <div class="wi90p20 borders" style="background-color: white; text-align: center;">						
+							 <i class="fas fa-file-alt fa-3x" style="color:#1c64ac"></i>
 
-								<div class="el-tit tableo"><h3 class="tablei" style="color:#1c64ac">PQR</h3></div>						
-								<span>Radique y consulte el estado de su PQR.</span>
-							</div>
-						</div></a>
+							<div class="el-tit tableo"><h3 class="tablei" style="color:#1c64ac">SISTEMA PQR</h3></div>						
+							<span>Radique y consulte el estado de su PQR en nuestro nuevo sistema.</span>
+						</div>
+					</div></a>
      					<a href="medidor.php"><div class="w25">
 					  	  <div class="wi90p20 borders" style="background-color: white;">						
 								 <i class="fas fa-tachometer-alt fa-3x" style="color:#1c64ac"></i>
@@ -300,6 +300,14 @@
 
 								<div class="el-tit tableo"><h3 class="tablei" style="color:#1c64ac">INFORMACION CRC MODEMS</h3></div>						
 								<span>Informacion de utilidad de la CRC.</span>
+							</div>
+						</div></a>
+     					<a href="pqr/upload/login-simple.php"><div class="w25">
+					  	  <div class="wi90p20 borders" style="background-color: white;">						
+								 <i class="fas fa-user-shield fa-3x" style="color:#1c64ac"></i>
+
+								<div class="el-tit tableo"><h3 class="tablei" style="color:#1c64ac">ACCESO ADMINISTRATIVO</h3></div>						
+								<span>Panel de administración del sistema PQR.</span>
 							</div>
 						</div></a>
       				

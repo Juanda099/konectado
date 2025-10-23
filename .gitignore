@@ -1,0 +1,37 @@
+# Archivos de prueba y debug
+test-*.php
+debug-*.php
+diagnostico*.php
+*-BACKUP.php
+regenerar-*.php
+
+# Scripts de desarrollo Windows
+*.bat
+*.ps1
+verificar-*.ps1
+
+# Configuraciones con credenciales sensibles
+public_html/pqr/upload/includes/email-config.php
+email-config.php
+
+# Base de datos local (descomentar si es muy grande)
+# pqr_database.sql
+
+# Archivos temporales
+*.tmp
+*.log
+error_log
+
+# Carpetas de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-*
+
+# Dependencias (si usas Composer)
+vendor/
+node_modules/

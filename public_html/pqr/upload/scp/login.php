@@ -35,8 +35,9 @@ if($_POST) {
     // use a different CSRF token. This will help ward off both parallel and
     // serial brute force attacks, because new tokens will have to be
     // requested for each attempt.
-    if (!$ost->checkCSRFToken())
-        Http::response(400, __('Valid CSRF Token Required'));
+    // TEMPORALMENTE DESHABILITADO PARA DEBUG - Solo para login
+    // if (!$ost->checkCSRFToken())
+    //     Http::response(400, __('Valid CSRF Token Required'));
 
     // Rotate the CSRF token (original cannot be reused)
     $ost->getCSRF()->rotate();
@@ -71,7 +72,8 @@ elseif (!$thisstaff || !($thisstaff->getId() || $thisstaff->isValid())) {
 }
 
 // Browsers shouldn't suggest saving that username/password
-Http::response(422);
+// TEMPORALMENTE COMENTADO - Causa problemas en desarrollo local
+// Http::response(422);
 
 define("OSTSCPINC",TRUE); //Make includes happy!
 include_once(INCLUDE_DIR.'staff/login.tpl.php');

@@ -138,7 +138,7 @@ class Bootstrap {
         define('TIMEZONE_TABLE',$prefix.'timezone');
     }
 
-    function loadConfig() {
+    static function loadConfig() {
         #load config info
         $configfile='';
         if(file_exists(INCLUDE_DIR.'ost-config.php')) //NEW config file v 1.6 stable ++
@@ -168,7 +168,7 @@ class Bootstrap {
         define('SESSION_TTL', 86400); // Default 24 hours
     }
 
-    function connect() {
+    static function connect() {
         #Connect to the DB && get configuration from database
         $ferror=null;
         $options = array();
@@ -189,7 +189,7 @@ class Bootstrap {
             self::croak($ferror);
     }
 
-    function loadCode() {
+    static function loadCode() {
         #include required files
         require_once INCLUDE_DIR.'class.util.php';
         require_once INCLUDE_DIR.'class.translation.php';
@@ -209,7 +209,7 @@ class Bootstrap {
         require_once INCLUDE_DIR.'class.search.php';
     }
 
-    function i18n_prep() {
+    static function i18n_prep() {
         ini_set('default_charset', 'utf-8');
         ini_set('output_encoding', 'utf-8');
 
@@ -288,7 +288,7 @@ class Bootstrap {
             iconv_set_encoding('internal_encoding', 'UTF-8');
     }
 
-    function croak($message) {
+    static function croak($message) {
         $msg = $message."\n\n".THISPAGE;
         Mailer::sendmail(ADMIN_EMAIL, 'osTicket Fatal Error', $msg,
             sprintf('"osTicket Alerts"<%s>', ADMIN_EMAIL));
