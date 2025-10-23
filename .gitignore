@@ -13,6 +13,7 @@ verificar-*.ps1
 # Configuraciones con credenciales sensibles
 public_html/pqr/upload/includes/email-config.php
 email-config.php
+API_KEY_LOCAL.md
 
 # Base de datos local (descomentar si es muy grande)
 # pqr_database.sql
