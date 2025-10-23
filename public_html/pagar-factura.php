@@ -46,24 +46,43 @@
 	}
 	
 	.qr-grid {
-		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-		gap: 30px;
+		display: flex;
+		flex-direction: column;
+		gap: 40px;
 		margin-top: 40px;
+		max-width: 800px;
+		margin-left: auto;
+		margin-right: auto;
 	}
 	
 	.qr-card {
 		background: white;
 		border-radius: 15px;
-		padding: 30px;
+		padding: 40px;
 		box-shadow: 0 5px 20px rgba(0,0,0,0.1);
 		text-align: center;
 		transition: all 0.3s ease;
-		border: 2px solid transparent;
+		border: 3px solid transparent;
+		position: relative;
+	}
+	
+	.qr-card::before {
+		content: '';
+		position: absolute;
+		top: -15px;
+		left: 50%;
+		transform: translateX(-50%);
+		width: 80%;
+		height: 3px;
+		background: linear-gradient(90deg, transparent, #e0e0e0, transparent);
+	}
+	
+	.qr-card:first-child::before {
+		display: none;
 	}
 	
 	.qr-card:hover {
-		transform: translateY(-10px);
+		transform: scale(1.02);
 		box-shadow: 0 15px 40px rgba(0,0,0,0.15);
 	}
 	
@@ -84,13 +103,31 @@
 		align-items: center;
 		justify-content: center;
 		gap: 15px;
-		margin-bottom: 25px;
-		padding-bottom: 20px;
-		border-bottom: 2px solid #f0f0f0;
+		margin-bottom: 30px;
+		padding: 25px;
+		background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+		border-radius: 12px;
+		position: relative;
+	}
+	
+	.qr-card-number {
+		position: absolute;
+		top: -15px;
+		left: 30px;
+		background: white;
+		width: 40px;
+		height: 40px;
+		border-radius: 50%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 18pt;
+		font-weight: bold;
+		box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 	}
 	
 	.qr-card-header i {
-		font-size: 32pt;
+		font-size: 40pt;
 	}
 	
 	.qr-card.nequi .qr-card-header i {
@@ -113,18 +150,22 @@
 	}
 	
 	.qr-image-container {
-		background: #f8f9fa;
-		padding: 20px;
-		border-radius: 10px;
-		margin: 20px 0;
+		background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+		padding: 40px;
+		border-radius: 15px;
+		margin: 30px auto;
 		display: inline-block;
+		box-shadow: inset 0 2px 10px rgba(0,0,0,0.05);
+		border: 3px dashed #dee2e6;
 	}
 	
 	.qr-image {
-		width: 250px;
-		height: 250px;
-		border-radius: 8px;
-		box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+		width: 280px;
+		height: 280px;
+		border-radius: 12px;
+		box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+		background: white;
+		padding: 10px;
 	}
 	
 	.qr-instructions {
@@ -219,12 +260,29 @@
 		}
 		
 		.qr-grid {
-			grid-template-columns: 1fr;
+			gap: 50px;
+			padding: 0 10px;
+		}
+		
+		.qr-card {
+			padding: 30px 20px;
+		}
+		
+		.qr-image-container {
+			padding: 30px 20px;
 		}
 		
 		.qr-image {
-			width: 200px;
-			height: 200px;
+			width: 220px;
+			height: 220px;
+		}
+		
+		.qr-card-header h2 {
+			font-size: 18pt;
+		}
+		
+		.qr-card-header i {
+			font-size: 32pt;
 		}
 	}
 </style>
@@ -269,15 +327,31 @@
 						</p>
 					</div>
 					
+					<!-- Advertencia de QR -->
+					<div style="background: #fff3cd; padding: 25px; border-radius: 12px; border-left: 5px solid #ffc107; margin: 30px 0; text-align: center;">
+						<h3 style="color: #856404; font-size: 16pt; margin-bottom: 15px;">
+							<i class="fas fa-exclamation-triangle"></i> ¡Importante al Escanear!
+						</h3>
+						<p style="color: #856404; font-size: 12pt; line-height: 1.8em;">
+							<strong>Escanea ÚNICAMENTE el código QR de tu aplicación.</strong><br>
+							Los códigos están separados para evitar errores.<br>
+							<span style="font-size: 13pt;">👇 Baja con cuidado y escanea solo el que necesites 👇</span>
+						</p>
+					</div>
+					
 					<!-- QR Grid -->
 					<div class="qr-grid">
 						
 						<!-- Nequi -->
 						<div class="qr-card nequi">
 							<div class="qr-card-header">
+								<div class="qr-card-number" style="color: #fc2779;">1</div>
 								<i class="fas fa-mobile-alt"></i>
 								<h2>Nequi</h2>
 							</div>
+							<p style="font-size: 12pt; color: #666; margin-bottom: 20px; font-weight: 500;">
+								<i class="fas fa-arrow-down"></i> Escanea SOLO este código QR desde tu app Nequi <i class="fas fa-arrow-down"></i>
+							</p>
 							
 							<div class="qr-image-container">
 								<img src="img/NequiQR.png" alt="Código QR Nequi" class="qr-image">
@@ -299,9 +373,13 @@
 						<!-- Daviplata -->
 						<div class="qr-card daviplata">
 							<div class="qr-card-header">
+								<div class="qr-card-number" style="color: #ed1c24;">2</div>
 								<i class="fas fa-credit-card"></i>
 								<h2>Daviplata</h2>
 							</div>
+							<p style="font-size: 12pt; color: #666; margin-bottom: 20px; font-weight: 500;">
+								<i class="fas fa-arrow-down"></i> Escanea SOLO este código QR desde tu app Daviplata <i class="fas fa-arrow-down"></i>
+							</p>
 							
 							<div class="qr-image-container">
 								<img src="img/DaviplataQR.png" alt="Código QR Daviplata" class="qr-image">
@@ -323,9 +401,13 @@
 						<!-- Bancolombia -->
 						<div class="qr-card bancolombia">
 							<div class="qr-card-header">
+								<div class="qr-card-number" style="color: #004b93;">3</div>
 								<i class="fas fa-university"></i>
 								<h2>Bancolombia</h2>
 							</div>
+							<p style="font-size: 12pt; color: #666; margin-bottom: 20px; font-weight: 500;">
+								<i class="fas fa-arrow-down"></i> Escanea SOLO este código QR desde tu app Bancolombia <i class="fas fa-arrow-down"></i>
+							</p>
 							
 							<div class="qr-image-container">
 								<img src="img/BancolombiaQR.png" alt="Código QR Bancolombia" class="qr-image">
