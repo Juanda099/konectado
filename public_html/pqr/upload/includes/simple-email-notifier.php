@@ -4,7 +4,7 @@
  * Funciona con mail() nativo de PHP o SMTP básico
  */
 
-require_once 'email-config.php';
+require_once __DIR__ . '/email-config.php';
 
 class SimpleEmailNotifier {
     
@@ -92,7 +92,8 @@ class SimpleEmailNotifier {
      * Obtener emails del personal de soporte
      */
     private static function getStaffEmails() {
-        $conn = new mysqli('localhost', 'root', 'admin123', 'pqr');
+        // Usar credenciales de producción (asegúrate de que coincidan con las de tu hosting)
+        $conn = new mysqli('localhost', 'konectando_user', 'Iuf+E2AZ+H~+gC(z', 'konectando_pqr');
         $conn->set_charset("utf8");
         
         $query = "SELECT email FROM ost_staff WHERE isactive = 1 AND email != '' AND email IS NOT NULL";
@@ -120,8 +121,12 @@ class SimpleEmailNotifier {
     private static function sendEmail($to, $subject, $body) {
         // Si SendGrid está configurado, usarlo
         if (EMAIL_METHOD === 'sendgrid') {
-            require_once 'sendgrid-sender.php';
-            return SendGridEmailSender::sendWithTemplate($to, $subject, $body);
+            require_once __DIR__ . '/sendgrid-sender.php';
+            $ok = SendGridEmailSender::sendWithTemplate($to, $subject, $body);
+            if (!$ok) {
+                error_log("SendGrid: fallo al enviar a {$to}");
+            }
+            return $ok;
         }
         
         // Fallback a mail() nativo
